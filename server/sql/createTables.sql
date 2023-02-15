@@ -1,7 +1,0 @@
-DROP TABLE IF EXISTS Home;
-
-CREATE TABLE Home
-(
-  homeNo INT NOT NULL, notHomeNo INT NOT NULL, 
-  PRIMARY KEY (homeNo)
-)
