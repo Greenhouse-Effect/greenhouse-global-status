@@ -3,19 +3,27 @@ import Axios from 'axios';
 
 export default function Home() {
   const [mockData, setMockData] = useState([]);
-  
+
   useEffect(() => {
-    Axios.get("http://localhost:3002/api/get").then((response) => {
+    Axios.post('http://localhost:3002/api/country/').then((response) => {
+      console.log(response.data);
+    });
+    Axios.get('http://localhost:3002/api/country/').then((response) => {
       setMockData(response.data);
-    })
-  })
+      console.log(response.status);
+    });
+  }, []);
 
   return (
     <>
-      <div className="text-3x1 text-amber-600">hello world!</div>
+      <div className="text-3x1 text-blue-600">hello world!</div>
       {mockData.map((val) => {
-        return <h1>id: {val.id} | amount: {val.amount} | name: {val.name}</h1>
+        return (
+          <h1>
+            name: {val.countryName} | population: {val.countryPopulation}
+          </h1>
+        );
       })}
     </>
-  )
+  );
 }
