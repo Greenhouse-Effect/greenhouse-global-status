@@ -1,52 +1,26 @@
-import * as dotenv from 'dotenv';
+import dotenv from 'dotenv';
 dotenv.config();
-import mysql from 'mysql';
+import cors from 'cors';
+import bodyParser from 'body-parser';
+import express from 'express';
 
-import server from './server.js';
+import countryRoute from './routes/countryRoute.js';
 
-export const db = mysql.createConnection({
-  host: process.env.DB_HOST,
-  port: process.env.DB_PORT,
-  user: process.env.DB_USER,
-  password: process.env.DB_PASSWORD,
-  database: process.env.DB_NAME
-});
+export const app = express();
 
-db.connect((err) => {
-  if (err) {
-    console.log(err.message);
-    return;
-  }
+app.use(cors());
+app.use(express.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
-  db.query("DROP TABLE IF EXISTS CONTINENT, COUNTRY, OCEAN, REPORT, ATMOSPHERE, LAND, ECONOMIC, POLITICAL", (err, result) => {
-    if (err) throw err;
-  });
+app.use("/country", countryRoute);
 
-  // TODO: Create COUNTRY table and define attributes, domains, and constraints (do not implement foreign keys yet)
-  const sqlCreateCountry = "CREATE TABLE COUNTRY (countryName VARCHAR(255) PRIMARY KEY, countryPopulation INT)";
-  db.query(sqlCreateCountry, (err, result) => {
-    if (err) throw err;
-    console.log("Country table created ");
-  })
-
-  // TODO: Create CONTINENT table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-  // TODO: Create OCEAN table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-  // TODO: Create REPORT table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-  // TODO: Create ATMOSPHERE table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-  // TODO: Create LAND table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-  // TODO: Create ECONOMIC table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-  // TODO: Create POLITICAL table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-  console.log('Database connected');
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).send('Something broke in the Server!')
 });
 
 const port = process.env.APP_PORT;
-server.listen(port, () => {
+
+app.listen(port, () => {
   console.log(`running on port ${port}`);
 });

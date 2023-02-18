@@ -1,17 +1,22 @@
 import React, { useState, useEffect } from 'react';
-import Axios from 'axios';
+import axios from 'axios';
 
 export default function Home() {
   const [mockData, setMockData] = useState([]);
 
   useEffect(() => {
-    Axios.post('http://localhost:3002/api/country/').then((response) => {
-      console.log(response.data);
-    });
-    Axios.get('http://localhost:3002/api/country/').then((response) => {
-      setMockData(response.data);
-      console.log(response.status);
-    });
+
+    // const postCountry = async () => {
+    //   await axios.post('http://localhost:3002/country', { name: "USA", population: 6825445 })
+    //   .then((response) => {
+    //     console.log(response)
+    //   });
+    // } 
+    
+    // postCountry().catch(console.error)
+
+    // const { data } = axios.get(`http://localhost:3002/country`);
+    // console.log(data);
   }, []);
 
   return (
