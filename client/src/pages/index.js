@@ -6,29 +6,29 @@ export default function Home() {
 
   useEffect(() => {
 
-    // const postCountry = async () => {
-    //   await axios.post('http://localhost:3002/country', { name: "USA", population: 6825445 })
-    //   .then((response) => {
-    //     console.log(response)
-    //   });
-    // } 
-    
-    // postCountry().catch(console.error)
+    const getCountries = async () => {
+      const { data } = await axios.get("http://localhost:3002/country");
+      setMockData(data);
+    }
 
-    // const { data } = axios.get(`http://localhost:3002/country`);
-    // console.log(data);
+    getCountries().catch(console.error);
   }, []);
 
   return (
     <>
       <div className="text-3x1 text-blue-600">hello world!</div>
-      {mockData.map((val) => {
+      {/* {mockData.map((val) => {
         return (
           <h1>
             name: {val.countryName} | population: {val.countryPopulation}
           </h1>
         );
-      })}
+      })} */}
+      {/* {
+        <h1>
+          name: {mockData.countryName} | {mockData.countryPopulation}
+        </h1>
+      } */}
     </>
   );
 }
