@@ -68,7 +68,7 @@ router.get("/:population", async (req, res) => {
 });
 
 /**
- * Route gets all countries based on population property from request body
+ * Route gets all countries based on populationChange property from request body
  * 
  * @param request - HTTP request. Contains population yearly change in params.
  * @param response - HTTP response. Responds with countries whose population yearly change are greater than the request param and 
