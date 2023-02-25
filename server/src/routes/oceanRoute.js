@@ -3,7 +3,7 @@ import { Router } from 'express';
 const router = Router();
 
 /**
- * Route creates a new ocean based on properties from request body and stores it into db
+ * Route creates a new ocean with properties from request body and stores it into db
  * 
  * @param request - HTTP request. Contains name in body.
  * @param response - HTTP response. Responds with posted ocean and status code based on functionality of route.
@@ -34,7 +34,7 @@ router.get("/", async (req, res) => {
 });
 
 /**
- * Route gets one ocean based on name property from request body
+ * Route gets one ocean based on name property from request params
  * 
  * @param request - HTTP request. Contains name in params.
  * @param response - HTTP response. Responds with one ocean and status code based on functionality of route.

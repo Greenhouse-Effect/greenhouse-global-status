@@ -4,7 +4,7 @@ import { getCountries, getCountry, insertCountry } from '../queries/countryQuery
 const router = Router();
 
 /**
- * Route creates a new country based on properties from request body and stores it into db
+ * Route creates a new country with properties from request body and stores it into db
  * 
  * @param request - HTTP request. Contains name, population in body.
  * @param response - HTTP response. Responds with posted country and status code based on functionality of route.
@@ -35,7 +35,7 @@ router.get("/", async (req, res) => {
 });
 
 /**
- * Route gets one country based on name property from request body
+ * Route gets one country based on name property from request params
  * 
  * @param request - HTTP request. Contains name in params.
  * @param response - HTTP response. Responds with one country and status code based on functionality of route.
@@ -51,7 +51,7 @@ router.get("/:name", async (req, res) => {
 });
 
 /**
- * Route gets all countries based on population property from request body
+ * Route gets all countries based on population property from request params
  * 
  * @param request - HTTP request. Contains population in params.
  * @param response - HTTP response. Responds with countries whose population are greater than the request param and 
@@ -68,7 +68,7 @@ router.get("/:population", async (req, res) => {
 });
 
 /**
- * Route gets all countries based on populationChange property from request body
+ * Route gets all countries based on populationChange property from request params
  * 
  * @param request - HTTP request. Contains population yearly change in params.
  * @param response - HTTP response. Responds with countries whose population yearly change are greater than the request param and 
