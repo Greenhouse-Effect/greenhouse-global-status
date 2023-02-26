@@ -24,8 +24,8 @@ router.get("/:name", async (req, res) => {
 
 router.post("/", async (req, res) => {
   try {
-    const { name, population } = req.body;
-    const country = await insertCountry(name, population);
+    const { name, population, populationChange } = req.body;
+    const country = await insertCountry(name, population, populationChange);
     res.status(201).send(country);
   } catch(err) {
     res.status(500).json({ message: err.message })
