@@ -1,4 +1,5 @@
 import { Router } from "express";
+import { getPoliticalData, insertPoliticalData, getPoliticalHDI, getPoliticalSDG } from '../queries/politicalDataQuery.js';
 
 const router = Router();
 
@@ -13,7 +14,7 @@ router.post("/:countryName/:year", async (req, res) => {
     const countryName = req.params.countryName;
     const year = req.params.year;
     const { sdg, hdi } = req.body;
-    const politicalData = 1; // use function from politicalDataQuery
+    const politicalData = await insertPoliticalData(countryName, year, sdg, hdi);
     res.status(201).send(politicalData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -26,11 +27,11 @@ router.post("/:countryName/:year", async (req, res) => {
  * @param request - HTTP request. Contains countryName, year in params.
  * @param response - HTTP response. Responds with politicalData based on countryName, year params and status code based on functionality of route.
  */
-router.get("/:countryName/:year", async (req, res) => {
+router.get("/name/:countryName/year/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
-    const politicalData = 1; // use function from politicalDataQuery
+    const politicalData = await getPoliticalData(countryName, year);
     res.status(200).send(politicalData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -43,11 +44,11 @@ router.get("/:countryName/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, sdg in params.
  * @param response - HTTP response. Responds with politicalData based on year, sdg params and status code based on functionality of route.
  */
-router.get("/:year/:sdg", async (req, res) => {
+router.get("/year/:year/sdg/:sdg", async (req, res) => {
   try {
     const year = req.params.year;
     const sdg = req.params.sdg;
-    const politicalData = 1; // use function from politicalDataQuery
+    const politicalData = await getPoliticalSDG(year, sdg);
     res.status(200).send(politicalData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -60,11 +61,11 @@ router.get("/:year/:sdg", async (req, res) => {
  * @param request - HTTP request. Contains year, hdi in params.
  * @param response - HTTP response. Responds with politicalData based on year, hdi params and status code based on functionality of route.
  */
-router.get("/:year/:hdi", async (req, res) => {
+router.get("/year/:year/hdi/:hdi", async (req, res) => {
   try {
     const year = req.params.year;
     const hdi = req.params.hdi;
-    const politicalData = 1; // use function from politicalDataQuery
+    const politicalData = await getPoliticalHDI(year, hdi);
     res.status(200).send(politicalData);
   } catch(err) {
     res.status(500).json({ message: err.message });

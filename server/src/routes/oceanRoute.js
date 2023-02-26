@@ -1,4 +1,5 @@
 import { Router } from 'express';
+import { getOceans, getOcean, insertOcean } from '../queries/oceanQuery.js';
 
 const router = Router();
 
@@ -11,7 +12,7 @@ const router = Router();
 router.post("/", async (req, res) => {
   try {
     const { name } = req.body;
-    const ocean = 1; // use function from oceanQuery
+    const ocean = await insertOcean(name);
     res.status(201).send(ocean);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -26,7 +27,7 @@ router.post("/", async (req, res) => {
  */
 router.get("/", async (req, res) => {
   try {
-    const oceans = 1; // use function from oceanQuery
+    const oceans = await getOceans();
     res.status(200).send(oceans);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -42,7 +43,7 @@ router.get("/", async (req, res) => {
 router.get("/:name", async (req, res) => {
   try {
     const name = req.params.name;
-    const ocean = 1; // use function from oceanQuery
+    const ocean = await getOcean(name);
     res.status(200).send(ocean);
   } catch(err) {
     res.status(500).json({ message: err.message });

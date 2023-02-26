@@ -1,4 +1,5 @@
 import { Router } from "express";
+import { getAtmosphericData, insertAtmosphericData, getAtmosphericTempHigh, getAtmosphericTempLow, getAtmosphericEmissionLevel } from '../queries/atmosphericDataQuery.js';
 
 const router = Router();
 
@@ -12,8 +13,8 @@ router.post("/:countryName/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
-    const { emissionLevel, tempHigh, tempLow } = req.body;
-    const atmopshericData = 1; // use function from atmosphericDataQuery
+    const { emissionsLevel, tempHigh, tempLow } = req.body;
+    const atmopshericData = await insertAtmosphericData(countryName, year, emissionsLevel, tempHigh, tempLow);
     res.status(201).send(atmopshericData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -26,11 +27,11 @@ router.post("/:countryName/:year", async (req, res) => {
  * @param request - HTTP request. Contains countryName, year in params.
  * @param response - HTTP response. Responds with atmosphericData based on countryName, year params and status code based on functionality of route.
  */
-router.get("/:countryName/:year", async (req, res) => {
+router.get("/name/:countryName/year/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
-    const atmopshericData = 1; // use function from atmosphericDataQuery
+    const atmopshericData = await getAtmosphericData(countryName, year);
     res.status(200).send(atmopshericData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -43,11 +44,11 @@ router.get("/:countryName/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, emissionLevel in params.
  * @param response - HTTP response. Responds with atmosphericData based on year, emissionLevel params and status code based on functionality of route.
  */
-router.get("/:year/:emissionLevel", async (req, res) => {
+router.get("/year/:year/emissionsLevel/:emissionsLevel", async (req, res) => {
   try {
     const year = req.params.year;
-    const emissionLevel = req.params.emissionLevel;
-    const atmopshericData = 1; // use function from atmosphericDataQuery
+    const emissionsLevel = req.params.emissionsLevel;
+    const atmopshericData = await getAtmosphericEmissionLevel(year, emissionsLevel);
     res.status(200).send(atmopshericData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -60,11 +61,11 @@ router.get("/:year/:emissionLevel", async (req, res) => {
  * @param request - HTTP request. Contains year, tempHigh in params.
  * @param response - HTTP response. Responds with atmosphericData based on year, tempHigh params and status code based on functionality of route.
  */
-router.get("/:year/:tempHigh", async (req, res) => {
+router.get("/year/:year/tempHigh/:tempHigh", async (req, res) => {
   try {
     const year = req.params.year;
     const tempHigh = req.params.tempHigh;
-    const atmopshericData = 1; // use function from atmosphericDataQuery
+    const atmopshericData = await getAtmosphericTempHigh(year, tempHigh);
     res.status(200).send(atmopshericData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -77,11 +78,11 @@ router.get("/:year/:tempHigh", async (req, res) => {
  * @param request - HTTP request. Contains year, tempLow in params.
  * @param response - HTTP response. Responds with atmosphericData based on year, tempLow params and status code based on functionality of route.
  */
-router.get("/:year/:tempLow", async (req, res) => {
+router.get("/year/:year/tempLow/:tempLow", async (req, res) => {
   try {
     const year = req.params.year;
     const tempLow = req.params.tempLow;
-    const atmopshericData = 1; // use function from atmosphericDataQuery
+    const atmopshericData = await getAtmosphericTempLow(year, tempLow);
     res.status(200).send(atmopshericData);
   } catch(err) {
     res.status(500).json({ message: err.message });
