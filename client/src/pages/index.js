@@ -1,13 +1,15 @@
 import React, { useState, useEffect } from 'react';
-import MapChart, { CreateTitle } from './components/WorldMap/index.jsx';
 import axios from 'axios';
+import { Tooltip as ReactToolTip } from 'react-tooltip';
 
-export default function tempFunction() {
+import MapChart from './components/MapChart.js';
+
+export default function Home() {
   const [content, setContent] = useState("");
   return (
     <div>
-      <CreateTitle />
-      <MapChart />
+      <MapChart setToolTipContent={setContent}/>
+      <ReactToolTip>{content}</ReactToolTip>
     </div>
   );
 }
