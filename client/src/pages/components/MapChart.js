@@ -11,14 +11,14 @@ const MapChart = ({ setToolTipContent }) => {
   return (
       <div className='w-[50%]'>
         <ComposableMap>
-            <Geographies geography={geoUrl}>
+            <Geographies geography={geoUrl} data-tooltip-id='my-tooltip'>
               {({ geographies }) =>
                 geographies.map((geo) => (
                   <Geography 
                     key={geo.rsmKey} 
                     geography={geo} 
                     onMouseEnter={() => {
-                      setToolTipContent(`${geo.properties.name}`);
+                      setToolTipContent(geo.properties.name);
                     }}
                     onMouseLeave={() => {
                       setToolTipContent("");
