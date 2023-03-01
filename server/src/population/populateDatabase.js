@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-import { countryScraper } from "./countryScraper.js";
+import { countryScraper } from "./scrapers/countryScraper.js";
 
 export const populateCountryData = async () => {
   const countryData = await countryScraper();
