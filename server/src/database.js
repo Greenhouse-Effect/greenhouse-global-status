@@ -19,14 +19,16 @@ CREATE TABLE COUNTRY
 `);
 
 // TODO: Create OCEAN table and define attributes, domains, and constraints
-// await db.query(`
-
-// `);
+await db.query(`
+CREATE TABLE OCEAN
+(oceanName VARCHAR(255) PRIMARY KEY)
+`);
 
 // TODO: Create ATMOSPHERICDATA table and define attributes, domains, and constraints
-// await db.query(`
-
-// `);
+await db.query(`
+CREATE TABLE ATMOSPHERICDATA
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, emissionsLevel INT, tempHigh INT, tempLow INT, PRIMARY KEY (countryName, year))
+`);
 
 // TODO: Create LANDDATA table and define attributes, domains, and constraints
 // await db.query(`
@@ -39,11 +41,13 @@ CREATE TABLE COUNTRY
 // `);
 
 // TODO: Create POLITICALDATA table and define attributes, domains, and constraints
-// await db.query(`
-
-// `);
+await db.query(`
+CREATE TABLE POLITICALDATA
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, sdg INT, hdi INT, PRIMARY KEY (countryName, year))
+`);
 
 // TODO: Create OCEANDATA table and define attributes, domains, and constraints
-// await db.query(`
-
-// `);
+await db.query(`
+CREATE TABLE OCEANDATA
+(oceanName VARCHAR(255) NOT NULL, year INT NOT NULL, sinkLevel INT, tempHigh INT, tempLow INT, seaLevel INT, PRIMARY KEY (oceanName, year))
+`);
