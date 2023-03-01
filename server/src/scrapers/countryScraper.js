@@ -13,18 +13,21 @@ export const countryScraper = async () => {
     const tableRows = document.querySelectorAll(".table.table-striped.table-bordered.dataTable.no-footer tbody tr");
     // iterate over each index and retrieve the data in that row column by column
     return Array.from(tableRows, row => {
-      const columns = row.querySelectorAll("td:nth-child(n+2):nth-child(-n+4)");
-      return Array.from(columns, td => td.innerText);
+      // selecting specific data from table
+      const country = row.querySelector("td:nth-child(2)");
+      const population = row.querySelector("td:nth-child(3)");
+      const populationChange = row.querySelector("td:nth-child(4)");
+      const landArea = row.querySelector("td:nth-child(7)");
+      return [country.innerText, population.innerText, populationChange.innerText, landArea.innerText];
     });
   });
 
   // formatting data
-  for (const row of getTableData) {
-    row[1] = row[1].replaceAll(',','');
-    row[1] = Number(row[1]);
-    row[2] = row[2].replaceAll(' ', '');
-    row[2] = row[2].replaceAll('%', '');
-    row[2] = Number(row[2]);
+  for (const col of getTableData) {
+    col[1] = Number(col[1].replaceAll(',',''));
+    col[2] = col[2].replaceAll(' ', '');
+    col[2] = Number(col[2].replaceAll('%', ''));
+    col[3] = Number(col[3].replaceAll(',',''))
   }
 
   await browser.close();
