@@ -74,13 +74,13 @@ router.get("/year/:year/emissionLevel/:emissionLevel", async (req, res) => {
 /**
  * Route gets all landData based on year, waterWithdrawl property from request params
  * 
- * @param request - HTTP request. Contains year, waterWithdrawl in params.
+ * @param request - HTTP request. Contains year, waterWithdrawal in params.
  * @param response - HTTP response. Responds with landData based on year, waterWithdrawl params and status code based on functionality of route.
  */
 router.get("/year/:year/waterWithdrawal/:waterWithdrawal", async (req, res) => {
   try {
     const year = req.params.year;
-    const waterWithdrawl = req.params.waterWithdrawl;
+    const waterWithdrawl = req.params.waterWithdrawal;
     const landData = 1; // use function from landDataQuery
     res.status(200).send(landData);
   } catch(err) {
