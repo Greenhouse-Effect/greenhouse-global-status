@@ -26,7 +26,7 @@ router.post("/:countryName/:year", async (req, res) => {
  * @param request - HTTP request. Contains countryName, year in params.
  * @param response - HTTP response. Responds with economicData based on countryName, year params and status code based on functionality of route.
  */
-router.get("/:countryName/:year", async (req, res) => {
+router.get("/name/:countryName/year/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
@@ -43,7 +43,7 @@ router.get("/:countryName/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, gdp in params.
  * @param response - HTTP response. Responds with economicData based on year, gdp params and status code based on functionality of route.
  */
-router.get("/:year/:gdp", async (req, res) => {
+router.get("/year/:year/gdp/:gdp", async (req, res) => {
   try {
     const year = req.params.year;
     const gdp = req.params.gdp;
@@ -60,7 +60,7 @@ router.get("/:year/:gdp", async (req, res) => {
  * @param request - HTTP request. Contains year, transitionBudget in params.
  * @param response - HTTP response. Responds with economicData based on year, transitionBudget params and status code based on functionality of route.
  */
-router.get("/:year/:transitionBudget", async (req, res) => {
+router.get("/year/:year/transitionBudget/:transitionBudget", async (req, res) => {
   try {
     const year = req.params.year;
     const transitionBudget = req.params.transitionBudget;

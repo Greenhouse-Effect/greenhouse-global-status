@@ -26,7 +26,7 @@ router.post("/:countryName/:year", async (req, res) => {
  * @param request - HTTP request. Contains countryName, year in params.
  * @param response - HTTP response. Responds with politicalData based on countryName, year params and status code based on functionality of route.
  */
-router.get("/:countryName/:year", async (req, res) => {
+router.get("/name/:countryName/year/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
@@ -43,7 +43,7 @@ router.get("/:countryName/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, sdg in params.
  * @param response - HTTP response. Responds with politicalData based on year, sdg params and status code based on functionality of route.
  */
-router.get("/:year/:sdg", async (req, res) => {
+router.get("/year/:year/sdg/:sdg", async (req, res) => {
   try {
     const year = req.params.year;
     const sdg = req.params.sdg;
@@ -60,7 +60,7 @@ router.get("/:year/:sdg", async (req, res) => {
  * @param request - HTTP request. Contains year, hdi in params.
  * @param response - HTTP response. Responds with politicalData based on year, hdi params and status code based on functionality of route.
  */
-router.get("/:year/:hdi", async (req, res) => {
+router.get("/year/:year/hdi/:hdi", async (req, res) => {
   try {
     const year = req.params.year;
     const hdi = req.params.hdi;

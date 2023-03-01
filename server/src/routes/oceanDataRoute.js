@@ -26,7 +26,7 @@ router.post("/:oceanName/:year", async (req, res) => {
  * @param request - HTTP request. Contains oceanName, year in params.
  * @param response - HTTP response. Responds with oceanData based on oceanName, year params and status code based on functionality of route.
  */
-router.get("/:oceanName/:year", async (req, res) => {
+router.get("/name/:oceanName/year/:year", async (req, res) => {
   try {
     const oceanName = req.params.oceanName;
     const year = req.params.year;
@@ -43,7 +43,7 @@ router.get("/:oceanName/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, sinkLevel in params.
  * @param response - HTTP response. Responds with oceanData based on oceanName params and status code based on functionality of route.
  */
-router.get("/:year/:sinkLevel", async (req, res) => {
+router.get("/year/:year/sinkLevel/:sinkLevel", async (req, res) => {
   try {
     const year = req.params.oceanName;
     const sinkLevel = req.params.sinkLevel;
@@ -60,7 +60,7 @@ router.get("/:year/:sinkLevel", async (req, res) => {
  * @param request - HTTP request. Contains year, tempHigh in params.
  * @param response - HTTP response. Responds with oceanData based on oceanName params and status code based on functionality of route.
  */
-router.get("/:year/:tempHigh", async (req, res) => {
+router.get("/year/:year/tempHigh/:tempHigh", async (req, res) => {
   try {
     const year = req.params.year;
     const tempHigh = req.params.tempHigh;
@@ -77,7 +77,7 @@ router.get("/:year/:tempHigh", async (req, res) => {
  * @param request - HTTP request. Contains year, tempLow in params.
  * @param response - HTTP response. Responds with oceanData based on oceanName params and status code based on functionality of route.
  */
-router.get("/:year/:tempLow", async (req, res) => {
+router.get("/year/:year/tempLow/:tempLow", async (req, res) => {
   try {
     const year = req.params.year;
     const tempLow = req.params.tempLow;
@@ -94,7 +94,7 @@ router.get("/:year/:tempLow", async (req, res) => {
  * @param request - HTTP request. Contains year, seaLevel in params.
  * @param response - HTTP response. Responds with oceanData based on oceanName params and status code based on functionality of route.
  */
-router.get("/:year/:seaLevel", async (req, res) => {
+router.get("/year/:year/seaLevel/:seaLevel", async (req, res) => {
   try {
     const year = req.params.year;
     const seaLevel = req.params.seaLevel;
