@@ -1,8 +1,11 @@
 import { db } from '../database.js'
 
-export const getCountries = async () => {
-  const [rows] = await db.query("SELECT * FROM COUNTRY");
-  return rows;
+export const insertCountry = async (name, population) => {
+  await db.query(`
+  INSERT INTO COUNTRY (countryName, countryPopulation) 
+  VALUES (?, ?)
+  `, [name, population]);
+  return getCountry(name);
 }
 
 export const getCountry = async (name) => {
@@ -14,10 +17,7 @@ export const getCountry = async (name) => {
   return rows[0]
 }
 
-export const insertCountry = async (name, population) => {
-  await db.query(`
-  INSERT INTO COUNTRY (countryName, countryPopulation) 
-  VALUES (?, ?)
-  `, [name, population]);
-  return getCountry(name);
+export const getCountries = async () => {
+  const [rows] = await db.query("SELECT * FROM COUNTRY");
+  return rows;
 }

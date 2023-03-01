@@ -10,7 +10,7 @@ export const db = mysql.createPool({
 }).promise();
 
 
-await db.query("DROP TABLE IF EXISTS COUNTRY, OCEAN, ATMOSPHEREICDATA, LANDDATA, ECONOMICDATA, POLITICALDATA, OCEANDATA");
+await db.query("DROP TABLE IF EXISTS COUNTRY, OCEAN, ATMOSPHERICDATA, LANDDATA, ECONOMICDATA, POLITICALDATA, OCEANDATA");
 
 // TODO: Create COUNTRY table and define attributes, domains, and constraints
 await db.query(`
