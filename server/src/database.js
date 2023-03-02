@@ -10,14 +10,11 @@ export const db = mysql.createPool({
 }).promise();
 
 
-// leaving old tables in for now to make sure they are dropped
-await db.query("DROP TABLE IF EXISTS COUNTRY, OCEAN, ATMOSPHERICDATA, LANDDATA, ECONOMICDATA, POLITICALDATA, OCEANDATA, SOCIETALDATA, ENERGYDATA");
+await db.query("DROP TABLE IF EXISTS COUNTRY, OCEAN, ATMOSPHERICDATA, LANDDATA, OCEANDATA, SOCIETALDATA, ENERGYDATA");
 
-// TODO: Create COUNTRY table and define attributes, domains, and constraints
-// TODO: Add population change (not doing that yet so that queries and routes fully work)
 await db.query(`
 CREATE TABLE COUNTRY 
-(countryName VARCHAR(255) PRIMARY KEY, countryPopulation INT)
+(countryName VARCHAR(255) PRIMARY KEY, countryPopulation INT, populationYearlyChange INT)
 `);
 
 // TODO: Create OCEAN table and define attributes, domains, and constraints
