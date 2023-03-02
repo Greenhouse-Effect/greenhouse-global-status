@@ -39,7 +39,7 @@ router.get("/", async (req, res) => {
  * @param request - HTTP request. Contains name in params.
  * @param response - HTTP response. Responds with one ocean and status code based on functionality of route.
  */
-router.get("/:name", async (req, res) => {
+router.get("/name/:name", async (req, res) => {
   try {
     const name = req.params.name;
     const ocean = 1; // use function from oceanQuery

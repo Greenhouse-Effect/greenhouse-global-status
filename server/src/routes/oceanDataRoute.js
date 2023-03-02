@@ -2,6 +2,8 @@ import { Router } from 'express';
 
 const router = Router();
 
+// routes are subject to change based on data that we can find
+
 /**
  * Route creates a new oceanData based on oceanName, year with properties from request body and stores it into db
  * 

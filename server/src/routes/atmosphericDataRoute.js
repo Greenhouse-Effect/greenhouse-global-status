@@ -12,7 +12,7 @@ router.post("/:countryName/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
-    const { emissionLevel, tempHigh, tempLow } = req.body;
+    const { emissionLevel, tempChange, unit } = req.body;
     const atmopshericData = 1; // use function from atmosphericDataQuery
     res.status(201).send(atmopshericData);
   } catch(err) {
@@ -55,15 +55,15 @@ router.get("/year/:year/emissionLevel/:emissionLevel", async (req, res) => {
 });
 
 /**
- * Route gets all atmosphericData based on year, tempHigh property from request params
+ * Route gets all atmosphericData based on year, tempChange property from request params
  * 
- * @param request - HTTP request. Contains year, tempHigh in params.
- * @param response - HTTP response. Responds with atmosphericData based on year, tempHigh params and status code based on functionality of route.
+ * @param request - HTTP request. Contains year, tempChange in params.
+ * @param response - HTTP response. Responds with atmosphericData based on year, tempChange params and status code based on functionality of route.
  */
-router.get("/year/:year/tempHigh/:tempHigh", async (req, res) => {
+router.get("/year/:year/tempChange/:tempChange", async (req, res) => {
   try {
     const year = req.params.year;
-    const tempHigh = req.params.tempHigh;
+    const tempChange = req.params.tempChange;
     const atmopshericData = 1; // use function from atmosphericDataQuery
     res.status(200).send(atmopshericData);
   } catch(err) {
@@ -71,21 +71,6 @@ router.get("/year/:year/tempHigh/:tempHigh", async (req, res) => {
   }
 });
 
-/**
- * Route gets all atmosphericData based on year, tempLow property from request params
- * 
- * @param request - HTTP request. Contains year, tempLow in params.
- * @param response - HTTP response. Responds with atmosphericData based on year, tempLow params and status code based on functionality of route.
- */
-router.get("/year/:year/tempLow/:tempLow", async (req, res) => {
-  try {
-    const year = req.params.year;
-    const tempLow = req.params.tempLow;
-    const atmopshericData = 1; // use function from atmosphericDataQuery
-    res.status(200).send(atmopshericData);
-  } catch(err) {
-    res.status(500).json({ message: err.message });
-  }
-});
+// dont need a route for unit as it is consistant and is something the user will never query for
 
 export default router;

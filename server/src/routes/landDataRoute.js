@@ -12,7 +12,7 @@ router.post("/:countryName/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
-    const { landArea, emissionLevel, waterWithdrawl } = req.body;
+    const { landArea, waterWithdrawal } = req.body;
     const landData = 1; // use function from landDataQuery
     res.status(201).send(landData);
   } catch(err) {
@@ -55,32 +55,15 @@ router.get("/year/:year/landArea/:landArea", async (req, res) => {
 });
 
 /**
- * Route gets all landData based on year, emissionLevel property from request params
- * 
- * @param request - HTTP request. Contains year, emissionLevel in params.
- * @param response - HTTP response. Responds with landData based on year, emissionLevel params and status code based on functionality of route.
- */
-router.get("/year/:year/emissionLevel/:emissionLevel", async (req, res) => {
-  try {
-    const year = req.params.year;
-    const emissionLevel = req.params.emissionLevel;
-    const landData = 1; // use function from landDataQuery
-    res.status(200).send(landData);
-  } catch(err) {
-    res.status(500).json({ message: err.message });
-  }
-});
-
-/**
- * Route gets all landData based on year, waterWithdrawl property from request params
+ * Route gets all landData based on year, waterWithdrawal property from request params
  * 
  * @param request - HTTP request. Contains year, waterWithdrawal in params.
- * @param response - HTTP response. Responds with landData based on year, waterWithdrawl params and status code based on functionality of route.
+ * @param response - HTTP response. Responds with landData based on year, waterWithdrawal params and status code based on functionality of route.
  */
 router.get("/year/:year/waterWithdrawal/:waterWithdrawal", async (req, res) => {
   try {
     const year = req.params.year;
-    const waterWithdrawl = req.params.waterWithdrawal;
+    const waterWithdrawal = req.params.waterWithdrawal;
     const landData = 1; // use function from landDataQuery
     res.status(200).send(landData);
   } catch(err) {

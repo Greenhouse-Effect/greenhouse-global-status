@@ -12,7 +12,7 @@ router.post("/:countryName/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
-    const { sdg, hdi } = req.body;
+    const { hdi, gni } = req.body;
     const politicalData = 1; // use function from politicalDataQuery
     res.status(201).send(politicalData);
   } catch(err) {
@@ -38,23 +38,6 @@ router.get("/name/:countryName/year/:year", async (req, res) => {
 });
 
 /**
- * Route gets all politicalData based on year, sdg property from request params
- * 
- * @param request - HTTP request. Contains year, sdg in params.
- * @param response - HTTP response. Responds with politicalData based on year, sdg params and status code based on functionality of route.
- */
-router.get("/year/:year/sdg/:sdg", async (req, res) => {
-  try {
-    const year = req.params.year;
-    const sdg = req.params.sdg;
-    const politicalData = 1; // use function from politicalDataQuery
-    res.status(200).send(politicalData);
-  } catch(err) {
-    res.status(500).json({ message: err.message });
-  }
-});
-
-/**
  * Route gets all politicalData based on year, hdi property from request params
  * 
  * @param request - HTTP request. Contains year, hdi in params.
@@ -64,6 +47,23 @@ router.get("/year/:year/hdi/:hdi", async (req, res) => {
   try {
     const year = req.params.year;
     const hdi = req.params.hdi;
+    const politicalData = 1; // use function from politicalDataQuery
+    res.status(200).send(politicalData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all politicalData based on year, gni property from request params
+ * 
+ * @param request - HTTP request. Contains year, gni in params.
+ * @param response - HTTP response. Responds with politicalData based on year, gni params and status code based on functionality of route.
+ */
+router.get("/year/:year/gni/:gni", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const gni = req.params.gni;
     const politicalData = 1; // use function from politicalDataQuery
     res.status(200).send(politicalData);
   } catch(err) {
