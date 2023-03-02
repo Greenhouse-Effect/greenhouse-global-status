@@ -29,13 +29,13 @@ CREATE TABLE OCEAN
 // TODO: Create ATMOSPHERICDATA table and define attributes, domains, and constraints
 await db.query(`
 CREATE TABLE ATMOSPHERICDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, emissionsLevel INT, tempHigh INT, tempLow INT, units INT, PRIMARY KEY (countryName, year))
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, emissions INT, tempChange INT, unit INT, PRIMARY KEY (countryName, year))
 `);
 
 // TODO: Create LANDDATA table and define attributes, domains, and constraints
 await db.query(`
 CREATE TABLE LANDDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, landArea INT, agEmissions INT, agWater INT, PRIMARY KEY (countryName, year))
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, landArea INT, waterWithdrawal INT, PRIMARY KEY (countryName, year))
 `);
 
 // TODO: Create SOCIETALDATA table and define attributes, domains, and constraints
