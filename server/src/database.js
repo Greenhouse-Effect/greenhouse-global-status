@@ -14,7 +14,7 @@ await db.query("DROP TABLE IF EXISTS COUNTRY, OCEAN, ATMOSPHERICDATA, LANDDATA, 
 
 await db.query(`
 CREATE TABLE COUNTRY 
-(countryName VARCHAR(255) PRIMARY KEY, countryPopulation INT, populationYearlyChange INT)
+(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange INT)
 `);
 
 // TODO: Create OCEAN table and define attributes, domains, and constraints
