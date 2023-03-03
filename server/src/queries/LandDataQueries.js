@@ -1,5 +1,4 @@
 import { db } from '../database.js'
-import { getCountryName } from './countryQuery.js';
 
 // gets the entire table
 export const insertLandData = async (name, year, landArea, waterWithdrawal) => {
