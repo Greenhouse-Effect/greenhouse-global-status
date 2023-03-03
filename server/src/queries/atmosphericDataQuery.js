@@ -1,10 +1,10 @@
 import { db } from '../database.js'
 
-export const insertAtmosphericData = async (name, year, emissions, tempChange, unit) => {
+export const insertAtmosphericData = async (name, year, emissions, tempChange, tempUnit) => {
   await db.query(`
-  INSERT INTO ATMOSPHERICDATA (countryName, year, emissions, tempChange, unit) 
+  INSERT INTO ATMOSPHERICDATA (countryName, year, emissions, tempChange, tempUnit) 
   VALUES (?, ?, ?, ?, ?)
-  `, [name, year, emissions, tempChange, unit]);
+  `, [name, year, emissions, tempChange, tempUnit]);
   return getAtmosphericData(name, year);
 }
 
@@ -37,7 +37,7 @@ export const getAtmosphericEmissionsL = async (year, emissions) => {
 
 export const getAtmosphericTempChangeG = async (year, tempChange) => {
     const [rows] = await db.query(`
-    SELECT countryName, tempChange, year
+    SELECT countryName, tempChange, tempUnit, year
     FROM ATMOSPHERICDATA
     WHERE year = ? AND tempChange > ?
     `, [year, tempChange]);
@@ -46,7 +46,7 @@ export const getAtmosphericTempChangeG = async (year, tempChange) => {
 
 export const getAtmosphericTempChangeL = async (year, tempChange) => {
   const [rows] = await db.query(`
-  SELECT countryName, tempChange, year
+  SELECT countryName, tempChange, tempUnit, year
   FROM ATMOSPHERICDATA
   WHERE year = ? AND tempChange < ?
   `, [year, tempChange]);
