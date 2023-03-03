@@ -43,7 +43,24 @@ router.get("/name/:countryName/year/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, landArea in params.
  * @param response - HTTP response. Responds with landData based on year, landArea params and status code based on functionality of route.
  */
-router.get("/year/:year/landArea/:landArea", async (req, res) => {
+router.get("/year/:year/landArea/g/:landArea", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const landArea = req.params.landArea;
+    const landData = 1; // use function from landDataQuery
+    res.status(200).send(landData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all landData based on year, landArea property from request params
+ * 
+ * @param request - HTTP request. Contains year, landArea in params.
+ * @param response - HTTP response. Responds with landData based on year, landArea params and status code based on functionality of route.
+ */
+router.get("/year/:year/landArea/l/:landArea", async (req, res) => {
   try {
     const year = req.params.year;
     const landArea = req.params.landArea;
@@ -60,7 +77,24 @@ router.get("/year/:year/landArea/:landArea", async (req, res) => {
  * @param request - HTTP request. Contains year, waterWithdrawal in params.
  * @param response - HTTP response. Responds with landData based on year, waterWithdrawal params and status code based on functionality of route.
  */
-router.get("/year/:year/waterWithdrawal/:waterWithdrawal", async (req, res) => {
+router.get("/year/:year/waterWithdrawal/g/:waterWithdrawal", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const waterWithdrawal = req.params.waterWithdrawal;
+    const landData = 1; // use function from landDataQuery
+    res.status(200).send(landData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all landData based on year, waterWithdrawal property from request params
+ * 
+ * @param request - HTTP request. Contains year, waterWithdrawal in params.
+ * @param response - HTTP response. Responds with landData based on year, waterWithdrawal params and status code based on functionality of route.
+ */
+router.get("/year/:year/waterWithdrawal/l/:waterWithdrawal", async (req, res) => {
   try {
     const year = req.params.year;
     const waterWithdrawal = req.params.waterWithdrawal;

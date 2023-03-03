@@ -43,7 +43,24 @@ router.get("/name/:countryName/year/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, hdi in params.
  * @param response - HTTP response. Responds with politicalData based on year, hdi params and status code based on functionality of route.
  */
-router.get("/year/:year/hdi/:hdi", async (req, res) => {
+router.get("/year/:year/hdi/g/:hdi", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const hdi = req.params.hdi;
+    const politicalData = 1; // use function from politicalDataQuery
+    res.status(200).send(politicalData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all politicalData based on year, hdi property from request params
+ * 
+ * @param request - HTTP request. Contains year, hdi in params.
+ * @param response - HTTP response. Responds with politicalData based on year, hdi params and status code based on functionality of route.
+ */
+router.get("/year/:year/hdi/l/:hdi", async (req, res) => {
   try {
     const year = req.params.year;
     const hdi = req.params.hdi;
@@ -60,7 +77,24 @@ router.get("/year/:year/hdi/:hdi", async (req, res) => {
  * @param request - HTTP request. Contains year, gni in params.
  * @param response - HTTP response. Responds with politicalData based on year, gni params and status code based on functionality of route.
  */
-router.get("/year/:year/gni/:gni", async (req, res) => {
+router.get("/year/:year/gni/g/:gni", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const gni = req.params.gni;
+    const politicalData = 1; // use function from politicalDataQuery
+    res.status(200).send(politicalData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all politicalData based on year, gni property from request params
+ * 
+ * @param request - HTTP request. Contains year, gni in params.
+ * @param response - HTTP response. Responds with politicalData based on year, gni params and status code based on functionality of route.
+ */
+router.get("/year/:year/gni/l/:gni", async (req, res) => {
   try {
     const year = req.params.year;
     const gni = req.params.gni;

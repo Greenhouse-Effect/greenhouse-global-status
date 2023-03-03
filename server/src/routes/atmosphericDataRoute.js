@@ -43,7 +43,24 @@ router.get("/name/:countryName/year/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, emissionLevel in params.
  * @param response - HTTP response. Responds with atmosphericData based on year, emissionLevel params and status code based on functionality of route.
  */
-router.get("/year/:year/emissionLevel/:emissionLevel", async (req, res) => {
+router.get("/year/:year/emissionLevel/g/:emissionLevel", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const emissionLevel = req.params.emissionLevel;
+    const atmopshericData = 1; // use function from atmosphericDataQuery
+    res.status(200).send(atmopshericData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all atmosphericData based on year, emissionLevel property from request params
+ * 
+ * @param request - HTTP request. Contains year, emissionLevel in params.
+ * @param response - HTTP response. Responds with atmosphericData based on year, emissionLevel params and status code based on functionality of route.
+ */
+router.get("/year/:year/emissionLevel/l/:emissionLevel", async (req, res) => {
   try {
     const year = req.params.year;
     const emissionLevel = req.params.emissionLevel;
@@ -60,7 +77,24 @@ router.get("/year/:year/emissionLevel/:emissionLevel", async (req, res) => {
  * @param request - HTTP request. Contains year, tempChange in params.
  * @param response - HTTP response. Responds with atmosphericData based on year, tempChange params and status code based on functionality of route.
  */
-router.get("/year/:year/tempChange/:tempChange", async (req, res) => {
+router.get("/year/:year/tempChange/g/:tempChange", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const tempChange = req.params.tempChange;
+    const atmopshericData = 1; // use function from atmosphericDataQuery
+    res.status(200).send(atmopshericData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all atmosphericData based on year, tempChange property from request params
+ * 
+ * @param request - HTTP request. Contains year, tempChange in params.
+ * @param response - HTTP response. Responds with atmosphericData based on year, tempChange params and status code based on functionality of route.
+ */
+router.get("/year/:year/tempChange/l/:tempChange", async (req, res) => {
   try {
     const year = req.params.year;
     const tempChange = req.params.tempChange;

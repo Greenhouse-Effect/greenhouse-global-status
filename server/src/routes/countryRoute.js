@@ -57,7 +57,24 @@ router.get("/name/:name", async (req, res) => {
  * @param response - HTTP response. Responds with countries whose population are greater than the request param and 
  *                  status code based on functionality of route.
  */
-router.get("/population/:population", async (req, res) => {
+router.get("/population/g/:population", async (req, res) => {
+  try {
+    const population = req.params.population;
+    const countries = 1; // use function from countryQueries
+    res.status(200).send(countries);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all countries based on population property from request params
+ * 
+ * @param request - HTTP request. Contains population in params.
+ * @param response - HTTP response. Responds with countries whose population are greater than the request param and 
+ *                  status code based on functionality of route.
+ */
+router.get("/population/l/:population", async (req, res) => {
   try {
     const population = req.params.population;
     const countries = 1; // use function from countryQueries
@@ -74,7 +91,24 @@ router.get("/population/:population", async (req, res) => {
  * @param response - HTTP response. Responds with countries whose population yearly change are greater than the request param and 
  *                  status code based on functionality of route.
  */
-router.get("/populationChange/:populationChange", (req, res) => {
+router.get("/populationChange/g/:populationChange", (req, res) => {
+  try {
+    const populationChange = req.params.populationChange;
+    const countries = 1; // use function from countryQueries
+    res.status(200).send(countries);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all countries based on populationChange property from request params
+ * 
+ * @param request - HTTP request. Contains population yearly change in params.
+ * @param response - HTTP response. Responds with countries whose population yearly change are greater than the request param and 
+ *                  status code based on functionality of route.
+ */
+router.get("/populationChange/l/:populationChange", (req, res) => {
   try {
     const populationChange = req.params.populationChange;
     const countries = 1; // use function from countryQueries

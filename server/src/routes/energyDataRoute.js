@@ -43,7 +43,24 @@ router.get("/name/:countryName/year/:year", async (req, res) => {
  * @param request - HTTP request. Contains year, naturalGas in params.
  * @param response - HTTP response. Responds with energyData based on year, naturalGas params and status code based on functionality of route.
  */
-router.get("/year/:year/naturalGas/:naturalGas", async (req, res) => {
+router.get("/year/:year/naturalGas/g/:naturalGas", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const naturalGas = req.params.naturalGas;
+    const energyData = 1; // use function from energyDataQuery
+    res.status(200).send(energyData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all energyData based on year, naturalGas property from request params
+ * 
+ * @param request - HTTP request. Contains year, naturalGas in params.
+ * @param response - HTTP response. Responds with energyData based on year, naturalGas params and status code based on functionality of route.
+ */
+router.get("/year/:year/naturalGas/l/:naturalGas", async (req, res) => {
   try {
     const year = req.params.year;
     const naturalGas = req.params.naturalGas;
@@ -60,7 +77,24 @@ router.get("/year/:year/naturalGas/:naturalGas", async (req, res) => {
  * @param request - HTTP request. Contains year, fuelOil in params.
  * @param response - HTTP response. Responds with energyData based on year, fuelOil params and status code based on functionality of route.
  */
-router.get("/year/:year/fuelOil/:fuelOil", async (req, res) => {
+router.get("/year/:year/fuelOil/g/:fuelOil", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const fuelOil = req.params.fuelOil;
+    const energyData = 1; // use function from energyDataQuery
+    res.status(200).send(energyData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all energyData based on year, fuelOil property from request params
+ * 
+ * @param request - HTTP request. Contains year, fuelOil in params.
+ * @param response - HTTP response. Responds with energyData based on year, fuelOil params and status code based on functionality of route.
+ */
+router.get("/year/:year/fuelOil/l/:fuelOil", async (req, res) => {
   try {
     const year = req.params.year;
     const fuelOil = req.params.fuelOil;
@@ -77,7 +111,24 @@ router.get("/year/:year/fuelOil/:fuelOil", async (req, res) => {
  * @param request - HTTP request. Contains year, coal in params.
  * @param response - HTTP response. Responds with energyData based on year, coal params and status code based on functionality of route.
  */
-router.get("/year/:year/coal/:coal", async (req, res) => {
+router.get("/year/:year/coal/g/:coal", async (req, res) => {
+  try {
+    const year = req.params.year;
+    const coal = req.params.coal;
+    const energyData = 1; // use function from energyDataQuery
+    res.status(200).send(energyData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+});
+
+/**
+ * Route gets all energyData based on year, coal property from request params
+ * 
+ * @param request - HTTP request. Contains year, coal in params.
+ * @param response - HTTP response. Responds with energyData based on year, coal params and status code based on functionality of route.
+ */
+router.get("/year/:year/coal/l/:coal", async (req, res) => {
   try {
     const year = req.params.year;
     const coal = req.params.coal;
