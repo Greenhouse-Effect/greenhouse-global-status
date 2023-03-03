@@ -8,6 +8,11 @@ export const insertCountry = async (name, population, populationChange) => {
   return getCountryName(name);
 }
 
+export const getCountries = async () => {
+  const [rows] = await db.query("SELECT * FROM COUNTRY");
+  return rows;
+}
+
 export const getCountryName = async (name) => {
   const [rows] = await db.query(`
   SELECT *
@@ -15,11 +20,6 @@ export const getCountryName = async (name) => {
   WHERE countryName = ?
   `, [name]);
   return rows[0];
-}
-
-export const getCountries = async () => {
-  const [rows] = await db.query("SELECT * FROM COUNTRY");
-  return rows;
 }
 
 export const getPopulationL = async (population) => {

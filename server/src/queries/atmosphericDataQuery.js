@@ -1,5 +1,12 @@
 import { db } from '../database.js'
 
+export const insertAtmosphericData = async (name, year, emissions, tempChange, unit) => {
+  await db.query(`
+  INSERT INTO ATMOSPHERICDATA (countryName, year, emissions, tempChange, unit) 
+  VALUES (?, ?, ?, ?, ?)
+  `, [name, year, emissions, tempChange, unit]);
+  return getAtmosphericData(name, year);
+}
 
 export const getAtmosphericData = async (name, year) => {
   const [rows] = await db.query(`
@@ -8,14 +15,6 @@ export const getAtmosphericData = async (name, year) => {
   WHERE countryName = ? AND year = ?
   `, [name, year]);
   return rows[0]
-}
-
-export const insertAtmosphericData = async (name, year, emissions, tempChange, unit) => {
-  await db.query(`
-  INSERT INTO ATMOSPHERICDATA (countryName, year, emissions, tempChange, unit) 
-  VALUES (?, ?, ?, ?, ?)
-  `, [name, year, emissions, tempChange, unit]);
-  return getAtmosphericData(name, year);
 }
 
 export const getAtmosphericEmissionsG = async (year, emissions) => {

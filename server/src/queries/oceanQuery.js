@@ -8,6 +8,11 @@ export const insertOcean = async (name) => {
   return getOcean(name);
 }
 
+export const getOceans = async () => {
+  const [rows] = await db.query("SELECT * FROM OCEAN");
+  return rows;
+}
+
 export const getOcean = async (name) => {
   const [rows] = await db.query(`
   SELECT *
@@ -15,9 +20,4 @@ export const getOcean = async (name) => {
   WHERE oceanName = ?
   `, [name]);
   return rows[0]
-}
-
-export const getOceans = async () => {
-  const [rows] = await db.query("SELECT * FROM OCEAN");
-  return rows;
 }
