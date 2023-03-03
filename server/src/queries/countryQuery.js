@@ -1,10 +1,10 @@
 import { db } from '../database.js'
 
-export const insertCountry = async (name, population, populationChange) => {
+export const insertCountry = async (name, population, populationYearlyChange) => {
   await db.query(`
-  INSERT INTO COUNTRY (countryName, population, populationChange) 
+  INSERT INTO COUNTRY (countryName, population, populationYearlyChange) 
   VALUES (?, ?, ?)
-  `, [name, population, populationChange]);
+  `, [name, population, populationYearlyChange]);
   return getCountryName(name);
 }
 
@@ -40,20 +40,20 @@ export const getPopulationG = async (population) => {
   return rows;
 }
 
-export const getPopulationChangeL = async (populationChange) => {
+export const getpopulationYearlyChangeL = async (populationYearlyChange) => {
   const [rows] = await db.query(`
   SELECT *
   FROM COUNTRY
-  WHERE populationChange < ?
-  `, [populationChange]);
+  WHERE populationYearlyChange < ?
+  `, [populationYearlyChange]);
   return rows;
 }
 
-export const getPopulationChangeG = async (populationChange) => {
+export const getpopulationYearlyChangeG = async (populationYearlyChange) => {
   const [rows] = await db.query(`
   SELECT *
   FROM COUNTRY
-  WHERE populationChange > ?
-  `, [populationChange]);
+  WHERE populationYearlyChange > ?
+  `, [populationYearlyChange]);
   return rows;
 }

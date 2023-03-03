@@ -1,18 +1,25 @@
 import { Router } from 'express';
-import { getCountries, getCountry, insertCountry } from '../queries/countryQuery.js';
+import { insertCountry,
+getCountries,
+getCountryName,
+getPopulationG,
+getPopulationL,
+getpopulationYearlyChangeG,
+getpopulationYearlyChangeL
+} from '../queries/countryQuery.js';
 
 const router = Router();
 
 /**
  * Route creates a new country with properties from request body and stores it into db
  * 
- * @param request - HTTP request. Contains name, population, populationChange in body.
+ * @param request - HTTP request. Contains name, population, populationYearlyChange in body.
  * @param response - HTTP response. Responds with posted country and status code based on functionality of route.
  */
 router.post("/", async (req, res) => {
   try {
-    const { name, population, populationChange } = req.body;
-    const country = await insertCountry(name, population, populationChange);
+    const { name, population, populationYearlyChange } = req.body;
+    const country = await insertCountry(name, population, populationYearlyChange);
     res.status(201).send(country);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -43,7 +50,7 @@ router.get("/", async (req, res) => {
 router.get("/name/:name", async (req, res) => {
   try {
     const name = req.params.name;
-    const country = await getCountry(name);
+    const country = await getCountryName(name);
     res.status(200).send(country);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -60,7 +67,7 @@ router.get("/name/:name", async (req, res) => {
 router.get("/population/g/:population", async (req, res) => {
   try {
     const population = req.params.population;
-    const countries = 1; // use function from countryQueries
+    const countries = await getPopulationG(population);
     res.status(200).send(countries);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -77,7 +84,7 @@ router.get("/population/g/:population", async (req, res) => {
 router.get("/population/l/:population", async (req, res) => {
   try {
     const population = req.params.population;
-    const countries = 1; // use function from countryQueries
+    const countries = await getPopulationL(population);
     res.status(200).send(countries);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -85,16 +92,16 @@ router.get("/population/l/:population", async (req, res) => {
 });
 
 /**
- * Route gets all countries based on populationChange property from request params
+ * Route gets all countries based on populationYearlyChange property from request params
  * 
  * @param request - HTTP request. Contains population yearly change in params.
  * @param response - HTTP response. Responds with countries whose population yearly change are greater than the request param and 
  *                  status code based on functionality of route.
  */
-router.get("/populationChange/g/:populationChange", async (req, res) => {
+router.get("/populationYearlyChange/g/:populationYearlyChange", async (req, res) => {
   try {
-    const populationChange = req.params.populationChange;
-    const countries = 1; // use function from countryQueries
+    const populationYearlyChange = req.params.populationYearlyChange;
+    const countries = await getpopulationYearlyChangeG(populationYearlyChange);
     res.status(200).send(countries);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -102,16 +109,16 @@ router.get("/populationChange/g/:populationChange", async (req, res) => {
 });
 
 /**
- * Route gets all countries based on populationChange property from request params
+ * Route gets all countries based on populationYearlyChange property from request params
  * 
  * @param request - HTTP request. Contains population yearly change in params.
  * @param response - HTTP response. Responds with countries whose population yearly change are greater than the request param and 
  *                  status code based on functionality of route.
  */
-router.get("/populationChange/l/:populationChange", async (req, res) => {
+router.get("/populationYearlyChange/l/:populationYearlyChange", async (req, res) => {
   try {
-    const populationChange = req.params.populationChange;
-    const countries = 1; // use function from countryQueries
+    const populationYearlyChange = req.params.populationYearlyChange;
+    const countries = await getpopulationYearlyChangeL(populationYearlyChange);
     res.status(200).send(countries);
   } catch(err) {
     res.status(500).json({ message: err.message });
