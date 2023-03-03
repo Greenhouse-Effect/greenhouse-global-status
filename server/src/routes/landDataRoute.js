@@ -1,5 +1,5 @@
 import { Router } from "express";
-
+import { insertLandData } from "../queries/LandDataQueries.js";
 const router = Router();
 
 /**
@@ -13,7 +13,7 @@ router.post("/:countryName/:year", async (req, res) => {
     const countryName = req.params.countryName;
     const year = req.params.year;
     const { landArea, waterWithdrawal } = req.body;
-    const landData = 1; // use function from landDataQuery
+    const landData = await insertLandData(countryName, year, landArea, waterWithdrawal); // use function from landDataQuery
     res.status(201).send(landData);
   } catch(err) {
     res.status(500).json({ message: err.message });
