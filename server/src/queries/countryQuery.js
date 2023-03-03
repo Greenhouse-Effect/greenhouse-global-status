@@ -2,7 +2,7 @@ import { db } from '../database.js'
 
 export const insertCountry = async (name, population, populationChange) => {
   await db.query(`
-  INSERT INTO COUNTRY (countryName, countryPopulation, countryPopulationChange) 
+  INSERT INTO COUNTRY (countryName, population, populationChange) 
   VALUES (?, ?, ?)
   `, [name, population, populationChange]);
   return getCountryName(name);
@@ -22,38 +22,38 @@ export const getCountries = async () => {
   return rows;
 }
 
-export const getCountryPopulationL = async (population) => {
+export const getPopulationL = async (population) => {
   const [rows] = await db.query(`
   SELECT *
   FROM COUNTRY
-  WHERE countryPopulation < ?
+  WHERE population < ?
   `, [population]);
   return rows;
 }
 
-export const getCountryPopulationG = async (population) => {
+export const getPopulationG = async (population) => {
   const [rows] = await db.query(`
   SELECT *
   FROM COUNTRY
-  WHERE countryPopulation > ?
+  WHERE population > ?
   `, [population]);
   return rows;
 }
 
-export const getCountryPopulationChangeL = async (populationChange) => {
+export const getPopulationChangeL = async (populationChange) => {
   const [rows] = await db.query(`
   SELECT *
   FROM COUNTRY
-  WHERE countryPopulationChange < ?
+  WHERE populationChange < ?
   `, [populationChange]);
   return rows;
 }
 
-export const getCountryPopulationChangeG = async (populationChange) => {
+export const getPopulationChangeG = async (populationChange) => {
   const [rows] = await db.query(`
   SELECT *
   FROM COUNTRY
-  WHERE countryPopulationChange > ?
+  WHERE populationChange > ?
   `, [populationChange]);
   return rows;
 }
