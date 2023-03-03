@@ -5,12 +5,6 @@ import bodyParser from 'body-parser';
 import express from 'express';
 
 import countryRoute from './routes/countryRoute.js';
-import atmosphericData from './routes/atmosphericDataRoute.js';
-import landData from './routes/landDataRoute.js';
-import societalData from './routes/societalDataRoute.js';
-import energyData from './routes/energyDataRoute.js';
-import oceanRoute from './routes/oceanRoute.js';
-import oceanDataRoute from './routes/oceanDataRoute.js'
 
 export const app = express();
 
@@ -19,12 +13,6 @@ app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.use("/country", countryRoute);
-app.use("/atmosphericData", atmosphericData);
-app.use("/landData", landData);
-app.use("/societalData", societalData);
-app.use("/energyData", energyData);
-app.use("/ocean", oceanRoute);
-app.use("/oceanData", oceanDataRoute);
 
 app.use((err, req, res, next) => {
   console.error(err.stack);
