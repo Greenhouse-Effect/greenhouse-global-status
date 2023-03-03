@@ -91,7 +91,7 @@ router.get("/population/l/:population", async (req, res) => {
  * @param response - HTTP response. Responds with countries whose population yearly change are greater than the request param and 
  *                  status code based on functionality of route.
  */
-router.get("/populationChange/g/:populationChange", (req, res) => {
+router.get("/populationChange/g/:populationChange", async (req, res) => {
   try {
     const populationChange = req.params.populationChange;
     const countries = 1; // use function from countryQueries
@@ -108,7 +108,7 @@ router.get("/populationChange/g/:populationChange", (req, res) => {
  * @param response - HTTP response. Responds with countries whose population yearly change are greater than the request param and 
  *                  status code based on functionality of route.
  */
-router.get("/populationChange/l/:populationChange", (req, res) => {
+router.get("/populationChange/l/:populationChange", async (req, res) => {
   try {
     const populationChange = req.params.populationChange;
     const countries = 1; // use function from countryQueries
