@@ -8,16 +8,52 @@ export const insertCountry = async (name, population) => {
   return getCountry(name);
 }
 
-export const getCountry = async (name) => {
+export const getCountryName = async (name) => {
   const [rows] = await db.query(`
   SELECT *
   FROM COUNTRY
   WHERE countryName = ?
   `, [name]);
-  return rows[0]
+  return rows[0];
 }
 
 export const getCountries = async () => {
   const [rows] = await db.query("SELECT * FROM COUNTRY");
+  return rows;
+}
+
+export const getCountryPopulationL = async (population) => {
+  const [rows] = await db.query(`
+  SELECT *
+  FROM COUNTRY
+  WHERE countryPopulation <= ?
+  `, [population]);
+  return rows;
+}
+
+export const getCountryPopulationG = async (population) => {
+  const [rows] = await db.query(`
+  SELECT *
+  FROM COUNTRY
+  WHERE countryPopulation >= ?
+  `, [population]);
+  return rows;
+}
+
+export const getCountryPopulationChangeL = async (populationChange) => {
+  const [rows] = await db.query(`
+  SELECT *
+  FROM COUNTRY
+  WHERE countryPopulationChange <= ?
+  `, [populationChange]);
+  return rows;
+}
+
+export const getCountryPopulationChangeG = async (populationChange) => {
+  const [rows] = await db.query(`
+  SELECT *
+  FROM COUNTRY
+  WHERE countryPopulationChange >= ?
+  `, [populationChange]);
   return rows;
 }
