@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { insertLandData } from "../queries/LandDataQueries.js";
+import { insertLandData } from "../queries/landDataQueries.js";
 const router = Router();
 
 /**
