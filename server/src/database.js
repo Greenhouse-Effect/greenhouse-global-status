@@ -9,7 +9,6 @@ export const db = mysql.createPool({
   database: process.env.DB_DATABASE
 }).promise();
 
-
 await db.query("DROP TABLE IF EXISTS COUNTRY, OCEAN, ATMOSPHERICDATA, LANDDATA, OCEANDATA, SOCIETALDATA, ENERGYDATA");
 
 await db.query(`
