@@ -2,7 +2,14 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 import mysql from 'mysql2';
 
-import { aggregateCountryData } from './scrapers/aggregate.js';
+import { populateCountryData, 
+populateAtmosphericData, 
+populateLandData, 
+populateSocietalData, 
+populateEnergyData, 
+populateDisasterData, 
+populateDiseaseData, 
+populateFoodData } from './population/populateDatabase.js';
 
 export const db = mysql.createPool({
   host: process.env.DB_HOST,
@@ -16,7 +23,7 @@ await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETA
 // creating country entity in database
 await db.query(`
 CREATE TABLE COUNTRY 
-(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange INT)
+(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange DECIMAL(3,2))
 `);
 
 // creating atmospheric data entity in database
@@ -42,3 +49,5 @@ await db.query(`
 CREATE TABLE ENERGYDATA
 (countryName VARCHAR(255) NOT NULL, year INT NOT NULL, naturalGasEmissions INT, fuelOilEmissions INT, coalEmissions INT, PRIMARY KEY (countryName, year))
 `);
+
+await populateCountryData();

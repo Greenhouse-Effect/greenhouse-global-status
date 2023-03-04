@@ -10,7 +10,7 @@ export const populateCountryData = async () => {
     axios.post("http://localhost:3002/country", {
       name: row[0],
       population: row[1],
-      populationChange: row[2]
+      populationYearlyChange: row[2]
     }).catch((error) => {
       console.log(error);
     });
