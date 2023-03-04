@@ -9,6 +9,7 @@ import atmosphericData from './routes/atmosphericDataRoute.js';
 import landData from './routes/landDataRoute.js';
 import societalData from './routes/societalDataRoute.js';
 import energyData from './routes/energyDataRoute.js';
+import disasterData from './routes/disasterDataRoute.js';
 
 export const app = express();
 
@@ -21,6 +22,7 @@ app.use("/atmosphericData", atmosphericData);
 app.use("/landData", landData);
 app.use("/societalData", societalData);
 app.use("/energyData", energyData);
+app.use("/disasterData", disasterData);
 
 app.use((err, req, res, next) => {
   console.error(err.stack);
