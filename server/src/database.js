@@ -11,18 +11,12 @@ export const db = mysql.createPool({
   database: process.env.DB_DATABASE
 }).promise();
 
-await db.query("DROP TABLE IF EXISTS COUNTRY, OCEAN, ATMOSPHERICDATA, LANDDATA, OCEANDATA, SOCIETALDATA, ENERGYDATA");
+await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETALDATA, ENERGYDATA");
 
 // creating country entity in database
 await db.query(`
 CREATE TABLE COUNTRY 
 (countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange INT)
-`);
-
-// creating ocean entity in database
-await db.query(`
-CREATE TABLE OCEAN
-(oceanName VARCHAR(255) PRIMARY KEY)
 `);
 
 // creating atmospheric data entity in database
@@ -47,10 +41,4 @@ CREATE TABLE SOCIETALDATA
 await db.query(`
 CREATE TABLE ENERGYDATA
 (countryName VARCHAR(255) NOT NULL, year INT NOT NULL, naturalGasEmissions INT, fuelOilEmissions INT, coalEmissions INT, PRIMARY KEY (countryName, year))
-`);
-
-// creating ocean data entity in database
-await db.query(`
-CREATE TABLE OCEANDATA
-(oceanName VARCHAR(255) NOT NULL, year INT NOT NULL, sinkLevel INT, tempHigh INT, tempLow INT, seaLevel INT, PRIMARY KEY (oceanName, year))
 `);
