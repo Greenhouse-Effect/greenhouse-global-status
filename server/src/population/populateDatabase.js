@@ -74,9 +74,21 @@ export const populateDisasterData = async () => {
 
   for (const row of data) {
     axios.post(`http://localhost:3002/disasterData/${row.Country}/${row.Year}`, {
-      deaths: data.Deaths,
-      homelessness: data.Homelessness,
-      economicDamages: data.Economic
+      deaths: row.Deaths,
+      homelessness: row.Homelessness,
+      economicDamages: row.Economic
+    });
+  }
+}
+
+export const populateDiseaseData = async () => {
+  const data = await csv().fromFile("../../public/disease-data.csv");
+
+  for (const row of data) {
+    axios.post(`http://localhost:3002/diseaseData/${row.Country}/${row.Year}`, {
+      rabies: row.Rabies,
+      malaria: row.Malaria,
+      infection: row.Infection
     });
   }
 }
