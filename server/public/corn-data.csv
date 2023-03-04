@@ -1,0 +1,1000 @@
+Area,Year,Value
+Afghanistan,2010,NULL
+Afghanistan,2015,NULL
+Afghanistan,2020,NULL
+Albania,2010,104487
+Albania,2015,111622
+Albania,2020,113047
+Algeria,2010,116
+Algeria,2015,686
+Algeria,2020,638
+Angola,2010,472722
+Angola,2015,629890
+Angola,2020,174957
+Antigua and Barbuda,2010,NULL
+Antigua and Barbuda,2015,NULL
+Antigua and Barbuda,2020,NULL
+Argentina,2010,3061667
+Argentina,2015,4976200
+Argentina,2020,4643455
+Armenia,2010,NULL
+Armenia,2015,NULL
+Armenia,2020,NULL
+Australia,2010,80198
+Australia,2015,122616
+Australia,2020,88234
+Austria,2010,463738
+Austria,2015,265204
+Austria,2020,360892
+Azerbaijan,2010,42885
+Azerbaijan,2015,61849
+Azerbaijan,2020,74003
+Bahamas,2010,NULL
+Bahamas,2015,NULL
+Bahamas,2020,NULL
+Bahrain,2010,NULL
+Bahrain,2015,NULL
+Bahrain,2020,NULL
+Bangladesh,2010,198502
+Bangladesh,2015,469575
+Bangladesh,2020,874495
+Barbados,2010,NULL
+Barbados,2015,NULL
+Barbados,2020,NULL
+Belarus,2010,136297
+Belarus,2015,79322
+Belarus,2020,316231
+Belgium,2010,NULL
+Belgium,2015,NULL
+Belgium,2020,NULL
+Belgium-Luxembourg,2010,NULL
+Belgium-Luxembourg,2015,NULL
+Belgium-Luxembourg,2020,NULL
+Belize,2010,14208
+Belize,2015,19960
+Belize,2020,36142
+Benin,2010,253527
+Benin,2015,321944
+Benin,2020,466459
+Bhutan,2010,18427
+Bhutan,2015,23489
+Bhutan,2020,12982
+Bolivia (Plurinational State of),2010,279605
+Bolivia (Plurinational State of),2015,294084
+Bolivia (Plurinational State of),2020,435409
+Bosnia and Herzegovina,2010,176258
+Bosnia and Herzegovina,2015,134997
+Bosnia and Herzegovina,2020,248956
+Botswana,2010,1632
+Botswana,2015,754
+Botswana,2020,11295
+Brazil,2010,9409912
+Brazil,2015,11791822
+Brazil,2020,14344653
+Brunei Darussalam,2010,NULL
+Brunei Darussalam,2015,NULL
+Brunei Darussalam,2020,NULL
+Bulgaria,2010,383873
+Bulgaria,2015,418280
+Bulgaria,2020,530645
+Burkina Faso,2010,368126
+Burkina Faso,2015,381682
+Burkina Faso,2020,619176
+Burundi,2010,47514
+Burundi,2015,58310
+Burundi,2020,151510
+Cabo Verde,2010,6001
+Cabo Verde,2015,6118
+Cabo Verde,2020,315
+Cambodia,2010,203622
+Cambodia,2015,124560
+Cambodia,2020,371704
+Cameroon,2010,526990
+Cameroon,2015,715331
+Cameroon,2020,808062
+Canada,2010,2008970
+Canada,2015,2057967
+Canada,2020,2146535
+Central African Republic,2010,NULL
+Central African Republic,2015,41105
+Central African Republic,2020,52600
+Chad,2010,84502
+Chad,2015,108605
+Chad,2020,144436
+Chile,2010,299605
+Chile,2015,314055
+Chile,2020,121049
+China,2010,48481788
+China,2015,114592494
+China,2020,109318131
+"China, Hong Kong SAR",2010,NULL
+"China, Hong Kong SAR",2015,NULL
+"China, Hong Kong SAR",2020,NULL
+"China, Macao SAR",2010,NULL
+"China, Macao SAR",2015,NULL
+"China, Macao SAR",2020,NULL
+"China, mainland",2010,48481788
+"China, mainland",2015,114592494
+"China, mainland",2020,109318131
+"China, Taiwan Province of",2010,NULL
+"China, Taiwan Province of",2015,NULL
+"China, Taiwan Province of",2020,NULL
+Colombia,2010,495498
+Colombia,2015,472914
+Colombia,2020,539623
+Comoros,2010,NULL
+Comoros,2015,NULL
+Comoros,2020,NULL
+Congo,2010,17596
+Congo,2015,13807
+Congo,2020,24688
+Cook Islands,2010,NULL
+Cook Islands,2015,NULL
+Cook Islands,2020,NULL
+Costa Rica,2010,7519
+Costa Rica,2015,5533
+Costa Rica,2020,5561
+Côte d'Ivoire,2010,202091
+Côte d'Ivoire,2015,377644
+Côte d'Ivoire,2020,662311
+Croatia,2010,391899
+Croatia,2015,235560
+Croatia,2020,355572
+Cuba,2010,NULL
+Cuba,2015,NULL
+Cuba,2020,NULL
+Cyprus,2010,NULL
+Cyprus,2015,NULL
+Cyprus,2020,NULL
+Czechia,2010,119020
+Czechia,2015,68048
+Czechia,2020,138850
+Czechoslovakia,2010,NULL
+Czechoslovakia,2015,NULL
+Czechoslovakia,2020,NULL
+Democratic People's Republic of Korea,2010,NULL
+Democratic People's Republic of Korea,2015,NULL
+Democratic People's Republic of Korea,2020,NULL
+Democratic Republic of the Congo,2010,NULL
+Democratic Republic of the Congo,2015,NULL
+Democratic Republic of the Congo,2020,NULL
+Denmark,2010,NULL
+Denmark,2015,NULL
+Denmark,2020,NULL
+Djibouti,2010,NULL
+Djibouti,2015,NULL
+Djibouti,2020,NULL
+Dominica,2010,NULL
+Dominica,2015,NULL
+Dominica,2020,NULL
+Dominican Republic,2010,13209
+Dominican Republic,2015,14559
+Dominican Republic,2020,18472
+Ecuador,2010,373956
+Ecuador,2015,668942
+Ecuador,2020,435103
+Egypt,2010,2353337
+Egypt,2015,2731160
+Egypt,2020,2651517
+El Salvador,2010,203625
+El Salvador,2015,292589
+El Salvador,2020,257368
+Equatorial Guinea,2010,NULL
+Equatorial Guinea,2015,NULL
+Equatorial Guinea,2020,NULL
+Eritrea,2010,13023
+Eritrea,2015,24191
+Eritrea,2020,35579
+Estonia,2010,NULL
+Estonia,2015,NULL
+Estonia,2020,NULL
+Eswatini,2010,NULL
+Eswatini,2015,NULL
+Eswatini,2020,NULL
+Ethiopia,2010,928175
+Ethiopia,2015,1636155
+Ethiopia,2020,1449352
+Ethiopia PDR,2010,NULL
+Ethiopia PDR,2015,NULL
+Ethiopia PDR,2020,NULL
+Faroe Islands,2010,NULL
+Faroe Islands,2015,NULL
+Faroe Islands,2020,NULL
+Fiji,2010,804
+Fiji,2015,563
+Fiji,2020,1257
+Finland,2010,NULL
+Finland,2015,NULL
+Finland,2020,NULL
+France,2010,3452245
+France,2015,2383614
+France,2020,2517047
+French Guyana,2010,NULL
+French Guyana,2015,NULL
+French Guyana,2020,NULL
+French Polynesia,2010,NULL
+French Polynesia,2015,NULL
+French Polynesia,2020,NULL
+Gabon,2010,NULL
+Gabon,2015,NULL
+Gabon,2020,NULL
+Gambia,2010,15708
+Gambia,2015,14967
+Gambia,2020,16727
+Georgia,2010,47564
+Georgia,2015,44122
+Georgia,2020,56626
+Germany,2010,875769
+Germany,2015,691761
+Germany,2020,764736
+Ghana,2010,637894
+Ghana,2015,755377
+Ghana,2020,463670
+Greece,2010,588069
+Greece,2015,400318
+Greece,2020,286175
+Grenada,2010,280
+Grenada,2015,361
+Grenada,2020,434
+Guadeloupe,2010,NULL
+Guadeloupe,2015,NULL
+Guadeloupe,2020,NULL
+Guatemala,2010,NULL
+Guatemala,2015,NULL
+Guatemala,2020,NULL
+Guinea,2010,95991
+Guinea,2015,93924
+Guinea,2020,122090
+Guinea-Bissau,2010,14012
+Guinea-Bissau,2015,6684
+Guinea-Bissau,2020,10706
+Guyana,2010,NULL
+Guyana,2015,NULL
+Guyana,2020,NULL
+Haiti,2010,NULL
+Haiti,2015,NULL
+Haiti,2020,NULL
+Honduras,2010,184883
+Honduras,2015,199570
+Honduras,2020,172427
+Hungary,2010,1262686
+Hungary,2015,1009025
+Hungary,2020,1352824
+Iceland,2010,NULL
+Iceland,2015,NULL
+Iceland,2020,NULL
+India,2010,5190800
+India,2015,5000569
+India,2020,6107100
+Indonesia,2010,5915161
+Indonesia,2015,5534011
+Indonesia,2020,7541340
+Iran (Islamic Republic of),2010,458635
+Iran (Islamic Republic of),2015,377962
+Iran (Islamic Republic of),2020,1199833
+Iraq,2010,103157
+Iraq,2015,109342
+Iraq,2020,119594
+Ireland,2010,NULL
+Ireland,2015,NULL
+Ireland,2020,NULL
+Israel,2010,87314
+Israel,2015,98542
+Israel,2020,97511
+Italy,2010,1889362
+Italy,2015,1275372
+Italy,2020,1434500
+Jamaica,2010,6738
+Jamaica,2015,7782
+Jamaica,2020,9934
+Japan,2010,NULL
+Japan,2015,NULL
+Japan,2020,NULL
+Jordan,2010,6908
+Jordan,2015,8610
+Jordan,2020,6043
+Kazakhstan,2010,70679
+Kazakhstan,2015,114245
+Kazakhstan,2020,170005
+Kenya,2010,752653
+Kenya,2015,1118173
+Kenya,2020,1103411
+Kiribati,2010,NULL
+Kiribati,2015,NULL
+Kiribati,2020,NULL
+Kuwait,2010,NULL
+Kuwait,2015,4437
+Kuwait,2020,8576
+Kyrgyzstan,2010,72936
+Kyrgyzstan,2015,173706
+Kyrgyzstan,2020,130127
+Lao People's Democratic Republic,2010,146713
+Lao People's Democratic Republic,2015,286105
+Lao People's Democratic Republic,2020,203249
+Latvia,2010,NULL
+Latvia,2015,NULL
+Latvia,2020,NULL
+Lebanon,2010,1956
+Lebanon,2015,677
+Lebanon,2020,721
+Lesotho,2010,NULL
+Lesotho,2015,NULL
+Lesotho,2020,NULL
+Liberia,2010,NULL
+Liberia,2015,NULL
+Liberia,2020,NULL
+Libya,2010,NULL
+Libya,2015,NULL
+Libya,2020,NULL
+Lithuania,2010,11366
+Lithuania,2015,8976
+Lithuania,2020,25797
+Luxembourg,2010,669
+Luxembourg,2015,159
+Luxembourg,2020,113
+Madagascar,2010,88692
+Madagascar,2015,45319
+Madagascar,2020,31962
+Malawi,2010,782190
+Malawi,2015,667054
+Malawi,2020,1136344
+Malaysia,2010,7389
+Malaysia,2015,10395
+Malaysia,2020,11448
+Maldives,2010,NULL
+Maldives,2015,NULL
+Maldives,2020,NULL
+Mali,2010,279271
+Mali,2015,388534
+Mali,2020,626403
+Malta,2010,NULL
+Malta,2015,NULL
+Malta,2020,NULL
+Marshall Islands,2010,NULL
+Marshall Islands,2015,NULL
+Marshall Islands,2020,NULL
+Martinique,2010,NULL
+Martinique,2015,NULL
+Martinique,2020,NULL
+Mauritania,2010,NULL
+Mauritania,2015,NULL
+Mauritania,2020,NULL
+Mauritius,2010,65
+Mauritius,2015,78
+Mauritius,2020,134
+Mexico,2010,5193870
+Mexico,2015,5333240
+Mexico,2020,5348281
+Micronesia (Federated States of),2010,NULL
+Micronesia (Federated States of),2015,NULL
+Micronesia (Federated States of),2020,NULL
+Mongolia,2010,NULL
+Mongolia,2015,NULL
+Mongolia,2020,NULL
+Montenegro,2010,NULL
+Montenegro,2015,NULL
+Montenegro,2020,NULL
+Morocco,2010,71635
+Morocco,2015,23066
+Morocco,2020,9756
+Mozambique,2010,339890
+Mozambique,2015,378033
+Mozambique,2020,587852
+Myanmar,2010,NULL
+Myanmar,2015,NULL
+Myanmar,2020,NULL
+Namibia,2010,23079
+Namibia,2015,20298
+Namibia,2020,21685
+Nauru,2010,NULL
+Nauru,2015,NULL
+Nauru,2020,NULL
+Nepal,2010,536076
+Nepal,2015,586448
+Nepal,2020,771546
+Netherlands,2010,39884
+Netherlands,2015,19902
+Netherlands,2020,27569
+New Caledonia,2010,NULL
+New Caledonia,2015,NULL
+New Caledonia,2020,5386
+New Zealand,2010,43536
+New Zealand,2015,68956
+New Zealand,2020,40062
+Nicaragua,2010,131648
+Nicaragua,2015,100886
+Nicaragua,2020,112537
+Niger,2010,4117
+Niger,2015,13093
+Niger,2020,21408
+Nigeria,2010,2556430
+Nigeria,2015,5170235
+Nigeria,2020,4698927
+Niue,2010,NULL
+Niue,2015,NULL
+Niue,2020,NULL
+North Macedonia,2010,29723
+North Macedonia,2015,21907
+North Macedonia,2020,32291
+Norway,2010,NULL
+Norway,2015,NULL
+Norway,2020,NULL
+Oman,2010,NULL
+Oman,2015,3647
+Oman,2020,6310
+Pakistan,2010,848648
+Pakistan,2015,1337242
+Pakistan,2020,2401984
+Palestine,2010,NULL
+Palestine,2015,NULL
+Palestine,2020,NULL
+Panama,2010,27834
+Panama,2015,61921
+Panama,2020,60006
+Papua New Guinea,2010,NULL
+Papua New Guinea,2015,NULL
+Papua New Guinea,2020,NULL
+Paraguay,2010,598070
+Paraguay,2015,800820
+Paraguay,2020,686768
+Peru,2010,701014
+Peru,2015,834988
+Peru,2020,798720
+Philippines,2010,1573359
+Philippines,2015,2126107
+Philippines,2020,2058099
+Poland,2010,391563
+Poland,2015,474751
+Poland,2020,1028298
+Portugal,2010,170117
+Portugal,2015,157946
+Portugal,2020,135794
+Puerto Rico,2010,522
+Puerto Rico,2015,20
+Puerto Rico,2020,NULL
+Qatar,2010,1013
+Qatar,2015,540
+Qatar,2020,1041
+Republic of Korea,2010,41432
+Republic of Korea,2015,49983
+Republic of Korea,2020,58874
+Republic of Moldova,2010,259077
+Republic of Moldova,2015,153004
+Republic of Moldova,2020,141787
+Réunion,2010,NULL
+Réunion,2015,NULL
+Réunion,2020,NULL
+Romania,2010,2020153
+Romania,2015,1711628
+Romania,2020,2088436
+Russian Federation,2010,475431
+Russian Federation,2015,1697634
+Russian Federation,2020,2094444
+Rwanda,2010,135503
+Rwanda,2015,119581
+Rwanda,2020,160501
+Saint Kitts and Nevis,2010,NULL
+Saint Kitts and Nevis,2015,NULL
+Saint Kitts and Nevis,2020,NULL
+Saint Lucia,2010,NULL
+Saint Lucia,2015,NULL
+Saint Lucia,2020,NULL
+Saint Vincent and the Grenadines,2010,732
+Saint Vincent and the Grenadines,2015,1137
+Saint Vincent and the Grenadines,2020,1096
+Samoa,2010,NULL
+Samoa,2015,NULL
+Samoa,2020,NULL
+Sao Tome and Principe,2010,NULL
+Sao Tome and Principe,2015,NULL
+Sao Tome and Principe,2020,NULL
+Saudi Arabia,2010,24983
+Saudi Arabia,2015,32940
+Saudi Arabia,2020,71673
+Senegal,2010,54227
+Senegal,2015,87441
+Senegal,2020,209889
+Serbia,2010,1251749
+Serbia,2015,760991
+Serbia,2020,1244311
+Serbia and Montenegro,2010,NULL
+Serbia and Montenegro,2015,NULL
+Serbia and Montenegro,2020,NULL
+Seychelles,2010,NULL
+Seychelles,2015,NULL
+Seychelles,2020,NULL
+Sierra Leone,2010,NULL
+Sierra Leone,2015,25083
+Sierra Leone,2020,3305
+Singapore,2010,NULL
+Singapore,2015,NULL
+Singapore,2020,NULL
+Slovakia,2010,181651
+Slovakia,2015,143821
+Slovakia,2020,252346
+Slovenia,2010,63913
+Slovenia,2015,49509
+Slovenia,2020,61383
+Solomon Islands,2010,NULL
+Solomon Islands,2015,NULL
+Solomon Islands,2020,NULL
+Somalia,2010,NULL
+Somalia,2015,NULL
+Somalia,2020,NULL
+South Africa,2010,1759148
+South Africa,2015,1824981
+South Africa,2020,2226355
+South Sudan,2010,NULL
+South Sudan,2015,NULL
+South Sudan,2020,NULL
+Spain,2010,805003
+Spain,2015,875222
+Spain,2020,938599
+Sri Lanka,2010,49538
+Sri Lanka,2015,60450
+Sri Lanka,2020,104719
+Sudan,2010,NULL
+Sudan,2015,NULL
+Sudan,2020,NULL
+Sudan (former),2010,7571
+Sudan (former),2015,NULL
+Sudan (former),2020,NULL
+Suriname,2010,62
+Suriname,2015,209
+Suriname,2020,117
+Sweden,2010,NULL
+Sweden,2015,NULL
+Sweden,2020,NULL
+Switzerland,2010,45958
+Switzerland,2015,37103
+Switzerland,2020,69967
+Syrian Arab Republic,2010,NULL
+Syrian Arab Republic,2015,NULL
+Syrian Arab Republic,2020,NULL
+Tajikistan,2010,68993
+Tajikistan,2015,44310
+Tajikistan,2020,38326
+Thailand,2010,1247183
+Thailand,2015,1067495
+Thailand,2020,1180972
+Timor-Leste,2010,50572
+Timor-Leste,2015,67942
+Timor-Leste,2020,35102
+Togo,2010,175226
+Togo,2015,213554
+Togo,2020,215011
+Tokelau,2010,NULL
+Tokelau,2015,NULL
+Tokelau,2020,NULL
+Tonga,2010,NULL
+Tonga,2015,NULL
+Tonga,2020,NULL
+Trinidad and Tobago,2010,1427
+Trinidad and Tobago,2015,1489
+Trinidad and Tobago,2020,2416
+Tunisia,2010,NULL
+Tunisia,2015,NULL
+Tunisia,2020,NULL
+Türkiye,2010,1339347
+Türkiye,2015,1546597
+Türkiye,2020,1121588
+Turkmenistan,2010,3875
+Turkmenistan,2015,29156
+Turkmenistan,2020,NULL
+Tuvalu,2010,NULL
+Tuvalu,2015,NULL
+Tuvalu,2020,NULL
+Uganda,2010,NULL
+Uganda,2015,NULL
+Uganda,2020,NULL
+Ukraine,2010,1876788
+Ukraine,2015,3192968
+Ukraine,2020,5246238
+United Arab Emirates,2010,NULL
+United Arab Emirates,2015,NULL
+United Arab Emirates,2020,NULL
+United Kingdom of Great Britain and Northern Ireland,2010,NULL
+United Kingdom of Great Britain and Northern Ireland,2015,NULL
+United Kingdom of Great Britain and Northern Ireland,2020,NULL
+United Republic of Tanzania,2010,1413937
+United Republic of Tanzania,2015,1163131
+United Republic of Tanzania,2020,2603978
+United States of America,2010,64386056
+United States of America,2015,49059060
+United States of America,2020,60882514
+Uruguay,2010,100021
+Uruguay,2015,93687
+Uruguay,2020,129645
+USSR,2010,NULL
+USSR,2015,NULL
+USSR,2020,NULL
+Uzbekistan,2010,NULL
+Uzbekistan,2015,NULL
+Uzbekistan,2020,NULL
+Vanuatu,2010,1132
+Vanuatu,2015,1212
+Vanuatu,2020,1284
+Venezuela (Bolivarian Republic of),2010,NULL
+Venezuela (Bolivarian Republic of),2015,NULL
+Venezuela (Bolivarian Republic of),2020,NULL
+Viet Nam,2010,1220945
+Viet Nam,2015,1742068
+Viet Nam,2020,1267466
+Yemen,2010,60698
+Yemen,2015,36949
+Yemen,2020,48797
+Yugoslav SFR,2010,NULL
+Yugoslav SFR,2015,NULL
+Yugoslav SFR,2020,NULL
+Zambia,2010,469568
+Zambia,2015,376387
+Zambia,2020,500053
+Zimbabwe,2010,327910
+Zimbabwe,2015,250689
+Zimbabwe,2020,15841
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
+,,NULL
