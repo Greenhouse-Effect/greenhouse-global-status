@@ -29,7 +29,7 @@ CREATE TABLE COUNTRY
 // creating atmospheric data entity in database
 await db.query(`
 CREATE TABLE ATMOSPHERICDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, emissions INT, tempChange INT, tempUnit VARCHAR(1), PRIMARY KEY (countryName, year))
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, emissions INT, tempChange DECIMAL(4, 3), tempUnit VARCHAR(1), PRIMARY KEY (countryName, year))
 `);
 
 // creating land data entity in database
