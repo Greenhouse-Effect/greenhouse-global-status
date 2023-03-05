@@ -39,21 +39,21 @@ export const getLandDataByAreaL = async (countryName, landArea) => {
 }
 
 // gets all data for records above a specified water withdrawal
-export const getLandDataByWithdrawalG = async (countryName, waterWithdrawal) => {
+export const getLandDataByYearWithdrawalG = async (countryName, year, waterWithdrawal) => {
     const [rows] = await db.query(`
     SELECT *
     FROM LANDDATA
-    WHERE countryName = ? AND waterWithdrawal > ?
+    WHERE countryName = ? AND year = ? AND waterWithdrawal > ?
     `, [countryName, year, waterWithdrawal]);
     return rows[0];
 }
 
 // gets all data for records below a specified water withdrawal
-export const getLandDataByWithdrawalL = async (countryName, waterWithdrawal) => {
+export const getLandDataByYearWithdrawalL = async (countryName, year, waterWithdrawal) => {
     const [rows] = await db.query(`
     SELECT *
     FROM LANDDATA
-    WHERE countryName = ? AND waterWithdrawal < ?
-    `, [countryName, waterWithdrawal]);
+    WHERE countryName = ? AND year = ? AND waterWithdrawal < ?
+    `, [countryName, year, waterWithdrawal]);
     return rows[0];
 }
