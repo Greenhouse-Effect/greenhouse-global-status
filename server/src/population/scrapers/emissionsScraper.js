@@ -1,6 +1,6 @@
 import puppeteer from 'puppeteer';
 
-export const countryScraper = async () => {
+export const emissionsScraper = async () => {
   // launches an instance of a chrome browser
   const browser = await puppeteer.launch();
   // create an instance of a page within the browser

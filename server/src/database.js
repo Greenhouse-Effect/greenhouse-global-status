@@ -2,7 +2,14 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 import mysql from 'mysql2';
 
-import { aggregateCountryData } from './scrapers/aggregate.js';
+import { populateCountryData, 
+populateAtmosphericData, 
+populateLandData, 
+populateSocietalData, 
+populateEnergyData, 
+populateDisasterData, 
+populateDiseaseData, 
+populateFoodData } from './population/populateDatabase.js';
 
 export const db = mysql.createPool({
   host: process.env.DB_HOST,
@@ -11,27 +18,34 @@ export const db = mysql.createPool({
   database: process.env.DB_DATABASE
 }).promise();
 
-await db.query("SET foreign_key_checks = 0");
+await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETALDATA, ENERGYDATA");
 
-// await db.query("DROP TABLE IF EXISTS ATMOSPHEREICDATA, LANDDATA, ECONOMICDATA, POLITICALDATA, OCEANDATA");
-await db.query("DROP TABLE IF EXISTS COUNTRY, OCEAN");
-
-// TODO: Create COUNTRY table and define attributes, domains, and constraints (do not implement foreign keys yet)
+// creating country entity in database
 await db.query(`
 CREATE TABLE COUNTRY 
-(countryName VARCHAR(255) PRIMARY KEY, countryPopulation INT, countryPopulationChange DECIMAL(3,2))
+(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange DECIMAL(3,2))
 `);
 
-// TODO: Create OCEAN table and define attributes, domains, and constraints (do not implement foreign keys yet)
+// creating atmospheric data entity in database
+await db.query(`
+CREATE TABLE ATMOSPHERICDATA
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, emissions INT, tempChange INT, tempUnit VARCHAR(1), PRIMARY KEY (countryName, year))
+`);
 
-// TODO: Create ATMOSPHERICDATA table and define attributes, domains, and constraints (do not implement foreign keys yet)
+// creating land data entity in database
+await db.query(`
+CREATE TABLE LANDDATA
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, landArea INT, waterWithdrawal INT, PRIMARY KEY (countryName, year))
+`);
 
-// TODO: Create LANDDATA table and define attributes, domains, and constraints (do not implement foreign keys yet)
+// creating societal data entity in database
+await db.query(`
+CREATE TABLE SOCIETALDATA
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, hdi INT, gni INT, PRIMARY KEY (countryName, year))
+`);
 
-// TODO: Create ECONOMICDATA table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-// TODO: Create POLITICALDATA table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-// TODO: Create OCEANDATA table and define attributes, domains, and constraints (do not implement foreign keys yet)
-
-await aggregateCountryData();
+// creating energy data entity in database
+await db.query(`
+CREATE TABLE ENERGYDATA
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, naturalGasEmissions INT, fuelOilEmissions INT, coalEmissions INT, PRIMARY KEY (countryName, year))
+`);
