@@ -2,7 +2,7 @@ import { db } from '../database.js'
 
 // gets the entire table
 export const insertLandData = async (name, year, landArea, waterWithdrawal) => {
-  await db.query(`
+  const [rows] = await db.query(`
   INSERT INTO LANDDATA (countryName, year, landArea, waterWithdrawal)
   VALUES (? ? ? ?)
   `, [name, year, landArea, waterWithdrawal]);
@@ -10,41 +10,50 @@ export const insertLandData = async (name, year, landArea, waterWithdrawal) => {
 }
 // gets data for one record by name and year
 export const getLandDataByNameYear = async (name, year) => {
-    await db.query(`
+    const [rows] = await db.query(`
     SELECT *
     FROM LANDDATA
     WHERE countryName = ? AND year = ?
     `, [name, year]);
-    return rows;
+    return rows[0];
 }
   
-// gets all data for records of given year and above a specified land area 
-export const getLandDataByYearArea = async (year, landArea) => {
-    await db.query(`
+// gets all data for records above a specified land area 
+export const getLandDataByAreaG = async (countryName, landArea) => {
+    const [rows] = await db.query(`
     SELECT *
     FROM LANDDATA
-    WHERE year = ? AND landArea > ?
-    `, [year, landArea]);
-    return rows;
+    WHERE countryName = ? AND landArea > ?
+    `, [countryName, landArea]);
+    return rows[0];
 }
 
-
-// gets all data for records of given year and above a specified emissions level
-export const getLandDataByYearEmissions = async (year, emissions) => {
-    await db.query(`
+// gets all data for records below a specified land area 
+export const getLandDataByAreaL = async (countryName, landArea) => {
+    const [rows] = await db.query(`
     SELECT *
     FROM LANDDATA
-    WHERE year = ? AND emissions > ?
-    `, [year, emissions]);
-    return rows;
+    WHERE countryName = ? AND landArea < ?
+    `, [countryName, landArea]);
+    return rows[0];
 }
 
-// gets all data for records of given year and above a specified water withdrawal
-export const getLandDataByYearWithdrawal = async (year, waterWithdrawal) => {
-    await db.query(`
+// gets all data for records above a specified water withdrawal
+export const getLandDataByWithdrawalG = async (countryName, waterWithdrawal) => {
+    const [rows] = await db.query(`
     SELECT *
     FROM LANDDATA
-    WHERE year = ? AND waterWithdrawal > ?
-    `, [year, waterWithdrawal]);
-    return rows;
+    WHERE countryName = ? AND waterWithdrawal > ?
+    `, [countryName, year, waterWithdrawal]);
+    return rows[0];
+}
+
+// gets all data for records below a specified water withdrawal
+export const getLandDataByWithdrawalL = async (countryName, waterWithdrawal) => {
+    const [rows] = await db.query(`
+    SELECT *
+    FROM LANDDATA
+    WHERE countryName = ? AND waterWithdrawal < ?
+    `, [countryName, waterWithdrawal]);
+    return rows[0];
 }
