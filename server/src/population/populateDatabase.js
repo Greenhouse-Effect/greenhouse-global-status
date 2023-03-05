@@ -1,5 +1,6 @@
 import axios from 'axios';
 import csv from 'csvtojson';
+import path from 'path';
 
 import { countryScraper } from "./scrapers/countryScraper.js";
 
@@ -18,16 +19,16 @@ export const populateCountryData = async () => {
 }
 
 export const populateAtmosphericData = async () => {
-  const temperatureData = await csv().fromFile("../../public/temperature_data.csv");
+  const temperatureDataPath = path.resolve('public/temperature-data.csv');
+  const temperatureData = await csv().fromFile(temperatureDataPath);
 
   for (const row of temperatureData) {
-    row.Value = Number(row.Value);
-    row.Year = Number(row.Year);
-
     axios.post(`http://localhost:3002/atmosphericData/${row.Area}/${row.Year}`, {
       emissions: 0, // get emissions from emissions scraper
       tempChange: row.Value,
-    })
+    }).catch((error) => {
+      console.log(error);
+    });
   }
 }
 
