@@ -3,11 +3,12 @@ import csv from 'csvtojson';
 import path from 'path';
 
 import { countryScraper } from "./scrapers/countryScraper.js";
+import { waterScraper } from "./scrapers/waterScraper.js";
 
 export const populateCountryData = async () => {
-  const countryData = await countryScraper();
+  const data = await countryScraper();
   
-  for (const row of countryData) {
+  for (const row of data) {
     axios.post("http://localhost:3002/country", {
       name: row[0],
       population: row[1],
@@ -38,11 +39,10 @@ export const populateLandData = async () => {
 }
 
 export const populateSocietalData = async () => {
-  const data = await csv().fromFile("../../public/hdi_ndi.csv");
+  const societalDataPath = path.resolve('public/hdi-gni-data.csv');
+  const data = await csv().fromFile(societalDataPath);
 
   for (const row of data) {
-    row.GNI = Number(row.GNI.replaceAll(',',''));
-    
     axios.post(`http://localhost:3002/societalData/${row.Country}/2021`, {
       hdi: data.HDI,
       gni: data.GNI
@@ -51,22 +51,17 @@ export const populateSocietalData = async () => {
 }
 
 export const populateEnergyData = async () => {
-  const coalData = await csv().fromFile("../../public/coal_emissions.csv");
-  const fuelOilData = await csv().fromFile("../../public/fuel_oil_emissions.csv");
-  const naturalGasData = await csv().fromFile("../../public/natural_gas_emissions.csv");
+  const energyDataPath = path.resolve('public/energy-consumption-data.csv');
+  const data = await csv().fromFile(energyDataPath);
 
-  for (let i = 0; i < 730; i++) {
-    coalData[i].Year = Number(coalData[i].Year);
-    coalData[i].Value = Number(coalData[i].Value);
-    fuelOilData[i].Value = Number(fuelOilData[i].Value);
-    naturalGasData[i].Value = Number(naturalGasData[i].Value);
-
-    axios.post(`http://localhost:3002/energyData/${coalData[i].Area}/${coalData[i].Year}`, {
-      emissionUnit: "Kilotonne",
-      coalEmissions: coalData.Value,
-      fuelOilEmissions: fuelOilData.Value,
-      naturalGasEmission: naturalGasData.Value
-    })
+  for (const row of data) {
+    axios.post(`http://localhost:3002/energyData/${row.Area}/${row.Year}`, {
+      naturalGas: row.NaturalGas,
+      fuelOil: row.FuelOil,
+      coal: row.Coal
+    }).catch((error) => {
+      console.log(error);
+    });
   }
 }
 
