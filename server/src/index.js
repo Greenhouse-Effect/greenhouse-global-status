@@ -9,6 +9,7 @@ import atmosphericData from './routes/atmosphericDataRoute.js';
 import landData from './routes/landDataRoute.js';
 import societalData from './routes/societalDataRoute.js';
 import energyData from './routes/energyDataRoute.js';
+import { populateAtmosphericData, populateCountryData } from './population/populateDatabase.js';
 
 export const app = express();
 
@@ -32,3 +33,6 @@ const port = process.env.APP_PORT;
 app.listen(port, () => {
   console.log(`running on port ${port}`);
 });
+
+await populateCountryData();
+await populateAtmosphericData();
