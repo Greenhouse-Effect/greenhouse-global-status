@@ -10,6 +10,8 @@ import landData from './routes/landDataRoute.js';
 import societalData from './routes/societalDataRoute.js';
 import energyData from './routes/energyDataRoute.js';
 import diseaseData from './routes/diseaseDataRoute.js';
+import disasterData from './routes/disasterDataRoute.js';
+import { populateAtmosphericData, populateCountryData } from './population/populateDatabase.js';
 
 export const app = express();
 
@@ -23,6 +25,7 @@ app.use("/landData", landData);
 app.use("/societalData", societalData);
 app.use("/energyData", energyData);
 app.use("/diseaseData", diseaseData);
+app.use("/disasterData", disasterData);
 
 app.use((err, req, res, next) => {
   console.error(err.stack);
@@ -34,3 +37,6 @@ const port = process.env.APP_PORT;
 app.listen(port, () => {
   console.log(`running on port ${port}`);
 });
+
+await populateCountryData();
+await populateAtmosphericData();

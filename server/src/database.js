@@ -2,6 +2,15 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 import mysql from 'mysql2';
 
+import { populateCountryData, 
+populateAtmosphericData, 
+populateLandData, 
+populateSocietalData, 
+populateEnergyData, 
+populateDisasterData, 
+populateDiseaseData, 
+populateFoodData } from './population/populateDatabase.js';
+
 export const db = mysql.createPool({
   host: process.env.DB_HOST,
   user: process.env.DB_USER,
@@ -9,12 +18,12 @@ export const db = mysql.createPool({
   database: process.env.DB_DATABASE
 }).promise();
 
-await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETALDATA, ENERGYDATA, DISEASEDATA");
+await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETALDATA, ENERGYDATA, DISEASEDATA, DISASTERDATA");
 
 // creating country entity in database
 await db.query(`
 CREATE TABLE COUNTRY 
-(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange INT)
+(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange DECIMAL(3,2))
 `);
 
 // creating atmospheric data entity in database
@@ -45,4 +54,10 @@ CREATE TABLE ENERGYDATA
 await db.query(`
 CREATE TABLE DISEASEDATA
 (countryName VARCHAR(255) NOT NULL, year INT NOT NULL, rabiesIncidence INT, malariaIncidence INT, countryInfection INT, PRIMARY KEY (countryName, year))
+`);
+
+// creating disease data entity in databsase
+await db.query(`
+CREATE TABLE DISASTERDATA
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, deaths INT, homelessness INT, economicDamages INT, PRIMARY KEY (countryName, year))
 `);
