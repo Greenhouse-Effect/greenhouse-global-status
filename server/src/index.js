@@ -12,11 +12,14 @@ import energyData from './routes/energyDataRoute.js';
 import foodData from './routes/foodDataRoute.js';
 import diseaseData from './routes/diseaseDataRoute.js';
 import disasterData from './routes/disasterDataRoute.js';
-import { populateAtmosphericData, 
-  populateCountryData, 
-  populateDisasterData, 
+import { populateCountryData,
+  populateAtmosphericData, 
+  populateLandData,
+  populateSocietalData,
+  populateEnergyData,
+  populateFoodData, 
   populateDiseaseData, 
-  populateFoodData } from './population/populateDatabase.js';
+  populateDisasterData } from './population/populateDatabase.js';
 
 export const app = express();
 
@@ -46,7 +49,7 @@ app.listen(port, () => {
 
 await populateCountryData();
 await populateAtmosphericData();
-// land
+// await populateLandData();
 // societal
 // energy
 await populateFoodData();
