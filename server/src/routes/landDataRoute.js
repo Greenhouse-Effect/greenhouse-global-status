@@ -1,6 +1,7 @@
 import { Router } from "express";
 
 import { insertLandData,
+getAllData,
 getLandDataByNameYear,
 getLandDataByAreaG,
 getLandDataByAreaL,
@@ -26,6 +27,15 @@ router.post("/:countryName/:year", async (req, res) => {
     res.status(500).json({ message: err.message });
   }
 });
+
+router.get("/", async (req, res) => {
+  try {
+    const landData = await getAllData();
+    res.status(200).send(landData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+})
 
 /**
  * Route gets one landData based on countryName, year property from request params

@@ -1,6 +1,7 @@
 import { Router } from "express";
 
 import { insertFoodData,
+getAllData,
 getFoodData,
 getFoodDataRiceG,
 getFoodDataRiceL,
@@ -28,6 +29,15 @@ router.post("/:countryName/:year", async (req, res) => {
     res.status(500).json({ message: err.message });
   }
 });
+
+router.get("/", async (req, res) => {
+  try {
+    const foodData = await getAllData();
+    res.status(200).send(foodData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+})
 
 /**
  * Route gets one foodData based on countryName, year property from request params
@@ -62,8 +72,6 @@ router.get("/year/:year/rice/g/:rice", async (req, res) => {
     res.status(500).json({ message: err.message });
   }
 });
-
-
 
 /**
  * Route gets all foodData based on year, rice property from request params

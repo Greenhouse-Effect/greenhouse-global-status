@@ -1,6 +1,7 @@
 import { Router } from "express";
 
 import { insertDisasterData,
+getAllData,
 getDisasterData,
 getDisasterDataDeathsG,
 getDisasterDataDeathsL,
@@ -29,6 +30,15 @@ router.post("/:countryName/:year", async (req, res) => {
     res.status(500).json({ message: err.message });
   }
 });
+
+router.get("/", async (req, res) => {
+  try {
+    const disasterData = await getAllData();
+    res.status(200).send(disasterData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+})
 
 /**
  * Route gets one disasterData based on countryName, year property from request params

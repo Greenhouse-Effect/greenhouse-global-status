@@ -8,6 +8,11 @@ export const insertDiseaseData = async (name, year, rabies, malaria, infection) 
   return getDiseaseData(name, year);
 }
 
+export const getAllData = async (req, res) => {
+  const [rows] = await db.query(`SELECT * FROM DISEASEDATA`);
+  return rows;
+}
+
 export const getDiseaseData = async (name, year) => {
   const [rows] = await db.query(`
   SELECT *

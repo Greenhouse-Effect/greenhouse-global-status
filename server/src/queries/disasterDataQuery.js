@@ -8,6 +8,11 @@ export const insertDisasterData = async (name, year, deaths, homelessness, econo
   return (getDisasterData(name, year));
 }
 
+export const getAllData = async (req, res) => {
+  const [rows] = await db.query(`SELECT * FROM DISASTERDATA`);
+  return rows;
+}
+
 export const getDisasterData = async (name, year) => {
   const [rows] = await db.query(`
   SELECT *

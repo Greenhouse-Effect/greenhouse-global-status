@@ -1,6 +1,7 @@
 import { Router } from "express";
 
 import { insertDiseaseData,
+getAllData,
 getDiseaseData,
 getDiseaseRabiesG,
 getDiseaseRabiesL,
@@ -28,6 +29,15 @@ router.post("/:countryName/:year", async (req, res) => {
     res.status(500).json({ message: err.message });
   }
 });
+
+router.get("/", async (req, res) => {
+  try {
+    const diseaseData = await getAllData();
+    res.status(200).send(diseaseData);
+  } catch(err) {
+    res.status(500).json({ message: err.message });
+  }
+})
 
 /**
  * Route gets one diseaseData based on countryName, year property from request params
