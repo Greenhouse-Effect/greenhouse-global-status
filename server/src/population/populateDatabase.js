@@ -71,39 +71,46 @@ export const populateEnergyData = async () => {
 }
 
 export const populateDisasterData = async () => {
-  const data = await csv().fromFile("../../public/natural-disasters.csv");
+  const disasterDataPath = path.resolve('public/natural-disasters.csv');
+  const data = await csv().fromFile(disasterDataPath);
 
   for (const row of data) {
     axios.post(`http://localhost:3002/disasterData/${row.Country}/${row.Year}`, {
       deaths: row.Deaths,
       homelessness: row.Homelessness,
       economicDamages: row.Economic
+    }).catch((error) => {
+      console.log(error);
     });
   }
 }
 
 export const populateDiseaseData = async () => {
-  const data = await csv().fromFile("../../public/disease-data.csv");
+  const diseaseDataPath = path.resolve('public/disease-data.csv');
+  const data = await csv().fromFile(diseaseDataPath);
 
   for (const row of data) {
     axios.post(`http://localhost:3002/diseaseData/${row.Country}/${row.Year}`, {
       rabies: row.Rabies,
       malaria: row.Malaria,
       infection: row.Infection
+    }).catch((error) => {
+      console.log(error);
     });
   }
 }
 
 export const populateFoodData = async () => {
-  const cornData = await csv().fromFile("../../public/corn-data.csv");
-  const riceData = await csv().fromFile("../../public/rice-data.csv");
-  const wheatData = await csv().fromFile("../../public/wheat-data.csv");
+  const foodDataPath = path.resolve('public/food-data.csv');
+  const data = await csv().fromFile(foodDataPath);
 
-  for (let i = 0; i < 634; i++) {
-    axios.post(`http://localhost:3002/foodData/${cornData[i].Area}/${cornData[i].Year}`, {
-      riceProduction: riceData[i].Value,
-      cornProduction: cornData[i].Value,
-      wheatProduction: wheatData[i].Value
+  for (const row of data) {
+    axios.post(`http://localhost:3002/foodData/${row.Area}/${row.Year}`, {
+      rice: row.Rice,
+      corn: row.Corn,
+      wheat: row.Wheat
+    }).catch((error) => {
+      console.log(error);
     });
   }
 }
