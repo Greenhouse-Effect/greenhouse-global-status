@@ -18,7 +18,7 @@ export const db = mysql.createPool({
   database: process.env.DB_DATABASE
 }).promise();
 
-await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETALDATA, ENERGYDATA, DISEASEDATA, DISASTERDATA");
+await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETALDATA, ENERGYDATA, DISEASEDATA, DISASTERDATA, FOODDATA");
 
 // creating country entity in database
 await db.query(`
@@ -49,6 +49,11 @@ await db.query(`
 CREATE TABLE ENERGYDATA
 (countryName VARCHAR(255) NOT NULL, year INT NOT NULL, naturalGasEmissions INT, fuelOilEmissions INT, coalEmissions INT, PRIMARY KEY (countryName, year))
 `);
+
+// creating food data entity in database
+await db.query(`
+CREATE TABLE FOODDATA
+(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, riceProduction INT, cornProduction INT, wheatProduction INT, PRIMARY KEY (countryName, year))
 
 // creating disease data entity in databsase
 await db.query(`
