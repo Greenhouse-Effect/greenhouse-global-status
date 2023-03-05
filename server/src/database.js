@@ -2,6 +2,15 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 import mysql from 'mysql2';
 
+import { populateCountryData, 
+populateAtmosphericData, 
+populateLandData, 
+populateSocietalData, 
+populateEnergyData, 
+populateDisasterData, 
+populateDiseaseData, 
+populateFoodData } from './population/populateDatabase.js';
+
 export const db = mysql.createPool({
   host: process.env.DB_HOST,
   user: process.env.DB_USER,
@@ -14,7 +23,7 @@ await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETA
 // creating country entity in database
 await db.query(`
 CREATE TABLE COUNTRY 
-(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange INT)
+(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange DECIMAL(3,2))
 `);
 
 // creating atmospheric data entity in database
