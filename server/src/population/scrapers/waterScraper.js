@@ -1,6 +1,6 @@
 import puppeteer from 'puppeteer';
 
-export const countryScraper = async () => {
+export const waterScraper = async () => {
   // launches an instance of a chrome browser
   const browser = await puppeteer.launch();
   // create an instance of a page within the browser
@@ -14,8 +14,8 @@ export const countryScraper = async () => {
     // iterate over each index and retrieve the data in that row column by column
     return Array.from(tableRows, row => {
       // selecting specific data from table
-      const country = row.querySelector("td:nth-child(2)");
-      const dailyWater = row.querySelector("td:nth-child(4)");
+      const country = row.querySelector("td:nth-child(1)");
+      const dailyWater = row.querySelector("td:nth-child(3)");
       return [country.innerText, dailyWater.innerText];
     });
   });
