@@ -9,6 +9,7 @@ import atmosphericData from './routes/atmosphericDataRoute.js';
 import landData from './routes/landDataRoute.js';
 import societalData from './routes/societalDataRoute.js';
 import energyData from './routes/energyDataRoute.js';
+import diseaseData from './routes/diseaseDataRoute.js';
 import disasterData from './routes/disasterDataRoute.js';
 import { populateAtmosphericData, populateCountryData } from './population/populateDatabase.js';
 
@@ -23,6 +24,7 @@ app.use("/atmosphericData", atmosphericData);
 app.use("/landData", landData);
 app.use("/societalData", societalData);
 app.use("/energyData", energyData);
+app.use("/diseaseData", diseaseData);
 app.use("/disasterData", disasterData);
 
 app.use((err, req, res, next) => {
