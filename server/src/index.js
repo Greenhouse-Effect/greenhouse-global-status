@@ -11,8 +11,10 @@ import societalData from './routes/societalDataRoute.js';
 import energyData from './routes/energyDataRoute.js';
 foodDataRoutesAndQueries
 import foodData from './routes/foodDataRoute.js';
+import diseaseData from './routes/diseaseDataRoute.js';
+import disasterData from './routes/disasterDataRoute.js';
 import { populateAtmosphericData, populateCountryData } from './population/populateDatabase.js';
-main
+
 
 export const app = express();
 
@@ -26,6 +28,8 @@ app.use("/landData", landData);
 app.use("/societalData", societalData);
 app.use("/energyData", energyData);
 app.use("/foodData", foodData);
+app.use("/diseaseData", diseaseData);
+app.use("/disasterData", disasterData);
 
 app.use((err, req, res, next) => {
   console.error(err.stack);

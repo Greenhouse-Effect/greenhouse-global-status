@@ -1,5 +1,12 @@
 import { Router } from "express";
 
+import { insertLandData,
+getLandDataByNameYear,
+getLandDataByAreaG,
+getLandDataByAreaL,
+getLandDataByYearWithdrawalG,
+getLandDataByYearWithdrawalL } from "../queries/landDataQuery.js";
+
 const router = Router();
 
 /**
@@ -13,7 +20,7 @@ router.post("/:countryName/:year", async (req, res) => {
     const countryName = req.params.countryName;
     const year = req.params.year;
     const { landArea, waterWithdrawal } = req.body;
-    const landData = 1; // use function from landDataQuery
+    const landData = await insertLandData(countryName, year, landArea, waterWithdrawal);
     res.status(201).send(landData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -30,7 +37,7 @@ router.get("/name/:countryName/year/:year", async (req, res) => {
   try {
     const countryName = req.params.countryName;
     const year = req.params.year;
-    const landData = 1; // use function from landDataQuery
+    const landData = await getLandDataByNameYear(countryName, year);
     res.status(200).send(landData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -47,7 +54,7 @@ router.get("/year/:year/landArea/g/:landArea", async (req, res) => {
   try {
     const year = req.params.year;
     const landArea = req.params.landArea;
-    const landData = 1; // use function from landDataQuery
+    const landData = await getLandDataByAreaG(year, landArea);
     res.status(200).send(landData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -64,7 +71,7 @@ router.get("/year/:year/landArea/l/:landArea", async (req, res) => {
   try {
     const year = req.params.year;
     const landArea = req.params.landArea;
-    const landData = 1; // use function from landDataQuery
+    const landData = await getLandDataByAreaL(year, landArea);
     res.status(200).send(landData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -81,7 +88,7 @@ router.get("/year/:year/waterWithdrawal/g/:waterWithdrawal", async (req, res) =>
   try {
     const year = req.params.year;
     const waterWithdrawal = req.params.waterWithdrawal;
-    const landData = 1; // use function from landDataQuery
+    const landData = await getLandDataByYearWithdrawalG(year, waterWithdrawal);
     res.status(200).send(landData);
   } catch(err) {
     res.status(500).json({ message: err.message });
@@ -98,7 +105,7 @@ router.get("/year/:year/waterWithdrawal/l/:waterWithdrawal", async (req, res) =>
   try {
     const year = req.params.year;
     const waterWithdrawal = req.params.waterWithdrawal;
-    const landData = 1; // use function from landDataQuery
+    const landData = await getLandDataByYearWithdrawalL(year, waterWithdrawal);
     res.status(200).send(landData);
   } catch(err) {
     res.status(500).json({ message: err.message });
