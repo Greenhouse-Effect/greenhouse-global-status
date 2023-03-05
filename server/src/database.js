@@ -49,5 +49,3 @@ await db.query(`
 CREATE TABLE ENERGYDATA
 (countryName VARCHAR(255) NOT NULL, year INT NOT NULL, naturalGasEmissions INT, fuelOilEmissions INT, coalEmissions INT, PRIMARY KEY (countryName, year))
 `);
-
-await populateCountryData();
