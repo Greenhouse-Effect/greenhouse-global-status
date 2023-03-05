@@ -3,7 +3,6 @@ import csv from 'csvtojson';
 import path from 'path';
 
 import { countryScraper } from "./scrapers/countryScraper.js";
-import { waterScraper } from "./scrapers/waterScraper.js";
 
 export const populateCountryData = async () => {
   const data = await countryScraper();
