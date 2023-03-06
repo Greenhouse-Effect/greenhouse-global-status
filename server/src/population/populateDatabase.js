@@ -19,13 +19,13 @@ export const populateCountryData = async () => {
 }
 
 export const populateAtmosphericData = async () => {
-  const temperatureDataPath = path.resolve('public/temperature-data.csv');
-  const temperatureData = await csv().fromFile(temperatureDataPath);
+  const atmosphericDataPath = path.resolve('public/emissions-temp-data.csv');
+  const data = await csv().fromFile(atmosphericDataPath);
 
-  for (const row of temperatureData) {
+  for (const row of data) {
     axios.post(`http://localhost:3002/atmosphericData/${row.Area}/${row.Year}`, {
-      emissions: 0, // get emissions from emissions scraper
-      tempChange: row.Value,
+      emissions: row.Emission,
+      tempChange: row.TempChange
     }).catch((error) => {
       console.log(error);
     });
@@ -33,8 +33,17 @@ export const populateAtmosphericData = async () => {
 }
 
 export const populateLandData = async () => {
-  // get landArea from country scraper
-  // get waterWithdrawal from water scraper
+  const landDataPath = path.resolve('public/land-water-data.csv');
+  const data = await csv().fromFile(landDataPath);
+
+  for (const row of data) {
+    axios.post(`http:localhost:3002/landData/${row.Country}/2021`, {
+      landArea: row.Land,
+      waterWithdrawal: row.Water
+    }).catch((error) => {
+      console.log(error);
+    })
+  }  
 }
 
 export const populateSocietalData = async () => {

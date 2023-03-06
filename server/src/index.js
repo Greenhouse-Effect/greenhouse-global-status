@@ -49,7 +49,7 @@ app.listen(port, () => {
 
 await populateCountryData();
 await populateAtmosphericData();
-// await populateLandData();
+await populateLandData();
 // societal
 // energy
 await populateFoodData();
