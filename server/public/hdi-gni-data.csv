@@ -1,0 +1,192 @@
+Country,HDI,GNI
+Switzerland,0.962,66933
+Norway,0.961,64660
+Iceland,0.959,55782
+"Hong Kong, China (SAR)",0.952,62607
+Australia,0.951,49238
+Denmark,0.948,60365
+Sweden,0.947,54489
+Ireland,0.945,76169
+Germany,0.942,54534
+Netherlands,0.941,55979
+Finland,0.940,49452
+Singapore,0.939,90919
+Belgium,0.937,52293
+New Zealand,0.937,44057
+Canada,0.936,46808
+Liechtenstein,0.935,146830
+Luxembourg,0.930,84649
+United Kingdom,0.929,45225
+Japan,0.925,42274
+Korea,0.925,44501
+United States,0.921,64765
+Israel,0.919,41524
+Malta,0.918,38884
+Slovenia,0.918,39746
+Austria,0.916,53619
+United Arab Emirates,0.911,62574
+Spain,0.905,38354
+France,0.903,45937
+Cyprus,0.896,38188
+Italy,0.895,42840
+Estonia,0.890,38048
+Czechia,0.889,38745
+Greece,0.887,29002
+Poland,0.876,33034
+Bahrain,0.875,39497
+Lithuania,0.875,37931
+Saudi Arabia,0.875,46112
+Portugal,0.866,33155
+Latvia,0.863,32803
+Andorra,0.858,51167
+Croatia,0.858,30132
+Chile,0.855,24563
+Qatar,0.855,87134
+San Marino,0.853,52654
+Slovakia,0.848,30690
+Hungary,0.846,32789
+Argentina,0.842,20925
+Türkiye,0.838,31033
+Montenegro,0.832,20839
+Kuwait,0.831,52920
+Brunei Darussalam,0.829,64490
+Russian Federation,0.822,27166
+Romania,0.821,30027
+Oman,0.816,27054
+Bahamas,0.812,30486
+Kazakhstan,0.811,23943
+Trinidad and Tobago,0.810,23392
+Costa Rica,0.809,19974
+Uruguay,0.809,21269
+Belarus,0.808,18849
+Panama,0.805,26957
+Malaysia,0.803,26658
+Georgia,0.802,14664
+Mauritius,0.802,22025
+Serbia,0.802,19123
+Thailand,0.800,17030
+Albania,0.796,14131
+Bulgaria,0.795,23079
+Grenada,0.795,13484
+Barbados,0.790,12306
+Antigua and Barbuda,0.788,16792
+Seychelles,0.785,25831
+Sri Lanka,0.782,12578
+Bosnia and Herzegovina,0.780,15242
+Saint Kitts and Nevis,0.777,23358
+Iran,0.774,13001
+Ukraine,0.773,13256
+North Macedonia,0.770,15918
+China,0.768,17504
+Dominican Republic,0.767,17990
+Moldova,0.767,14875
+Palau,0.767,13819
+Cuba,0.764,7879
+Peru,0.762,12246
+Armenia,0.759,13158
+Mexico,0.758,17896
+Brazil,0.754,14370
+Colombia,0.752,14384
+Saint Vincent and the Grenadines,0.751,11961
+Maldives,0.747,15448
+Algeria,0.745,10800
+Azerbaijan,0.745,14257
+Tonga,0.745,6822
+Turkmenistan,0.745,13021
+Ecuador,0.740,10312
+Mongolia,0.739,10588
+Egypt,0.731,11732
+Tunisia,0.731,10258
+Fiji,0.730,9980
+Suriname,0.730,12672
+Uzbekistan,0.727,7917
+Dominica,0.720,11488
+Jordan,0.720,9924
+Libya,0.718,15336
+Paraguay,0.717,12349
+"Palestine, State of",0.715,6583
+Saint Lucia,0.715,12048
+Guyana,0.714,22465
+South Africa,0.713,12948
+Jamaica,0.709,8834
+Samoa,0.707,5308
+Gabon,0.706,13367
+Lebanon,0.706,9526
+Indonesia,0.705,11466
+Viet Nam,0.703,7867
+Philippines,0.699,8920
+Botswana,0.693,16198
+Bolivia,0.692,8111
+Kyrgyzstan,0.692,4566
+Venezuela,0.691,4811
+Iraq,0.686,9977
+Tajikistan,0.685,4548
+Belize,0.683,6309
+Morocco,0.683,7303
+El Salvador,0.675,8296
+Nicaragua,0.667,5625
+Bhutan,0.666,9438
+Cabo Verde,0.662,6230
+Bangladesh,0.661,5472
+Tuvalu,0.641,6351
+Marshall Islands,0.639,4620
+India,0.633,6590
+Ghana,0.632,5745
+Micronesia,0.628,3696
+Guatemala,0.627,8723
+Kiribati,0.624,4063
+Honduras,0.621,5298
+Sao Tome and Principe,0.618,4021
+Namibia,0.615,8634
+Lao People's Democratic Republic,0.607,7700
+Timor-Leste,0.607,4461
+Vanuatu,0.607,3085
+Nepal,0.602,3877
+Eswatini,0.597,7679
+Equatorial Guinea,0.596,12074
+Cambodia,0.593,4079
+Zimbabwe,0.593,3810
+Angola,0.586,5466
+Myanmar,0.585,3851
+Syrian Arab Republic,0.577,4192
+Cameroon,0.576,3621
+Kenya,0.575,4474
+Congo,0.571,2889
+Zambia,0.565,3218
+Solomon Islands,0.564,2482
+Comoros,0.558,3142
+Papua New Guinea,0.558,4009
+Mauritania,0.556,5075
+Côte d'Ivoire,0.550,5217
+Tanzania,0.549,2664
+Pakistan,0.544,4624
+Togo,0.539,2167
+Haiti,0.535,2848
+Nigeria,0.535,4790
+Rwanda,0.534,2210
+Benin,0.525,3409
+Uganda,0.525,2181
+Lesotho,0.514,2700
+Malawi,0.512,1466
+Senegal,0.511,3344
+Djibouti,0.509,5025
+Sudan,0.508,3575
+Madagascar,0.501,1484
+Gambia,0.500,2172
+Ethiopia,0.498,2361
+Eritrea,0.492,1729
+Guinea-Bissau,0.483,1908
+Liberia,0.481,1289
+Congo,0.479,1076
+Afghanistan,0.478,1824
+Sierra Leone,0.477,1622
+Guinea,0.465,2481
+Yemen,0.455,1314
+Burkina Faso,0.449,2118
+Mozambique,0.446,1198
+Mali,0.428,2133
+Burundi,0.426,732
+Central African Republic,0.404,966
+Niger,0.400,1240
+Chad,0.394,1364
+South Sudan,0.385,768

@@ -63,8 +63,6 @@ router.get("/year/:year/rice/g/:rice", async (req, res) => {
   }
 });
 
-
-
 /**
  * Route gets all foodData based on year, rice property from request params
  * 

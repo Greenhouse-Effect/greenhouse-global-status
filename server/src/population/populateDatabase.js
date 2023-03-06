@@ -5,105 +5,189 @@ import path from 'path';
 import { countryScraper } from "./scrapers/countryScraper.js";
 
 export const populateCountryData = async () => {
-  const countryData = await countryScraper();
+  const data = await countryScraper();
   
-  for (const row of countryData) {
-    axios.post("http://localhost:3002/country", {
-      name: row[0],
-      population: row[1],
-      populationYearlyChange: row[2]
-    }).catch((error) => {
-      console.log(error);
-    });
+  let promises = [];
+  for (const row of data) {
+    promises.push(
+      await axios.post("http://localhost:3002/country", {
+        name: row[0],
+        population: row[1],
+        populationYearlyChange: row[2]
+      }, {
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).catch((error) => {
+        console.log(error);
+      })
+    );
   }
+
+  await Promise.all(promises).then(console.log("COUNTRY has been populated"));
 }
 
 export const populateAtmosphericData = async () => {
-  const temperatureDataPath = path.resolve('public/temperature-data.csv');
-  const temperatureData = await csv().fromFile(temperatureDataPath);
+  const atmosphericDataPath = path.resolve('public/emissions-temp-data.csv');
+  const data = await csv().fromFile(atmosphericDataPath);
 
-  for (const row of temperatureData) {
-    axios.post(`http://localhost:3002/atmosphericData/${row.Area}/${row.Year}`, {
-      emissions: 0, // get emissions from emissions scraper
-      tempChange: row.Value,
-    }).catch((error) => {
-      console.log(error);
-    });
+  let promises = [];
+  for (const row of data) {
+    promises.push(
+      await axios.post(`http://localhost:3002/atmosphericData/${row.Area}/${row.Year}`, {
+        emissions: row.Emission,
+        tempChange: row.TempChange
+      }, {
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).catch((error) => {
+        console.log(error);
+      })
+    );
   }
+
+  await Promise.all(promises).then(console.log("ATMOSPHERICDATA has been populated"));
 }
 
 export const populateLandData = async () => {
-  // get landArea from country scraper
-  // get waterWithdrawal from water scraper
+  const landDataPath = path.resolve('public/land-water-data.csv');
+  const data = await csv().fromFile(landDataPath);
+
+  let promises = [];
+  for (const row of data) {
+    promises.push(
+      await axios.post(`http://localhost:3002/landData/${row.Country}/2021`, {
+        landArea: row.Land,
+        waterWithdrawal: row.Water
+      }, {
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).catch((error) => {
+        console.log(error);
+      })
+    );
+  }  
+
+  await Promise.all(promises).then(console.log("LANDDATA has been populated"));
 }
 
 export const populateSocietalData = async () => {
-  const data = await csv().fromFile("../../public/hdi_ndi.csv");
+  const societalDataPath = path.resolve('public/hdi-gni-data.csv');
+  const data = await csv().fromFile(societalDataPath);
 
+  let promises = [];
   for (const row of data) {
-    row.GNI = Number(row.GNI.replaceAll(',',''));
-    
-    axios.post(`http://localhost:3002/societalData/${row.Country}/2021`, {
-      hdi: data.HDI,
-      gni: data.GNI
-    });
+    promises.push(
+      await axios.post(`http://localhost:3002/societalData/${row.Country}/2021`, {
+        hdi: row.HDI,
+        gni: row.GNI
+      }, {
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).catch((error) => {
+        console.log(error);
+      })
+    );
   }
+
+  await Promise.all(promises).then(console.log("SOCIETALDATA has been populated"));
 }
 
 export const populateEnergyData = async () => {
-  const coalData = await csv().fromFile("../../public/coal_emissions.csv");
-  const fuelOilData = await csv().fromFile("../../public/fuel_oil_emissions.csv");
-  const naturalGasData = await csv().fromFile("../../public/natural_gas_emissions.csv");
+  const energyDataPath = path.resolve('public/energy-consumption-data.csv');
+  const data = await csv().fromFile(energyDataPath);
 
-  for (let i = 0; i < 730; i++) {
-    coalData[i].Year = Number(coalData[i].Year);
-    coalData[i].Value = Number(coalData[i].Value);
-    fuelOilData[i].Value = Number(fuelOilData[i].Value);
-    naturalGasData[i].Value = Number(naturalGasData[i].Value);
-
-    axios.post(`http://localhost:3002/energyData/${coalData[i].Area}/${coalData[i].Year}`, {
-      emissionUnit: "Kilotonne",
-      coalEmissions: coalData.Value,
-      fuelOilEmissions: fuelOilData.Value,
-      naturalGasEmission: naturalGasData.Value
-    })
+  let promises = [];
+  for (const row of data) {
+    promises.push(
+      await axios.post(`http://localhost:3002/energyData/${row.Area}/${row.Year}`, {
+        naturalGas: row.NaturalGas,
+        fuelOil: row.FuelOil,
+        coal: row.Coal
+      }, {
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).catch((error) => {
+        console.log(error);
+      })
+    );
   }
+
+  await Promise.all(promises).then(console.log("ENERGYDATA has been populated"));
 }
 
 export const populateDisasterData = async () => {
-  const data = await csv().fromFile("../../public/natural-disasters.csv");
+  const disasterDataPath = path.resolve('public/natural-disasters.csv');
+  const data = await csv().fromFile(disasterDataPath);
 
+  let promises = [];
   for (const row of data) {
-    axios.post(`http://localhost:3002/disasterData/${row.Country}/${row.Year}`, {
-      deaths: row.Deaths,
-      homelessness: row.Homelessness,
-      economicDamages: row.Economic
-    });
+    promises.push(
+      await axios.post(`http://localhost:3002/disasterData/${row.Country}/${row.Year}`, {
+        deaths: row.Deaths,
+        homelessness: row.Homelessness,
+        economicDamages: row.Economic
+      }, {
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).catch((error) => {
+        console.log(error);
+      })
+    );
   }
+
+  await Promise.all(promises).then(console.log("DISASTERDATA has been populated"));
 }
 
 export const populateDiseaseData = async () => {
-  const data = await csv().fromFile("../../public/disease-data.csv");
+  const diseaseDataPath = path.resolve('public/disease-data.csv');
+  const data = await csv().fromFile(diseaseDataPath);
 
+  let promises = [];
   for (const row of data) {
-    axios.post(`http://localhost:3002/diseaseData/${row.Country}/${row.Year}`, {
-      rabies: row.Rabies,
-      malaria: row.Malaria,
-      infection: row.Infection
-    });
+    promises.push(
+      await axios.post(`http://localhost:3002/diseaseData/${row.Country}/${row.Year}`, {
+        rabies: row.Rabies,
+        malaria: row.Malaria,
+        infection: row.Infection
+      }, {
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).catch((error) => {
+        console.log(error);
+      })
+    );
   }
+
+  await Promise.all(promises).then(console.log("DISEASEDATA has been populated"));
 }
 
 export const populateFoodData = async () => {
-  const cornData = await csv().fromFile("../../public/corn-data.csv");
-  const riceData = await csv().fromFile("../../public/rice-data.csv");
-  const wheatData = await csv().fromFile("../../public/wheat-data.csv");
+  const foodDataPath = path.resolve('public/food-data.csv');
+  const data = await csv().fromFile(foodDataPath);
 
-  for (let i = 0; i < 634; i++) {
-    axios.post(`http://localhost:3002/foodData/${cornData[i].Area}/${cornData[i].Year}`, {
-      riceProduction: riceData[i].Value,
-      cornProduction: cornData[i].Value,
-      wheatProduction: wheatData[i].Value
-    });
+  let promises = [];
+  for (const row of data) {
+    promises.push(
+      await axios.post(`http://localhost:3002/foodData/${row.Area}/${row.Year}`, {
+        rice: row.Rice,
+        corn: row.Corn,
+        wheat: row.Wheat
+      }, {
+        headers: {
+          'content-type': 'application/json'
+        }
+      }).catch((error) => {
+        console.log(error);
+      })
+    );
   }
+
+  await Promise.all(promises).then(console.log("FOODDATA has been populated"));
 }

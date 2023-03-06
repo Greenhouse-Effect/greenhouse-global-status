@@ -20,7 +20,7 @@ router.post("/:countryName/:year", async (req, res) => {
     const countryName = req.params.countryName;
     const year = req.params.year;
     const { emissions, tempChange } = req.body;
-    const atmopshericData = await insertAtmosphericData(countryName, year, emissions, tempChange, "C");
+    const atmopshericData = await insertAtmosphericData(countryName, year, emissions, "Kiloton", tempChange, "C");
     res.status(201).send(atmopshericData);
   } catch(err) {
     res.status(500).json({ message: err.message });

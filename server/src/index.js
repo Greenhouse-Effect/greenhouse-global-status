@@ -1,7 +1,6 @@
 import dotenv from 'dotenv';
 dotenv.config();
 import cors from 'cors';
-import bodyParser from 'body-parser';
 import express from 'express';
 
 import countryRoute from './routes/countryRoute.js';
@@ -9,18 +8,23 @@ import atmosphericData from './routes/atmosphericDataRoute.js';
 import landData from './routes/landDataRoute.js';
 import societalData from './routes/societalDataRoute.js';
 import energyData from './routes/energyDataRoute.js';
-foodDataRoutesAndQueries
 import foodData from './routes/foodDataRoute.js';
 import diseaseData from './routes/diseaseDataRoute.js';
 import disasterData from './routes/disasterDataRoute.js';
-import { populateAtmosphericData, populateCountryData } from './population/populateDatabase.js';
-
+import { populateCountryData,
+  populateAtmosphericData, 
+  populateLandData,
+  populateSocietalData,
+  populateEnergyData,
+  populateFoodData, 
+  populateDiseaseData, 
+  populateDisasterData } from './population/populateDatabase.js';
 
 export const app = express();
 
 app.use(cors());
 app.use(express.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(express.urlencoded({ extended: true }));
 
 app.use("/country", countryRoute);
 app.use("/atmosphericData", atmosphericData);
@@ -44,3 +48,9 @@ app.listen(port, () => {
 
 await populateCountryData();
 await populateAtmosphericData();
+await populateLandData();
+await populateSocietalData();
+await populateEnergyData();
+await populateFoodData();
+await populateDiseaseData();
+await populateDisasterData();
