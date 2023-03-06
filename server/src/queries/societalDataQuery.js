@@ -20,7 +20,7 @@ export const getSocietalData = async (name, year) => {
 export const getSocietalHdiG = async (year, hdi) => {
   const [rows] = await db.query(`
   SELECT countryName, year, hdi
-  FROM ENERGYDATA
+  FROM SOCIETALDATA
   WHERE year = ? AND hdi > ?
   `, [year, hdi]);
   return rows;
@@ -29,7 +29,7 @@ export const getSocietalHdiG = async (year, hdi) => {
 export const getSocietalHdiL = async (year, hdi) => {
   const [rows] = await db.query(`
   SELECT countryName, year, hdi
-  FROM ENERGYDATA
+  FROM SOCIETALDATA
   WHERE year = ? AND hdi < ?
   `, [year, hdi]);
   return rows;
@@ -38,7 +38,7 @@ export const getSocietalHdiL = async (year, hdi) => {
 export const getSocietalGniG = async (year, gni) => {
   const [rows] = await db.query(`
   SELECT countryName, year, gni
-  FROM ENERGYDATA
+  FROM SOCIETALDATA
   WHERE year = ? AND gni > ?
   `, [year, gni]);
   return rows;
@@ -47,7 +47,7 @@ export const getSocietalGniG = async (year, gni) => {
 export const getSocietalGniL = async (year, gni) => {
   const [rows] = await db.query(`
   SELECT countryName, year, gni
-  FROM ENERGYDATA
+  FROM SOCIETALDATA
   WHERE year = ? AND gni < ?
   `, [year, gni]);
   return rows;
