@@ -1,7 +1,6 @@
 import dotenv from 'dotenv';
 dotenv.config();
 import cors from 'cors';
-import bodyParser from 'body-parser';
 import express from 'express';
 
 import countryRoute from './routes/countryRoute.js';
@@ -25,7 +24,7 @@ export const app = express();
 
 app.use(cors());
 app.use(express.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(express.urlencoded({ extended: true }));
 
 app.use("/country", countryRoute);
 app.use("/atmosphericData", atmosphericData);
@@ -50,8 +49,8 @@ app.listen(port, () => {
 await populateCountryData();
 await populateAtmosphericData();
 await populateLandData();
-// societal
-// energy
+await populateSocietalData();
+await populateEnergyData();
 await populateFoodData();
 await populateDiseaseData();
 await populateDisasterData();
