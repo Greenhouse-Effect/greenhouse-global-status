@@ -2,15 +2,6 @@ import * as dotenv from 'dotenv';
 dotenv.config();
 import mysql from 'mysql2';
 
-import { populateCountryData, 
-populateAtmosphericData, 
-populateLandData, 
-populateSocietalData, 
-populateEnergyData, 
-populateDisasterData, 
-populateDiseaseData, 
-populateFoodData } from './population/populateDatabase.js';
-
 export const db = mysql.createPool({
   host: process.env.DB_HOST,
   user: process.env.DB_USER,
@@ -23,47 +14,82 @@ await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETA
 // creating country entity in database
 await db.query(`
 CREATE TABLE COUNTRY 
-(countryName VARCHAR(255) PRIMARY KEY, population INT, populationYearlyChange DECIMAL(3,2))
+  (countryName VARCHAR(255) PRIMARY KEY, 
+  population INT, 
+  populationYearlyChange DECIMAL(3,2))
 `);
 
 // creating atmospheric data entity in database
 await db.query(`
 CREATE TABLE ATMOSPHERICDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, emissions INT, tempChange DECIMAL(4, 3), tempUnit VARCHAR(1), PRIMARY KEY (countryName, year))
+  (countryName VARCHAR(255) NOT NULL, 
+  year INT NOT NULL, 
+  emissions INT, 
+  tempChange DECIMAL(4, 3), 
+  tempUnit VARCHAR(1), 
+  FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
 // creating land data entity in database
 await db.query(`
 CREATE TABLE LANDDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, landArea INT, waterWithdrawal INT, PRIMARY KEY (countryName, year))
+  (countryName VARCHAR(255) NOT NULL, 
+  year INT NOT NULL, 
+  landArea INT, 
+  waterWithdrawal INT, 
+  FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
 // creating societal data entity in database
 await db.query(`
 CREATE TABLE SOCIETALDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, hdi INT, gni INT, PRIMARY KEY (countryName, year))
+  (countryName VARCHAR(255) NOT NULL, 
+  year INT NOT NULL, 
+  hdi DECIMAL(4,3), 
+  gni INT, 
+  FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
 // creating energy data entity in database
 await db.query(`
 CREATE TABLE ENERGYDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, naturalGasEmissions INT, fuelOilEmissions INT, coalEmissions INT, PRIMARY KEY (countryName, year))
+  (countryName VARCHAR(255) NOT NULL, 
+  year INT NOT NULL, 
+  naturalGasEmissions DECIMAL(8,3), 
+  fuelOilEmissions DECIMAL(8,3), 
+  coalEmissions DECIMAL(8,3), 
+  FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
 // creating food data entity in database
 await db.query(`
 CREATE TABLE FOODDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, riceProduction INT, cornProduction INT, wheatProduction INT, PRIMARY KEY (countryName, year))
+  (countryName VARCHAR(255) NOT NULL, 
+  year INT NOT NULL, 
+  riceProduction INT, 
+  cornProduction INT, 
+  wheatProduction INT, 
+  FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
 // creating disease data entity in databsase
 await db.query(`
 CREATE TABLE DISEASEDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, rabiesIncidence INT, malariaIncidence INT, countryInfection INT, PRIMARY KEY (countryName, year))
+  (countryName VARCHAR(255) NOT NULL, 
+  year INT NOT NULL, 
+  rabiesIncidence INT, 
+  malariaIncidence INT, 
+  countryInfection DECIMAL(4,2), 
+  FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
 // creating disease data entity in databsase
 await db.query(`
 CREATE TABLE DISASTERDATA
-(countryName VARCHAR(255) NOT NULL, year INT NOT NULL, deaths INT, homelessness INT, economicDamages INT, PRIMARY KEY (countryName, year))
+  (countryName VARCHAR(255) NOT NULL, 
+  year INT NOT NULL, 
+  deaths INT, 
+  homelessness INT, 
+  economicDamages INT, 
+  FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
