@@ -9,11 +9,9 @@ export const db = mysql.createPool({
   database: process.env.DB_DATABASE
 }).promise();
 
-await db.query("DROP TABLE IF EXISTS COUNTRY, ATMOSPHERICDATA, LANDDATA, SOCIETALDATA, ENERGYDATA, DISEASEDATA, DISASTERDATA, FOODDATA");
-
 // creating country entity in database
 await db.query(`
-CREATE TABLE COUNTRY 
+CREATE TABLE IF NOT EXISTS COUNTRY 
   (countryName VARCHAR(255) PRIMARY KEY, 
   population INT, 
   populationYearlyChange DECIMAL(3,2))
@@ -21,7 +19,7 @@ CREATE TABLE COUNTRY
 
 // creating atmospheric data entity in database
 await db.query(`
-CREATE TABLE ATMOSPHERICDATA
+CREATE TABLE IF NOT EXISTS ATMOSPHERICDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   emissions INT, 
@@ -33,7 +31,7 @@ CREATE TABLE ATMOSPHERICDATA
 
 // creating land data entity in database
 await db.query(`
-CREATE TABLE LANDDATA
+CREATE TABLE IF NOT EXISTS LANDDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   landArea INT, 
@@ -43,7 +41,7 @@ CREATE TABLE LANDDATA
 
 // creating societal data entity in database
 await db.query(`
-CREATE TABLE SOCIETALDATA
+CREATE TABLE IF NOT EXISTS SOCIETALDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   hdi DECIMAL(4,3), 
@@ -53,7 +51,7 @@ CREATE TABLE SOCIETALDATA
 
 // creating energy data entity in database
 await db.query(`
-CREATE TABLE ENERGYDATA
+CREATE TABLE IF NOT EXISTS ENERGYDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   naturalGasEmissions DECIMAL(8,3), 
@@ -64,7 +62,7 @@ CREATE TABLE ENERGYDATA
 
 // creating food data entity in database
 await db.query(`
-CREATE TABLE FOODDATA
+CREATE TABLE IF NOT EXISTS FOODDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   riceProduction INT, 
@@ -75,7 +73,7 @@ CREATE TABLE FOODDATA
 
 // creating disease data entity in databsase
 await db.query(`
-CREATE TABLE DISEASEDATA
+CREATE TABLE IF NOT EXISTS DISEASEDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   rabiesIncidence INT, 
@@ -86,7 +84,7 @@ CREATE TABLE DISEASEDATA
 
 // creating disease data entity in databsase
 await db.query(`
-CREATE TABLE DISASTERDATA
+CREATE TABLE IF NOT EXISTS DISASTERDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   deaths INT, 
