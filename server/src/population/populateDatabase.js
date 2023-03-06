@@ -24,7 +24,7 @@ export const populateCountryData = async () => {
     );
   }
 
-  await Promise.all(promises);
+  await Promise.all(promises).then(console.log("COUNTRY has been populated"));
 }
 
 export const populateAtmosphericData = async () => {
@@ -47,7 +47,7 @@ export const populateAtmosphericData = async () => {
     );
   }
 
-  await Promise.all(promises);
+  await Promise.all(promises).then(console.log("ATMOSPHERICDATA has been populated"));
 }
 
 export const populateLandData = async () => {
@@ -70,7 +70,7 @@ export const populateLandData = async () => {
     );
   }  
 
-  await Promise.all(promises);
+  await Promise.all(promises).then(console.log("LANDDATA has been populated"));
 }
 
 export const populateSocietalData = async () => {
@@ -81,8 +81,8 @@ export const populateSocietalData = async () => {
   for (const row of data) {
     promises.push(
       await axios.post(`http://localhost:3002/societalData/${row.Country}/2021`, {
-      hdi: row.Hdi,
-      gni: row.Gni
+        hdi: row.HDI,
+        gni: row.GNI
       }, {
         headers: {
           'content-type': 'application/json'
@@ -93,7 +93,7 @@ export const populateSocietalData = async () => {
     );
   }
 
-  await Promise.all(promises);
+  await Promise.all(promises).then(console.log("SOCIETALDATA has been populated"));
 }
 
 export const populateEnergyData = async () => {
@@ -117,7 +117,7 @@ export const populateEnergyData = async () => {
     );
   }
 
-  await Promise.all(promises);
+  await Promise.all(promises).then(console.log("ENERGYDATA has been populated"));
 }
 
 export const populateDisasterData = async () => {
@@ -141,7 +141,7 @@ export const populateDisasterData = async () => {
     );
   }
 
-  await Promise.all(promises);
+  await Promise.all(promises).then(console.log("DISASTERDATA has been populated"));
 }
 
 export const populateDiseaseData = async () => {
@@ -165,7 +165,7 @@ export const populateDiseaseData = async () => {
     );
   }
 
-  await Promise.all(promises);
+  await Promise.all(promises).then(console.log("DISEASEDATA has been populated"));
 }
 
 export const populateFoodData = async () => {
@@ -189,5 +189,5 @@ export const populateFoodData = async () => {
     );
   }
 
-  await Promise.all(promises);
+  await Promise.all(promises).then(console.log("FOODDATA has been populated"));
 }
