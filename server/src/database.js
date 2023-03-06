@@ -25,6 +25,7 @@ CREATE TABLE ATMOSPHERICDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   emissions INT, 
+  emissionsUnit VARCHAR,
   tempChange DECIMAL(4, 3), 
   tempUnit VARCHAR(1), 
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
