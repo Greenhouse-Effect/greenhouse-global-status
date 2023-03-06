@@ -8,11 +8,6 @@ export const insertAtmosphericData = async (name, year, emissions, emissionsUnit
   return getAtmosphericData(name, year);
 }
 
-export const getAllData = async (req, res) => {
-  const [rows] = await db.query(`SELECT * FROM ATMOSPHERICDATA`);
-  return rows;
-}
-
 export const getAtmosphericData = async (name, year) => {
   const [rows] = await db.query(`
   SELECT *

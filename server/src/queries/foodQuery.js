@@ -8,11 +8,6 @@ export const insertFoodData = async (name, year, rice, corn, wheat) => {
   return getFoodData(name, year);
 }
 
-export const getAllData = async (req, res) => {
-  const [rows] = await db.query(`SELECT * FROM FOODDATA`);
-  return rows;
-}
-
 export const getFoodData = async (name, year) => {
   const [rows] = await db.query(`
   SELECT *

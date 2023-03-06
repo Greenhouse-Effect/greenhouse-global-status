@@ -5,7 +5,7 @@ getAtmosphericData,
 getAtmosphericEmissionsG,
 getAtmosphericEmissionsL,
 getAtmosphericTempChangeG,
-getAtmosphericTempChangeL, getAllData } from "../queries/atmosphericDataQuery.js";
+getAtmosphericTempChangeL } from "../queries/atmosphericDataQuery.js";
 
 const router = Router();
 
@@ -26,15 +26,6 @@ router.post("/:countryName/:year", async (req, res) => {
     res.status(500).json({ message: err.message });
   }
 });
-
-router.get("/", async (req, res) => {
-  try {
-    const atmopshericData = await getAllData();
-    res.status(200).send(atmopshericData);
-  } catch(err) {
-    res.status(500).json({ message: err.message });
-  }
-})
 
 /**
  * Route gets one atmosphericData based on countryName, year property from request params

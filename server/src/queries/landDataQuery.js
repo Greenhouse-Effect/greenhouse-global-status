@@ -9,11 +9,6 @@ export const insertLandData = async (name, year, landArea, waterWithdrawal) => {
   return getLandDataByNameYear(name, year);
 }
 
-export const getAllData = async (req, res) => {
-    const [rows] = await db.query(`SELECT * FROM LANDDATA`);
-    return rows;
-  }
-
 // gets data for one record by name and year
 export const getLandDataByNameYear = async (name, year) => {
     const [rows] = await db.query(`
