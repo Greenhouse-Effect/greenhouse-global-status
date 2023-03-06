@@ -22,7 +22,7 @@ export const getLandDataByNameYear = async (name, year) => {
 // gets all data for records above a specified land area 
 export const getLandDataByAreaG = async (year, landArea) => {
     const [rows] = await db.query(`
-    SELECT *
+    SELECT countryName, year, landArea
     FROM LANDDATA
     WHERE year = ? AND landArea > ?
     `, [year, landArea]);
@@ -32,7 +32,7 @@ export const getLandDataByAreaG = async (year, landArea) => {
 // gets all data for records below a specified land area 
 export const getLandDataByAreaL = async (year, landArea) => {
     const [rows] = await db.query(`
-    SELECT *
+    SELECT countryName, year, landArea
     FROM LANDDATA
     WHERE year = ? AND landArea < ?
     `, [year, landArea]);
@@ -42,7 +42,7 @@ export const getLandDataByAreaL = async (year, landArea) => {
 // gets all data for records above a specified water withdrawal
 export const getLandDataByYearWithdrawalG = async (year, waterWithdrawal) => {
     const [rows] = await db.query(`
-    SELECT *
+    SELECT countryName, year, waterWithdrawal
     FROM LANDDATA
     WHERE year = ? AND waterWithdrawal > ?
     `, [year, waterWithdrawal]);
@@ -52,7 +52,7 @@ export const getLandDataByYearWithdrawalG = async (year, waterWithdrawal) => {
 // gets all data for records below a specified water withdrawal
 export const getLandDataByYearWithdrawalL = async (year, waterWithdrawal) => {
     const [rows] = await db.query(`
-    SELECT *
+    SELECT countryName, year, waterWithdrawal
     FROM LANDDATA
     WHERE year = ? AND waterWithdrawal < ?
     `, [year, waterWithdrawal]);
