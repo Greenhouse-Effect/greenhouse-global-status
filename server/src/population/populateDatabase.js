@@ -57,7 +57,7 @@ export const populateLandData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http:localhost:3002/landData/${row.Country}/2021`, {
+      await axios.post(`http://localhost:3002/landData/${row.Country}/2021`, {
         landArea: row.Land,
         waterWithdrawal: row.Water
       }, {
@@ -81,8 +81,8 @@ export const populateSocietalData = async () => {
   for (const row of data) {
     promises.push(
       await axios.post(`http://localhost:3002/societalData/${row.Country}/2021`, {
-        hdi: data.HDI,
-        gni: data.GNI
+      hdi: row.Hdi,
+      gni: row.Gni
       }, {
         headers: {
           'content-type': 'application/json'
