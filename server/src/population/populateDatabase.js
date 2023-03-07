@@ -10,7 +10,7 @@ export const populateCountryData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post("http://localhost:3002/country", {
+      await axios.post("http://35.92.119.149:8080/country", {
         name: row[0],
         population: row[1],
         populationYearlyChange: row[2]
@@ -34,7 +34,7 @@ export const populateAtmosphericData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://localhost:3002/atmosphericData/${row.Area}/${row.Year}`, {
+      await axios.post(`http://35.92.119.149:8080/atmosphericData/${row.Area}/${row.Year}`, {
         emissions: row.Emission,
         tempChange: row.TempChange
       }, {
@@ -57,7 +57,7 @@ export const populateLandData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://localhost:3002/landData/${row.Country}/2021`, {
+      await axios.post(`http://35.92.119.149:8080/landData/${row.Country}/2021`, {
         landArea: row.Land,
         waterWithdrawal: row.Water
       }, {
@@ -80,7 +80,7 @@ export const populateSocietalData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://localhost:3002/societalData/${row.Country}/2021`, {
+      await axios.post(`http://35.92.119.149:8080/societalData/${row.Country}/2021`, {
         hdi: row.HDI,
         gni: row.GNI
       }, {
@@ -103,7 +103,7 @@ export const populateEnergyData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://localhost:3002/energyData/${row.Area}/${row.Year}`, {
+      await axios.post(`http://35.92.119.149:8080/energyData/${row.Area}/${row.Year}`, {
         naturalGas: row.NaturalGas,
         fuelOil: row.FuelOil,
         coal: row.Coal
@@ -127,7 +127,7 @@ export const populateDisasterData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://localhost:3002/disasterData/${row.Country}/${row.Year}`, {
+      await axios.post(`http://35.92.119.149:8080/disasterData/${row.Country}/${row.Year}`, {
         deaths: row.Deaths,
         homelessness: row.Homelessness,
         economicDamages: row.Economic
@@ -151,7 +151,7 @@ export const populateDiseaseData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://localhost:3002/diseaseData/${row.Country}/${row.Year}`, {
+      await axios.post(`http://35.92.119.149:8080/diseaseData/${row.Country}/${row.Year}`, {
         rabies: row.Rabies,
         malaria: row.Malaria,
         infection: row.Infection
@@ -175,7 +175,7 @@ export const populateFoodData = async () => {
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://localhost:3002/foodData/${row.Area}/${row.Year}`, {
+      await axios.post(`http://35.92.119.149:8080/foodData/${row.Area}/${row.Year}`, {
         rice: row.Rice,
         corn: row.Corn,
         wheat: row.Wheat

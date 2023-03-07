@@ -40,9 +40,7 @@ app.use((err, req, res, next) => {
   res.status(500).send('Something broke in the Server!')
 });
 
-const port = process.env.APP_PORT;
-
-app.listen(port, () => {
+app.listen(8080, () => {
   console.log(`running on port ${port}`);
 });
 
