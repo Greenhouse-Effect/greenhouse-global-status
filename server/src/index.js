@@ -46,11 +46,11 @@ app.listen(port, () => {
   console.log(`running on port ${port}`);
 });
 
-await populateCountryData();
-await populateAtmosphericData();
-await populateLandData();
-await populateSocietalData();
-await populateEnergyData();
-await populateFoodData();
-await populateDiseaseData();
-await populateDisasterData();
+// await populateCountryData();
+// await populateAtmosphericData();
+// await populateLandData();
+// await populateSocietalData();
+// await populateEnergyData();
+// await populateFoodData();
+// await populateDiseaseData();
+// await populateDisasterData();
