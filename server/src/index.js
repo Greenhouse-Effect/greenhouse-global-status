@@ -46,6 +46,7 @@ app.listen(port, () => {
   console.log(`running on port ${port}`);
 });
 
+// uncomment this for deployment
 // await populateCountryData();
 // await populateAtmosphericData();
 // await populateLandData();
