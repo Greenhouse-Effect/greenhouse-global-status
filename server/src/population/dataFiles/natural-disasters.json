@@ -1,0 +1,11608 @@
+[
+ {
+   "Country": "Afghanistan",
+   "Year": 2010,
+   "Deaths": 350,
+   "Homelessness": 1000,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2010,
+   "Deaths": 21337,
+   "Homelessness": 261990,
+   "Economic": 59176000
+ },
+ {
+   "Country": "Albania",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2010,
+   "Deaths": 25,
+   "Homelessness": 78875,
+   "Economic": 0
+ },
+ {
+   "Country": "Antigua and Barbuda",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 12600000
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2010,
+   "Deaths": 42,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Asia",
+   "Year": 2010,
+   "Deaths": 14080,
+   "Homelessness": 1282409,
+   "Economic": 38687399000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2010,
+   "Deaths": 36,
+   "Homelessness": 0,
+   "Economic": 10129000000
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2010,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2010,
+   "Deaths": 107,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Barbados",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2010,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 398146000
+ },
+ {
+   "Country": "Belize",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Benin",
+   "Year": 2010,
+   "Deaths": 46,
+   "Homelessness": 150000,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2010,
+   "Deaths": 30,
+   "Homelessness": 300,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2010,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 87000000
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2010,
+   "Deaths": 395,
+   "Homelessness": 13000,
+   "Economic": 802000000
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2010,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2010,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 176000
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2010,
+   "Deaths": 9,
+   "Homelessness": 1500,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2010,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 70000000
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2010,
+   "Deaths": 13,
+   "Homelessness": 3000,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2010,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chad",
+   "Year": 2010,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chile",
+   "Year": 2010,
+   "Deaths": 562,
+   "Homelessness": 800000,
+   "Economic": 30000000000
+ },
+ {
+   "Country": "China",
+   "Year": 2010,
+   "Deaths": 7186,
+   "Homelessness": 356625,
+   "Economic": 22675436000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2010,
+   "Deaths": 624,
+   "Homelessness": 0,
+   "Economic": 1000000000
+ },
+ {
+   "Country": "Cook Islands",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2010,
+   "Deaths": 27,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2010,
+   "Deaths": 18,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 80000000
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2010,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 347560000
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2010,
+   "Deaths": 54,
+   "Homelessness": 5730,
+   "Economic": 0
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2010,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2010,
+   "Deaths": 14,
+   "Homelessness": 500,
+   "Economic": 0
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2010,
+   "Deaths": 58,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2010,
+   "Deaths": 17,
+   "Homelessness": 2800,
+   "Economic": 20000000
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2010,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2010,
+   "Deaths": 56472,
+   "Homelessness": 2670,
+   "Economic": 19004794000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2010,
+   "Deaths": 607,
+   "Homelessness": 0,
+   "Economic": 15103134000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2010,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 39427000
+ },
+ {
+   "Country": "France",
+   "Year": 2010,
+   "Deaths": 81,
+   "Homelessness": 0,
+   "Economic": 5730000000
+ },
+ {
+   "Country": "French Polynesia",
+   "Year": 2010,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 11000000
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2010,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2010,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 1000000000
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2010,
+   "Deaths": 63,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2010,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Grenada",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2010,
+   "Deaths": 227,
+   "Homelessness": 50640,
+   "Economic": 1150000000
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2010,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guinea-Bissau",
+   "Year": 2010,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guyana",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 14700000
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2010,
+   "Deaths": 222641,
+   "Homelessness": 0,
+   "Economic": 8000000000
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2010,
+   "Deaths": 1580,
+   "Homelessness": 800000,
+   "Economic": 72164406000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2010,
+   "Deaths": 144,
+   "Homelessness": 7998,
+   "Economic": 90000000
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2010,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2010,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 440000000
+ },
+ {
+   "Country": "Iceland",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2010,
+   "Deaths": 1244,
+   "Homelessness": 907000,
+   "Economic": 2149000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2010,
+   "Deaths": 1294,
+   "Homelessness": 4830,
+   "Economic": 78000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2010,
+   "Deaths": 11,
+   "Homelessness": 3500,
+   "Economic": 0
+ },
+ {
+   "Country": "Israel",
+   "Year": 2010,
+   "Deaths": 46,
+   "Homelessness": 0,
+   "Economic": 270000000
+ },
+ {
+   "Country": "Italy",
+   "Year": 2010,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 872000000
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2010,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 150000000
+ },
+ {
+   "Country": "Japan",
+   "Year": 2010,
+   "Deaths": 180,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2010,
+   "Deaths": 44,
+   "Homelessness": 5000,
+   "Economic": 34576000
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2010,
+   "Deaths": 204,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2010,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2010,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2010,
+   "Deaths": 21161,
+   "Homelessness": 31965,
+   "Economic": 176000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2010,
+   "Deaths": 229251,
+   "Homelessness": 1162297,
+   "Economic": 21573187000
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 31000000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2010,
+   "Deaths": 120,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mali",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2010,
+   "Deaths": 182,
+   "Homelessness": 0,
+   "Economic": 7066000000
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2010,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2010,
+   "Deaths": 42,
+   "Homelessness": 0,
+   "Economic": 29000000
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2010,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2010,
+   "Deaths": 113,
+   "Homelessness": 0,
+   "Economic": 57000000
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2010,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2010,
+   "Deaths": 150,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 28000000
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 6500000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2010,
+   "Deaths": 71,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2010,
+   "Deaths": 5,
+   "Homelessness": 6615,
+   "Economic": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2010,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 30000000
+ },
+ {
+   "Country": "North America",
+   "Year": 2010,
+   "Deaths": 223498,
+   "Homelessness": 61538,
+   "Economic": 25676600000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2010,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2010,
+   "Deaths": 41,
+   "Homelessness": 590,
+   "Economic": 16679427000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2010,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 1000000000
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2010,
+   "Deaths": 2186,
+   "Homelessness": 0,
+   "Economic": 9598000000
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 500,
+   "Economic": 0
+ },
+ {
+   "Country": "Panama",
+   "Year": 2010,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2010,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2010,
+   "Deaths": 497,
+   "Homelessness": 1000,
+   "Economic": 0
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2010,
+   "Deaths": 376,
+   "Homelessness": 0,
+   "Economic": 335087000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2010,
+   "Deaths": 219,
+   "Homelessness": 0,
+   "Economic": 3080000000
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2010,
+   "Deaths": 46,
+   "Homelessness": 0,
+   "Economic": 1620000000
+ },
+ {
+   "Country": "Romania",
+   "Year": 2010,
+   "Deaths": 78,
+   "Homelessness": 0,
+   "Economic": 1111428000
+ },
+ {
+   "Country": "Russia",
+   "Year": 2010,
+   "Deaths": 55844,
+   "Homelessness": 1200,
+   "Economic": 3666000000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2010,
+   "Deaths": 21,
+   "Homelessness": 5920,
+   "Economic": 0
+ },
+ {
+   "Country": "Saint Lucia",
+   "Year": 2010,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 500000
+ },
+ {
+   "Country": "Saint Vincent and the Grenadines",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 100,
+   "Economic": 25000000
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2010,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2010,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2010,
+   "Deaths": 9,
+   "Homelessness": 1470,
+   "Economic": 132260000
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2010,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2010,
+   "Deaths": 126,
+   "Homelessness": 0,
+   "Economic": 25000000
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2010,
+   "Deaths": 2,
+   "Homelessness": 590,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2010,
+   "Deaths": 20011,
+   "Homelessness": 200,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2010,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South America",
+   "Year": 2010,
+   "Deaths": 2229,
+   "Homelessness": 814800,
+   "Economic": 32086700000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2010,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2010,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 340000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2010,
+   "Deaths": 35,
+   "Homelessness": 0,
+   "Economic": 105000000
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2010,
+   "Deaths": 36,
+   "Homelessness": 10000,
+   "Economic": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 14000000
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2010,
+   "Deaths": 34,
+   "Homelessness": 0,
+   "Economic": 1073100000
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2010,
+   "Deaths": 75,
+   "Homelessness": 1134,
+   "Economic": 205500000
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2010,
+   "Deaths": 258,
+   "Homelessness": 0,
+   "Economic": 332000000
+ },
+ {
+   "Country": "Togo",
+   "Year": 2010,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2010,
+   "Deaths": 64,
+   "Homelessness": 200,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2010,
+   "Deaths": 388,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2010,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 1900000
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 500000
+ },
+ {
+   "Country": "United States",
+   "Year": 2010,
+   "Deaths": 138,
+   "Homelessness": 0,
+   "Economic": 9162500000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2010,
+   "Deaths": 65616,
+   "Homelessness": 429735,
+   "Economic": 38286327000
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2010,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2010,
+   "Deaths": 49,
+   "Homelessness": 0,
+   "Economic": 170000000
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2010,
+   "Deaths": 221,
+   "Homelessness": 1620,
+   "Economic": 704700000
+ },
+ {
+   "Country": "World",
+   "Year": 2010,
+   "Deaths": 317657,
+   "Homelessness": 2423997,
+   "Economic": 132194096000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2010,
+   "Deaths": 22,
+   "Homelessness": 1000,
+   "Economic": 0
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2010,
+   "Deaths": 9,
+   "Homelessness": 150,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2010,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2011,
+   "Deaths": 83,
+   "Homelessness": 9700,
+   "Economic": 142000000
+ },
+ {
+   "Country": "Africa",
+   "Year": 2011,
+   "Deaths": 792,
+   "Homelessness": 75896,
+   "Economic": 1016500000
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2011,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 779000000
+ },
+ {
+   "Country": "Angola",
+   "Year": 2011,
+   "Deaths": 130,
+   "Homelessness": 100,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 104000000
+ },
+ {
+   "Country": "Asia",
+   "Year": 2011,
+   "Deaths": 27263,
+   "Homelessness": 1756482,
+   "Economic": 273704040000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2011,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 2554000000
+ },
+ {
+   "Country": "Bahamas",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 40000000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2011,
+   "Deaths": 102,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2011,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 99000000
+ },
+ {
+   "Country": "Benin",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2011,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2011,
+   "Deaths": 52,
+   "Homelessness": 0,
+   "Economic": 20000000
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2011,
+   "Deaths": 978,
+   "Homelessness": 30000,
+   "Economic": 1002000000
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2011,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2011,
+   "Deaths": 247,
+   "Homelessness": 0,
+   "Economic": 521000000
+ },
+ {
+   "Country": "Canada",
+   "Year": 2011,
+   "Deaths": 8,
+   "Homelessness": 7000,
+   "Economic": 2300000000
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2011,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chile",
+   "Year": 2011,
+   "Deaths": 1,
+   "Homelessness": 1082,
+   "Economic": 200000000
+ },
+ {
+   "Country": "China",
+   "Year": 2011,
+   "Deaths": 746,
+   "Homelessness": 308425,
+   "Economic": 12048115000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2011,
+   "Deaths": 313,
+   "Homelessness": 0,
+   "Economic": 2320000000
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2011,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 2000,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominica",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 96,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2011,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 30000000
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2011,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2011,
+   "Deaths": 35,
+   "Homelessness": 0,
+   "Economic": 1000000000
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2011,
+   "Deaths": 88,
+   "Homelessness": 15000,
+   "Economic": 1193015000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2011,
+   "Deaths": 83,
+   "Homelessness": 15000,
+   "Economic": 1169000000
+ },
+ {
+   "Country": "France",
+   "Year": 2011,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2011,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2011,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2011,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2011,
+   "Deaths": 83,
+   "Homelessness": 0,
+   "Economic": 61913000
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 4000,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2011,
+   "Deaths": 39,
+   "Homelessness": 540,
+   "Economic": 0
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2011,
+   "Deaths": 21211,
+   "Homelessness": 58253,
+   "Economic": 297068000000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2011,
+   "Deaths": 33,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2011,
+   "Deaths": 1038,
+   "Homelessness": 325000,
+   "Economic": 2032625000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2011,
+   "Deaths": 129,
+   "Homelessness": 10095,
+   "Economic": 5850000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2011,
+   "Deaths": 6,
+   "Homelessness": 2000,
+   "Economic": 0
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2011,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 325000000
+ },
+ {
+   "Country": "Italy",
+   "Year": 2011,
+   "Deaths": 29,
+   "Homelessness": 0,
+   "Economic": 545000000
+ },
+ {
+   "Country": "Japan",
+   "Year": 2011,
+   "Deaths": 19976,
+   "Homelessness": 0,
+   "Economic": 212520000000
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2011,
+   "Deaths": 2,
+   "Homelessness": 3762,
+   "Economic": 67000000
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2011,
+   "Deaths": 33,
+   "Homelessness": 5000,
+   "Economic": 0
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Laos",
+   "Year": 2011,
+   "Deaths": 48,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2011,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2011,
+   "Deaths": 354,
+   "Homelessness": 69720,
+   "Economic": 142000000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2011,
+   "Deaths": 5271,
+   "Homelessness": 1411436,
+   "Economic": 8317425000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2011,
+   "Deaths": 35,
+   "Homelessness": 25845,
+   "Economic": 0
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2011,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2011,
+   "Deaths": 18,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mali",
+   "Year": 2011,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Martinique",
+   "Year": 2011,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2011,
+   "Deaths": 125,
+   "Homelessness": 40000,
+   "Economic": 597700000
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2011,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2011,
+   "Deaths": 225,
+   "Homelessness": 3152,
+   "Economic": 5300000
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2011,
+   "Deaths": 108,
+   "Homelessness": 0,
+   "Economic": 12000000
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2011,
+   "Deaths": 182,
+   "Homelessness": 0,
+   "Economic": 123000
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2011,
+   "Deaths": 182,
+   "Homelessness": 300,
+   "Economic": 18000000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2011,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2011,
+   "Deaths": 16,
+   "Homelessness": 28175,
+   "Economic": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2011,
+   "Deaths": 185,
+   "Homelessness": 500,
+   "Economic": 4500000
+ },
+ {
+   "Country": "North America",
+   "Year": 2011,
+   "Deaths": 1166,
+   "Homelessness": 80507,
+   "Economic": 63962613000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2011,
+   "Deaths": 74,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Norway",
+   "Year": 2011,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2011,
+   "Deaths": 183,
+   "Homelessness": 300,
+   "Economic": 20557000000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2011,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2011,
+   "Deaths": 511,
+   "Homelessness": 0,
+   "Economic": 2500000000
+ },
+ {
+   "Country": "Panama",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 2000,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2011,
+   "Deaths": 109,
+   "Homelessness": 1705,
+   "Economic": 0
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2011,
+   "Deaths": 1933,
+   "Homelessness": 0,
+   "Economic": 730025000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2011,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2011,
+   "Deaths": 1,
+   "Homelessness": 771,
+   "Economic": 500000000
+ },
+ {
+   "Country": "Russia",
+   "Year": 2011,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 24015000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2011,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Saint Vincent and the Grenadines",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2011,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 300000000
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2011,
+   "Deaths": 21,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2011,
+   "Deaths": 46,
+   "Homelessness": 3500,
+   "Economic": 221000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2011,
+   "Deaths": 1477,
+   "Homelessness": 36787,
+   "Economic": 3662000000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2011,
+   "Deaths": 121,
+   "Homelessness": 2000,
+   "Economic": 52000000
+ },
+ {
+   "Country": "Spain",
+   "Year": 2011,
+   "Deaths": 11,
+   "Homelessness": 15000,
+   "Economic": 200000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2011,
+   "Deaths": 87,
+   "Homelessness": 1060273,
+   "Economic": 500000000
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2011,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2011,
+   "Deaths": 37,
+   "Homelessness": 6776,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2011,
+   "Deaths": 896,
+   "Homelessness": 0,
+   "Economic": 40317000000
+ },
+ {
+   "Country": "Tonga",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 3000000
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2011,
+   "Deaths": 655,
+   "Homelessness": 32075,
+   "Economic": 1744000000
+ },
+ {
+   "Country": "Tuvalu",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2011,
+   "Deaths": 50,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United States",
+   "Year": 2011,
+   "Deaths": 809,
+   "Homelessness": 32100,
+   "Economic": 59433000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2011,
+   "Deaths": 4115,
+   "Homelessness": 423563,
+   "Economic": 58551743000
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2011,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vanuatu",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2011,
+   "Deaths": 17,
+   "Homelessness": 2000,
+   "Economic": 16000000
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2011,
+   "Deaths": 138,
+   "Homelessness": 0,
+   "Economic": 219002000
+ },
+ {
+   "Country": "World",
+   "Year": 2011,
+   "Deaths": 30969,
+   "Homelessness": 1964972,
+   "Economic": 364095168000
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2011,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2012,
+   "Deaths": 378,
+   "Homelessness": 2680,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2012,
+   "Deaths": 1030,
+   "Homelessness": 88728,
+   "Economic": 1112115000
+ },
+ {
+   "Country": "Albania",
+   "Year": 2012,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2012,
+   "Deaths": 69,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2012,
+   "Deaths": 25,
+   "Homelessness": 2000,
+   "Economic": 12000000
+ },
+ {
+   "Country": "Asia",
+   "Year": 2012,
+   "Deaths": 6343,
+   "Homelessness": 595899,
+   "Economic": 27099274000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2012,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 588000000
+ },
+ {
+   "Country": "Austria",
+   "Year": 2012,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Azerbaijan",
+   "Year": 2012,
+   "Deaths": 5,
+   "Homelessness": 6949,
+   "Economic": 0
+ },
+ {
+   "Country": "Bahamas",
+   "Year": 2012,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2012,
+   "Deaths": 344,
+   "Homelessness": 55000,
+   "Economic": 0
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2012,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Benin",
+   "Year": 2012,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2012,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2012,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2012,
+   "Deaths": 3,
+   "Homelessness": 8500,
+   "Economic": 1631000000
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2012,
+   "Deaths": 38,
+   "Homelessness": 0,
+   "Economic": 4400000
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2012,
+   "Deaths": 18,
+   "Homelessness": 21000,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2012,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2012,
+   "Deaths": 25,
+   "Homelessness": 31980,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Canada",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 1084000000
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 3870,
+   "Economic": 0
+ },
+ {
+   "Country": "Chad",
+   "Year": 2012,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Chile",
+   "Year": 2012,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 303100000
+ },
+ {
+   "Country": "China",
+   "Year": 2012,
+   "Deaths": 802,
+   "Homelessness": 48618,
+   "Economic": 19754533000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2012,
+   "Deaths": 77,
+   "Homelessness": 8000,
+   "Economic": 102000000
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2012,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 5000000
+ },
+ {
+   "Country": "Congo",
+   "Year": 2012,
+   "Deaths": 19,
+   "Homelessness": 7500,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2012,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 45000000
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2012,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2012,
+   "Deaths": 14,
+   "Homelessness": 162746,
+   "Economic": 0
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2012,
+   "Deaths": 32,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2012,
+   "Deaths": 1,
+   "Homelessness": 1010,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2012,
+   "Deaths": 8,
+   "Homelessness": 11500,
+   "Economic": 30000000
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2012,
+   "Deaths": 34,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2012,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2012,
+   "Deaths": 1294,
+   "Homelessness": 20452,
+   "Economic": 24200901000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2012,
+   "Deaths": 619,
+   "Homelessness": 14700,
+   "Economic": 17807901000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2012,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 97400000
+ },
+ {
+   "Country": "France",
+   "Year": 2012,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Gabon",
+   "Year": 2012,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2012,
+   "Deaths": 5,
+   "Homelessness": 6000,
+   "Economic": 94000000
+ },
+ {
+   "Country": "Germany",
+   "Year": 2012,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2012,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2012,
+   "Deaths": 44,
+   "Homelessness": 0,
+   "Economic": 210000000
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2012,
+   "Deaths": 130,
+   "Homelessness": 33330,
+   "Economic": 254000000
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2012,
+   "Deaths": 1082,
+   "Homelessness": 17255,
+   "Economic": 123808301000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2012,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2012,
+   "Deaths": 599,
+   "Homelessness": 37500,
+   "Economic": 244000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2012,
+   "Deaths": 107,
+   "Homelessness": 3845,
+   "Economic": 1000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2012,
+   "Deaths": 319,
+   "Homelessness": 0,
+   "Economic": 500000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2012,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Italy",
+   "Year": 2012,
+   "Deaths": 73,
+   "Homelessness": 14700,
+   "Economic": 17137601000
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2012,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 16542000
+ },
+ {
+   "Country": "Japan",
+   "Year": 2012,
+   "Deaths": 173,
+   "Homelessness": 0,
+   "Economic": 1702400000
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2012,
+   "Deaths": 73,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2012,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2012,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2012,
+   "Deaths": 30,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2012,
+   "Deaths": 940,
+   "Homelessness": 85428,
+   "Economic": 305515000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2012,
+   "Deaths": 5780,
+   "Homelessness": 570962,
+   "Economic": 7406541000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2012,
+   "Deaths": 112,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2012,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2012,
+   "Deaths": 21,
+   "Homelessness": 4000,
+   "Economic": 1175000000
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2012,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2012,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2012,
+   "Deaths": 33,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2012,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 1170000
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2012,
+   "Deaths": 132,
+   "Homelessness": 0,
+   "Economic": 1000000
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2012,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2012,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 9100000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2012,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2012,
+   "Deaths": 91,
+   "Homelessness": 0,
+   "Economic": 184115000
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2012,
+   "Deaths": 378,
+   "Homelessness": 0,
+   "Economic": 501000000
+ },
+ {
+   "Country": "North America",
+   "Year": 2012,
+   "Deaths": 560,
+   "Homelessness": 212881,
+   "Economic": 101337542000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2012,
+   "Deaths": 147,
+   "Homelessness": 33500,
+   "Economic": 11400000
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2012,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2012,
+   "Deaths": 101,
+   "Homelessness": 1250,
+   "Economic": 854500000
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2012,
+   "Deaths": 671,
+   "Homelessness": 0,
+   "Economic": 2500000000
+ },
+ {
+   "Country": "Palau",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 1250,
+   "Economic": 0
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Panama",
+   "Year": 2012,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2012,
+   "Deaths": 65,
+   "Homelessness": 0,
+   "Economic": 27000000
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2012,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 6000000
+ },
+ {
+   "Country": "Peru",
+   "Year": 2012,
+   "Deaths": 288,
+   "Homelessness": 51385,
+   "Economic": 0
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2012,
+   "Deaths": 2385,
+   "Homelessness": 35762,
+   "Economic": 1005611000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2012,
+   "Deaths": 274,
+   "Homelessness": 0,
+   "Economic": 5900000
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Romania",
+   "Year": 2012,
+   "Deaths": 86,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Russia",
+   "Year": 2012,
+   "Deaths": 415,
+   "Homelessness": 5752,
+   "Economic": 1757000000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2012,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Samoa",
+   "Year": 2012,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 133000000
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2012,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2012,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2012,
+   "Deaths": 25,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2012,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 265000000
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2012,
+   "Deaths": 31,
+   "Homelessness": 20000,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2012,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 200000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2012,
+   "Deaths": 453,
+   "Homelessness": 69885,
+   "Economic": 2147100000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2012,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 799000000
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2012,
+   "Deaths": 47,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2012,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 395000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2012,
+   "Deaths": 53,
+   "Homelessness": 69000,
+   "Economic": 58200000
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2012,
+   "Deaths": 35,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2012,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2012,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 52200000
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2012,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 760000
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2012,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 1200000
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2012,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2012,
+   "Deaths": 18,
+   "Homelessness": 3368,
+   "Economic": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2012,
+   "Deaths": 195,
+   "Homelessness": 0,
+   "Economic": 1690000000
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2012,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 2946000000
+ },
+ {
+   "Country": "United States",
+   "Year": 2012,
+   "Deaths": 318,
+   "Homelessness": 1305,
+   "Economic": 98521000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2012,
+   "Deaths": 1979,
+   "Homelessness": 315450,
+   "Economic": 25138075000
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 93000000
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2012,
+   "Deaths": 72,
+   "Homelessness": 297045,
+   "Economic": 372800000
+ },
+ {
+   "Country": "Wallis and Futuna",
+   "Year": 2012,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "World",
+   "Year": 2012,
+   "Deaths": 9781,
+   "Homelessness": 989095,
+   "Economic": 156751432000
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2013,
+   "Deaths": 155,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2013,
+   "Deaths": 948,
+   "Homelessness": 7321,
+   "Economic": 747324000
+ },
+ {
+   "Country": "Angola",
+   "Year": 2013,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2013,
+   "Deaths": 56,
+   "Homelessness": 0,
+   "Economic": 1302000000
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 60000000
+ },
+ {
+   "Country": "Asia",
+   "Year": 2013,
+   "Deaths": 18846,
+   "Homelessness": 228602,
+   "Economic": 58707811000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2013,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 2366000000
+ },
+ {
+   "Country": "Austria",
+   "Year": 2013,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 1000000000
+ },
+ {
+   "Country": "Bahamas",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 45000000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2013,
+   "Deaths": 50,
+   "Homelessness": 0,
+   "Economic": 20000000
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2013,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Benin",
+   "Year": 2013,
+   "Deaths": 1,
+   "Homelessness": 2759,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2013,
+   "Deaths": 136,
+   "Homelessness": 0,
+   "Economic": 2500000
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2013,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2013,
+   "Deaths": 121,
+   "Homelessness": 43200,
+   "Economic": 635500000
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2013,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2013,
+   "Deaths": 200,
+   "Homelessness": 0,
+   "Economic": 500000000
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2013,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 7310000000
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chile",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 1000000000
+ },
+ {
+   "Country": "China",
+   "Year": 2013,
+   "Deaths": 1395,
+   "Homelessness": 152540,
+   "Economic": 35448900000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2013,
+   "Deaths": 7,
+   "Homelessness": 500,
+   "Economic": 6000000
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2013,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2013,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 828552000
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2013,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 102000
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2013,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 2200000
+ },
+ {
+   "Country": "Europe",
+   "Year": 2013,
+   "Deaths": 896,
+   "Homelessness": 2041,
+   "Economic": 23755552000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2013,
+   "Deaths": 112,
+   "Homelessness": 46,
+   "Economic": 20984552000
+ },
+ {
+   "Country": "France",
+   "Year": 2013,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 655000000
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2013,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2013,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 17700000000
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2013,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2013,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2013,
+   "Deaths": 6,
+   "Homelessness": 33265,
+   "Economic": 0
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2013,
+   "Deaths": 1564,
+   "Homelessness": 8293,
+   "Economic": 52420152000
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2013,
+   "Deaths": 7119,
+   "Homelessness": 0,
+   "Economic": 2377471000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2013,
+   "Deaths": 173,
+   "Homelessness": 0,
+   "Economic": 3136000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2013,
+   "Deaths": 45,
+   "Homelessness": 1500,
+   "Economic": 600000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2013,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Israel",
+   "Year": 2013,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Italy",
+   "Year": 2013,
+   "Deaths": 18,
+   "Homelessness": 0,
+   "Economic": 780000000
+ },
+ {
+   "Country": "Japan",
+   "Year": 2013,
+   "Deaths": 400,
+   "Homelessness": 0,
+   "Economic": 222200000
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2013,
+   "Deaths": 128,
+   "Homelessness": 0,
+   "Economic": 36000000
+ },
+ {
+   "Country": "Laos",
+   "Year": 2013,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 121000000
+ },
+ {
+   "Country": "Libya",
+   "Year": 2013,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2013,
+   "Deaths": 849,
+   "Homelessness": 50945,
+   "Economic": 134024000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2013,
+   "Deaths": 17130,
+   "Homelessness": 52444,
+   "Economic": 22897511000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2013,
+   "Deaths": 51,
+   "Homelessness": 0,
+   "Economic": 25000000
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2013,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2013,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Mali",
+   "Year": 2013,
+   "Deaths": 37,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Marshall Islands",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2013,
+   "Deaths": 8,
+   "Homelessness": 2305,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2013,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2013,
+   "Deaths": 223,
+   "Homelessness": 0,
+   "Economic": 5702000000
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2013,
+   "Deaths": 119,
+   "Homelessness": 0,
+   "Economic": 30000000
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2013,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 64000000
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2013,
+   "Deaths": 195,
+   "Homelessness": 4314,
+   "Economic": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2013,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 893000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2013,
+   "Deaths": 27,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2013,
+   "Deaths": 32,
+   "Homelessness": 0,
+   "Economic": 64724000
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2013,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "North America",
+   "Year": 2013,
+   "Deaths": 503,
+   "Homelessness": 42012,
+   "Economic": 31154502000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2013,
+   "Deaths": 51,
+   "Homelessness": 48688,
+   "Economic": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2013,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2013,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 3263000000
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2013,
+   "Deaths": 730,
+   "Homelessness": 0,
+   "Economic": 1600000000
+ },
+ {
+   "Country": "Palau",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2013,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Panama",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 200000000
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 25000000
+ },
+ {
+   "Country": "Peru",
+   "Year": 2013,
+   "Deaths": 69,
+   "Homelessness": 5247,
+   "Economic": 0
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2013,
+   "Deaths": 7750,
+   "Homelessness": 0,
+   "Economic": 12422810000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2013,
+   "Deaths": 29,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2013,
+   "Deaths": 10,
+   "Homelessness": 46,
+   "Economic": 0
+ },
+ {
+   "Country": "Romania",
+   "Year": 2013,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 11000000
+ },
+ {
+   "Country": "Russia",
+   "Year": 2013,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 1000000000
+ },
+ {
+   "Country": "Saint Lucia",
+   "Year": 2013,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Saint Vincent and the Grenadines",
+   "Year": 2013,
+   "Deaths": 12,
+   "Homelessness": 500,
+   "Economic": 108000000
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2013,
+   "Deaths": 39,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2013,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Seychelles",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 9300000
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 2257,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2013,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2013,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 4000000
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2013,
+   "Deaths": 169,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2013,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South America",
+   "Year": 2013,
+   "Deaths": 413,
+   "Homelessness": 48947,
+   "Economic": 2971000000
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2013,
+   "Deaths": 99,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2013,
+   "Deaths": 117,
+   "Homelessness": 3861,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2013,
+   "Deaths": 76,
+   "Homelessness": 0,
+   "Economic": 7000000
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2013,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 250000000
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2013,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 63700000
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2013,
+   "Deaths": 84,
+   "Homelessness": 15254,
+   "Economic": 579000000
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2013,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2013,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 3100000
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2013,
+   "Deaths": 2,
+   "Homelessness": 1995,
+   "Economic": 21000000
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2013,
+   "Deaths": 773,
+   "Homelessness": 0,
+   "Economic": 1500000000
+ },
+ {
+   "Country": "United States",
+   "Year": 2013,
+   "Deaths": 212,
+   "Homelessness": 8247,
+   "Economic": 17787400000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2013,
+   "Deaths": 2082,
+   "Homelessness": 217241,
+   "Economic": 45147502000
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2013,
+   "Deaths": 215,
+   "Homelessness": 2445,
+   "Economic": 1552730000
+ },
+ {
+   "Country": "World",
+   "Year": 2013,
+   "Deaths": 21625,
+   "Homelessness": 328923,
+   "Economic": 120599189000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2013,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2013,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2013,
+   "Deaths": 125,
+   "Homelessness": 0,
+   "Economic": 500000000
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2014,
+   "Deaths": 575,
+   "Homelessness": 10000,
+   "Economic": 3000000
+ },
+ {
+   "Country": "Africa",
+   "Year": 2014,
+   "Deaths": 592,
+   "Homelessness": 40586,
+   "Economic": 511000000
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2014,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2014,
+   "Deaths": 27,
+   "Homelessness": 0,
+   "Economic": 62000000
+ },
+ {
+   "Country": "Asia",
+   "Year": 2014,
+   "Deaths": 5792,
+   "Homelessness": 1235035,
+   "Economic": 64500572000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2014,
+   "Deaths": 141,
+   "Homelessness": 258,
+   "Economic": 1125000000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2014,
+   "Deaths": 79,
+   "Homelessness": 4000,
+   "Economic": 160000000
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2014,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2014,
+   "Deaths": 137,
+   "Homelessness": 4800,
+   "Economic": 200000000
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2014,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 436580000
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2014,
+   "Deaths": 41,
+   "Homelessness": 67500,
+   "Economic": 5200000000
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2014,
+   "Deaths": 21,
+   "Homelessness": 1260,
+   "Economic": 932000000
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2014,
+   "Deaths": 96,
+   "Homelessness": 12500,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2014,
+   "Deaths": 45,
+   "Homelessness": 57950,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 129000000
+ },
+ {
+   "Country": "Cape Verde",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chile",
+   "Year": 2014,
+   "Deaths": 18,
+   "Homelessness": 1638,
+   "Economic": 134000000
+ },
+ {
+   "Country": "China",
+   "Year": 2014,
+   "Deaths": 1575,
+   "Homelessness": 490730,
+   "Economic": 29056973000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2014,
+   "Deaths": 88,
+   "Homelessness": 0,
+   "Economic": 8000000
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2014,
+   "Deaths": 46,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2014,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2014,
+   "Deaths": 165,
+   "Homelessness": 3750,
+   "Economic": 15000000
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2014,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2014,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2014,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2014,
+   "Deaths": 273,
+   "Homelessness": 2260,
+   "Economic": 6748842000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2014,
+   "Deaths": 176,
+   "Homelessness": 2260,
+   "Economic": 3532000000
+ },
+ {
+   "Country": "France",
+   "Year": 2014,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 485000000
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2014,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 400000000
+ },
+ {
+   "Country": "Greece",
+   "Year": 2014,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 628000000
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2014,
+   "Deaths": 6,
+   "Homelessness": 9830,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2014,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2014,
+   "Deaths": 852,
+   "Homelessness": 3226,
+   "Economic": 28604000000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2014,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 1400000
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2014,
+   "Deaths": 1072,
+   "Homelessness": 650200,
+   "Economic": 23465000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2014,
+   "Deaths": 243,
+   "Homelessness": 7250,
+   "Economic": 1114000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2014,
+   "Deaths": 38,
+   "Homelessness": 12000,
+   "Economic": 94000000
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2014,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Italy",
+   "Year": 2014,
+   "Deaths": 15,
+   "Homelessness": 1000,
+   "Economic": 1087000000
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Japan",
+   "Year": 2014,
+   "Deaths": 301,
+   "Homelessness": 150,
+   "Economic": 6681000000
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2014,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kiribati",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Laos",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 2600,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2014,
+   "Deaths": 950,
+   "Homelessness": 27986,
+   "Economic": 22000000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2014,
+   "Deaths": 3582,
+   "Homelessness": 759555,
+   "Economic": 28624999000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2014,
+   "Deaths": 17,
+   "Homelessness": 1736,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2014,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 284000000
+ },
+ {
+   "Country": "Marshall Islands",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2014,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 2541500000
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2014,
+   "Deaths": 60,
+   "Homelessness": 0,
+   "Economic": 300000000
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2014,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2014,
+   "Deaths": 573,
+   "Homelessness": 0,
+   "Economic": 15000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2014,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 3000000
+ },
+ {
+   "Country": "Niger",
+   "Year": 2014,
+   "Deaths": 36,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2014,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "North America",
+   "Year": 2014,
+   "Deaths": 262,
+   "Homelessness": 10010,
+   "Economic": 19654900000
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2014,
+   "Deaths": 201,
+   "Homelessness": 258,
+   "Economic": 1182000000
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2014,
+   "Deaths": 410,
+   "Homelessness": 0,
+   "Economic": 2018000000
+ },
+ {
+   "Country": "Panama",
+   "Year": 2014,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2014,
+   "Deaths": 554,
+   "Homelessness": 2700,
+   "Economic": 0
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2014,
+   "Deaths": 331,
+   "Homelessness": 0,
+   "Economic": 1062899000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2014,
+   "Deaths": 78,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2014,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2014,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Reunion",
+   "Year": 2014,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 85000000
+ },
+ {
+   "Country": "Romania",
+   "Year": 2014,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Russia",
+   "Year": 2014,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 8000000
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2014,
+   "Deaths": 56,
+   "Homelessness": 0,
+   "Economic": 2048262000
+ },
+ {
+   "Country": "Seychelles",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2014,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2014,
+   "Deaths": 47,
+   "Homelessness": 0,
+   "Economic": 24000000
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2014,
+   "Deaths": 33,
+   "Homelessness": 0,
+   "Economic": 85000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2014,
+   "Deaths": 868,
+   "Homelessness": 76638,
+   "Economic": 5604000000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2014,
+   "Deaths": 41,
+   "Homelessness": 0,
+   "Economic": 13000000
+ },
+ {
+   "Country": "Spain",
+   "Year": 2014,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2014,
+   "Deaths": 336,
+   "Homelessness": 330,
+   "Economic": 27000000
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2014,
+   "Deaths": 39,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2014,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 420000000
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2014,
+   "Deaths": 20,
+   "Homelessness": 425,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2014,
+   "Deaths": 31,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2014,
+   "Deaths": 93,
+   "Homelessness": 2000,
+   "Economic": 72000000
+ },
+ {
+   "Country": "Tonga",
+   "Year": 2014,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 31000000
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2014,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 724000000
+ },
+ {
+   "Country": "United States",
+   "Year": 2014,
+   "Deaths": 205,
+   "Homelessness": 180,
+   "Economic": 16778000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2014,
+   "Deaths": 2603,
+   "Homelessness": 574020,
+   "Economic": 40865315000
+ },
+ {
+   "Country": "Vanuatu",
+   "Year": 2014,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2014,
+   "Deaths": 38,
+   "Homelessness": 0,
+   "Economic": 10700000
+ },
+ {
+   "Country": "World",
+   "Year": 2014,
+   "Deaths": 7988,
+   "Homelessness": 1364787,
+   "Economic": 98201314000
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2014,
+   "Deaths": 0,
+   "Homelessness": 20000,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2014,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 20000000
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2015,
+   "Deaths": 446,
+   "Homelessness": 45100,
+   "Economic": 3000000
+ },
+ {
+   "Country": "Africa",
+   "Year": 2015,
+   "Deaths": 1329,
+   "Homelessness": 222195,
+   "Economic": 2372100000
+ },
+ {
+   "Country": "Albania",
+   "Year": 2015,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2015,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2015,
+   "Deaths": 75,
+   "Homelessness": 2000,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2015,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 17200000
+ },
+ {
+   "Country": "Asia",
+   "Year": 2015,
+   "Deaths": 16388,
+   "Homelessness": 344932,
+   "Economic": 47045369000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2015,
+   "Deaths": 16,
+   "Homelessness": 6501,
+   "Economic": 2732000000
+ },
+ {
+   "Country": "Bahamas",
+   "Year": 2015,
+   "Deaths": 33,
+   "Homelessness": 0,
+   "Economic": 90000000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2015,
+   "Deaths": 159,
+   "Homelessness": 0,
+   "Economic": 84000000
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2015,
+   "Deaths": 410,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belize",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 44000000
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2015,
+   "Deaths": 28,
+   "Homelessness": 0,
+   "Economic": 4000000
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2015,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 5800000
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2015,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 31000000
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2015,
+   "Deaths": 63,
+   "Homelessness": 2870,
+   "Economic": 13000000
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2015,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 36,
+   "Economic": 0
+ },
+ {
+   "Country": "Cape Verde",
+   "Year": 2015,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 1100000
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2015,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chile",
+   "Year": 2015,
+   "Deaths": 204,
+   "Homelessness": 29741,
+   "Economic": 2900000000
+ },
+ {
+   "Country": "China",
+   "Year": 2015,
+   "Deaths": 500,
+   "Homelessness": 96210,
+   "Economic": 18472540000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2015,
+   "Deaths": 104,
+   "Homelessness": 700,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2015,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2015,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2015,
+   "Deaths": 55,
+   "Homelessness": 100,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominica",
+   "Year": 2015,
+   "Deaths": 30,
+   "Homelessness": 574,
+   "Economic": 482810000
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2015,
+   "Deaths": 2,
+   "Homelessness": 2450,
+   "Economic": 0
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2015,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2015,
+   "Deaths": 141,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2015,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 1400000000
+ },
+ {
+   "Country": "Europe",
+   "Year": 2015,
+   "Deaths": 3856,
+   "Homelessness": 0,
+   "Economic": 4698620000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2015,
+   "Deaths": 3814,
+   "Homelessness": 0,
+   "Economic": 2074800000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "France",
+   "Year": 2015,
+   "Deaths": 3298,
+   "Homelessness": 0,
+   "Economic": 924000000
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2015,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 23000000
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2015,
+   "Deaths": 25,
+   "Homelessness": 5000,
+   "Economic": 12000000
+ },
+ {
+   "Country": "Greece",
+   "Year": 2015,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2015,
+   "Deaths": 358,
+   "Homelessness": 0,
+   "Economic": 5000000
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2015,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guyana",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2015,
+   "Deaths": 11,
+   "Homelessness": 1966,
+   "Economic": 0
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2015,
+   "Deaths": 4498,
+   "Homelessness": 49034,
+   "Economic": 37915200000
+ },
+ {
+   "Country": "India",
+   "Year": 2015,
+   "Deaths": 3400,
+   "Homelessness": 54097,
+   "Economic": 6949000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2015,
+   "Deaths": 84,
+   "Homelessness": 175,
+   "Economic": 1235000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2015,
+   "Deaths": 52,
+   "Homelessness": 2000,
+   "Economic": 636000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2015,
+   "Deaths": 58,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2015,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Israel",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Italy",
+   "Year": 2015,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 1143000000
+ },
+ {
+   "Country": "Japan",
+   "Year": 2015,
+   "Deaths": 71,
+   "Homelessness": 0,
+   "Economic": 1630200000
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2015,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 5300000
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2015,
+   "Deaths": 138,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kiribati",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 5290,
+   "Economic": 12000000
+ },
+ {
+   "Country": "Laos",
+   "Year": 2015,
+   "Deaths": 4,
+   "Homelessness": 45,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2015,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2015,
+   "Deaths": 1305,
+   "Homelessness": 254820,
+   "Economic": 2083000000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2015,
+   "Deaths": 15734,
+   "Homelessness": 216963,
+   "Economic": 23822266000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2015,
+   "Deaths": 121,
+   "Homelessness": 206400,
+   "Economic": 46000000
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2015,
+   "Deaths": 283,
+   "Homelessness": 350,
+   "Economic": 390000000
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2015,
+   "Deaths": 25,
+   "Homelessness": 0,
+   "Economic": 2000
+ },
+ {
+   "Country": "Mali",
+   "Year": 2015,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Marshall Islands",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 4900000
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2015,
+   "Deaths": 42,
+   "Homelessness": 741,
+   "Economic": 825000000
+ },
+ {
+   "Country": "Micronesia (country)",
+   "Year": 2015,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 11000000
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2015,
+   "Deaths": 160,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2015,
+   "Deaths": 213,
+   "Homelessness": 1200,
+   "Economic": 119000000
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 60000000
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2015,
+   "Deaths": 9034,
+   "Homelessness": 0,
+   "Economic": 5174000000
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2015,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 271000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2015,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2015,
+   "Deaths": 27,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2015,
+   "Deaths": 53,
+   "Homelessness": 0,
+   "Economic": 25000000
+ },
+ {
+   "Country": "North America",
+   "Year": 2015,
+   "Deaths": 822,
+   "Homelessness": 18523,
+   "Economic": 26976810000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2015,
+   "Deaths": 33,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2015,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 87000000
+ },
+ {
+   "Country": "Northern Mariana Islands",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2015,
+   "Deaths": 66,
+   "Homelessness": 6901,
+   "Economic": 3530300000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 221000000
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2015,
+   "Deaths": 1892,
+   "Homelessness": 133900,
+   "Economic": 1000000
+ },
+ {
+   "Country": "Palau",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2015,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Panama",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2015,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 60000000
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2015,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2015,
+   "Deaths": 30,
+   "Homelessness": 0,
+   "Economic": 94000000
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2015,
+   "Deaths": 201,
+   "Homelessness": 3300,
+   "Economic": 1965966000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2015,
+   "Deaths": 78,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2015,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Romania",
+   "Year": 2015,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Russia",
+   "Year": 2015,
+   "Deaths": 31,
+   "Homelessness": 0,
+   "Economic": 136820000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2015,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Samoa",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2015,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2015,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2015,
+   "Deaths": 9,
+   "Homelessness": 400,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 250000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2015,
+   "Deaths": 413,
+   "Homelessness": 30441,
+   "Economic": 3015200000
+ },
+ {
+   "Country": "Spain",
+   "Year": 2015,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2015,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2015,
+   "Deaths": 36,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Syria",
+   "Year": 2015,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2015,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 26000000
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2015,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 5000000
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2015,
+   "Deaths": 59,
+   "Homelessness": 5000,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2015,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 3300561000
+ },
+ {
+   "Country": "Timor",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 2000,
+   "Economic": 4000000
+ },
+ {
+   "Country": "Tonga",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2015,
+   "Deaths": 17,
+   "Homelessness": 1500,
+   "Economic": 0
+ },
+ {
+   "Country": "Tuvalu",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2015,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 2400000000
+ },
+ {
+   "Country": "United States",
+   "Year": 2015,
+   "Deaths": 328,
+   "Homelessness": 12756,
+   "Economic": 25574000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2015,
+   "Deaths": 1337,
+   "Homelessness": 102175,
+   "Economic": 23817933000
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2015,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vanuatu",
+   "Year": 2015,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 449400000
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2015,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2015,
+   "Deaths": 52,
+   "Homelessness": 115,
+   "Economic": 6966800000
+ },
+ {
+   "Country": "World",
+   "Year": 2015,
+   "Deaths": 22874,
+   "Homelessness": 622992,
+   "Economic": 87638399000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2015,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 200000000
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2015,
+   "Deaths": 10,
+   "Homelessness": 475,
+   "Economic": 0
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2016,
+   "Deaths": 84,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2016,
+   "Deaths": 1020,
+   "Homelessness": 169010,
+   "Economic": 767200000
+ },
+ {
+   "Country": "Albania",
+   "Year": 2016,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2016,
+   "Deaths": 113,
+   "Homelessness": 5155,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 1002000000
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Asia",
+   "Year": 2016,
+   "Deaths": 5094,
+   "Homelessness": 2266266,
+   "Economic": 73016821000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2016,
+   "Deaths": 8,
+   "Homelessness": 540,
+   "Economic": 635000000
+ },
+ {
+   "Country": "Austria",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bahamas",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 600000000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2016,
+   "Deaths": 198,
+   "Homelessness": 119700,
+   "Economic": 750000000
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2016,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belize",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2016,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 450000000
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2016,
+   "Deaths": 33,
+   "Homelessness": 0,
+   "Economic": 200000000
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2016,
+   "Deaths": 15,
+   "Homelessness": 7032,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 4000000000
+ },
+ {
+   "Country": "Chile",
+   "Year": 2016,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "China",
+   "Year": 2016,
+   "Deaths": 1287,
+   "Homelessness": 85520,
+   "Economic": 44917660000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2016,
+   "Deaths": 10,
+   "Homelessness": 2272,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2016,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2016,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 2600000000
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2016,
+   "Deaths": 50,
+   "Homelessness": 10000,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2016,
+   "Deaths": 21,
+   "Homelessness": 9,
+   "Economic": 0
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2016,
+   "Deaths": 682,
+   "Homelessness": 0,
+   "Economic": 2010000000
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2016,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 25000000
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2016,
+   "Deaths": 128,
+   "Homelessness": 1000,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2016,
+   "Deaths": 416,
+   "Homelessness": 462,
+   "Economic": 11179000000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2016,
+   "Deaths": 352,
+   "Homelessness": 462,
+   "Economic": 11007000000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2016,
+   "Deaths": 47,
+   "Homelessness": 0,
+   "Economic": 600000000
+ },
+ {
+   "Country": "France",
+   "Year": 2016,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 2400000000
+ },
+ {
+   "Country": "Germany",
+   "Year": 2016,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 2000000000
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2016,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2016,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 56000000
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2016,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2016,
+   "Deaths": 599,
+   "Homelessness": 2780,
+   "Economic": 2086000000
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2016,
+   "Deaths": 1002,
+   "Homelessness": 33368,
+   "Economic": 86914000000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2016,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2016,
+   "Deaths": 1129,
+   "Homelessness": 2000000,
+   "Economic": 2574000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2016,
+   "Deaths": 270,
+   "Homelessness": 8920,
+   "Economic": 233000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2016,
+   "Deaths": 4,
+   "Homelessness": 2000,
+   "Economic": 0
+ },
+ {
+   "Country": "Israel",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 520000000
+ },
+ {
+   "Country": "Italy",
+   "Year": 2016,
+   "Deaths": 299,
+   "Homelessness": 0,
+   "Economic": 5500000000
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Japan",
+   "Year": 2016,
+   "Deaths": 101,
+   "Homelessness": 23991,
+   "Economic": 20200000000
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2016,
+   "Deaths": 42,
+   "Homelessness": 1000,
+   "Economic": 0
+ },
+ {
+   "Country": "Laos",
+   "Year": 2016,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 50000
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Liberia",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2016,
+   "Deaths": 1346,
+   "Homelessness": 136922,
+   "Economic": 65200000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2016,
+   "Deaths": 3718,
+   "Homelessness": 2191623,
+   "Economic": 8856161000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2016,
+   "Deaths": 12,
+   "Homelessness": 2800,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 132000000
+ },
+ {
+   "Country": "Mali",
+   "Year": 2016,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2016,
+   "Deaths": 90,
+   "Homelessness": 3000,
+   "Economic": 75000000
+ },
+ {
+   "Country": "Micronesia (country)",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2016,
+   "Deaths": 75,
+   "Homelessness": 1500,
+   "Economic": 1500000
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2016,
+   "Deaths": 97,
+   "Homelessness": 12000,
+   "Economic": 16600000
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2016,
+   "Deaths": 174,
+   "Homelessness": 0,
+   "Economic": 15000000
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 844000000
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2016,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 3925000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2016,
+   "Deaths": 61,
+   "Homelessness": 3000,
+   "Economic": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2016,
+   "Deaths": 46,
+   "Homelessness": 12000,
+   "Economic": 0
+ },
+ {
+   "Country": "North America",
+   "Year": 2016,
+   "Deaths": 1013,
+   "Homelessness": 14164,
+   "Economic": 54087500000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2016,
+   "Deaths": 552,
+   "Homelessness": 0,
+   "Economic": 61000000
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2016,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 60000000
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2016,
+   "Deaths": 57,
+   "Homelessness": 540,
+   "Economic": 5160000000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2016,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2016,
+   "Deaths": 409,
+   "Homelessness": 7360,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Panama",
+   "Year": 2016,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2016,
+   "Deaths": 7,
+   "Homelessness": 40,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2016,
+   "Deaths": 87,
+   "Homelessness": 0,
+   "Economic": 180074000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2016,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2016,
+   "Deaths": 4,
+   "Homelessness": 462,
+   "Economic": 157000000
+ },
+ {
+   "Country": "Romania",
+   "Year": 2016,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Russia",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 12000000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2016,
+   "Deaths": 117,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Saint Lucia",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Saint Vincent and the Grenadines",
+   "Year": 2016,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 6500000
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2016,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 50000000
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2016,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2016,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2016,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 280000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2016,
+   "Deaths": 756,
+   "Homelessness": 2312,
+   "Economic": 3767000000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2016,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 274000000
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2016,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 50000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2016,
+   "Deaths": 203,
+   "Homelessness": 0,
+   "Economic": 1220000000
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2016,
+   "Deaths": 171,
+   "Homelessness": 110000,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2016,
+   "Deaths": 212,
+   "Homelessness": 0,
+   "Economic": 880000000
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2016,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2016,
+   "Deaths": 33,
+   "Homelessness": 13933,
+   "Economic": 458000000
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2016,
+   "Deaths": 35,
+   "Homelessness": 0,
+   "Economic": 145000000
+ },
+ {
+   "Country": "Timor",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tonga",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2016,
+   "Deaths": 19,
+   "Homelessness": 1590,
+   "Economic": 2700000
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2016,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United States",
+   "Year": 2016,
+   "Deaths": 269,
+   "Homelessness": 8375,
+   "Economic": 44720000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2016,
+   "Deaths": 2290,
+   "Homelessness": 90841,
+   "Economic": 52142160000
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2016,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 3000000
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2016,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2016,
+   "Deaths": 162,
+   "Homelessness": 6775,
+   "Economic": 846437000
+ },
+ {
+   "Country": "World",
+   "Year": 2016,
+   "Deaths": 8356,
+   "Homelessness": 2452754,
+   "Economic": 147977521000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2016,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2016,
+   "Deaths": 31,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2017,
+   "Deaths": 226,
+   "Homelessness": 1650,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2017,
+   "Deaths": 2003,
+   "Homelessness": 50055,
+   "Economic": 2491000000
+ },
+ {
+   "Country": "Albania",
+   "Year": 2017,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 8900000
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2017,
+   "Deaths": 11,
+   "Homelessness": 3750,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Anguilla",
+   "Year": 2017,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 200000000
+ },
+ {
+   "Country": "Antigua and Barbuda",
+   "Year": 2017,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 250000000
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2017,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Asia",
+   "Year": 2017,
+   "Deaths": 5624,
+   "Homelessness": 211524,
+   "Economic": 31488969000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2017,
+   "Deaths": 12,
+   "Homelessness": 114,
+   "Economic": 3210000000
+ },
+ {
+   "Country": "Austria",
+   "Year": 2017,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 118000000
+ },
+ {
+   "Country": "Bahamas",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2017,
+   "Deaths": 323,
+   "Homelessness": 9300,
+   "Economic": 628000000
+ },
+ {
+   "Country": "Barbados",
+   "Year": 2017,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2017,
+   "Deaths": 43,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2017,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "British Virgin Islands",
+   "Year": 2017,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 3000000000
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2017,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2017,
+   "Deaths": 6,
+   "Homelessness": 810,
+   "Economic": 0
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2017,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2017,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 200000000
+ },
+ {
+   "Country": "Cape Verde",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chad",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chile",
+   "Year": 2017,
+   "Deaths": 42,
+   "Homelessness": 3580,
+   "Economic": 552000000
+ },
+ {
+   "Country": "China",
+   "Year": 2017,
+   "Deaths": 514,
+   "Homelessness": 81215,
+   "Economic": 16484900000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2017,
+   "Deaths": 384,
+   "Homelessness": 126,
+   "Economic": 104000000
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2017,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 185000000
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2017,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 161000000
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2017,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 540000000
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 2900000
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2017,
+   "Deaths": 279,
+   "Homelessness": 500,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominica",
+   "Year": 2017,
+   "Deaths": 64,
+   "Homelessness": 0,
+   "Economic": 1456000000
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2017,
+   "Deaths": 5,
+   "Homelessness": 27,
+   "Economic": 63000000
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2017,
+   "Deaths": 10,
+   "Homelessness": 50,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2017,
+   "Deaths": 331,
+   "Homelessness": 2700,
+   "Economic": 5418600000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2017,
+   "Deaths": 211,
+   "Homelessness": 2700,
+   "Economic": 5407700000
+ },
+ {
+   "Country": "France",
+   "Year": 2017,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 550000000
+ },
+ {
+   "Country": "French Polynesia",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 500,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2017,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2017,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 899000000
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2017,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2017,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guadeloupe",
+   "Year": 2017,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 120000000
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2017,
+   "Deaths": 20,
+   "Homelessness": 494,
+   "Economic": 0
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guyana",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2017,
+   "Deaths": 35,
+   "Homelessness": 342,
+   "Economic": 0
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2017,
+   "Deaths": 778,
+   "Homelessness": 326353,
+   "Economic": 282960200000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2017,
+   "Deaths": 21,
+   "Homelessness": 50,
+   "Economic": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 755500000
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2017,
+   "Deaths": 2346,
+   "Homelessness": 60100,
+   "Economic": 2117000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2017,
+   "Deaths": 99,
+   "Homelessness": 2235,
+   "Economic": 34000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2017,
+   "Deaths": 509,
+   "Homelessness": 1845,
+   "Economic": 1130000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2017,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Italy",
+   "Year": 2017,
+   "Deaths": 44,
+   "Homelessness": 0,
+   "Economic": 2662500000
+ },
+ {
+   "Country": "Jamaica",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Japan",
+   "Year": 2017,
+   "Deaths": 49,
+   "Homelessness": 300,
+   "Economic": 2202000000
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2017,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2017,
+   "Deaths": 24,
+   "Homelessness": 55,
+   "Economic": 0
+ },
+ {
+   "Country": "Laos",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2017,
+   "Deaths": 1876,
+   "Homelessness": 28560,
+   "Economic": 77000000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2017,
+   "Deaths": 5089,
+   "Homelessness": 146057,
+   "Economic": 8863869000
+ },
+ {
+   "Country": "Macao",
+   "Year": 2017,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 1420000000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2017,
+   "Deaths": 81,
+   "Homelessness": 0,
+   "Economic": 20000000
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2017,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Martinique",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 44000000
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2017,
+   "Deaths": 18,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2017,
+   "Deaths": 498,
+   "Homelessness": 1600,
+   "Economic": 8302000000
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2017,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Montenegro",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2017,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 17000000
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2017,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2017,
+   "Deaths": 198,
+   "Homelessness": 0,
+   "Economic": 595000000
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 12,
+   "Economic": 91000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2017,
+   "Deaths": 22,
+   "Homelessness": 150,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2017,
+   "Deaths": 72,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2017,
+   "Deaths": 20,
+   "Homelessness": 500,
+   "Economic": 0
+ },
+ {
+   "Country": "North America",
+   "Year": 2017,
+   "Deaths": 1155,
+   "Homelessness": 321821,
+   "Economic": 279992000000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2017,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2017,
+   "Deaths": 12,
+   "Homelessness": 626,
+   "Economic": 3303000000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2017,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2017,
+   "Deaths": 215,
+   "Homelessness": 0,
+   "Economic": 110000000
+ },
+ {
+   "Country": "Panama",
+   "Year": 2017,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2017,
+   "Deaths": 200,
+   "Homelessness": 0,
+   "Economic": 3200000000
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2017,
+   "Deaths": 233,
+   "Homelessness": 53645,
+   "Economic": 161214000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2017,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 275000000
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2017,
+   "Deaths": 109,
+   "Homelessness": 2700,
+   "Economic": 732000000
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2017,
+   "Deaths": 66,
+   "Homelessness": 210000,
+   "Economic": 68000000000
+ },
+ {
+   "Country": "Romania",
+   "Year": 2017,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 7300000
+ },
+ {
+   "Country": "Russia",
+   "Year": 2017,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 2000000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2017,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Saint Barthelemy",
+   "Year": 2017,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Saint Kitts and Nevis",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 20000000
+ },
+ {
+   "Country": "Saint Martin (French part)",
+   "Year": 2017,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 4100000000
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2017,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2017,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2017,
+   "Deaths": 1102,
+   "Homelessness": 0,
+   "Economic": 30000000
+ },
+ {
+   "Country": "Sint Maarten (Dutch part)",
+   "Year": 2017,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 2500000000
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2017,
+   "Deaths": 32,
+   "Homelessness": 6000,
+   "Economic": 2223000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2017,
+   "Deaths": 641,
+   "Homelessness": 3706,
+   "Economic": 3956000000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2017,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2017,
+   "Deaths": 329,
+   "Homelessness": 0,
+   "Economic": 735000000
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2017,
+   "Deaths": 25,
+   "Homelessness": 25600,
+   "Economic": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2017,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2017,
+   "Deaths": 6,
+   "Homelessness": 39,
+   "Economic": 45300000
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2017,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2017,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2017,
+   "Deaths": 150,
+   "Homelessness": 0,
+   "Economic": 1308400000
+ },
+ {
+   "Country": "Togo",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 600000000
+ },
+ {
+   "Country": "Turks and Caicos Islands",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 500000000
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2017,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2017,
+   "Deaths": 37,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United States",
+   "Year": 2017,
+   "Deaths": 336,
+   "Homelessness": 109108,
+   "Economic": 190510000000
+ },
+ {
+   "Country": "United States Virgin Islands",
+   "Year": 2017,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2017,
+   "Deaths": 2015,
+   "Homelessness": 89462,
+   "Economic": 34584500000
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vanuatu",
+   "Year": 2017,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2017,
+   "Deaths": 284,
+   "Homelessness": 1140,
+   "Economic": 3162655000
+ },
+ {
+   "Country": "World",
+   "Year": 2017,
+   "Deaths": 9766,
+   "Homelessness": 590432,
+   "Economic": 326649569000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2017,
+   "Deaths": 50,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2017,
+   "Deaths": 251,
+   "Homelessness": 12895,
+   "Economic": 189000000
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2018,
+   "Deaths": 113,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2018,
+   "Deaths": 1024,
+   "Homelessness": 104193,
+   "Economic": 818136000
+ },
+ {
+   "Country": "Albania",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2018,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2018,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 3400000000
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 1822000
+ },
+ {
+   "Country": "Asia",
+   "Year": 2018,
+   "Deaths": 9205,
+   "Homelessness": 300050,
+   "Economic": 56480526000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 1211400000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2018,
+   "Deaths": 102,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belarus",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2018,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2018,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2018,
+   "Deaths": 22,
+   "Homelessness": 300,
+   "Economic": 53000000
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2018,
+   "Deaths": 70,
+   "Homelessness": 0,
+   "Economic": 325000000
+ },
+ {
+   "Country": "China",
+   "Year": 2018,
+   "Deaths": 354,
+   "Homelessness": 4000,
+   "Economic": 15324172000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2018,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2018,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2018,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 21,
+   "Economic": 0
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2018,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2018,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2018,
+   "Deaths": 51,
+   "Homelessness": 15743,
+   "Economic": 0
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 8000,
+   "Economic": 0
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2018,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 37000000
+ },
+ {
+   "Country": "Estonia",
+   "Year": 2018,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2018,
+   "Deaths": 44,
+   "Homelessness": 0,
+   "Economic": 36000
+ },
+ {
+   "Country": "Europe",
+   "Year": 2018,
+   "Deaths": 398,
+   "Homelessness": 21,
+   "Economic": 3202986000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2018,
+   "Deaths": 388,
+   "Homelessness": 21,
+   "Economic": 3192986000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2018,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 60000000
+ },
+ {
+   "Country": "France",
+   "Year": 2018,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 912000000
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2018,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 588475000
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2018,
+   "Deaths": 34,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2018,
+   "Deaths": 100,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2018,
+   "Deaths": 463,
+   "Homelessness": 0,
+   "Economic": 44669000
+ },
+ {
+   "Country": "Guinea-Bissau",
+   "Year": 2018,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2018,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2018,
+   "Deaths": 1293,
+   "Homelessness": 3258,
+   "Economic": 103152086000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2018,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2018,
+   "Deaths": 179,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2018,
+   "Deaths": 1396,
+   "Homelessness": 223050,
+   "Economic": 6108980000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2018,
+   "Deaths": 5310,
+   "Homelessness": 70000,
+   "Economic": 2604000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2018,
+   "Deaths": 11,
+   "Homelessness": 3000,
+   "Economic": 186000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2018,
+   "Deaths": 21,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Israel",
+   "Year": 2018,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Italy",
+   "Year": 2018,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 1215000000
+ },
+ {
+   "Country": "Japan",
+   "Year": 2018,
+   "Deaths": 435,
+   "Homelessness": 0,
+   "Economic": 31000000000
+ },
+ {
+   "Country": "Jordan",
+   "Year": 2018,
+   "Deaths": 34,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2018,
+   "Deaths": 134,
+   "Homelessness": 0,
+   "Economic": 350000000
+ },
+ {
+   "Country": "Kuwait",
+   "Year": 2018,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Laos",
+   "Year": 2018,
+   "Deaths": 136,
+   "Homelessness": 0,
+   "Economic": 225000000
+ },
+ {
+   "Country": "Latvia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2018,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lithuania",
+   "Year": 2018,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2018,
+   "Deaths": 888,
+   "Homelessness": 104193,
+   "Economic": 186776000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2018,
+   "Deaths": 8564,
+   "Homelessness": 296050,
+   "Economic": 10739892000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2018,
+   "Deaths": 94,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2018,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mali",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Marshall Islands",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2018,
+   "Deaths": 40,
+   "Homelessness": 120,
+   "Economic": 543805000
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2018,
+   "Deaths": 28,
+   "Homelessness": 77150,
+   "Economic": 5100000
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2018,
+   "Deaths": 67,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2018,
+   "Deaths": 65,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2018,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 110011000
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 25000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2018,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2018,
+   "Deaths": 36,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2018,
+   "Deaths": 300,
+   "Homelessness": 0,
+   "Economic": 275000000
+ },
+ {
+   "Country": "North America",
+   "Year": 2018,
+   "Deaths": 904,
+   "Homelessness": 11357,
+   "Economic": 67776174000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2018,
+   "Deaths": 234,
+   "Homelessness": 0,
+   "Economic": 29640000
+ },
+ {
+   "Country": "Northern Mariana Islands",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2018,
+   "Deaths": 190,
+   "Homelessness": 0,
+   "Economic": 1357400000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2018,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2018,
+   "Deaths": 240,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Panama",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 72000000
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2018,
+   "Deaths": 181,
+   "Homelessness": 0,
+   "Economic": 61000000
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 1295,
+   "Economic": 0
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2018,
+   "Deaths": 313,
+   "Homelessness": 0,
+   "Economic": 569712000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2018,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 115500000
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Qatar",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Reunion",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Romania",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Russia",
+   "Year": 2018,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2018,
+   "Deaths": 76,
+   "Homelessness": 0,
+   "Economic": 72000000
+ },
+ {
+   "Country": "Samoa",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2018,
+   "Deaths": 58,
+   "Homelessness": 0,
+   "Economic": 80000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2018,
+   "Deaths": 60,
+   "Homelessness": 1595,
+   "Economic": 3953000000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2018,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 150000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2018,
+   "Deaths": 34,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2018,
+   "Deaths": 46,
+   "Homelessness": 11300,
+   "Economic": 0
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 102000000
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2018,
+   "Deaths": 91,
+   "Homelessness": 0,
+   "Economic": 134000000
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2018,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2018,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tonga",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 3700000
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2018,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 36000000
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2018,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2018,
+   "Deaths": 51,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United States",
+   "Year": 2018,
+   "Deaths": 290,
+   "Homelessness": 3237,
+   "Economic": 66750000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2018,
+   "Deaths": 1034,
+   "Homelessness": 13715,
+   "Economic": 19509468000
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 500000000
+ },
+ {
+   "Country": "Vanuatu",
+   "Year": 2018,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2018,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2018,
+   "Deaths": 134,
+   "Homelessness": 0,
+   "Economic": 287200000
+ },
+ {
+   "Country": "World",
+   "Year": 2018,
+   "Deaths": 11781,
+   "Homelessness": 417216,
+   "Economic": 133588222000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2018,
+   "Deaths": 49,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2019,
+   "Deaths": 211,
+   "Homelessness": 7775,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2019,
+   "Deaths": 2746,
+   "Homelessness": 6282,
+   "Economic": 2447100000
+ },
+ {
+   "Country": "Albania",
+   "Year": 2019,
+   "Deaths": 51,
+   "Homelessness": 0,
+   "Economic": 745000000
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2019,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2019,
+   "Deaths": 71,
+   "Homelessness": 4535,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2019,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Asia",
+   "Year": 2019,
+   "Deaths": 5283,
+   "Homelessness": 370883,
+   "Economic": 62175356000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2019,
+   "Deaths": 35,
+   "Homelessness": 6927,
+   "Economic": 4000000000
+ },
+ {
+   "Country": "Austria",
+   "Year": 2019,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bahamas",
+   "Year": 2019,
+   "Deaths": 356,
+   "Homelessness": 0,
+   "Economic": 3400000000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2019,
+   "Deaths": 260,
+   "Homelessness": 10000,
+   "Economic": 80785000
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2019,
+   "Deaths": 716,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2019,
+   "Deaths": 83,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2019,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Botswana",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2019,
+   "Deaths": 47,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2019,
+   "Deaths": 61,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2019,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2019,
+   "Deaths": 54,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2019,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 1075000000
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chad",
+   "Year": 2019,
+   "Deaths": 52,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chile",
+   "Year": 2019,
+   "Deaths": 8,
+   "Homelessness": 735,
+   "Economic": 0
+ },
+ {
+   "Country": "China",
+   "Year": 2019,
+   "Deaths": 571,
+   "Homelessness": 423,
+   "Economic": 18646000000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2019,
+   "Deaths": 84,
+   "Homelessness": 215,
+   "Economic": 0
+ },
+ {
+   "Country": "Comoros",
+   "Year": 2019,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Congo",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2019,
+   "Deaths": 12,
+   "Homelessness": 612,
+   "Economic": 0
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2019,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2019,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2019,
+   "Deaths": 80,
+   "Homelessness": 450,
+   "Economic": 0
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2019,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2019,
+   "Deaths": 16,
+   "Homelessness": 15,
+   "Economic": 0
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2019,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2019,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2019,
+   "Deaths": 2918,
+   "Homelessness": 0,
+   "Economic": 4310000000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2019,
+   "Deaths": 2635,
+   "Homelessness": 0,
+   "Economic": 2973000000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2019,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "France",
+   "Year": 2019,
+   "Deaths": 1451,
+   "Homelessness": 0,
+   "Economic": 415000000
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2019,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2019,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2019,
+   "Deaths": 32,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2019,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2019,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2019,
+   "Deaths": 14,
+   "Homelessness": 150,
+   "Economic": 0
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2019,
+   "Deaths": 3714,
+   "Homelessness": 8106,
+   "Economic": 61361000000
+ },
+ {
+   "Country": "Hungary",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2019,
+   "Deaths": 2307,
+   "Homelessness": 0,
+   "Economic": 11810000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2019,
+   "Deaths": 469,
+   "Homelessness": 5880,
+   "Economic": 1318000000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2019,
+   "Deaths": 83,
+   "Homelessness": 2000,
+   "Economic": 2670000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2019,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Italy",
+   "Year": 2019,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Japan",
+   "Year": 2019,
+   "Deaths": 288,
+   "Homelessness": 0,
+   "Economic": 26210000000
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2019,
+   "Deaths": 187,
+   "Homelessness": 120,
+   "Economic": 0
+ },
+ {
+   "Country": "Laos",
+   "Year": 2019,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2019,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Libya",
+   "Year": 2019,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 7100000
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2019,
+   "Deaths": 1724,
+   "Homelessness": 8790,
+   "Economic": 2279000000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2019,
+   "Deaths": 5341,
+   "Homelessness": 368452,
+   "Economic": 16742356000
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2019,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 25000000
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2019,
+   "Deaths": 68,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2019,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mali",
+   "Year": 2019,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2019,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2019,
+   "Deaths": 16,
+   "Homelessness": 3000,
+   "Economic": 383000000
+ },
+ {
+   "Country": "Micronesia (country)",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Moldova",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2019,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2019,
+   "Deaths": 39,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2019,
+   "Deaths": 704,
+   "Homelessness": 0,
+   "Economic": 2230000000
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2019,
+   "Deaths": 128,
+   "Homelessness": 1875,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2019,
+   "Deaths": 147,
+   "Homelessness": 0,
+   "Economic": 204000000
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2019,
+   "Deaths": 400,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2019,
+   "Deaths": 21,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Niger",
+   "Year": 2019,
+   "Deaths": 52,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2019,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "North America",
+   "Year": 2019,
+   "Deaths": 551,
+   "Homelessness": 3594,
+   "Economic": 28008000000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2019,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 24000000
+ },
+ {
+   "Country": "Norway",
+   "Year": 2019,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2019,
+   "Deaths": 69,
+   "Homelessness": 7277,
+   "Economic": 4000000000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2019,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2019,
+   "Deaths": 361,
+   "Homelessness": 0,
+   "Economic": 17000000
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2019,
+   "Deaths": 12,
+   "Homelessness": 350,
+   "Economic": 0
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2019,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2019,
+   "Deaths": 78,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2019,
+   "Deaths": 180,
+   "Homelessness": 342165,
+   "Economic": 593571000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2019,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2019,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Romania",
+   "Year": 2019,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Russia",
+   "Year": 2019,
+   "Deaths": 59,
+   "Homelessness": 0,
+   "Economic": 592000000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2019,
+   "Deaths": 28,
+   "Homelessness": 565,
+   "Economic": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2019,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2019,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2019,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2019,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2019,
+   "Deaths": 23,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2019,
+   "Deaths": 102,
+   "Homelessness": 0,
+   "Economic": 185000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2019,
+   "Deaths": 376,
+   "Homelessness": 965,
+   "Economic": 0
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2019,
+   "Deaths": 21,
+   "Homelessness": 0,
+   "Economic": 553000000
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2019,
+   "Deaths": 53,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2019,
+   "Deaths": 27,
+   "Homelessness": 0,
+   "Economic": 2558000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2019,
+   "Deaths": 30,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2019,
+   "Deaths": 78,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2019,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Syria",
+   "Year": 2019,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2019,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2019,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2019,
+   "Deaths": 47,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2019,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2019,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2019,
+   "Deaths": 215,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2019,
+   "Deaths": 167,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United States",
+   "Year": 2019,
+   "Deaths": 152,
+   "Homelessness": 444,
+   "Economic": 23150000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2019,
+   "Deaths": 1158,
+   "Homelessness": 3653,
+   "Economic": 20558100000
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2019,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2019,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2019,
+   "Deaths": 59,
+   "Homelessness": 765,
+   "Economic": 49000000
+ },
+ {
+   "Country": "World",
+   "Year": 2019,
+   "Deaths": 11943,
+   "Homelessness": 389001,
+   "Economic": 100940456000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2019,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2019,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2019,
+   "Deaths": 654,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2020,
+   "Deaths": 328,
+   "Homelessness": 8625,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2020,
+   "Deaths": 1341,
+   "Homelessness": 676898,
+   "Economic": 464000000
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2020,
+   "Deaths": 33,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Armenia",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Asia",
+   "Year": 2020,
+   "Deaths": 6048,
+   "Homelessness": 21170,
+   "Economic": 67406266000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 3900000000
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2020,
+   "Deaths": 283,
+   "Homelessness": 0,
+   "Economic": 2000000000
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2020,
+   "Deaths": 1460,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belize",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Benin",
+   "Year": 2020,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2020,
+   "Deaths": 31,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2020,
+   "Deaths": 163,
+   "Homelessness": 5000,
+   "Economic": 3600000000
+ },
+ {
+   "Country": "Burkina Faso",
+   "Year": 2020,
+   "Deaths": 13,
+   "Homelessness": 23500,
+   "Economic": 0
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2020,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2020,
+   "Deaths": 44,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 2500000000
+ },
+ {
+   "Country": "Cape Verde",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chad",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "China",
+   "Year": 2020,
+   "Deaths": 463,
+   "Homelessness": 0,
+   "Economic": 23092000000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2020,
+   "Deaths": 66,
+   "Homelessness": 0,
+   "Economic": 160000000
+ },
+ {
+   "Country": "Congo",
+   "Year": 2020,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2020,
+   "Deaths": 24,
+   "Homelessness": 2100,
+   "Economic": 0
+ },
+ {
+   "Country": "Croatia",
+   "Year": 2020,
+   "Deaths": 9,
+   "Homelessness": 18915,
+   "Economic": 13023400000
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2020,
+   "Deaths": 83,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2020,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2020,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 165000000
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2020,
+   "Deaths": 40,
+   "Homelessness": 0,
+   "Economic": 76000000
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2020,
+   "Deaths": 75,
+   "Homelessness": 0,
+   "Economic": 220000000
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2020,
+   "Deaths": 34,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2020,
+   "Deaths": 6456,
+   "Homelessness": 18915,
+   "Economic": 15077261000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2020,
+   "Deaths": 3869,
+   "Homelessness": 18915,
+   "Economic": 14603400000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2020,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 14120000
+ },
+ {
+   "Country": "France",
+   "Year": 2020,
+   "Deaths": 1944,
+   "Homelessness": 0,
+   "Economic": 1020000000
+ },
+ {
+   "Country": "French Guiana",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2020,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2020,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 30000000
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2020,
+   "Deaths": 167,
+   "Homelessness": 886,
+   "Economic": 386000000
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2020,
+   "Deaths": 39,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2020,
+   "Deaths": 6873,
+   "Homelessness": 19815,
+   "Economic": 106968200000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2020,
+   "Deaths": 132,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2020,
+   "Deaths": 2316,
+   "Homelessness": 0,
+   "Economic": 26430000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2020,
+   "Deaths": 210,
+   "Homelessness": 70,
+   "Economic": 29300000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2020,
+   "Deaths": 52,
+   "Homelessness": 0,
+   "Economic": 2358000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2020,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Isle of Man",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Israel",
+   "Year": 2020,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 580000000
+ },
+ {
+   "Country": "Italy",
+   "Year": 2020,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 130000000
+ },
+ {
+   "Country": "Japan",
+   "Year": 2020,
+   "Deaths": 84,
+   "Homelessness": 0,
+   "Economic": 6000000000
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2020,
+   "Deaths": 285,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Laos",
+   "Year": 2020,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lebanon",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2020,
+   "Deaths": 1061,
+   "Homelessness": 665373,
+   "Economic": 280000000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2020,
+   "Deaths": 5797,
+   "Homelessness": 24695,
+   "Economic": 36773327000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2020,
+   "Deaths": 44,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 6800000
+ },
+ {
+   "Country": "Mali",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2020,
+   "Deaths": 9,
+   "Homelessness": 700,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2020,
+   "Deaths": 82,
+   "Homelessness": 0,
+   "Economic": 410000000
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2020,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 1700000
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2020,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2020,
+   "Deaths": 174,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2020,
+   "Deaths": 448,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2020,
+   "Deaths": 400,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 110000000
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2020,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 919000000
+ },
+ {
+   "Country": "Niger",
+   "Year": 2020,
+   "Deaths": 83,
+   "Homelessness": 632608,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2020,
+   "Deaths": 189,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "North America",
+   "Year": 2020,
+   "Deaths": 874,
+   "Homelessness": 1786,
+   "Economic": 82220800000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2020,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Norway",
+   "Year": 2020,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 130000000
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2020,
+   "Deaths": 102,
+   "Homelessness": 0,
+   "Economic": 4135120000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2020,
+   "Deaths": 630,
+   "Homelessness": 695,
+   "Economic": 1500000000
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Panama",
+   "Year": 2020,
+   "Deaths": 94,
+   "Homelessness": 0,
+   "Economic": 11000000
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2020,
+   "Deaths": 42,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2020,
+   "Deaths": 30,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2020,
+   "Deaths": 202,
+   "Homelessness": 705,
+   "Economic": 1113474000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2020,
+   "Deaths": 5,
+   "Homelessness": 900,
+   "Economic": 1009800000
+ },
+ {
+   "Country": "Romania",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 85000000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2020,
+   "Deaths": 111,
+   "Homelessness": 490,
+   "Economic": 0
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2020,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 18000000
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 28000000
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Solomon Islands",
+   "Year": 2020,
+   "Deaths": 48,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2020,
+   "Deaths": 41,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2020,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South America",
+   "Year": 2020,
+   "Deaths": 296,
+   "Homelessness": 5000,
+   "Economic": 3820000000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2020,
+   "Deaths": 81,
+   "Homelessness": 0,
+   "Economic": 1620000000
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2020,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 315000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2020,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2020,
+   "Deaths": 155,
+   "Homelessness": 0,
+   "Economic": 250000000
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Syria",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2020,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2020,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2020,
+   "Deaths": 43,
+   "Homelessness": 17500,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2020,
+   "Deaths": 44,
+   "Homelessness": 0,
+   "Economic": 60000000
+ },
+ {
+   "Country": "Timor",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 20000000
+ },
+ {
+   "Country": "Togo",
+   "Year": 2020,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tonga",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 111000000
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2020,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2020,
+   "Deaths": 233,
+   "Homelessness": 8000,
+   "Economic": 823000000
+ },
+ {
+   "Country": "Tuvalu",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2020,
+   "Deaths": 35,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2020,
+   "Deaths": 19,
+   "Homelessness": 0,
+   "Economic": 315861000
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2020,
+   "Deaths": 2558,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United States",
+   "Year": 2020,
+   "Deaths": 253,
+   "Homelessness": 0,
+   "Economic": 76600000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2020,
+   "Deaths": 1383,
+   "Homelessness": 13886,
+   "Economic": 29071920000
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2020,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2020,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vanuatu",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 30000000
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2020,
+   "Deaths": 310,
+   "Homelessness": 2925,
+   "Economic": 1451992000
+ },
+ {
+   "Country": "World",
+   "Year": 2020,
+   "Deaths": 15117,
+   "Homelessness": 723769,
+   "Economic": 173123447000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2020,
+   "Deaths": 65,
+   "Homelessness": 150,
+   "Economic": 20000000
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2020,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2021,
+   "Deaths": 396,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2021,
+   "Deaths": 557,
+   "Homelessness": 27427,
+   "Economic": 1318000000
+ },
+ {
+   "Country": "Albania",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2021,
+   "Deaths": 103,
+   "Homelessness": 18,
+   "Economic": 0
+ },
+ {
+   "Country": "Angola",
+   "Year": 2021,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2021,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Asia",
+   "Year": 2021,
+   "Deaths": 5129,
+   "Homelessness": 7806,
+   "Economic": 48896573000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2021,
+   "Deaths": 7,
+   "Homelessness": 243,
+   "Economic": 3335000000
+ },
+ {
+   "Country": "Austria",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2021,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Barbados",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 186,
+   "Economic": 0
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2021,
+   "Deaths": 39,
+   "Homelessness": 100000,
+   "Economic": 2000000000
+ },
+ {
+   "Country": "Benin",
+   "Year": 2021,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bhutan",
+   "Year": 2021,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2021,
+   "Deaths": 50,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2021,
+   "Deaths": 62,
+   "Homelessness": 0,
+   "Economic": 3543000000
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Burundi",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2021,
+   "Deaths": 822,
+   "Homelessness": 0,
+   "Economic": 2105912000
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chad",
+   "Year": 2021,
+   "Deaths": 32,
+   "Homelessness": 22000,
+   "Economic": 0
+ },
+ {
+   "Country": "Chile",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 175000000
+ },
+ {
+   "Country": "China",
+   "Year": 2021,
+   "Deaths": 455,
+   "Homelessness": 2896,
+   "Economic": 25556500000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2021,
+   "Deaths": 42,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Congo",
+   "Year": 2021,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2021,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 100000000
+ },
+ {
+   "Country": "Cyprus",
+   "Year": 2021,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 47000000
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2021,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 701000000
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2021,
+   "Deaths": 32,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2021,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2021,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Egypt",
+   "Year": 2021,
+   "Deaths": 3,
+   "Homelessness": 1100,
+   "Economic": 0
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2021,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Eswatini",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2021,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Europe",
+   "Year": 2021,
+   "Deaths": 303,
+   "Homelessness": 111568,
+   "Economic": 52541000000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2021,
+   "Deaths": 269,
+   "Homelessness": 111565,
+   "Economic": 52171000000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2021,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 10000000
+ },
+ {
+   "Country": "France",
+   "Year": 2021,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 5633000000
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2021,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2021,
+   "Deaths": 198,
+   "Homelessness": 0,
+   "Economic": 40000000000
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2021,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2021,
+   "Deaths": 3,
+   "Homelessness": 5016,
+   "Economic": 620000000
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2021,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2021,
+   "Deaths": 5,
+   "Homelessness": 1972,
+   "Economic": 0
+ },
+ {
+   "Country": "Guyana",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2021,
+   "Deaths": 2582,
+   "Homelessness": 0,
+   "Economic": 1620071000
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2021,
+   "Deaths": 2004,
+   "Homelessness": 116704,
+   "Economic": 211271912000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Hong Kong",
+   "Year": 2021,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2021,
+   "Deaths": 2126,
+   "Homelessness": 450,
+   "Economic": 7810000000
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2021,
+   "Deaths": 492,
+   "Homelessness": 2250,
+   "Economic": 928700000
+ },
+ {
+   "Country": "Iran",
+   "Year": 2021,
+   "Deaths": 26,
+   "Homelessness": 0,
+   "Economic": 175000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2021,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 14000000
+ },
+ {
+   "Country": "Italy",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 59000000
+ },
+ {
+   "Country": "Japan",
+   "Year": 2021,
+   "Deaths": 62,
+   "Homelessness": 60,
+   "Economic": 10600000000
+ },
+ {
+   "Country": "Kazakhstan",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Kenya",
+   "Year": 2021,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 250000000
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2021,
+   "Deaths": 15,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Laos",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 120000
+ },
+ {
+   "Country": "Lesotho",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2021,
+   "Deaths": 716,
+   "Homelessness": 26309,
+   "Economic": 993000000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2021,
+   "Deaths": 6800,
+   "Homelessness": 5068,
+   "Economic": 12077144000
+ },
+ {
+   "Country": "Luxembourg",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2021,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2021,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2021,
+   "Deaths": 79,
+   "Homelessness": 0,
+   "Economic": 1460000000
+ },
+ {
+   "Country": "Maldives",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2021,
+   "Deaths": 71,
+   "Homelessness": 0,
+   "Economic": 1120000000
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2021,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Morocco",
+   "Year": 2021,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2021,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Myanmar",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Namibia",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2021,
+   "Deaths": 251,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "New Caledonia",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 277000000
+ },
+ {
+   "Country": "Niger",
+   "Year": 2021,
+   "Deaths": 62,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2021,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "North America",
+   "Year": 2021,
+   "Deaths": 4275,
+   "Homelessness": 4836,
+   "Economic": 147819983000
+ },
+ {
+   "Country": "North Korea",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "North Macedonia",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2021,
+   "Deaths": 14,
+   "Homelessness": 243,
+   "Economic": 3622000000
+ },
+ {
+   "Country": "Oman",
+   "Year": 2021,
+   "Deaths": 20,
+   "Homelessness": 0,
+   "Economic": 80000000
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2021,
+   "Deaths": 264,
+   "Homelessness": 250,
+   "Economic": 10000000
+ },
+ {
+   "Country": "Palau",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Panama",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Paraguay",
+   "Year": 2021,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2021,
+   "Deaths": 23,
+   "Homelessness": 54,
+   "Economic": 25000000
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2021,
+   "Deaths": 572,
+   "Homelessness": 0,
+   "Economic": 1077753000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2021,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Romania",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Russia",
+   "Year": 2021,
+   "Deaths": 14,
+   "Homelessness": 3,
+   "Economic": 200000000
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 1740,
+   "Economic": 0
+ },
+ {
+   "Country": "Saint Lucia",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 34000000
+ },
+ {
+   "Country": "Saint Vincent and the Grenadines",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 325000000
+ },
+ {
+   "Country": "Sao Tome and Principe",
+   "Year": 2021,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Serbia",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovakia",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Slovenia",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2021,
+   "Deaths": 25,
+   "Homelessness": 0,
+   "Economic": 993000000
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2021,
+   "Deaths": 58,
+   "Homelessness": 0,
+   "Economic": 75000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2021,
+   "Deaths": 254,
+   "Homelessness": 54,
+   "Economic": 3743000000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 13000000
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2021,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2021,
+   "Deaths": 9,
+   "Homelessness": 6549,
+   "Economic": 3041000000
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2021,
+   "Deaths": 35,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2021,
+   "Deaths": 52,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sweden",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 70000000
+ },
+ {
+   "Country": "Switzerland",
+   "Year": 2021,
+   "Deaths": 17,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Syria",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2021,
+   "Deaths": 18,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tajikistan",
+   "Year": 2021,
+   "Deaths": 24,
+   "Homelessness": 0,
+   "Economic": 9000000
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2021,
+   "Deaths": 16,
+   "Homelessness": 900,
+   "Economic": 591000000
+ },
+ {
+   "Country": "Timor",
+   "Year": 2021,
+   "Deaths": 41,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2021,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2021,
+   "Deaths": 82,
+   "Homelessness": 0,
+   "Economic": 545000000
+ },
+ {
+   "Country": "Tuvalu",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2021,
+   "Deaths": 5,
+   "Homelessness": 597,
+   "Economic": 0
+ },
+ {
+   "Country": "Ukraine",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 170000000
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2021,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United States",
+   "Year": 2021,
+   "Deaths": 786,
+   "Homelessness": 4650,
+   "Economic": 142515000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2021,
+   "Deaths": 966,
+   "Homelessness": 3853,
+   "Economic": 33598500000
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2021,
+   "Deaths": 8,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vanuatu",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2021,
+   "Deaths": 46,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2021,
+   "Deaths": 35,
+   "Homelessness": 1000,
+   "Economic": 26500000
+ },
+ {
+   "Country": "World",
+   "Year": 2021,
+   "Deaths": 10532,
+   "Homelessness": 151934,
+   "Economic": 257940556000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2021,
+   "Deaths": 46,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2021,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2021,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Afghanistan",
+   "Year": 2022,
+   "Deaths": 1346,
+   "Homelessness": 18500,
+   "Economic": 0
+ },
+ {
+   "Country": "Africa",
+   "Year": 2022,
+   "Deaths": 4740,
+   "Homelessness": 10683,
+   "Economic": 3819000000
+ },
+ {
+   "Country": "Algeria",
+   "Year": 2022,
+   "Deaths": 44,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Argentina",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 730000000
+ },
+ {
+   "Country": "Asia",
+   "Year": 2022,
+   "Deaths": 6847,
+   "Homelessness": 21063,
+   "Economic": 19060169000
+ },
+ {
+   "Country": "Australia",
+   "Year": 2022,
+   "Deaths": 31,
+   "Homelessness": 0,
+   "Economic": 9375000000
+ },
+ {
+   "Country": "Austria",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bangladesh",
+   "Year": 2022,
+   "Deaths": 117,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belgium",
+   "Year": 2022,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Belize",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 150,
+   "Economic": 0
+ },
+ {
+   "Country": "Benin",
+   "Year": 2022,
+   "Deaths": 44,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bolivia",
+   "Year": 2022,
+   "Deaths": 60,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Brazil",
+   "Year": 2022,
+   "Deaths": 478,
+   "Homelessness": 886,
+   "Economic": 812000000
+ },
+ {
+   "Country": "Bulgaria",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 46000000
+ },
+ {
+   "Country": "Cambodia",
+   "Year": 2022,
+   "Deaths": 31,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cameroon",
+   "Year": 2022,
+   "Deaths": 7,
+   "Homelessness": 150,
+   "Economic": 0
+ },
+ {
+   "Country": "Canada",
+   "Year": 2022,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cape Verde",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Central African Republic",
+   "Year": 2022,
+   "Deaths": 16,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Chad",
+   "Year": 2022,
+   "Deaths": 22,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "China",
+   "Year": 2022,
+   "Deaths": 250,
+   "Homelessness": 0,
+   "Economic": 9561000000
+ },
+ {
+   "Country": "Colombia",
+   "Year": 2022,
+   "Deaths": 122,
+   "Homelessness": 252,
+   "Economic": 0
+ },
+ {
+   "Country": "Costa Rica",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cote d'Ivoire",
+   "Year": 2022,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Cuba",
+   "Year": 2022,
+   "Deaths": 9,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Czechia",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Democratic Republic of Congo",
+   "Year": 2022,
+   "Deaths": 42,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Denmark",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Djibouti",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Dominican Republic",
+   "Year": 2022,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ecuador",
+   "Year": 2022,
+   "Deaths": 77,
+   "Homelessness": 0,
+   "Economic": 50000000
+ },
+ {
+   "Country": "El Salvador",
+   "Year": 2022,
+   "Deaths": 11,
+   "Homelessness": 0,
+   "Economic": 17000000
+ },
+ {
+   "Country": "Ethiopia",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 640000000
+ },
+ {
+   "Country": "Europe",
+   "Year": 2022,
+   "Deaths": 76,
+   "Homelessness": 2190,
+   "Economic": 46000000
+ },
+ {
+   "Country": "European Union (27)",
+   "Year": 2022,
+   "Deaths": 46,
+   "Homelessness": 0,
+   "Economic": 46000000
+ },
+ {
+   "Country": "Fiji",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 25000000
+ },
+ {
+   "Country": "France",
+   "Year": 2022,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Gambia",
+   "Year": 2022,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Georgia",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Germany",
+   "Year": 2022,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ghana",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Greece",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guadeloupe",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guatemala",
+   "Year": 2022,
+   "Deaths": 49,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guinea",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Guyana",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Haiti",
+   "Year": 2022,
+   "Deaths": 9,
+   "Homelessness": 950,
+   "Economic": 0
+ },
+ {
+   "Country": "High-income countries",
+   "Year": 2022,
+   "Deaths": 410,
+   "Homelessness": 1821,
+   "Economic": 36734100000
+ },
+ {
+   "Country": "Honduras",
+   "Year": 2022,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "India",
+   "Year": 2022,
+   "Deaths": 2210,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Indonesia",
+   "Year": 2022,
+   "Deaths": 60,
+   "Homelessness": 515,
+   "Economic": 0
+ },
+ {
+   "Country": "Iran",
+   "Year": 2022,
+   "Deaths": 109,
+   "Homelessness": 150,
+   "Economic": 342000000
+ },
+ {
+   "Country": "Iraq",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Ireland",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Italy",
+   "Year": 2022,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Japan",
+   "Year": 2022,
+   "Deaths": 37,
+   "Homelessness": 0,
+   "Economic": 8800000000
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Laos",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Low-income countries",
+   "Year": 2022,
+   "Deaths": 4869,
+   "Homelessness": 19000,
+   "Economic": 655000000
+ },
+ {
+   "Country": "Lower-middle-income countries",
+   "Year": 2022,
+   "Deaths": 5911,
+   "Homelessness": 9760,
+   "Economic": 648829000
+ },
+ {
+   "Country": "Madagascar",
+   "Year": 2022,
+   "Deaths": 253,
+   "Homelessness": 0,
+   "Economic": 15000000
+ },
+ {
+   "Country": "Malawi",
+   "Year": 2022,
+   "Deaths": 71,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Malaysia",
+   "Year": 2022,
+   "Deaths": 9,
+   "Homelessness": 18,
+   "Economic": 240000
+ },
+ {
+   "Country": "Mali",
+   "Year": 2022,
+   "Deaths": 10,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Marshall Islands",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritania",
+   "Year": 2022,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mauritius",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mexico",
+   "Year": 2022,
+   "Deaths": 56,
+   "Homelessness": 2424,
+   "Economic": 0
+ },
+ {
+   "Country": "Mongolia",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Mozambique",
+   "Year": 2022,
+   "Deaths": 115,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nepal",
+   "Year": 2022,
+   "Deaths": 174,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Netherlands",
+   "Year": 2022,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "New Zealand",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nicaragua",
+   "Year": 2022,
+   "Deaths": 5,
+   "Homelessness": 2100,
+   "Economic": 180000000
+ },
+ {
+   "Country": "Niger",
+   "Year": 2022,
+   "Deaths": 195,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Nigeria",
+   "Year": 2022,
+   "Deaths": 610,
+   "Homelessness": 1500,
+   "Economic": 0
+ },
+ {
+   "Country": "North America",
+   "Year": 2022,
+   "Deaths": 412,
+   "Homelessness": 6365,
+   "Economic": 18752000000
+ },
+ {
+   "Country": "Norway",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Oceania",
+   "Year": 2022,
+   "Deaths": 43,
+   "Homelessness": 1945,
+   "Economic": 9517000000
+ },
+ {
+   "Country": "Pakistan",
+   "Year": 2022,
+   "Deaths": 1799,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Palestine",
+   "Year": 2022,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Year": 2022,
+   "Deaths": 7,
+   "Homelessness": 1945,
+   "Economic": 0
+ },
+ {
+   "Country": "Peru",
+   "Year": 2022,
+   "Deaths": 13,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Philippines",
+   "Year": 2022,
+   "Deaths": 482,
+   "Homelessness": 0,
+   "Economic": 109829000
+ },
+ {
+   "Country": "Poland",
+   "Year": 2022,
+   "Deaths": 7,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Portugal",
+   "Year": 2022,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Puerto Rico",
+   "Year": 2022,
+   "Deaths": 25,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Reunion",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Russia",
+   "Year": 2022,
+   "Deaths": 23,
+   "Homelessness": 2190,
+   "Economic": 0
+ },
+ {
+   "Country": "Rwanda",
+   "Year": 2022,
+   "Deaths": 26,
+   "Homelessness": 500,
+   "Economic": 0
+ },
+ {
+   "Country": "Senegal",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sierra Leone",
+   "Year": 2022,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Somalia",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "South Africa",
+   "Year": 2022,
+   "Deaths": 562,
+   "Homelessness": 7033,
+   "Economic": 3164000000
+ },
+ {
+   "Country": "South America",
+   "Year": 2022,
+   "Deaths": 890,
+   "Homelessness": 2089,
+   "Economic": 1592000000
+ },
+ {
+   "Country": "South Korea",
+   "Year": 2022,
+   "Deaths": 33,
+   "Homelessness": 1080,
+   "Economic": 0
+ },
+ {
+   "Country": "South Sudan",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Spain",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sri Lanka",
+   "Year": 2022,
+   "Deaths": 12,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Sudan",
+   "Year": 2022,
+   "Deaths": 146,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Suriname",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Syria",
+   "Year": 2022,
+   "Deaths": 2,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Taiwan",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 4100000
+ },
+ {
+   "Country": "Tanzania",
+   "Year": 2022,
+   "Deaths": 10,
+   "Homelessness": 1500,
+   "Economic": 0
+ },
+ {
+   "Country": "Thailand",
+   "Year": 2022,
+   "Deaths": 14,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Tonga",
+   "Year": 2022,
+   "Deaths": 4,
+   "Homelessness": 0,
+   "Economic": 117000000
+ },
+ {
+   "Country": "Tunisia",
+   "Year": 2022,
+   "Deaths": 1,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Turkey",
+   "Year": 2022,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 243000000
+ },
+ {
+   "Country": "Uganda",
+   "Year": 2022,
+   "Deaths": 2517,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United Kingdom",
+   "Year": 2022,
+   "Deaths": 6,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "United States",
+   "Year": 2022,
+   "Deaths": 220,
+   "Homelessness": 741,
+   "Economic": 18555000000
+ },
+ {
+   "Country": "Upper-middle-income countries",
+   "Year": 2022,
+   "Deaths": 1677,
+   "Homelessness": 12803,
+   "Economic": 14748240000
+ },
+ {
+   "Country": "Uruguay",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Uzbekistan",
+   "Year": 2022,
+   "Deaths": 5,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Venezuela",
+   "Year": 2022,
+   "Deaths": 140,
+   "Homelessness": 951,
+   "Economic": 0
+ },
+ {
+   "Country": "Vietnam",
+   "Year": 2022,
+   "Deaths": 55,
+   "Homelessness": 800,
+   "Economic": 0
+ },
+ {
+   "Country": "World",
+   "Year": 2022,
+   "Deaths": 13008,
+   "Homelessness": 44335,
+   "Economic": 52786169000
+ },
+ {
+   "Country": "Yemen",
+   "Year": 2022,
+   "Deaths": 90,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zambia",
+   "Year": 2022,
+   "Deaths": 3,
+   "Homelessness": 0,
+   "Economic": 0
+ },
+ {
+   "Country": "Zimbabwe",
+   "Year": 2022,
+   "Deaths": 0,
+   "Homelessness": 0,
+   "Economic": 0
+ }
+]

@@ -1,0 +1,957 @@
+[
+ {
+   "Country": "Switzerland",
+   "HDI": 0.962,
+   "GNI": 66933
+ },
+ {
+   "Country": "Norway",
+   "HDI": 0.961,
+   "GNI": 64660
+ },
+ {
+   "Country": "Iceland",
+   "HDI": 0.959,
+   "GNI": 55782
+ },
+ {
+   "Country": "Hong Kong, China (SAR)",
+   "HDI": 0.952,
+   "GNI": 62607
+ },
+ {
+   "Country": "Australia",
+   "HDI": 0.951,
+   "GNI": 49238
+ },
+ {
+   "Country": "Denmark",
+   "HDI": 0.948,
+   "GNI": 60365
+ },
+ {
+   "Country": "Sweden",
+   "HDI": 0.947,
+   "GNI": 54489
+ },
+ {
+   "Country": "Ireland",
+   "HDI": 0.945,
+   "GNI": 76169
+ },
+ {
+   "Country": "Germany",
+   "HDI": 0.942,
+   "GNI": 54534
+ },
+ {
+   "Country": "Netherlands",
+   "HDI": 0.941,
+   "GNI": 55979
+ },
+ {
+   "Country": "Finland",
+   "HDI": 0.94,
+   "GNI": 49452
+ },
+ {
+   "Country": "Singapore",
+   "HDI": 0.939,
+   "GNI": 90919
+ },
+ {
+   "Country": "Belgium",
+   "HDI": 0.937,
+   "GNI": 52293
+ },
+ {
+   "Country": "New Zealand",
+   "HDI": 0.937,
+   "GNI": 44057
+ },
+ {
+   "Country": "Canada",
+   "HDI": 0.936,
+   "GNI": 46808
+ },
+ {
+   "Country": "Liechtenstein",
+   "HDI": 0.935,
+   "GNI": 146830
+ },
+ {
+   "Country": "Luxembourg",
+   "HDI": 0.93,
+   "GNI": 84649
+ },
+ {
+   "Country": "United Kingdom",
+   "HDI": 0.929,
+   "GNI": 45225
+ },
+ {
+   "Country": "Japan",
+   "HDI": 0.925,
+   "GNI": 42274
+ },
+ {
+   "Country": "Korea",
+   "HDI": 0.925,
+   "GNI": 44501
+ },
+ {
+   "Country": "United States",
+   "HDI": 0.921,
+   "GNI": 64765
+ },
+ {
+   "Country": "Israel",
+   "HDI": 0.919,
+   "GNI": 41524
+ },
+ {
+   "Country": "Malta",
+   "HDI": 0.918,
+   "GNI": 38884
+ },
+ {
+   "Country": "Slovenia",
+   "HDI": 0.918,
+   "GNI": 39746
+ },
+ {
+   "Country": "Austria",
+   "HDI": 0.916,
+   "GNI": 53619
+ },
+ {
+   "Country": "United Arab Emirates",
+   "HDI": 0.911,
+   "GNI": 62574
+ },
+ {
+   "Country": "Spain",
+   "HDI": 0.905,
+   "GNI": 38354
+ },
+ {
+   "Country": "France",
+   "HDI": 0.903,
+   "GNI": 45937
+ },
+ {
+   "Country": "Cyprus",
+   "HDI": 0.896,
+   "GNI": 38188
+ },
+ {
+   "Country": "Italy",
+   "HDI": 0.895,
+   "GNI": 42840
+ },
+ {
+   "Country": "Estonia",
+   "HDI": 0.89,
+   "GNI": 38048
+ },
+ {
+   "Country": "Czechia",
+   "HDI": 0.889,
+   "GNI": 38745
+ },
+ {
+   "Country": "Greece",
+   "HDI": 0.887,
+   "GNI": 29002
+ },
+ {
+   "Country": "Poland",
+   "HDI": 0.876,
+   "GNI": 33034
+ },
+ {
+   "Country": "Bahrain",
+   "HDI": 0.875,
+   "GNI": 39497
+ },
+ {
+   "Country": "Lithuania",
+   "HDI": 0.875,
+   "GNI": 37931
+ },
+ {
+   "Country": "Saudi Arabia",
+   "HDI": 0.875,
+   "GNI": 46112
+ },
+ {
+   "Country": "Portugal",
+   "HDI": 0.866,
+   "GNI": 33155
+ },
+ {
+   "Country": "Latvia",
+   "HDI": 0.863,
+   "GNI": 32803
+ },
+ {
+   "Country": "Andorra",
+   "HDI": 0.858,
+   "GNI": 51167
+ },
+ {
+   "Country": "Croatia",
+   "HDI": 0.858,
+   "GNI": 30132
+ },
+ {
+   "Country": "Chile",
+   "HDI": 0.855,
+   "GNI": 24563
+ },
+ {
+   "Country": "Qatar",
+   "HDI": 0.855,
+   "GNI": 87134
+ },
+ {
+   "Country": "San Marino",
+   "HDI": 0.853,
+   "GNI": 52654
+ },
+ {
+   "Country": "Slovakia",
+   "HDI": 0.848,
+   "GNI": 30690
+ },
+ {
+   "Country": "Hungary",
+   "HDI": 0.846,
+   "GNI": 32789
+ },
+ {
+   "Country": "Argentina",
+   "HDI": 0.842,
+   "GNI": 20925
+ },
+ {
+   "Country": "Türkiye",
+   "HDI": 0.838,
+   "GNI": 31033
+ },
+ {
+   "Country": "Montenegro",
+   "HDI": 0.832,
+   "GNI": 20839
+ },
+ {
+   "Country": "Kuwait",
+   "HDI": 0.831,
+   "GNI": 52920
+ },
+ {
+   "Country": "Brunei Darussalam",
+   "HDI": 0.829,
+   "GNI": 64490
+ },
+ {
+   "Country": "Russian Federation",
+   "HDI": 0.822,
+   "GNI": 27166
+ },
+ {
+   "Country": "Romania",
+   "HDI": 0.821,
+   "GNI": 30027
+ },
+ {
+   "Country": "Oman",
+   "HDI": 0.816,
+   "GNI": 27054
+ },
+ {
+   "Country": "Bahamas",
+   "HDI": 0.812,
+   "GNI": 30486
+ },
+ {
+   "Country": "Kazakhstan",
+   "HDI": 0.811,
+   "GNI": 23943
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "HDI": 0.81,
+   "GNI": 23392
+ },
+ {
+   "Country": "Costa Rica",
+   "HDI": 0.809,
+   "GNI": 19974
+ },
+ {
+   "Country": "Uruguay",
+   "HDI": 0.809,
+   "GNI": 21269
+ },
+ {
+   "Country": "Belarus",
+   "HDI": 0.808,
+   "GNI": 18849
+ },
+ {
+   "Country": "Panama",
+   "HDI": 0.805,
+   "GNI": 26957
+ },
+ {
+   "Country": "Malaysia",
+   "HDI": 0.803,
+   "GNI": 26658
+ },
+ {
+   "Country": "Georgia",
+   "HDI": 0.802,
+   "GNI": 14664
+ },
+ {
+   "Country": "Mauritius",
+   "HDI": 0.802,
+   "GNI": 22025
+ },
+ {
+   "Country": "Serbia",
+   "HDI": 0.802,
+   "GNI": 19123
+ },
+ {
+   "Country": "Thailand",
+   "HDI": 0.8,
+   "GNI": 17030
+ },
+ {
+   "Country": "Albania",
+   "HDI": 0.796,
+   "GNI": 14131
+ },
+ {
+   "Country": "Bulgaria",
+   "HDI": 0.795,
+   "GNI": 23079
+ },
+ {
+   "Country": "Grenada",
+   "HDI": 0.795,
+   "GNI": 13484
+ },
+ {
+   "Country": "Barbados",
+   "HDI": 0.79,
+   "GNI": 12306
+ },
+ {
+   "Country": "Antigua and Barbuda",
+   "HDI": 0.788,
+   "GNI": 16792
+ },
+ {
+   "Country": "Seychelles",
+   "HDI": 0.785,
+   "GNI": 25831
+ },
+ {
+   "Country": "Sri Lanka",
+   "HDI": 0.782,
+   "GNI": 12578
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "HDI": 0.78,
+   "GNI": 15242
+ },
+ {
+   "Country": "Saint Kitts and Nevis",
+   "HDI": 0.777,
+   "GNI": 23358
+ },
+ {
+   "Country": "Iran",
+   "HDI": 0.774,
+   "GNI": 13001
+ },
+ {
+   "Country": "Ukraine",
+   "HDI": 0.773,
+   "GNI": 13256
+ },
+ {
+   "Country": "North Macedonia",
+   "HDI": 0.77,
+   "GNI": 15918
+ },
+ {
+   "Country": "China",
+   "HDI": 0.768,
+   "GNI": 17504
+ },
+ {
+   "Country": "Dominican Republic",
+   "HDI": 0.767,
+   "GNI": 17990
+ },
+ {
+   "Country": "Moldova",
+   "HDI": 0.767,
+   "GNI": 14875
+ },
+ {
+   "Country": "Palau",
+   "HDI": 0.767,
+   "GNI": 13819
+ },
+ {
+   "Country": "Cuba",
+   "HDI": 0.764,
+   "GNI": 7879
+ },
+ {
+   "Country": "Peru",
+   "HDI": 0.762,
+   "GNI": 12246
+ },
+ {
+   "Country": "Armenia",
+   "HDI": 0.759,
+   "GNI": 13158
+ },
+ {
+   "Country": "Mexico",
+   "HDI": 0.758,
+   "GNI": 17896
+ },
+ {
+   "Country": "Brazil",
+   "HDI": 0.754,
+   "GNI": 14370
+ },
+ {
+   "Country": "Colombia",
+   "HDI": 0.752,
+   "GNI": 14384
+ },
+ {
+   "Country": "Saint Vincent and the Grenadines",
+   "HDI": 0.751,
+   "GNI": 11961
+ },
+ {
+   "Country": "Maldives",
+   "HDI": 0.747,
+   "GNI": 15448
+ },
+ {
+   "Country": "Algeria",
+   "HDI": 0.745,
+   "GNI": 10800
+ },
+ {
+   "Country": "Azerbaijan",
+   "HDI": 0.745,
+   "GNI": 14257
+ },
+ {
+   "Country": "Tonga",
+   "HDI": 0.745,
+   "GNI": 6822
+ },
+ {
+   "Country": "Turkmenistan",
+   "HDI": 0.745,
+   "GNI": 13021
+ },
+ {
+   "Country": "Ecuador",
+   "HDI": 0.74,
+   "GNI": 10312
+ },
+ {
+   "Country": "Mongolia",
+   "HDI": 0.739,
+   "GNI": 10588
+ },
+ {
+   "Country": "Egypt",
+   "HDI": 0.731,
+   "GNI": 11732
+ },
+ {
+   "Country": "Tunisia",
+   "HDI": 0.731,
+   "GNI": 10258
+ },
+ {
+   "Country": "Fiji",
+   "HDI": 0.73,
+   "GNI": 9980
+ },
+ {
+   "Country": "Suriname",
+   "HDI": 0.73,
+   "GNI": 12672
+ },
+ {
+   "Country": "Uzbekistan",
+   "HDI": 0.727,
+   "GNI": 7917
+ },
+ {
+   "Country": "Dominica",
+   "HDI": 0.72,
+   "GNI": 11488
+ },
+ {
+   "Country": "Jordan",
+   "HDI": 0.72,
+   "GNI": 9924
+ },
+ {
+   "Country": "Libya",
+   "HDI": 0.718,
+   "GNI": 15336
+ },
+ {
+   "Country": "Paraguay",
+   "HDI": 0.717,
+   "GNI": 12349
+ },
+ {
+   "Country": "Palestine, State of",
+   "HDI": 0.715,
+   "GNI": 6583
+ },
+ {
+   "Country": "Saint Lucia",
+   "HDI": 0.715,
+   "GNI": 12048
+ },
+ {
+   "Country": "Guyana",
+   "HDI": 0.714,
+   "GNI": 22465
+ },
+ {
+   "Country": "South Africa",
+   "HDI": 0.713,
+   "GNI": 12948
+ },
+ {
+   "Country": "Jamaica",
+   "HDI": 0.709,
+   "GNI": 8834
+ },
+ {
+   "Country": "Samoa",
+   "HDI": 0.707,
+   "GNI": 5308
+ },
+ {
+   "Country": "Gabon",
+   "HDI": 0.706,
+   "GNI": 13367
+ },
+ {
+   "Country": "Lebanon",
+   "HDI": 0.706,
+   "GNI": 9526
+ },
+ {
+   "Country": "Indonesia",
+   "HDI": 0.705,
+   "GNI": 11466
+ },
+ {
+   "Country": "Viet Nam",
+   "HDI": 0.703,
+   "GNI": 7867
+ },
+ {
+   "Country": "Philippines",
+   "HDI": 0.699,
+   "GNI": 8920
+ },
+ {
+   "Country": "Botswana",
+   "HDI": 0.693,
+   "GNI": 16198
+ },
+ {
+   "Country": "Bolivia",
+   "HDI": 0.692,
+   "GNI": 8111
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "HDI": 0.692,
+   "GNI": 4566
+ },
+ {
+   "Country": "Venezuela",
+   "HDI": 0.691,
+   "GNI": 4811
+ },
+ {
+   "Country": "Iraq",
+   "HDI": 0.686,
+   "GNI": 9977
+ },
+ {
+   "Country": "Tajikistan",
+   "HDI": 0.685,
+   "GNI": 4548
+ },
+ {
+   "Country": "Belize",
+   "HDI": 0.683,
+   "GNI": 6309
+ },
+ {
+   "Country": "Morocco",
+   "HDI": 0.683,
+   "GNI": 7303
+ },
+ {
+   "Country": "El Salvador",
+   "HDI": 0.675,
+   "GNI": 8296
+ },
+ {
+   "Country": "Nicaragua",
+   "HDI": 0.667,
+   "GNI": 5625
+ },
+ {
+   "Country": "Bhutan",
+   "HDI": 0.666,
+   "GNI": 9438
+ },
+ {
+   "Country": "Cabo Verde",
+   "HDI": 0.662,
+   "GNI": 6230
+ },
+ {
+   "Country": "Bangladesh",
+   "HDI": 0.661,
+   "GNI": 5472
+ },
+ {
+   "Country": "Tuvalu",
+   "HDI": 0.641,
+   "GNI": 6351
+ },
+ {
+   "Country": "Marshall Islands",
+   "HDI": 0.639,
+   "GNI": 4620
+ },
+ {
+   "Country": "India",
+   "HDI": 0.633,
+   "GNI": 6590
+ },
+ {
+   "Country": "Ghana",
+   "HDI": 0.632,
+   "GNI": 5745
+ },
+ {
+   "Country": "Micronesia",
+   "HDI": 0.628,
+   "GNI": 3696
+ },
+ {
+   "Country": "Guatemala",
+   "HDI": 0.627,
+   "GNI": 8723
+ },
+ {
+   "Country": "Kiribati",
+   "HDI": 0.624,
+   "GNI": 4063
+ },
+ {
+   "Country": "Honduras",
+   "HDI": 0.621,
+   "GNI": 5298
+ },
+ {
+   "Country": "Sao Tome and Principe",
+   "HDI": 0.618,
+   "GNI": 4021
+ },
+ {
+   "Country": "Namibia",
+   "HDI": 0.615,
+   "GNI": 8634
+ },
+ {
+   "Country": "Lao People's Democratic Republic",
+   "HDI": 0.607,
+   "GNI": 7700
+ },
+ {
+   "Country": "Timor-Leste",
+   "HDI": 0.607,
+   "GNI": 4461
+ },
+ {
+   "Country": "Vanuatu",
+   "HDI": 0.607,
+   "GNI": 3085
+ },
+ {
+   "Country": "Nepal",
+   "HDI": 0.602,
+   "GNI": 3877
+ },
+ {
+   "Country": "Eswatini",
+   "HDI": 0.597,
+   "GNI": 7679
+ },
+ {
+   "Country": "Equatorial Guinea",
+   "HDI": 0.596,
+   "GNI": 12074
+ },
+ {
+   "Country": "Cambodia",
+   "HDI": 0.593,
+   "GNI": 4079
+ },
+ {
+   "Country": "Zimbabwe",
+   "HDI": 0.593,
+   "GNI": 3810
+ },
+ {
+   "Country": "Angola",
+   "HDI": 0.586,
+   "GNI": 5466
+ },
+ {
+   "Country": "Myanmar",
+   "HDI": 0.585,
+   "GNI": 3851
+ },
+ {
+   "Country": "Syrian Arab Republic",
+   "HDI": 0.577,
+   "GNI": 4192
+ },
+ {
+   "Country": "Cameroon",
+   "HDI": 0.576,
+   "GNI": 3621
+ },
+ {
+   "Country": "Kenya",
+   "HDI": 0.575,
+   "GNI": 4474
+ },
+ {
+   "Country": "Congo",
+   "HDI": 0.571,
+   "GNI": 2889
+ },
+ {
+   "Country": "Zambia",
+   "HDI": 0.565,
+   "GNI": 3218
+ },
+ {
+   "Country": "Solomon Islands",
+   "HDI": 0.564,
+   "GNI": 2482
+ },
+ {
+   "Country": "Comoros",
+   "HDI": 0.558,
+   "GNI": 3142
+ },
+ {
+   "Country": "Papua New Guinea",
+   "HDI": 0.558,
+   "GNI": 4009
+ },
+ {
+   "Country": "Mauritania",
+   "HDI": 0.556,
+   "GNI": 5075
+ },
+ {
+   "Country": "Côte d'Ivoire",
+   "HDI": 0.55,
+   "GNI": 5217
+ },
+ {
+   "Country": "Tanzania",
+   "HDI": 0.549,
+   "GNI": 2664
+ },
+ {
+   "Country": "Pakistan",
+   "HDI": 0.544,
+   "GNI": 4624
+ },
+ {
+   "Country": "Togo",
+   "HDI": 0.539,
+   "GNI": 2167
+ },
+ {
+   "Country": "Haiti",
+   "HDI": 0.535,
+   "GNI": 2848
+ },
+ {
+   "Country": "Nigeria",
+   "HDI": 0.535,
+   "GNI": 4790
+ },
+ {
+   "Country": "Rwanda",
+   "HDI": 0.534,
+   "GNI": 2210
+ },
+ {
+   "Country": "Benin",
+   "HDI": 0.525,
+   "GNI": 3409
+ },
+ {
+   "Country": "Uganda",
+   "HDI": 0.525,
+   "GNI": 2181
+ },
+ {
+   "Country": "Lesotho",
+   "HDI": 0.514,
+   "GNI": 2700
+ },
+ {
+   "Country": "Malawi",
+   "HDI": 0.512,
+   "GNI": 1466
+ },
+ {
+   "Country": "Senegal",
+   "HDI": 0.511,
+   "GNI": 3344
+ },
+ {
+   "Country": "Djibouti",
+   "HDI": 0.509,
+   "GNI": 5025
+ },
+ {
+   "Country": "Sudan",
+   "HDI": 0.508,
+   "GNI": 3575
+ },
+ {
+   "Country": "Madagascar",
+   "HDI": 0.501,
+   "GNI": 1484
+ },
+ {
+   "Country": "Gambia",
+   "HDI": 0.5,
+   "GNI": 2172
+ },
+ {
+   "Country": "Ethiopia",
+   "HDI": 0.498,
+   "GNI": 2361
+ },
+ {
+   "Country": "Eritrea",
+   "HDI": 0.492,
+   "GNI": 1729
+ },
+ {
+   "Country": "Guinea-Bissau",
+   "HDI": 0.483,
+   "GNI": 1908
+ },
+ {
+   "Country": "Liberia",
+   "HDI": 0.481,
+   "GNI": 1289
+ },
+ {
+   "Country": "Congo",
+   "HDI": 0.479,
+   "GNI": 1076
+ },
+ {
+   "Country": "Afghanistan",
+   "HDI": 0.478,
+   "GNI": 1824
+ },
+ {
+   "Country": "Sierra Leone",
+   "HDI": 0.477,
+   "GNI": 1622
+ },
+ {
+   "Country": "Guinea",
+   "HDI": 0.465,
+   "GNI": 2481
+ },
+ {
+   "Country": "Yemen",
+   "HDI": 0.455,
+   "GNI": 1314
+ },
+ {
+   "Country": "Burkina Faso",
+   "HDI": 0.449,
+   "GNI": 2118
+ },
+ {
+   "Country": "Mozambique",
+   "HDI": 0.446,
+   "GNI": 1198
+ },
+ {
+   "Country": "Mali",
+   "HDI": 0.428,
+   "GNI": 2133
+ },
+ {
+   "Country": "Burundi",
+   "HDI": 0.426,
+   "GNI": 732
+ },
+ {
+   "Country": "Central African Republic",
+   "HDI": 0.404,
+   "GNI": 966
+ },
+ {
+   "Country": "Niger",
+   "HDI": 0.4,
+   "GNI": 1240
+ },
+ {
+   "Country": "Chad",
+   "HDI": 0.394,
+   "GNI": 1364
+ },
+ {
+   "Country": "South Sudan",
+   "HDI": 0.385,
+   "GNI": 768
+ }
+]

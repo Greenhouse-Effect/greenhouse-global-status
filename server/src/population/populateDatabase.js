@@ -1,16 +1,20 @@
 import axios from 'axios';
-import csv from 'csvtojson';
 import path from 'path';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
 
 import { countryScraper } from "./scrapers/countryScraper.js";
 
+const filename = fileURLToPath(import.meta.url);
+const dirName = path.dirname(filename);
+
 export const populateCountryData = async () => {
-  const data = await countryScraper();
+  const data = await countryScraper().catch((err) => console.log(err));
   
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post("http://35.92.119.149:8080/country", {
+      await axios.post("http://localhost:8080/country", {
         name: row[0],
         population: row[1],
         populationYearlyChange: row[2]
@@ -28,13 +32,12 @@ export const populateCountryData = async () => {
 }
 
 export const populateAtmosphericData = async () => {
-  const atmosphericDataPath = path.resolve('public/emissions-temp-data.csv');
-  const data = await csv().fromFile(atmosphericDataPath);
+  const data = JSON.parse(fs.readFileSync(path.resolve(dirName, './dataFiles/emissions-temp-data.json')));
 
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://35.92.119.149:8080/atmosphericData/${row.Area}/${row.Year}`, {
+      await axios.post(`http://localhost:8080/atmosphericData/${row.Area}/${row.Year}`, {
         emissions: row.Emission,
         tempChange: row.TempChange
       }, {
@@ -51,13 +54,12 @@ export const populateAtmosphericData = async () => {
 }
 
 export const populateLandData = async () => {
-  const landDataPath = path.resolve('public/land-water-data.csv');
-  const data = await csv().fromFile(landDataPath);
+  const data = JSON.parse(fs.readFileSync(path.resolve(dirName, './dataFiles/land-water-data.json')));
 
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://35.92.119.149:8080/landData/${row.Country}/2021`, {
+      await axios.post(`http://localhost:8080/landData/${row.Country}/2021`, {
         landArea: row.Land,
         waterWithdrawal: row.Water
       }, {
@@ -74,13 +76,12 @@ export const populateLandData = async () => {
 }
 
 export const populateSocietalData = async () => {
-  const societalDataPath = path.resolve('public/hdi-gni-data.csv');
-  const data = await csv().fromFile(societalDataPath);
+  const data = JSON.parse(fs.readFileSync(path.resolve(dirName, './dataFiles/hdi-gni-data.json')));
 
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://35.92.119.149:8080/societalData/${row.Country}/2021`, {
+      await axios.post(`http://localhost:8080/societalData/${row.Country}/2021`, {
         hdi: row.HDI,
         gni: row.GNI
       }, {
@@ -97,13 +98,12 @@ export const populateSocietalData = async () => {
 }
 
 export const populateEnergyData = async () => {
-  const energyDataPath = path.resolve('public/energy-consumption-data.csv');
-  const data = await csv().fromFile(energyDataPath);
+  const data = JSON.parse(fs.readFileSync(path.resolve(dirName, './dataFiles/energy-consumption-data.json')));
 
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://35.92.119.149:8080/energyData/${row.Area}/${row.Year}`, {
+      await axios.post(`http://localhost:8080/energyData/${row.Area}/${row.Year}`, {
         naturalGas: row.NaturalGas,
         fuelOil: row.FuelOil,
         coal: row.Coal
@@ -121,13 +121,12 @@ export const populateEnergyData = async () => {
 }
 
 export const populateDisasterData = async () => {
-  const disasterDataPath = path.resolve('public/natural-disasters.csv');
-  const data = await csv().fromFile(disasterDataPath);
+  const data = JSON.parse(fs.readFileSync(path.resolve(dirName, './dataFiles/disaster-data.json')));
 
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://35.92.119.149:8080/disasterData/${row.Country}/${row.Year}`, {
+      await axios.post(`http://localhost:8080/disasterData/${row.Country}/${row.Year}`, {
         deaths: row.Deaths,
         homelessness: row.Homelessness,
         economicDamages: row.Economic
@@ -145,13 +144,12 @@ export const populateDisasterData = async () => {
 }
 
 export const populateDiseaseData = async () => {
-  const diseaseDataPath = path.resolve('public/disease-data.csv');
-  const data = await csv().fromFile(diseaseDataPath);
+  const data = JSON.parse(fs.readFileSync(path.resolve(dirName, './dataFiles/disease-data.json')));
 
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://35.92.119.149:8080/diseaseData/${row.Country}/${row.Year}`, {
+      await axios.post(`http://localhost:8080/diseaseData/${row.Country}/${row.Year}`, {
         rabies: row.Rabies,
         malaria: row.Malaria,
         infection: row.Infection
@@ -169,13 +167,12 @@ export const populateDiseaseData = async () => {
 }
 
 export const populateFoodData = async () => {
-  const foodDataPath = path.resolve('public/food-data.csv');
-  const data = await csv().fromFile(foodDataPath);
+  const data = JSON.parse(fs.readFileSync(path.resolve(dirName, './dataFiles/food-data.json')));
 
   let promises = [];
   for (const row of data) {
     promises.push(
-      await axios.post(`http://35.92.119.149:8080/foodData/${row.Area}/${row.Year}`, {
+      await axios.post(`http://localhost:8080/foodData/${row.Area}/${row.Year}`, {
         rice: row.Rice,
         corn: row.Corn,
         wheat: row.Wheat
