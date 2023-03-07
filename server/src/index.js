@@ -41,7 +41,7 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(8080, () => {
-  console.log(`running on port ${port}`);
+  console.log(`running on port 8080`);
 });
 
 await populateCountryData();
