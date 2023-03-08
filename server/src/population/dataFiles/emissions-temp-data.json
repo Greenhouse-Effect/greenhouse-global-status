@@ -4725,7 +4725,7 @@
    "TempChange": "0.966"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -4734,7 +4734,7 @@
    "TempChange": "0.274"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -4743,7 +4743,7 @@
    "TempChange": "0.432"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -4752,7 +4752,7 @@
    "TempChange": "0.741"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -4761,7 +4761,7 @@
    "TempChange": "0.479"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -4770,7 +4770,7 @@
    "TempChange": "0.61"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -4779,7 +4779,7 @@
    "TempChange": "0.553"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -4788,7 +4788,7 @@
    "TempChange": "0.704"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -4797,7 +4797,7 @@
    "TempChange": "0.313"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -4806,7 +4806,7 @@
    "TempChange": "0.155"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -4815,7 +4815,7 @@
    "TempChange": "0.493"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -4824,7 +4824,7 @@
    "TempChange": "0.51"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -4833,7 +4833,7 @@
    "TempChange": "0.942"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -4842,7 +4842,7 @@
    "TempChange": "0.674"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -4851,7 +4851,7 @@
    "TempChange": "0.419"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -4860,7 +4860,7 @@
    "TempChange": "0.811"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -4869,7 +4869,7 @@
    "TempChange": "1.286"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -4878,7 +4878,7 @@
    "TempChange": "0.514"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -4887,7 +4887,7 @@
    "TempChange": "0.716"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -4896,7 +4896,7 @@
    "TempChange": "0.285"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -4905,7 +4905,7 @@
    "TempChange": "0.713"
  },
  {
-   "Area": "Bolivia (Plurinational State of)",
+   "Area": "Bolivia",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -5670,7 +5670,7 @@
    "TempChange": "1.351"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -5679,7 +5679,7 @@
    "TempChange": "0.348"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -5688,7 +5688,7 @@
    "TempChange": "0.478"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -5697,7 +5697,7 @@
    "TempChange": "0.587"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -5706,7 +5706,7 @@
    "TempChange": "0.716"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -5715,7 +5715,7 @@
    "TempChange": "0.512"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -5724,7 +5724,7 @@
    "TempChange": "0.867"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -5733,7 +5733,7 @@
    "TempChange": "0.535"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -5742,7 +5742,7 @@
    "TempChange": "0.547"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -5751,7 +5751,7 @@
    "TempChange": "0.283"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -5760,7 +5760,7 @@
    "TempChange": "0.684"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -5769,7 +5769,7 @@
    "TempChange": "0.755"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -5778,7 +5778,7 @@
    "TempChange": "0.433"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -5787,7 +5787,7 @@
    "TempChange": "0.681"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -5796,7 +5796,7 @@
    "TempChange": "0.874"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -5805,7 +5805,7 @@
    "TempChange": "0.815"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -5814,7 +5814,7 @@
    "TempChange": "1.102"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -5823,7 +5823,7 @@
    "TempChange": "1.581"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -5832,7 +5832,7 @@
    "TempChange": "1.128"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -5841,7 +5841,7 @@
    "TempChange": "1.07"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -5850,7 +5850,7 @@
    "TempChange": "1.372"
  },
  {
-   "Area": "Brunei Darussalam",
+   "Area": "Brunei",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -8316,384 +8316,6 @@
    "TempChange": "1.637"
  },
  {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 39800,
-   "TempUnit": "°C",
-   "TempChange": "0.226"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 37300,
-   "TempUnit": "°C",
-   "TempChange": "0.781"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 39000,
-   "TempUnit": "°C",
-   "TempChange": "0.89"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 42800,
-   "TempUnit": "°C",
-   "TempChange": "0.921"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 41200,
-   "TempUnit": "°C",
-   "TempChange": "0.632"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 43400,
-   "TempUnit": "°C",
-   "TempChange": "0.707"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 41600,
-   "TempUnit": "°C",
-   "TempChange": "0.888"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 43200,
-   "TempUnit": "°C",
-   "TempChange": "1"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 42300,
-   "TempUnit": "°C",
-   "TempChange": "0.401"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 41200,
-   "TempUnit": "°C",
-   "TempChange": "0.939"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 39500,
-   "TempUnit": "°C",
-   "TempChange": "0.431"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 42600,
-   "TempUnit": "°C",
-   "TempChange": "0.395"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 42100,
-   "TempUnit": "°C",
-   "TempChange": "0.58"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 43700,
-   "TempUnit": "°C",
-   "TempChange": "0.818"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 44800,
-   "TempUnit": "°C",
-   "TempChange": "0.725"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 41700,
-   "TempUnit": "°C",
-   "TempChange": "1.221"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 42700,
-   "TempUnit": "°C",
-   "TempChange": "0.819"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 41900,
-   "TempUnit": "°C",
-   "TempChange": "1.389"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 42400,
-   "TempUnit": "°C",
-   "TempChange": "1.234"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 40000,
-   "TempUnit": "°C",
-   "TempChange": "1.827"
- },
- {
-   "Area": "China, Hong Kong SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 28800,
-   "TempUnit": "°C",
-   "TempChange": "1.901"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1630,
-   "TempUnit": "°C",
-   "TempChange": "0.226"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1690,
-   "TempUnit": "°C",
-   "TempChange": "0.781"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1520,
-   "TempUnit": "°C",
-   "TempChange": "0.89"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1530,
-   "TempUnit": "°C",
-   "TempChange": "0.921"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1720,
-   "TempUnit": "°C",
-   "TempChange": "0.632"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1830,
-   "TempUnit": "°C",
-   "TempChange": "0.707"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1620,
-   "TempUnit": "°C",
-   "TempChange": "0.888"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1360,
-   "TempUnit": "°C",
-   "TempChange": "1"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1130,
-   "TempUnit": "°C",
-   "TempChange": "0.401"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1890,
-   "TempUnit": "°C",
-   "TempChange": "0.939"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1230,
-   "TempUnit": "°C",
-   "TempChange": "0.431"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1290,
-   "TempUnit": "°C",
-   "TempChange": "0.395"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1130,
-   "TempUnit": "°C",
-   "TempChange": "0.58"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 983,
-   "TempUnit": "°C",
-   "TempChange": "0.818"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1290,
-   "TempUnit": "°C",
-   "TempChange": "0.725"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1800,
-   "TempUnit": "°C",
-   "TempChange": "1.221"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1770,
-   "TempUnit": "°C",
-   "TempChange": "0.819"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 1920,
-   "TempUnit": "°C",
-   "TempChange": "1.389"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 2030,
-   "TempUnit": "°C",
-   "TempChange": "1.234"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 2220,
-   "TempUnit": "°C",
-   "TempChange": "1.827"
- },
- {
-   "Area": "China, Macao SAR",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 2200,
-   "TempUnit": "°C",
-   "TempChange": "1.901"
- },
- {
    "Area": "China, mainland",
    "Element": "Emissions (CO2)",
    "Year": 2000,
@@ -10773,7 +10395,7 @@
    "TempChange": "2.024"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -10782,7 +10404,7 @@
    "TempChange": "0.535"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -10791,7 +10413,7 @@
    "TempChange": "0.515"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -10800,7 +10422,7 @@
    "TempChange": "0.835"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -10809,7 +10431,7 @@
    "TempChange": "0.88"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -10818,7 +10440,7 @@
    "TempChange": "0.611"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -10827,7 +10449,7 @@
    "TempChange": "0.576"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -10836,7 +10458,7 @@
    "TempChange": "0.728"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -10845,7 +10467,7 @@
    "TempChange": "0.713"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -10854,7 +10476,7 @@
    "TempChange": "0.423"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -10863,7 +10485,7 @@
    "TempChange": "0.777"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -10872,7 +10494,7 @@
    "TempChange": "0.469"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -10881,7 +10503,7 @@
    "TempChange": "0.316"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -10890,7 +10512,7 @@
    "TempChange": "0.39"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -10899,7 +10521,7 @@
    "TempChange": "0.661"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -10908,7 +10530,7 @@
    "TempChange": "0.859"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -10917,7 +10539,7 @@
    "TempChange": "1.114"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -10926,7 +10548,7 @@
    "TempChange": "1.156"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -10935,7 +10557,7 @@
    "TempChange": "1.284"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -10944,7 +10566,7 @@
    "TempChange": "1.111"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -10953,7 +10575,7 @@
    "TempChange": "1.572"
  },
  {
-   "Area": "Czechia",
+   "Area": "Czech Republic (Czechia)",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -11149,195 +10771,6 @@
    "Emission": null,
    "TempUnit": "°C",
    "TempChange": "1.746"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 67700,
-   "TempUnit": "°C",
-   "TempChange": "1.902"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 70000,
-   "TempUnit": "°C",
-   "TempChange": "1.219"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 66900,
-   "TempUnit": "°C",
-   "TempChange": "1.523"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 68300,
-   "TempUnit": "°C",
-   "TempChange": "1.074"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 69900,
-   "TempUnit": "°C",
-   "TempChange": "0.814"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 73100,
-   "TempUnit": "°C",
-   "TempChange": "0.742"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 74200,
-   "TempUnit": "°C",
-   "TempChange": "0.948"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 61500,
-   "TempUnit": "°C",
-   "TempChange": "2.161"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 68300,
-   "TempUnit": "°C",
-   "TempChange": "1.635"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 51400,
-   "TempUnit": "°C",
-   "TempChange": "1.413"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 48000,
-   "TempUnit": "°C",
-   "TempChange": "0.396"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 34000,
-   "TempUnit": "°C",
-   "TempChange": "1.029"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 35400,
-   "TempUnit": "°C",
-   "TempChange": "1.57"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 24800,
-   "TempUnit": "°C",
-   "TempChange": "0.77"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 28300,
-   "TempUnit": "°C",
-   "TempChange": "2.494"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 22400,
-   "TempUnit": "°C",
-   "TempChange": "2.112"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 25200,
-   "TempUnit": "°C",
-   "TempChange": "2.067"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 19400,
-   "TempUnit": "°C",
-   "TempChange": "1.585"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 20500,
-   "TempUnit": "°C",
-   "TempChange": "2.641"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 22400,
-   "TempUnit": "°C",
-   "TempChange": "2.533"
- },
- {
-   "Area": "Democratic People's Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 22200,
-   "TempUnit": "°C",
-   "TempChange": "2.331"
  },
  {
    "Area": "Democratic Republic of the Congo",
@@ -13986,7 +13419,7 @@
    "TempChange": "0.551"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "",
@@ -13995,7 +13428,7 @@
    "TempChange": "0.622"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "",
@@ -14004,7 +13437,7 @@
    "TempChange": "0.78"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "",
@@ -14013,7 +13446,7 @@
    "TempChange": "1.089"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "",
@@ -14022,7 +13455,7 @@
    "TempChange": "1.127"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "",
@@ -14031,7 +13464,7 @@
    "TempChange": "0.878"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "",
@@ -14040,7 +13473,7 @@
    "TempChange": "1.165"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "",
@@ -14049,7 +13482,7 @@
    "TempChange": "1.008"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "",
@@ -14058,7 +13491,7 @@
    "TempChange": "0.893"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "",
@@ -14067,7 +13500,7 @@
    "TempChange": "0.808"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "",
@@ -14076,7 +13509,7 @@
    "TempChange": "1.369"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "",
@@ -14085,7 +13518,7 @@
    "TempChange": "1.29"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "",
@@ -14094,7 +13527,7 @@
    "TempChange": "1.15"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "",
@@ -14103,7 +13536,7 @@
    "TempChange": "1.078"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "",
@@ -14112,7 +13545,7 @@
    "TempChange": "1.244"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "",
@@ -14121,7 +13554,7 @@
    "TempChange": "1.201"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "",
@@ -14130,7 +13563,7 @@
    "TempChange": "1.462"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "",
@@ -14139,7 +13572,7 @@
    "TempChange": "1.565"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "",
@@ -14148,7 +13581,7 @@
    "TempChange": "1.523"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "",
@@ -14157,7 +13590,7 @@
    "TempChange": "0.964"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "",
@@ -14166,7 +13599,7 @@
    "TempChange": "1.373"
  },
  {
-   "Area": "Falkland Islands (Malvinas)",
+   "Area": "Falkland Islands",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "",
@@ -14175,7 +13608,7 @@
    "TempChange": "1.37"
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "",
@@ -14184,7 +13617,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "",
@@ -14193,7 +13626,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "",
@@ -14202,7 +13635,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "",
@@ -14211,7 +13644,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "",
@@ -14220,7 +13653,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "",
@@ -14229,7 +13662,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "",
@@ -14238,7 +13671,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "",
@@ -14247,7 +13680,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "",
@@ -14256,7 +13689,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "",
@@ -14265,7 +13698,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "",
@@ -14274,7 +13707,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "",
@@ -14283,7 +13716,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "",
@@ -14292,7 +13725,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "",
@@ -14301,7 +13734,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "",
@@ -14310,7 +13743,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "",
@@ -14319,7 +13752,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "",
@@ -14328,7 +13761,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "",
@@ -14337,7 +13770,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "",
@@ -14346,7 +13779,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "",
@@ -14355,7 +13788,7 @@
    "TempChange": null
  },
  {
-   "Area": "Faroe Islands",
+   "Area": "Faeroe Islands",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "",
@@ -14931,7 +14364,7 @@
    "TempChange": "1.232"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "",
@@ -14940,7 +14373,7 @@
    "TempChange": "2.019"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "",
@@ -14949,7 +14382,7 @@
    "TempChange": "1.361"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "",
@@ -14958,7 +14391,7 @@
    "TempChange": "1.166"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "",
@@ -14967,7 +14400,7 @@
    "TempChange": "0.707"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "",
@@ -14976,7 +14409,7 @@
    "TempChange": "1.225"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "",
@@ -14985,7 +14418,7 @@
    "TempChange": "2.195"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "",
@@ -14994,7 +14427,7 @@
    "TempChange": "1.2"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "",
@@ -15003,7 +14436,7 @@
    "TempChange": "1.94"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "",
@@ -15012,7 +14445,7 @@
    "TempChange": "2.125"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "",
@@ -15021,7 +14454,7 @@
    "TempChange": "1.685"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "",
@@ -15030,7 +14463,7 @@
    "TempChange": "0.232"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "",
@@ -15039,7 +14472,7 @@
    "TempChange": "1.345"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "",
@@ -15048,7 +14481,7 @@
    "TempChange": "1.533"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "",
@@ -15057,7 +14490,7 @@
    "TempChange": "1.414"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "",
@@ -15066,7 +14499,7 @@
    "TempChange": "2.584"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "",
@@ -15075,7 +14508,7 @@
    "TempChange": "2.605"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "",
@@ -15084,7 +14517,7 @@
    "TempChange": "2.142"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "",
@@ -15093,7 +14526,7 @@
    "TempChange": "1.477"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "",
@@ -15102,7 +14535,7 @@
    "TempChange": "2.144"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "",
@@ -15111,7 +14544,7 @@
    "TempChange": "1.436"
  },
  {
-   "Area": "French Guyana",
+   "Area": "French Guiana",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "",
@@ -18711,6 +18144,195 @@
    "TempChange": "1.708"
  },
  {
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 39800,
+  "TempUnit": "°C",
+  "TempChange": "0.226"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 37300,
+  "TempUnit": "°C",
+  "TempChange": "0.781"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 39000,
+  "TempUnit": "°C",
+  "TempChange": "0.89"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 42800,
+  "TempUnit": "°C",
+  "TempChange": "0.921"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 41200,
+  "TempUnit": "°C",
+  "TempChange": "0.632"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 43400,
+  "TempUnit": "°C",
+  "TempChange": "0.707"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 41600,
+  "TempUnit": "°C",
+  "TempChange": "0.888"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 43200,
+  "TempUnit": "°C",
+  "TempChange": "1"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 42300,
+  "TempUnit": "°C",
+  "TempChange": "0.401"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 41200,
+  "TempUnit": "°C",
+  "TempChange": "0.939"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 39500,
+  "TempUnit": "°C",
+  "TempChange": "0.431"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 42600,
+  "TempUnit": "°C",
+  "TempChange": "0.395"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 42100,
+  "TempUnit": "°C",
+  "TempChange": "0.58"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 43700,
+  "TempUnit": "°C",
+  "TempChange": "0.818"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 44800,
+  "TempUnit": "°C",
+  "TempChange": "0.725"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 41700,
+  "TempUnit": "°C",
+  "TempChange": "1.221"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 42700,
+  "TempUnit": "°C",
+  "TempChange": "0.819"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 41900,
+  "TempUnit": "°C",
+  "TempChange": "1.389"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 42400,
+  "TempUnit": "°C",
+  "TempChange": "1.234"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 40000,
+  "TempUnit": "°C",
+  "TempChange": "1.827"
+},
+{
+  "Area": "Hong Kong",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 28800,
+  "TempUnit": "°C",
+  "TempChange": "1.901"
+},
+ {
    "Area": "Hungary",
    "Element": "Emissions (CO2)",
    "Year": 2000,
@@ -19467,7 +19089,7 @@
    "TempChange": "0.851"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -19476,7 +19098,7 @@
    "TempChange": "0.309"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -19485,7 +19107,7 @@
    "TempChange": "0.441"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -19494,7 +19116,7 @@
    "TempChange": "0.796"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -19503,7 +19125,7 @@
    "TempChange": "0.633"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -19512,7 +19134,7 @@
    "TempChange": "0.533"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -19521,7 +19143,7 @@
    "TempChange": "0.545"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -19530,7 +19152,7 @@
    "TempChange": "0.625"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -19539,7 +19161,7 @@
    "TempChange": "0.579"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -19548,7 +19170,7 @@
    "TempChange": "0.237"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -19557,7 +19179,7 @@
    "TempChange": "1.131"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -19566,7 +19188,7 @@
    "TempChange": "1.113"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -19575,7 +19197,7 @@
    "TempChange": "0.336"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -19584,7 +19206,7 @@
    "TempChange": "0.486"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -19593,7 +19215,7 @@
    "TempChange": "0.434"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -19602,7 +19224,7 @@
    "TempChange": "0.522"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -19611,7 +19233,7 @@
    "TempChange": "0.68"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -19620,7 +19242,7 @@
    "TempChange": "1.074"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -19629,7 +19251,7 @@
    "TempChange": "0.982"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -19638,7 +19260,7 @@
    "TempChange": "0.884"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -19647,7 +19269,7 @@
    "TempChange": "0.809"
  },
  {
-   "Area": "Iran (Islamic Republic of)",
+   "Area": "Iran",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -22113,7 +21735,7 @@
    "TempChange": "1.667"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -22122,7 +21744,7 @@
    "TempChange": "1.037"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -22131,7 +21753,7 @@
    "TempChange": "1.106"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -22140,7 +21762,7 @@
    "TempChange": "1.451"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -22149,7 +21771,7 @@
    "TempChange": "1.37"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -22158,7 +21780,7 @@
    "TempChange": "1.3"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -22167,7 +21789,7 @@
    "TempChange": "0.495"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -22176,7 +21798,7 @@
    "TempChange": "1.683"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -22185,7 +21807,7 @@
    "TempChange": "0.968"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -22194,7 +21816,7 @@
    "TempChange": "1.209"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -22203,7 +21825,7 @@
    "TempChange": "1.102"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -22212,7 +21834,7 @@
    "TempChange": "2.442"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -22221,7 +21843,7 @@
    "TempChange": "1.154"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -22230,7 +21852,7 @@
    "TempChange": "1.344"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -22239,7 +21861,7 @@
    "TempChange": "1.215"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -22248,7 +21870,7 @@
    "TempChange": "1.354"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -22257,7 +21879,7 @@
    "TempChange": "1.992"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -22266,7 +21888,7 @@
    "TempChange": "1.48"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -22275,7 +21897,7 @@
    "TempChange": "1.804"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -22284,7 +21906,7 @@
    "TempChange": "2.173"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -22293,7 +21915,7 @@
    "TempChange": "1.693"
  },
  {
-   "Area": "Lao People's Democratic Republic",
+   "Area": "Laos",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -23813,6 +23435,195 @@
    "TempUnit": "°C",
    "TempChange": "2.352"
  },
+ {
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1630,
+  "TempUnit": "°C",
+  "TempChange": "0.226"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1690,
+  "TempUnit": "°C",
+  "TempChange": "0.781"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1520,
+  "TempUnit": "°C",
+  "TempChange": "0.89"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1530,
+  "TempUnit": "°C",
+  "TempChange": "0.921"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1720,
+  "TempUnit": "°C",
+  "TempChange": "0.632"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1830,
+  "TempUnit": "°C",
+  "TempChange": "0.707"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1620,
+  "TempUnit": "°C",
+  "TempChange": "0.888"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1360,
+  "TempUnit": "°C",
+  "TempChange": "1"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1130,
+  "TempUnit": "°C",
+  "TempChange": "0.401"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1890,
+  "TempUnit": "°C",
+  "TempChange": "0.939"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1230,
+  "TempUnit": "°C",
+  "TempChange": "0.431"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1290,
+  "TempUnit": "°C",
+  "TempChange": "0.395"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1130,
+  "TempUnit": "°C",
+  "TempChange": "0.58"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 983,
+  "TempUnit": "°C",
+  "TempChange": "0.818"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1290,
+  "TempUnit": "°C",
+  "TempChange": "0.725"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1800,
+  "TempUnit": "°C",
+  "TempChange": "1.221"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1770,
+  "TempUnit": "°C",
+  "TempChange": "0.819"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 1920,
+  "TempUnit": "°C",
+  "TempChange": "1.389"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 2030,
+  "TempUnit": "°C",
+  "TempChange": "1.234"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 2220,
+  "TempUnit": "°C",
+  "TempChange": "1.827"
+},
+{
+  "Area": "Macao",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 2200,
+  "TempUnit": "°C",
+  "TempChange": "1.901"
+},
  {
    "Area": "Madagascar",
    "Element": "Emissions (CO2)",
@@ -26082,7 +25893,7 @@
    "TempChange": "0.931"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -26091,7 +25902,7 @@
    "TempChange": "0.233"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -26100,7 +25911,7 @@
    "TempChange": "0.387"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -26109,7 +25920,7 @@
    "TempChange": "0.839"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -26118,7 +25929,7 @@
    "TempChange": "0.512"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -26127,7 +25938,7 @@
    "TempChange": "0.386"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -26136,7 +25947,7 @@
    "TempChange": "0.521"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -26145,7 +25956,7 @@
    "TempChange": "0.317"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -26154,7 +25965,7 @@
    "TempChange": "0.746"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -26163,7 +25974,7 @@
    "TempChange": "0.327"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -26172,7 +25983,7 @@
    "TempChange": "0.512"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -26181,7 +25992,7 @@
    "TempChange": "0.755"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -26190,7 +26001,7 @@
    "TempChange": "0.492"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -26199,7 +26010,7 @@
    "TempChange": "0.425"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -26208,7 +26019,7 @@
    "TempChange": "0.282"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -26217,7 +26028,7 @@
    "TempChange": "0.478"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -26226,7 +26037,7 @@
    "TempChange": "0.703"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -26235,7 +26046,7 @@
    "TempChange": "0.607"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -26244,7 +26055,7 @@
    "TempChange": "0.848"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -26253,7 +26064,7 @@
    "TempChange": "0.632"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -26262,7 +26073,7 @@
    "TempChange": "1.17"
  },
  {
-   "Area": "Micronesia (Federated States of)",
+   "Area": "Micronesia",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -26270,6 +26081,195 @@
    "TempUnit": "°C",
    "TempChange": "0.902"
  },
+ {
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 3410,
+  "TempUnit": "°C",
+  "TempChange": "0.938"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 3620,
+  "TempUnit": "°C",
+  "TempChange": "0.964"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 3840,
+  "TempUnit": "°C",
+  "TempChange": "1.441"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4160,
+  "TempUnit": "°C",
+  "TempChange": "1.163"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4330,
+  "TempUnit": "°C",
+  "TempChange": "1.206"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4570,
+  "TempUnit": "°C",
+  "TempChange": "0.817"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4580,
+  "TempUnit": "°C",
+  "TempChange": "1.625"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4280,
+  "TempUnit": "°C",
+  "TempChange": "0.953"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4400,
+  "TempUnit": "°C",
+  "TempChange": "1.125"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4200,
+  "TempUnit": "°C",
+  "TempChange": "1.073"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4480,
+  "TempUnit": "°C",
+  "TempChange": "1.917"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4520,
+  "TempUnit": "°C",
+  "TempChange": "1.402"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4330,
+  "TempUnit": "°C",
+  "TempChange": "1.332"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4430,
+  "TempUnit": "°C",
+  "TempChange": "1.186"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4290,
+  "TempUnit": "°C",
+  "TempChange": "1.575"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4350,
+  "TempUnit": "°C",
+  "TempChange": "2.005"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4460,
+  "TempUnit": "°C",
+  "TempChange": "1.504"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4580,
+  "TempUnit": "°C",
+  "TempChange": "1.868"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 5800,
+  "TempUnit": "°C",
+  "TempChange": "1.981"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 5440,
+  "TempUnit": "°C",
+  "TempChange": "1.819"
+},
+{
+  "Area": "Moldova",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 5210,
+  "TempUnit": "°C",
+  "TempChange": "1.715"
+},
  {
    "Area": "Monaco",
    "Element": "Emissions (CO2)",
@@ -29862,6 +29862,195 @@
    "TempChange": "0.983"
  },
  {
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 67700,
+  "TempUnit": "°C",
+  "TempChange": "1.902"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 70000,
+  "TempUnit": "°C",
+  "TempChange": "1.219"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 66900,
+  "TempUnit": "°C",
+  "TempChange": "1.523"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 68300,
+  "TempUnit": "°C",
+  "TempChange": "1.074"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 69900,
+  "TempUnit": "°C",
+  "TempChange": "0.814"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 73100,
+  "TempUnit": "°C",
+  "TempChange": "0.742"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 74200,
+  "TempUnit": "°C",
+  "TempChange": "0.948"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 61500,
+  "TempUnit": "°C",
+  "TempChange": "2.161"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 68300,
+  "TempUnit": "°C",
+  "TempChange": "1.635"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 51400,
+  "TempUnit": "°C",
+  "TempChange": "1.413"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 48000,
+  "TempUnit": "°C",
+  "TempChange": "0.396"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 34000,
+  "TempUnit": "°C",
+  "TempChange": "1.029"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 35400,
+  "TempUnit": "°C",
+  "TempChange": "1.57"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 24800,
+  "TempUnit": "°C",
+  "TempChange": "0.77"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 28300,
+  "TempUnit": "°C",
+  "TempChange": "2.494"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 22400,
+  "TempUnit": "°C",
+  "TempChange": "2.112"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 25200,
+  "TempUnit": "°C",
+  "TempChange": "2.067"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 19400,
+  "TempUnit": "°C",
+  "TempChange": "1.585"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 20500,
+  "TempUnit": "°C",
+  "TempChange": "2.641"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 22400,
+  "TempUnit": "°C",
+  "TempChange": "2.533"
+},
+{
+  "Area": "North Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 22200,
+  "TempUnit": "°C",
+  "TempChange": "2.331"
+},
+ {
    "Area": "North Macedonia",
    "Element": "Emissions (CO2)",
    "Year": 2000,
@@ -31183,195 +31372,6 @@
    "Emission": 265,
    "TempUnit": "",
    "TempChange": null
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.698"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.752"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.984"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.493"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.018"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.233"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.057"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.71"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.412"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.048"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.283"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.831"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.242"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.81"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.42"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.576"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.281"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.312"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.423"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.648"
- },
- {
-   "Area": "Palestine",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.432"
  },
  {
    "Area": "Panama",
@@ -33264,384 +33264,6 @@
    "TempChange": "1.95"
  },
  {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 427000,
-   "TempUnit": "°C",
-   "TempChange": "0.28"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 429000,
-   "TempUnit": "°C",
-   "TempChange": "0.773"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 445000,
-   "TempUnit": "°C",
-   "TempChange": "0.884"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 443000,
-   "TempUnit": "°C",
-   "TempChange": "1.002"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 461000,
-   "TempUnit": "°C",
-   "TempChange": "0.547"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 448000,
-   "TempUnit": "°C",
-   "TempChange": "0.847"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 452000,
-   "TempUnit": "°C",
-   "TempChange": "0.737"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 476000,
-   "TempUnit": "°C",
-   "TempChange": "0.988"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 488000,
-   "TempUnit": "°C",
-   "TempChange": "0.45"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 489000,
-   "TempUnit": "°C",
-   "TempChange": "0.661"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 548000,
-   "TempUnit": "°C",
-   "TempChange": "1.177"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 573000,
-   "TempUnit": "°C",
-   "TempChange": "0.574"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 570000,
-   "TempUnit": "°C",
-   "TempChange": "0.788"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 576000,
-   "TempUnit": "°C",
-   "TempChange": "0.79"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 577000,
-   "TempUnit": "°C",
-   "TempChange": "0.926"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 582000,
-   "TempUnit": "°C",
-   "TempChange": "1.159"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 610000,
-   "TempUnit": "°C",
-   "TempChange": "1.304"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 611000,
-   "TempUnit": "°C",
-   "TempChange": "1.044"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 627000,
-   "TempUnit": "°C",
-   "TempChange": "0.904"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 604000,
-   "TempUnit": "°C",
-   "TempChange": "1.054"
- },
- {
-   "Area": "Republic of Korea",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 562000,
-   "TempUnit": "°C",
-   "TempChange": "1.432"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 3410,
-   "TempUnit": "°C",
-   "TempChange": "0.938"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 3620,
-   "TempUnit": "°C",
-   "TempChange": "0.964"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 3840,
-   "TempUnit": "°C",
-   "TempChange": "1.441"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4160,
-   "TempUnit": "°C",
-   "TempChange": "1.163"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4330,
-   "TempUnit": "°C",
-   "TempChange": "1.206"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4570,
-   "TempUnit": "°C",
-   "TempChange": "0.817"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4580,
-   "TempUnit": "°C",
-   "TempChange": "1.625"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4280,
-   "TempUnit": "°C",
-   "TempChange": "0.953"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4400,
-   "TempUnit": "°C",
-   "TempChange": "1.125"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4200,
-   "TempUnit": "°C",
-   "TempChange": "1.073"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4480,
-   "TempUnit": "°C",
-   "TempChange": "1.917"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4520,
-   "TempUnit": "°C",
-   "TempChange": "1.402"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4330,
-   "TempUnit": "°C",
-   "TempChange": "1.332"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4430,
-   "TempUnit": "°C",
-   "TempChange": "1.186"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4290,
-   "TempUnit": "°C",
-   "TempChange": "1.575"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4350,
-   "TempUnit": "°C",
-   "TempChange": "2.005"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4460,
-   "TempUnit": "°C",
-   "TempChange": "1.504"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4580,
-   "TempUnit": "°C",
-   "TempChange": "1.868"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 5800,
-   "TempUnit": "°C",
-   "TempChange": "1.981"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 5440,
-   "TempUnit": "°C",
-   "TempChange": "1.819"
- },
- {
-   "Area": "Republic of Moldova",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 5210,
-   "TempUnit": "°C",
-   "TempChange": "1.715"
- },
- {
    "Area": "Réunion",
    "Element": "Emissions (CO2)",
    "Year": 2000,
@@ -34020,7 +33642,7 @@
    "TempChange": "3.018"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -34029,7 +33651,7 @@
    "TempChange": "0.376"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -34038,7 +33660,7 @@
    "TempChange": "0.822"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -34047,7 +33669,7 @@
    "TempChange": "0.498"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -34056,7 +33678,7 @@
    "TempChange": "0.618"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -34065,7 +33687,7 @@
    "TempChange": "0.621"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -34074,7 +33696,7 @@
    "TempChange": "0.438"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -34083,7 +33705,7 @@
    "TempChange": "0.264"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -34092,7 +33714,7 @@
    "TempChange": "0.475"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -34101,7 +33723,7 @@
    "TempChange": "0.323"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -34110,7 +33732,7 @@
    "TempChange": "0.867"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -34119,7 +33741,7 @@
    "TempChange": "0.787"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -34128,7 +33750,7 @@
    "TempChange": null
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -34137,7 +33759,7 @@
    "TempChange": "0.753"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -34146,7 +33768,7 @@
    "TempChange": "0.672"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -34155,7 +33777,7 @@
    "TempChange": "1.056"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -34164,7 +33786,7 @@
    "TempChange": "0.959"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -34173,7 +33795,7 @@
    "TempChange": "0.774"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -34182,7 +33804,7 @@
    "TempChange": "1.106"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -34191,7 +33813,7 @@
    "TempChange": "0.975"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -34200,7 +33822,7 @@
    "TempChange": "1.412"
  },
  {
-   "Area": "Russian Federation",
+   "Area": "Russia",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -34398,7 +34020,7 @@
    "TempChange": "2.283"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -34407,7 +34029,7 @@
    "TempChange": "1.317"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -34416,7 +34038,7 @@
    "TempChange": "0.81"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -34425,7 +34047,7 @@
    "TempChange": "1.583"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -34434,7 +34056,7 @@
    "TempChange": "0.985"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -34443,7 +34065,7 @@
    "TempChange": "1.394"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -34452,7 +34074,7 @@
    "TempChange": "1.699"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -34461,7 +34083,7 @@
    "TempChange": "0.546"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -34470,7 +34092,7 @@
    "TempChange": "2.483"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -34479,7 +34101,7 @@
    "TempChange": "2.213"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -34488,7 +34110,7 @@
    "TempChange": "1.182"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -34497,7 +34119,7 @@
    "TempChange": "0.871"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -34506,7 +34128,7 @@
    "TempChange": "1.695"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -34515,7 +34137,7 @@
    "TempChange": "1.926"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -34524,7 +34146,7 @@
    "TempChange": "1.16"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -34533,7 +34155,7 @@
    "TempChange": "1.749"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -34542,7 +34164,7 @@
    "TempChange": "2.241"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -34551,7 +34173,7 @@
    "TempChange": "2.454"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -34560,7 +34182,7 @@
    "TempChange": "2.125"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -34569,7 +34191,7 @@
    "TempChange": "2.04"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -34578,7 +34200,7 @@
    "TempChange": "2.181"
  },
  {
-   "Area": "Saint Helena, Ascension and Tristan da Cunha",
+   "Area": "Saint Helena",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -34587,7 +34209,7 @@
    "TempChange": "3.693"
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -34596,7 +34218,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -34605,7 +34227,7 @@
    "TempChange": "0.467"
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -34614,7 +34236,7 @@
    "TempChange": "0.862"
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -34623,7 +34245,7 @@
    "TempChange": "1.081"
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -34632,7 +34254,7 @@
    "TempChange": "0.935"
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -34641,7 +34263,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -34650,7 +34272,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -34659,7 +34281,7 @@
    "TempChange": "1.395"
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -34668,7 +34290,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -34677,7 +34299,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -34686,7 +34308,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -34695,7 +34317,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -34704,7 +34326,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -34713,7 +34335,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -34722,7 +34344,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -34731,7 +34353,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -34740,7 +34362,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -34749,7 +34371,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -34758,7 +34380,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -34767,7 +34389,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Kitts and Nevis",
+   "Area": "Saint Kitts & Nevis",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -34965,7 +34587,7 @@
    "TempChange": "1.302"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "",
@@ -34974,7 +34596,7 @@
    "TempChange": "0.384"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "",
@@ -34983,7 +34605,7 @@
    "TempChange": null
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "",
@@ -34992,7 +34614,7 @@
    "TempChange": "0.681"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "",
@@ -35001,7 +34623,7 @@
    "TempChange": "0.9"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "",
@@ -35010,7 +34632,7 @@
    "TempChange": "0.566"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "",
@@ -35019,7 +34641,7 @@
    "TempChange": "0.864"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "",
@@ -35028,7 +34650,7 @@
    "TempChange": "0.561"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "",
@@ -35037,7 +34659,7 @@
    "TempChange": "0.847"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "",
@@ -35046,7 +34668,7 @@
    "TempChange": "0.303"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "",
@@ -35055,7 +34677,7 @@
    "TempChange": "0.482"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "",
@@ -35064,7 +34686,7 @@
    "TempChange": "1.147"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "",
@@ -35073,7 +34695,7 @@
    "TempChange": "0.576"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "",
@@ -35082,7 +34704,7 @@
    "TempChange": "0.682"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "",
@@ -35091,7 +34713,7 @@
    "TempChange": "0.766"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "",
@@ -35100,7 +34722,7 @@
    "TempChange": "0.723"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "",
@@ -35109,7 +34731,7 @@
    "TempChange": "1.032"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "",
@@ -35118,7 +34740,7 @@
    "TempChange": "1.105"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "",
@@ -35127,7 +34749,7 @@
    "TempChange": "0.965"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "",
@@ -35136,7 +34758,7 @@
    "TempChange": "0.694"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "",
@@ -35145,7 +34767,7 @@
    "TempChange": "0.806"
  },
  {
-   "Area": "Saint Pierre and Miquelon",
+   "Area": "Saint Pierre & Miquelon",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "",
@@ -35153,195 +34775,7 @@
    "TempUnit": "°C",
    "TempChange": "1.141"
  },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 147,
-   "TempUnit": "°C",
-   "TempChange": "0.364"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 180,
-   "TempUnit": "°C",
-   "TempChange": "0.584"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 187,
-   "TempUnit": "°C",
-   "TempChange": "0.629"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 198,
-   "TempUnit": "°C",
-   "TempChange": "0.867"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 220,
-   "TempUnit": "°C",
-   "TempChange": "0.515"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 220,
-   "TempUnit": "°C",
-   "TempChange": "0.91"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 216,
-   "TempUnit": "°C",
-   "TempChange": "0.706"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 260,
-   "TempUnit": "°C",
-   "TempChange": "0.704"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 191,
-   "TempUnit": "°C",
-   "TempChange": "0.4"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 312,
-   "TempUnit": "°C",
-   "TempChange": "0.5"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 220,
-   "TempUnit": "°C",
-   "TempChange": "1.18"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 198,
-   "TempUnit": "°C",
-   "TempChange": "0.656"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 253,
-   "TempUnit": "°C",
-   "TempChange": "0.643"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 209,
-   "TempUnit": "°C",
-   "TempChange": "0.789"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 275,
-   "TempUnit": "°C",
-   "TempChange": "0.67"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 213,
-   "TempUnit": "°C",
-   "TempChange": "0.949"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 253,
-   "TempUnit": "°C",
-   "TempChange": "1.069"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 257,
-   "TempUnit": "°C",
-   "TempChange": "0.929"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 264,
-   "TempUnit": "°C",
-   "TempChange": "0.659"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 273,
-   "TempUnit": "°C",
-   "TempChange": "0.871"
- },
- {
-   "Area": "Saint Vincent and the Grenadines",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 240,
-   "TempUnit": "°C",
-   "TempChange": "1.121"
- },
+ 
  {
    "Area": "Samoa",
    "Element": "Emissions (CO2)",
@@ -35721,7 +35155,7 @@
    "TempChange": "1.167"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -35730,7 +35164,7 @@
    "TempChange": "0.585"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -35739,7 +35173,7 @@
    "TempChange": "0.862"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -35748,7 +35182,7 @@
    "TempChange": "1.11"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -35757,7 +35191,7 @@
    "TempChange": "0.64"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -35766,7 +35200,7 @@
    "TempChange": "0.132"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -35775,7 +35209,7 @@
    "TempChange": "0.766"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -35784,7 +35218,7 @@
    "TempChange": "0.356"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -35793,7 +35227,7 @@
    "TempChange": "0.806"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -35802,7 +35236,7 @@
    "TempChange": "0.362"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -35811,7 +35245,7 @@
    "TempChange": null
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -35820,7 +35254,7 @@
    "TempChange": "0.956"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -35829,7 +35263,7 @@
    "TempChange": "0.499"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -35838,7 +35272,7 @@
    "TempChange": "0.56"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -35847,7 +35281,7 @@
    "TempChange": "0.798"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -35856,7 +35290,7 @@
    "TempChange": "0.459"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -35865,7 +35299,7 @@
    "TempChange": "0.298"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -35874,7 +35308,7 @@
    "TempChange": "0.828"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -35883,7 +35317,7 @@
    "TempChange": "0.724"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -35892,7 +35326,7 @@
    "TempChange": "0.478"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -35901,7 +35335,7 @@
    "TempChange": "0.828"
  },
  {
-   "Area": "Sao Tome and Principe",
+   "Area": "Sao Tome & Principe",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -38178,6 +37612,195 @@
    "TempChange": "0.583"
  },
  {
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 427000,
+  "TempUnit": "°C",
+  "TempChange": "0.28"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 429000,
+  "TempUnit": "°C",
+  "TempChange": "0.773"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 445000,
+  "TempUnit": "°C",
+  "TempChange": "0.884"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 443000,
+  "TempUnit": "°C",
+  "TempChange": "1.002"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 461000,
+  "TempUnit": "°C",
+  "TempChange": "0.547"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 448000,
+  "TempUnit": "°C",
+  "TempChange": "0.847"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 452000,
+  "TempUnit": "°C",
+  "TempChange": "0.737"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 476000,
+  "TempUnit": "°C",
+  "TempChange": "0.988"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 488000,
+  "TempUnit": "°C",
+  "TempChange": "0.45"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 489000,
+  "TempUnit": "°C",
+  "TempChange": "0.661"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 548000,
+  "TempUnit": "°C",
+  "TempChange": "1.177"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 573000,
+  "TempUnit": "°C",
+  "TempChange": "0.574"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 570000,
+  "TempUnit": "°C",
+  "TempChange": "0.788"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 576000,
+  "TempUnit": "°C",
+  "TempChange": "0.79"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 577000,
+  "TempUnit": "°C",
+  "TempChange": "0.926"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 582000,
+  "TempUnit": "°C",
+  "TempChange": "1.159"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 610000,
+  "TempUnit": "°C",
+  "TempChange": "1.304"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 611000,
+  "TempUnit": "°C",
+  "TempChange": "1.044"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 627000,
+  "TempUnit": "°C",
+  "TempChange": "0.904"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 604000,
+  "TempUnit": "°C",
+  "TempChange": "1.054"
+},
+{
+  "Area": "South Korea",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 562000,
+  "TempUnit": "°C",
+  "TempChange": "1.432"
+},
+ {
    "Area": "South Sudan",
    "Element": "Emissions (CO2)",
    "Year": 2000,
@@ -38744,6 +38367,384 @@
    "TempUnit": "°C",
    "TempChange": "0.163"
  },
+ {
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 147,
+  "TempUnit": "°C",
+  "TempChange": "0.364"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 180,
+  "TempUnit": "°C",
+  "TempChange": "0.584"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 187,
+  "TempUnit": "°C",
+  "TempChange": "0.629"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 198,
+  "TempUnit": "°C",
+  "TempChange": "0.867"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 220,
+  "TempUnit": "°C",
+  "TempChange": "0.515"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 220,
+  "TempUnit": "°C",
+  "TempChange": "0.91"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 216,
+  "TempUnit": "°C",
+  "TempChange": "0.706"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 260,
+  "TempUnit": "°C",
+  "TempChange": "0.704"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 191,
+  "TempUnit": "°C",
+  "TempChange": "0.4"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 312,
+  "TempUnit": "°C",
+  "TempChange": "0.5"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 220,
+  "TempUnit": "°C",
+  "TempChange": "1.18"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 198,
+  "TempUnit": "°C",
+  "TempChange": "0.656"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 253,
+  "TempUnit": "°C",
+  "TempChange": "0.643"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 209,
+  "TempUnit": "°C",
+  "TempChange": "0.789"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 275,
+  "TempUnit": "°C",
+  "TempChange": "0.67"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 213,
+  "TempUnit": "°C",
+  "TempChange": "0.949"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 253,
+  "TempUnit": "°C",
+  "TempChange": "1.069"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 257,
+  "TempUnit": "°C",
+  "TempChange": "0.929"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 264,
+  "TempUnit": "°C",
+  "TempChange": "0.659"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 273,
+  "TempUnit": "°C",
+  "TempChange": "0.871"
+},
+{
+  "Area": "St. Vincent & Grenadines",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 240,
+  "TempUnit": "°C",
+  "TempChange": "1.121"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.698"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.752"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.984"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.493"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.018"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.233"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.057"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.71"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.412"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.048"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.283"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.831"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.242"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.81"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.42"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.576"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.281"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.312"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.423"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.648"
+},
+{
+  "Area": "State of Palestine",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.432"
+},
  {
    "Area": "Sudan",
    "Element": "Emissions (CO2)",
@@ -39879,7 +39880,7 @@
    "TempChange": "1.832"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -39888,7 +39889,7 @@
    "TempChange": "1.976"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -39897,7 +39898,7 @@
    "TempChange": "1.387"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -39906,7 +39907,7 @@
    "TempChange": "1.617"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -39915,7 +39916,7 @@
    "TempChange": "0.843"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -39924,7 +39925,7 @@
    "TempChange": "0.737"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -39933,7 +39934,7 @@
    "TempChange": "2.447"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -39942,7 +39943,7 @@
    "TempChange": "3.885"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -39951,7 +39952,7 @@
    "TempChange": "3.05"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -39960,7 +39961,7 @@
    "TempChange": "1.84"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -39969,7 +39970,7 @@
    "TempChange": "1.906"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -39978,7 +39979,7 @@
    "TempChange": "2.272"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -39987,7 +39988,7 @@
    "TempChange": "2.106"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -39996,7 +39997,7 @@
    "TempChange": "3.825"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -40005,7 +40006,7 @@
    "TempChange": "2.271"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -40014,7 +40015,7 @@
    "TempChange": "3.382"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -40023,7 +40024,7 @@
    "TempChange": "3.313"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -40032,7 +40033,7 @@
    "TempChange": "5.327"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -40041,7 +40042,7 @@
    "TempChange": "3.338"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -40050,7 +40051,7 @@
    "TempChange": "4.065"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -40059,7 +40060,7 @@
    "TempChange": "2.871"
  },
  {
-   "Area": "Syrian Arab Republic",
+   "Area": "Syria",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -40256,6 +40257,195 @@
    "TempUnit": "°C",
    "TempChange": "2.953"
  },
+ {
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 2240,
+  "TempUnit": "°C",
+  "TempChange": "1.425"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 2690,
+  "TempUnit": "°C",
+  "TempChange": "1.795"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 3090,
+  "TempUnit": "°C",
+  "TempChange": "1.539"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 3230,
+  "TempUnit": "°C",
+  "TempChange": "-0.268"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 3730,
+  "TempUnit": "°C",
+  "TempChange": "0.918"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 4820,
+  "TempUnit": "°C",
+  "TempChange": "1.01"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 5350,
+  "TempUnit": "°C",
+  "TempChange": "0.26"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 5090,
+  "TempUnit": "°C",
+  "TempChange": "2.365"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 5240,
+  "TempUnit": "°C",
+  "TempChange": "1.608"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 5030,
+  "TempUnit": "°C",
+  "TempChange": "1.594"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 6040,
+  "TempUnit": "°C",
+  "TempChange": "1.635"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 6840,
+  "TempUnit": "°C",
+  "TempChange": "0.564"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 8080,
+  "TempUnit": "°C",
+  "TempChange": "1.938"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 9010,
+  "TempUnit": "°C",
+  "TempChange": "1.501"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 8820,
+  "TempUnit": "°C",
+  "TempChange": "1.691"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 9430,
+  "TempUnit": "°C",
+  "TempChange": "2.047"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 9300,
+  "TempUnit": "°C",
+  "TempChange": "2.09"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 9730,
+  "TempUnit": "°C",
+  "TempChange": "1.401"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 9950,
+  "TempUnit": "°C",
+  "TempChange": "2.222"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 10800,
+  "TempUnit": "°C",
+  "TempChange": "2.355"
+},
+{
+  "Area": "Tanzania",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "kilotonnes",
+  "Emission": 11300,
+  "TempUnit": "°C",
+  "TempChange": "3.014"
+},
  {
    "Area": "Thailand",
    "Element": "Emissions (CO2)",
@@ -41580,7 +41770,7 @@
    "TempChange": null
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -41589,7 +41779,7 @@
    "TempChange": "0.355"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -41598,7 +41788,7 @@
    "TempChange": "0.637"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -41607,7 +41797,7 @@
    "TempChange": "0.735"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -41616,7 +41806,7 @@
    "TempChange": "0.36"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -41625,7 +41815,7 @@
    "TempChange": "0.416"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -41634,7 +41824,7 @@
    "TempChange": "0.54"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -41643,7 +41833,7 @@
    "TempChange": "0.321"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -41652,7 +41842,7 @@
    "TempChange": "0.601"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -41661,7 +41851,7 @@
    "TempChange": "0.056"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -41670,7 +41860,7 @@
    "TempChange": "0.127"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -41679,7 +41869,7 @@
    "TempChange": "0.672"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -41688,7 +41878,7 @@
    "TempChange": "0.366"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -41697,7 +41887,7 @@
    "TempChange": "0.455"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -41706,7 +41896,7 @@
    "TempChange": "0.586"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -41715,7 +41905,7 @@
    "TempChange": "0.433"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -41724,7 +41914,7 @@
    "TempChange": "0.48"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -41733,7 +41923,7 @@
    "TempChange": "1.004"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -41742,7 +41932,7 @@
    "TempChange": "0.797"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -41751,7 +41941,7 @@
    "TempChange": "0.612"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -41760,7 +41950,7 @@
    "TempChange": "1.032"
  },
  {
-   "Area": "Türkiye",
+   "Area": "Turkey",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -41958,7 +42148,7 @@
    "TempChange": "1.506"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -41967,7 +42157,7 @@
    "TempChange": "0.99"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -41976,7 +42166,7 @@
    "TempChange": "1.969"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -41985,7 +42175,7 @@
    "TempChange": "1.231"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -41994,7 +42184,7 @@
    "TempChange": "1.707"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -42003,7 +42193,7 @@
    "TempChange": "0.942"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -42012,7 +42202,7 @@
    "TempChange": "1.075"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -42021,7 +42211,7 @@
    "TempChange": "1.297"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -42030,7 +42220,7 @@
    "TempChange": "1.418"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -42039,7 +42229,7 @@
    "TempChange": "1.408"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -42048,7 +42238,7 @@
    "TempChange": "0.905"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -42057,7 +42247,7 @@
    "TempChange": "1.821"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -42066,7 +42256,7 @@
    "TempChange": "1.095"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -42075,7 +42265,7 @@
    "TempChange": "1.68"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -42084,7 +42274,7 @@
    "TempChange": "1.544"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -42093,7 +42283,7 @@
    "TempChange": "1.88"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -42102,7 +42292,7 @@
    "TempChange": "1.204"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -42111,7 +42301,7 @@
    "TempChange": "1.901"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -42120,7 +42310,7 @@
    "TempChange": "1.377"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -42129,7 +42319,7 @@
    "TempChange": "1.505"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -42138,7 +42328,7 @@
    "TempChange": "1.317"
  },
  {
-   "Area": "Turks and Caicos Islands",
+   "Area": "Turks and Caicos",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -42335,6 +42525,195 @@
    "TempUnit": "°C",
    "TempChange": "1.852"
  },
+ {
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2000,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.713"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2001,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.622"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2002,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.002"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2003,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.185"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2004,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.026"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2005,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.11"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2006,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.243"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2007,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.327"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2008,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.835"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2009,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.947"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2010,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "-0.054"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2011,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.847"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2012,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.574"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2013,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.373"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2014,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.739"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2015,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "0.629"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2016,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.175"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2017,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.437"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2018,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.012"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2019,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.247"
+},
+{
+  "Area": "U.S. Virgin Islands",
+  "Element": "Emissions (CO2)",
+  "Year": 2020,
+  "EmissionUnit": "",
+  "Emission": null,
+  "TempUnit": "°C",
+  "TempChange": "1.383"
+},
  {
    "Area": "Uganda",
    "Element": "Emissions (CO2)",
@@ -42903,7 +43282,7 @@
    "TempChange": "1.245"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -42912,7 +43291,7 @@
    "TempChange": "0.345"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -42921,7 +43300,7 @@
    "TempChange": "0.457"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -42930,7 +43309,7 @@
    "TempChange": "0.909"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -42939,7 +43318,7 @@
    "TempChange": "0.877"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -42948,7 +43327,7 @@
    "TempChange": "0.564"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -42957,7 +43336,7 @@
    "TempChange": "0.966"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -42966,7 +43345,7 @@
    "TempChange": "0.558"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -42975,7 +43354,7 @@
    "TempChange": "0.09"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -42984,7 +43363,7 @@
    "TempChange": "0.717"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -42993,7 +43372,7 @@
    "TempChange": "1.153"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -43002,7 +43381,7 @@
    "TempChange": "1.304"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -43011,7 +43390,7 @@
    "TempChange": "1.115"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -43020,7 +43399,7 @@
    "TempChange": "0.709"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -43029,7 +43408,7 @@
    "TempChange": "0.764"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -43038,7 +43417,7 @@
    "TempChange": "0.799"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -43047,7 +43426,7 @@
    "TempChange": "0.828"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -43056,7 +43435,7 @@
    "TempChange": "0.926"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -43065,7 +43444,7 @@
    "TempChange": "1.395"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -43074,7 +43453,7 @@
    "TempChange": "0.701"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -43083,7 +43462,7 @@
    "TempChange": "1.227"
  },
  {
-   "Area": "United Kingdom of Great Britain and Northern Ireland",
+   "Area": "United Kingdom",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -43092,196 +43471,7 @@
    "TempChange": "0.85"
  },
  {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 2240,
-   "TempUnit": "°C",
-   "TempChange": "1.425"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 2690,
-   "TempUnit": "°C",
-   "TempChange": "1.795"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 3090,
-   "TempUnit": "°C",
-   "TempChange": "1.539"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 3230,
-   "TempUnit": "°C",
-   "TempChange": "-0.268"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 3730,
-   "TempUnit": "°C",
-   "TempChange": "0.918"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 4820,
-   "TempUnit": "°C",
-   "TempChange": "1.01"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 5350,
-   "TempUnit": "°C",
-   "TempChange": "0.26"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 5090,
-   "TempUnit": "°C",
-   "TempChange": "2.365"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 5240,
-   "TempUnit": "°C",
-   "TempChange": "1.608"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 5030,
-   "TempUnit": "°C",
-   "TempChange": "1.594"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 6040,
-   "TempUnit": "°C",
-   "TempChange": "1.635"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 6840,
-   "TempUnit": "°C",
-   "TempChange": "0.564"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 8080,
-   "TempUnit": "°C",
-   "TempChange": "1.938"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 9010,
-   "TempUnit": "°C",
-   "TempChange": "1.501"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 8820,
-   "TempUnit": "°C",
-   "TempChange": "1.691"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 9430,
-   "TempUnit": "°C",
-   "TempChange": "2.047"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 9300,
-   "TempUnit": "°C",
-   "TempChange": "2.09"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 9730,
-   "TempUnit": "°C",
-   "TempChange": "1.401"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 9950,
-   "TempUnit": "°C",
-   "TempChange": "2.222"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 10800,
-   "TempUnit": "°C",
-   "TempChange": "2.355"
- },
- {
-   "Area": "United Republic of Tanzania",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "kilotonnes",
-   "Emission": 11300,
-   "TempUnit": "°C",
-   "TempChange": "3.014"
- },
- {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -43290,7 +43480,7 @@
    "TempChange": "0.72"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -43299,7 +43489,7 @@
    "TempChange": "0.592"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -43308,7 +43498,7 @@
    "TempChange": "1.137"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -43317,7 +43507,7 @@
    "TempChange": "1.046"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -43326,7 +43516,7 @@
    "TempChange": "1.011"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -43335,7 +43525,7 @@
    "TempChange": "0.679"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -43344,7 +43534,7 @@
    "TempChange": "1.211"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -43353,7 +43543,7 @@
    "TempChange": "0.757"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -43362,7 +43552,7 @@
    "TempChange": "0.717"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -43371,7 +43561,7 @@
    "TempChange": "0.862"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -43380,7 +43570,7 @@
    "TempChange": "1.456"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -43389,7 +43579,7 @@
    "TempChange": "1.133"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -43398,7 +43588,7 @@
    "TempChange": "1.095"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -43407,7 +43597,7 @@
    "TempChange": "0.756"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -43416,7 +43606,7 @@
    "TempChange": "0.935"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -43425,7 +43615,7 @@
    "TempChange": "1.561"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -43434,7 +43624,7 @@
    "TempChange": "1.08"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -43443,7 +43633,7 @@
    "TempChange": "1.666"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -43452,7 +43642,7 @@
    "TempChange": "1.53"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -43461,202 +43651,13 @@
    "TempChange": "1.247"
  },
  {
-   "Area": "United States of America",
+   "Area": "United States",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
    "Emission": 4390000,
    "TempUnit": "°C",
    "TempChange": "1.282"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2000,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.713"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2001,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.622"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2002,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.002"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2003,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.185"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2004,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.026"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2005,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.11"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2006,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.243"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2007,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.327"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2008,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.835"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2009,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.947"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2010,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "-0.054"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2011,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.847"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2012,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.574"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2013,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.373"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2014,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.739"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2015,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "0.629"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2016,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.175"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2017,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.437"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2018,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.012"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2019,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.247"
- },
- {
-   "Area": "United States Virgin Islands",
-   "Element": "Emissions (CO2)",
-   "Year": 2020,
-   "EmissionUnit": "",
-   "Emission": null,
-   "TempUnit": "°C",
-   "TempChange": "1.383"
  },
  {
    "Area": "Uruguay",
@@ -44415,7 +44416,7 @@
    "TempChange": "1.086"
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -44424,7 +44425,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -44433,7 +44434,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -44442,7 +44443,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -44451,7 +44452,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -44460,7 +44461,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -44469,7 +44470,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -44478,7 +44479,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -44487,7 +44488,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -44496,7 +44497,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -44505,7 +44506,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -44514,7 +44515,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -44523,7 +44524,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -44532,7 +44533,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -44541,7 +44542,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -44550,7 +44551,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -44559,7 +44560,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -44568,7 +44569,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -44577,7 +44578,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -44586,7 +44587,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -44595,7 +44596,7 @@
    "TempChange": null
  },
  {
-   "Area": "Venezuela (Bolivarian Republic of)",
+   "Area": "Venezuela",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -44604,7 +44605,7 @@
    "TempChange": null
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -44613,7 +44614,7 @@
    "TempChange": "1.411"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -44622,7 +44623,7 @@
    "TempChange": "1.578"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -44631,7 +44632,7 @@
    "TempChange": "1.852"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -44640,7 +44641,7 @@
    "TempChange": "0.157"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -44649,7 +44650,7 @@
    "TempChange": "1.942"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -44658,7 +44659,7 @@
    "TempChange": "1.387"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -44667,7 +44668,7 @@
    "TempChange": "1.586"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -44676,7 +44677,7 @@
    "TempChange": "1.392"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -44685,7 +44686,7 @@
    "TempChange": "0.721"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -44694,7 +44695,7 @@
    "TempChange": "1.078"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -44703,7 +44704,7 @@
    "TempChange": "1.8"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -44712,7 +44713,7 @@
    "TempChange": "1.061"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -44721,7 +44722,7 @@
    "TempChange": "0.691"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -44730,7 +44731,7 @@
    "TempChange": "1.537"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -44739,7 +44740,7 @@
    "TempChange": "0.193"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -44748,7 +44749,7 @@
    "TempChange": "1.422"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -44757,7 +44758,7 @@
    "TempChange": "2.293"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -44766,7 +44767,7 @@
    "TempChange": "1.787"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -44775,7 +44776,7 @@
    "TempChange": "1.034"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -44784,7 +44785,7 @@
    "TempChange": "1.93"
  },
  {
-   "Area": "Viet Nam",
+   "Area": "Vietnam",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -44793,7 +44794,7 @@
    "TempChange": "1.705"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "",
@@ -44802,7 +44803,7 @@
    "TempChange": "0.53"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "",
@@ -44811,7 +44812,7 @@
    "TempChange": "0.598"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "",
@@ -44820,7 +44821,7 @@
    "TempChange": "0.553"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "",
@@ -44829,7 +44830,7 @@
    "TempChange": "0.204"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "",
@@ -44838,7 +44839,7 @@
    "TempChange": "0.351"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "",
@@ -44847,7 +44848,7 @@
    "TempChange": "0.444"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "",
@@ -44856,7 +44857,7 @@
    "TempChange": "0.282"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "",
@@ -44865,7 +44866,7 @@
    "TempChange": "0.819"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "",
@@ -44874,7 +44875,7 @@
    "TempChange": "0.68"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "",
@@ -44883,7 +44884,7 @@
    "TempChange": "0.421"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "",
@@ -44892,7 +44893,7 @@
    "TempChange": "0.832"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "",
@@ -44901,7 +44902,7 @@
    "TempChange": "0.654"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "",
@@ -44910,7 +44911,7 @@
    "TempChange": "0.342"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "",
@@ -44919,7 +44920,7 @@
    "TempChange": "0.649"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "",
@@ -44928,7 +44929,7 @@
    "TempChange": "0.554"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "",
@@ -44937,7 +44938,7 @@
    "TempChange": "0.536"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "",
@@ -44946,7 +44947,7 @@
    "TempChange": "1.102"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "",
@@ -44955,7 +44956,7 @@
    "TempChange": "1.032"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "",
@@ -44964,7 +44965,7 @@
    "TempChange": "0.445"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "",
@@ -44973,7 +44974,7 @@
    "TempChange": "0.803"
  },
  {
-   "Area": "Wallis and Futuna Islands",
+   "Area": "Wallis & Futuna",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "",
