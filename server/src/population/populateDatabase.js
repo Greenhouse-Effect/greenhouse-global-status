@@ -3,21 +3,19 @@ import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
 
-import { countryScraper } from "./scrapers/countryScraper.js";
-
 const filename = fileURLToPath(import.meta.url);
 const dirName = path.dirname(filename);
 
 export const populateCountryData = async () => {
-  const data = await countryScraper().catch((err) => console.log(err));
+  const data = JSON.parse(fs.readFileSync(path.resolve(dirName, './dataFiles/country-data.json')));
   
   let promises = [];
   for (const row of data) {
     promises.push(
       await axios.post("http://35.92.119.149:8080/country", {
-        name: row[0],
-        population: row[1],
-        populationYearlyChange: row[2]
+        name: row.countryName,
+        population: row.population,
+        populationYearlyChange: row.populationYearlyChange
       }, {
         headers: {
           'content-type': 'application/json'
