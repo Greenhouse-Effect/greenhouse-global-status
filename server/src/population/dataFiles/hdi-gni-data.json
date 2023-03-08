@@ -155,7 +155,7 @@
    "GNI": 38048
  },
  {
-   "Country": "Czechia",
+   "Country": "Czech Republic",
    "HDI": 0.889,
    "GNI": 38745
  },
@@ -320,7 +320,7 @@
    "GNI": 22025
  },
  {
-   "Country": "Serbia",
+   "Country": "Republic of Serbia",
    "HDI": 0.802,
    "GNI": 19123
  },
@@ -385,7 +385,7 @@
    "GNI": 13256
  },
  {
-   "Country": "North Macedonia",
+   "Country": "Macedonia",
    "HDI": 0.77,
    "GNI": 15918
  },
@@ -760,7 +760,7 @@
    "GNI": 4474
  },
  {
-   "Country": "Congo",
+   "Country": "Democratic Republic of the Congo",
    "HDI": 0.571,
    "GNI": 2889
  },
@@ -790,12 +790,12 @@
    "GNI": 5075
  },
  {
-   "Country": "Côte d'Ivoire",
+   "Country": "Ivory Coast",
    "HDI": 0.55,
    "GNI": 5217
  },
  {
-   "Country": "Tanzania",
+   "Country": "United Republic of Tanzania",
    "HDI": 0.549,
    "GNI": 2664
  },
@@ -880,7 +880,7 @@
    "GNI": 1729
  },
  {
-   "Country": "Guinea-Bissau",
+   "Country": "Guinea Bissau",
    "HDI": 0.483,
    "GNI": 1908
  },
@@ -890,7 +890,7 @@
    "GNI": 1289
  },
  {
-   "Country": "Congo",
+   "Country": "Republic of the Congo",
    "HDI": 0.479,
    "GNI": 1076
  },
