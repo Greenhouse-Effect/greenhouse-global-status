@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { scaleQuantile } from "d3-scale";
 import {
   ComposableMap,
   Geographies,
@@ -43,9 +44,13 @@ const MapChart = ({ setToolTipContent }) => {
     getCountries().catch(console.error);
   }, []);
 
-  const onMouseEnter = (geo) => {
+  const colorScale = scaleQuantile()
+  .domain([0, 2000000000])
+  .range(["#ffedea", "#ff5233"]);
+
+  const onMouseEnter = (geo, current = { value: 'NA' }) => {
     return () => {
-      setToolTipContent(`${geo.properties.name}`);
+      setToolTipContent(`${geo.properties.name}` + `\n` + `Population: ${current.population}`);
     };
   };
 
@@ -63,16 +68,16 @@ const MapChart = ({ setToolTipContent }) => {
                 geographies.map((geo) => {
                   const current = tempData.find(s => s.countryName == geo.properties.name);
                   return (
-                  <Geography 
-                    key={geo.rsmKey} 
-                    geography={geo} 
-                    onMouseEnter={onMouseEnter(geo)}
-                    onMouseLeave={onMouseLeave}
-                    style={mapStyle}
-                    stroke={"#FFFFFF"}                                                  // border color
-                    strokeWidth={0.15}                                                  // border width (leave very low)
-                    fill={current ? "purple" : "yellow"}                                // if current is not null go with first value, purple placeholder
-                  />
+                    <Geography 
+                      key={geo.rsmKey} 
+                      geography={geo} 
+                      onMouseEnter={onMouseEnter(geo, current)}
+                      onMouseLeave={onMouseLeave}
+                      style={mapStyle}
+                      stroke={"#FFFFFF"}                                                  // border color
+                      strokeWidth={0.15}                                                  // border width (leave very low)
+                      fill={current ? colorScale(current.population) : "yellow"}                                // if current is not null go with first value, purple placeholder
+                    />
                   );
                 })
               }

@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <MapChart setToolTipContent={setContent}/>
-      <ReactToolTip id='my-tooltip' float={true} >{content}</ReactToolTip>
+      <ReactToolTip id='my-tooltip' float={true} multiline={true}>{content}</ReactToolTip>
     </div>
   );
 }
