@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   ComposableMap,
   Geographies,
@@ -16,7 +16,7 @@ const projConfig = {
 
 const mapStyle = {
   default: {
-    fill: "#D6D6DA",
+    //fill: "#D6D6DA",                                                                  //comment out default fill so that geographies can be different colors
     outline: "none"
   },
   hover: {
@@ -30,6 +30,18 @@ const mapStyle = {
 };
 
 const MapChart = ({ setToolTipContent }) => {
+  const axios = require('axios');
+
+  const [tempData, setData] = useState([]);
+
+  useEffect(() => {
+    const getCountries = async () => {
+      const { data } = await axios.get("http://35.92.119.149:8080/COUNTRY");
+      setData(data);
+    }
+
+    getCountries().catch(console.error);
+  }, []);
 
   const onMouseEnter = (geo) => {
     return () => {
@@ -48,7 +60,9 @@ const MapChart = ({ setToolTipContent }) => {
           <Graticule stroke="#E4E5E6" strokeWidth={0.5} />                              {/* latitude and longitude lines */}
             <Geographies geography={geoUrl} data-tooltip-id='my-tooltip'>
               {({ geographies }) =>
-                geographies.map((geo) => (
+                geographies.map((geo) => {
+                  const current = tempData.find(s => s.countryName == geo.properties.name);
+                  return (
                   <Geography 
                     key={geo.rsmKey} 
                     geography={geo} 
@@ -57,8 +71,10 @@ const MapChart = ({ setToolTipContent }) => {
                     style={mapStyle}
                     stroke={"#FFFFFF"}                                                  // border color
                     strokeWidth={0.15}                                                  // border width (leave very low)
+                    fill={current ? "purple" : "yellow"}                                // if current is not null go with first value, purple placeholder
                   />
-                ))
+                  );
+                })
               }
             </Geographies>
         </ComposableMap>
