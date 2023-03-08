@@ -1,0 +1,1177 @@
+[
+  {
+    "countryName": "Afghanistan",
+    "population": 38928346,
+    "populationYearlyChange": "2.33"
+  },
+  {
+    "countryName": "Albania",
+    "population": 2877797,
+    "populationYearlyChange": "-0.11"
+  },
+  {
+    "countryName": "Algeria",
+    "population": 43851044,
+    "populationYearlyChange": "1.85"
+  },
+  {
+    "countryName": "American Samoa",
+    "population": 55191,
+    "populationYearlyChange": "-0.22"
+  },
+  {
+    "countryName": "Andorra",
+    "population": 77265,
+    "populationYearlyChange": "0.16"
+  },
+  {
+    "countryName": "Angola",
+    "population": 32866272,
+    "populationYearlyChange": "3.27"
+  },
+  {
+    "countryName": "Anguilla",
+    "population": 15003,
+    "populationYearlyChange": "0.90"
+  },
+  {
+    "countryName": "Antigua and Barbuda",
+    "population": 97929,
+    "populationYearlyChange": "0.84"
+  },
+  {
+    "countryName": "Argentina",
+    "population": 45195774,
+    "populationYearlyChange": "0.93"
+  },
+  {
+    "countryName": "Armenia",
+    "population": 2963243,
+    "populationYearlyChange": "0.19"
+  },
+  {
+    "countryName": "Aruba",
+    "population": 106766,
+    "populationYearlyChange": "0.43"
+  },
+  {
+    "countryName": "Australia",
+    "population": 25499884,
+    "populationYearlyChange": "1.18"
+  },
+  {
+    "countryName": "Austria",
+    "population": 9006398,
+    "populationYearlyChange": "0.57"
+  },
+  {
+    "countryName": "Azerbaijan",
+    "population": 10139177,
+    "populationYearlyChange": "0.91"
+  },
+  {
+    "countryName": "Bahamas",
+    "population": 393244,
+    "populationYearlyChange": "0.97"
+  },
+  {
+    "countryName": "Bahrain",
+    "population": 1701575,
+    "populationYearlyChange": "3.68"
+  },
+  {
+    "countryName": "Bangladesh",
+    "population": 164689383,
+    "populationYearlyChange": "1.01"
+  },
+  {
+    "countryName": "Barbados",
+    "population": 287375,
+    "populationYearlyChange": "0.12"
+  },
+  {
+    "countryName": "Belarus",
+    "population": 9449323,
+    "populationYearlyChange": "-0.03"
+  },
+  {
+    "countryName": "Belgium",
+    "population": 11589623,
+    "populationYearlyChange": "0.44"
+  },
+  {
+    "countryName": "Belize",
+    "population": 397628,
+    "populationYearlyChange": "1.86"
+  },
+  {
+    "countryName": "Benin",
+    "population": 12123200,
+    "populationYearlyChange": "2.73"
+  },
+  {
+    "countryName": "Bermuda",
+    "population": 62278,
+    "populationYearlyChange": "-0.36"
+  },
+  {
+    "countryName": "Bhutan",
+    "population": 771608,
+    "populationYearlyChange": "1.12"
+  },
+  {
+    "countryName": "Bolivia",
+    "population": 11673021,
+    "populationYearlyChange": "1.39"
+  },
+  {
+    "countryName": "Bosnia and Herzegovina",
+    "population": 3280819,
+    "populationYearlyChange": "-0.61"
+  },
+  {
+    "countryName": "Botswana",
+    "population": 2351627,
+    "populationYearlyChange": "2.08"
+  },
+  {
+    "countryName": "Brazil",
+    "population": 212559417,
+    "populationYearlyChange": "0.72"
+  },
+  {
+    "countryName": "British Virgin Islands",
+    "population": 30231,
+    "populationYearlyChange": "0.67"
+  },
+  {
+    "countryName": "Brunei",
+    "population": 437479,
+    "populationYearlyChange": "0.97"
+  },
+  {
+    "countryName": "Bulgaria",
+    "population": 6948445,
+    "populationYearlyChange": "-0.74"
+  },
+  {
+    "countryName": "Burkina Faso",
+    "population": 20903273,
+    "populationYearlyChange": "2.86"
+  },
+  {
+    "countryName": "Burundi",
+    "population": 11890784,
+    "populationYearlyChange": "3.12"
+  },
+  {
+    "countryName": "Cabo Verde",
+    "population": 555987,
+    "populationYearlyChange": "1.10"
+  },
+  {
+    "countryName": "Cambodia",
+    "population": 16718965,
+    "populationYearlyChange": "1.41"
+  },
+  {
+    "countryName": "Cameroon",
+    "population": 26545863,
+    "populationYearlyChange": "2.59"
+  },
+  {
+    "countryName": "Canada",
+    "population": 37742154,
+    "populationYearlyChange": "0.89"
+  },
+  {
+    "countryName": "Caribbean Netherlands",
+    "population": 26223,
+    "populationYearlyChange": "0.94"
+  },
+  {
+    "countryName": "Cayman Islands",
+    "population": 65722,
+    "populationYearlyChange": "1.19"
+  },
+  {
+    "countryName": "Central African Republic",
+    "population": 4829767,
+    "populationYearlyChange": "1.78"
+  },
+  {
+    "countryName": "Chad",
+    "population": 16425864,
+    "populationYearlyChange": "3.00"
+  },
+  {
+    "countryName": "Channel Islands",
+    "population": 173863,
+    "populationYearlyChange": "0.93"
+  },
+  {
+    "countryName": "Chile",
+    "population": 19116201,
+    "populationYearlyChange": "0.87"
+  },
+  {
+    "countryName": "China",
+    "population": 1439323776,
+    "populationYearlyChange": "0.39"
+  },
+  {
+    "countryName": "Colombia",
+    "population": 50882891,
+    "populationYearlyChange": "1.08"
+  },
+  {
+    "countryName": "Comoros",
+    "population": 869601,
+    "populationYearlyChange": "2.20"
+  },
+  {
+    "countryName": "Republic of the Congo",
+    "population": 5518087,
+    "populationYearlyChange": "2.56"
+  },
+  {
+    "countryName": "Cook Islands",
+    "population": 17564,
+    "populationYearlyChange": "0.09"
+  },
+  {
+    "countryName": "Costa Rica",
+    "population": 5094118,
+    "populationYearlyChange": "0.92"
+  },
+  {
+    "countryName": "Ivory Coast",
+    "population": 26378274,
+    "populationYearlyChange": "2.57"
+  },
+  {
+    "countryName": "Croatia",
+    "population": 4105267,
+    "populationYearlyChange": "-0.61"
+  },
+  {
+    "countryName": "Cuba",
+    "population": 11326616,
+    "populationYearlyChange": "-0.06"
+  },
+  {
+    "countryName": "Curaçao",
+    "population": 164093,
+    "populationYearlyChange": "0.41"
+  },
+  {
+    "countryName": "Cyprus",
+    "population": 1207359,
+    "populationYearlyChange": "0.73"
+  },
+  {
+    "countryName": "Czech Republic",
+    "population": 10708981,
+    "populationYearlyChange": "0.18"
+  },
+  {
+    "countryName": "Denmark",
+    "population": 5792202,
+    "populationYearlyChange": "0.35"
+  },
+  {
+    "countryName": "Djibouti",
+    "population": 988000,
+    "populationYearlyChange": "1.48"
+  },
+  {
+    "countryName": "Dominica",
+    "population": 71986,
+    "populationYearlyChange": "0.25"
+  },
+  {
+    "countryName": "Dominican Republic",
+    "population": 10847910,
+    "populationYearlyChange": "1.01"
+  },
+  {
+    "countryName": "Democratic Republic of the Congo",
+    "population": 89561403,
+    "populationYearlyChange": "3.19"
+  },
+  {
+    "countryName": "Ecuador",
+    "population": 17643054,
+    "populationYearlyChange": "1.55"
+  },
+  {
+    "countryName": "Egypt",
+    "population": 102334404,
+    "populationYearlyChange": "1.94"
+  },
+  {
+    "countryName": "El Salvador",
+    "population": 6486205,
+    "populationYearlyChange": "0.51"
+  },
+  {
+    "countryName": "Equatorial Guinea",
+    "population": 1402985,
+    "populationYearlyChange": "3.47"
+  },
+  {
+    "countryName": "Eritrea",
+    "population": 3546421,
+    "populationYearlyChange": "1.41"
+  },
+  {
+    "countryName": "Estonia",
+    "population": 1326535,
+    "populationYearlyChange": "0.07"
+  },
+  {
+    "countryName": "Eswatini",
+    "population": 1160164,
+    "populationYearlyChange": "1.05"
+  },
+  {
+    "countryName": "Ethiopia",
+    "population": 114963588,
+    "populationYearlyChange": "2.57"
+  },
+  {
+    "countryName": "Faeroe Islands",
+    "population": 48863,
+    "populationYearlyChange": "0.38"
+  },
+  {
+    "countryName": "Falkland Islands",
+    "population": 3480,
+    "populationYearlyChange": "3.05"
+  },
+  {
+    "countryName": "Fiji",
+    "population": 896445,
+    "populationYearlyChange": "0.73"
+  },
+  {
+    "countryName": "Finland",
+    "population": 5540720,
+    "populationYearlyChange": "0.15"
+  },
+  {
+    "countryName": "France",
+    "population": 65273511,
+    "populationYearlyChange": "0.22"
+  },
+  {
+    "countryName": "French Guiana",
+    "population": 298682,
+    "populationYearlyChange": "2.70"
+  },
+  {
+    "countryName": "French Polynesia",
+    "population": 280908,
+    "populationYearlyChange": "0.58"
+  },
+  {
+    "countryName": "Gabon",
+    "population": 2225734,
+    "populationYearlyChange": "2.45"
+  },
+  {
+    "countryName": "Gambia",
+    "population": 2416668,
+    "populationYearlyChange": "2.94"
+  },
+  {
+    "countryName": "Georgia",
+    "population": 3989167,
+    "populationYearlyChange": "-0.19"
+  },
+  {
+    "countryName": "Germany",
+    "population": 83783942,
+    "populationYearlyChange": "0.32"
+  },
+  {
+    "countryName": "Ghana",
+    "population": 31072940,
+    "populationYearlyChange": "2.15"
+  },
+  {
+    "countryName": "Gibraltar",
+    "population": 33691,
+    "populationYearlyChange": "-0.03"
+  },
+  {
+    "countryName": "Greece",
+    "population": 10423054,
+    "populationYearlyChange": "-0.48"
+  },
+  {
+    "countryName": "Greenland",
+    "population": 56770,
+    "populationYearlyChange": "0.17"
+  },
+  {
+    "countryName": "Grenada",
+    "population": 112523,
+    "populationYearlyChange": "0.46"
+  },
+  {
+    "countryName": "Guadeloupe",
+    "population": 400124,
+    "populationYearlyChange": "0.02"
+  },
+  {
+    "countryName": "Guam",
+    "population": 168775,
+    "populationYearlyChange": "0.89"
+  },
+  {
+    "countryName": "Guatemala",
+    "population": 17915568,
+    "populationYearlyChange": "1.90"
+  },
+  {
+    "countryName": "Guinea",
+    "population": 13132795,
+    "populationYearlyChange": "2.83"
+  },
+  {
+    "countryName": "Guinea Bissau",
+    "population": 1968001,
+    "populationYearlyChange": "2.45"
+  },
+  {
+    "countryName": "Guyana",
+    "population": 786552,
+    "populationYearlyChange": "0.48"
+  },
+  {
+    "countryName": "Haiti",
+    "population": 11402528,
+    "populationYearlyChange": "1.24"
+  },
+  {
+    "countryName": "Holy See",
+    "population": 801,
+    "populationYearlyChange": "0.25"
+  },
+  {
+    "countryName": "Honduras",
+    "population": 9904607,
+    "populationYearlyChange": "1.63"
+  },
+  {
+    "countryName": "Hong Kong",
+    "population": 7496981,
+    "populationYearlyChange": "0.82"
+  },
+  {
+    "countryName": "Hungary",
+    "population": 9660351,
+    "populationYearlyChange": "-0.25"
+  },
+  {
+    "countryName": "Iceland",
+    "population": 341243,
+    "populationYearlyChange": "0.65"
+  },
+  {
+    "countryName": "India",
+    "population": 1380004385,
+    "populationYearlyChange": "0.99"
+  },
+  {
+    "countryName": "Indonesia",
+    "population": 273523615,
+    "populationYearlyChange": "1.07"
+  },
+  {
+    "countryName": "Iran",
+    "population": 83992949,
+    "populationYearlyChange": "1.30"
+  },
+  {
+    "countryName": "Iraq",
+    "population": 40222493,
+    "populationYearlyChange": "2.32"
+  },
+  {
+    "countryName": "Ireland",
+    "population": 4937786,
+    "populationYearlyChange": "1.13"
+  },
+  {
+    "countryName": "Isle of Man",
+    "population": 85033,
+    "populationYearlyChange": "0.53"
+  },
+  {
+    "countryName": "Israel",
+    "population": 8655535,
+    "populationYearlyChange": "1.60"
+  },
+  {
+    "countryName": "Italy",
+    "population": 60461826,
+    "populationYearlyChange": "-0.15"
+  },
+  {
+    "countryName": "Jamaica",
+    "population": 2961167,
+    "populationYearlyChange": "0.44"
+  },
+  {
+    "countryName": "Japan",
+    "population": 126476461,
+    "populationYearlyChange": "-0.30"
+  },
+  {
+    "countryName": "Jordan",
+    "population": 10203134,
+    "populationYearlyChange": "1.00"
+  },
+  {
+    "countryName": "Kazakhstan",
+    "population": 18776707,
+    "populationYearlyChange": "1.21"
+  },
+  {
+    "countryName": "Kenya",
+    "population": 53771296,
+    "populationYearlyChange": "2.28"
+  },
+  {
+    "countryName": "Kiribati",
+    "population": 119449,
+    "populationYearlyChange": "1.57"
+  },
+  {
+    "countryName": "Kuwait",
+    "population": 4270571,
+    "populationYearlyChange": "1.51"
+  },
+  {
+    "countryName": "Kyrgyzstan",
+    "population": 6524195,
+    "populationYearlyChange": "1.69"
+  },
+  {
+    "countryName": "Laos",
+    "population": 7275560,
+    "populationYearlyChange": "1.48"
+  },
+  {
+    "countryName": "Latvia",
+    "population": 1886198,
+    "populationYearlyChange": "-1.08"
+  },
+  {
+    "countryName": "Lebanon",
+    "population": 6825445,
+    "populationYearlyChange": "-0.44"
+  },
+  {
+    "countryName": "Lesotho",
+    "population": 2142249,
+    "populationYearlyChange": "0.80"
+  },
+  {
+    "countryName": "Liberia",
+    "population": 5057681,
+    "populationYearlyChange": "2.44"
+  },
+  {
+    "countryName": "Libya",
+    "population": 6871292,
+    "populationYearlyChange": "1.38"
+  },
+  {
+    "countryName": "Liechtenstein",
+    "population": 38128,
+    "populationYearlyChange": "0.29"
+  },
+  {
+    "countryName": "Lithuania",
+    "population": 2722289,
+    "populationYearlyChange": "-1.35"
+  },
+  {
+    "countryName": "Luxembourg",
+    "population": 625978,
+    "populationYearlyChange": "1.66"
+  },
+  {
+    "countryName": "Macao",
+    "population": 649335,
+    "populationYearlyChange": "1.39"
+  },
+  {
+    "countryName": "Madagascar",
+    "population": 27691018,
+    "populationYearlyChange": "2.68"
+  },
+  {
+    "countryName": "Malawi",
+    "population": 19129952,
+    "populationYearlyChange": "2.69"
+  },
+  {
+    "countryName": "Malaysia",
+    "population": 32365999,
+    "populationYearlyChange": "1.30"
+  },
+  {
+    "countryName": "Maldives",
+    "population": 540544,
+    "populationYearlyChange": "1.81"
+  },
+  {
+    "countryName": "Mali",
+    "population": 20250833,
+    "populationYearlyChange": "3.02"
+  },
+  {
+    "countryName": "Malta",
+    "population": 441543,
+    "populationYearlyChange": "0.27"
+  },
+  {
+    "countryName": "Marshall Islands",
+    "population": 59190,
+    "populationYearlyChange": "0.68"
+  },
+  {
+    "countryName": "Martinique",
+    "population": 375265,
+    "populationYearlyChange": "-0.08"
+  },
+  {
+    "countryName": "Mauritania",
+    "population": 4649658,
+    "populationYearlyChange": "2.74"
+  },
+  {
+    "countryName": "Mauritius",
+    "population": 1271768,
+    "populationYearlyChange": "0.17"
+  },
+  {
+    "countryName": "Mayotte",
+    "population": 272815,
+    "populationYearlyChange": "2.50"
+  },
+  {
+    "countryName": "Mexico",
+    "population": 128932753,
+    "populationYearlyChange": "1.06"
+  },
+  {
+    "countryName": "Micronesia",
+    "population": 548914,
+    "populationYearlyChange": "1.00"
+  },
+  {
+    "countryName": "Moldova",
+    "population": 4033963,
+    "populationYearlyChange": "-0.23"
+  },
+  {
+    "countryName": "Monaco",
+    "population": 39242,
+    "populationYearlyChange": "0.71"
+  },
+  {
+    "countryName": "Mongolia",
+    "population": 3278290,
+    "populationYearlyChange": "1.65"
+  },
+  {
+    "countryName": "Montenegro",
+    "population": 628066,
+    "populationYearlyChange": "0.01"
+  },
+  {
+    "countryName": "Montserrat",
+    "population": 4992,
+    "populationYearlyChange": "0.06"
+  },
+  {
+    "countryName": "Morocco",
+    "population": 36910560,
+    "populationYearlyChange": "1.20"
+  },
+  {
+    "countryName": "Mozambique",
+    "population": 31255435,
+    "populationYearlyChange": "2.93"
+  },
+  {
+    "countryName": "Myanmar",
+    "population": 54409800,
+    "populationYearlyChange": "0.67"
+  },
+  {
+    "countryName": "Namibia",
+    "population": 2540905,
+    "populationYearlyChange": "1.86"
+  },
+  {
+    "countryName": "Nauru",
+    "population": 10824,
+    "populationYearlyChange": "0.63"
+  },
+  {
+    "countryName": "Nepal",
+    "population": 29136808,
+    "populationYearlyChange": "1.85"
+  },
+  {
+    "countryName": "Netherlands",
+    "population": 17134872,
+    "populationYearlyChange": "0.22"
+  },
+  {
+    "countryName": "New Caledonia",
+    "population": 285498,
+    "populationYearlyChange": "0.97"
+  },
+  {
+    "countryName": "New Zealand",
+    "population": 4822233,
+    "populationYearlyChange": "0.82"
+  },
+  {
+    "countryName": "Nicaragua",
+    "population": 6624554,
+    "populationYearlyChange": "1.21"
+  },
+  {
+    "countryName": "Niger",
+    "population": 24206644,
+    "populationYearlyChange": "3.84"
+  },
+  {
+    "countryName": "Nigeria",
+    "population": 206139589,
+    "populationYearlyChange": "2.58"
+  },
+  {
+    "countryName": "Niue",
+    "population": 1626,
+    "populationYearlyChange": "0.68"
+  },
+  {
+    "countryName": "North Korea",
+    "population": 25778816,
+    "populationYearlyChange": "0.44"
+  },
+  {
+    "countryName": "Macedonia",
+    "population": 2083374,
+    "populationYearlyChange": "0.00"
+  },
+  {
+    "countryName": "Northern Mariana Islands",
+    "population": 57559,
+    "populationYearlyChange": "0.60"
+  },
+  {
+    "countryName": "Norway",
+    "population": 5421241,
+    "populationYearlyChange": "0.79"
+  },
+  {
+    "countryName": "Oman",
+    "population": 5106626,
+    "populationYearlyChange": "2.65"
+  },
+  {
+    "countryName": "Pakistan",
+    "population": 220892340,
+    "populationYearlyChange": "2.00"
+  },
+  {
+    "countryName": "Palau",
+    "population": 18094,
+    "populationYearlyChange": "0.48"
+  },
+  {
+    "countryName": "Panama",
+    "population": 4314767,
+    "populationYearlyChange": "1.61"
+  },
+  {
+    "countryName": "Papua New Guinea",
+    "population": 8947024,
+    "populationYearlyChange": "1.95"
+  },
+  {
+    "countryName": "Paraguay",
+    "population": 7132538,
+    "populationYearlyChange": "1.25"
+  },
+  {
+    "countryName": "Peru",
+    "population": 32971854,
+    "populationYearlyChange": "1.42"
+  },
+  {
+    "countryName": "Philippines",
+    "population": 109581078,
+    "populationYearlyChange": "1.35"
+  },
+  {
+    "countryName": "Poland",
+    "population": 37846611,
+    "populationYearlyChange": "-0.11"
+  },
+  {
+    "countryName": "Portugal",
+    "population": 10196709,
+    "populationYearlyChange": "-0.29"
+  },
+  {
+    "countryName": "Puerto Rico",
+    "population": 2860853,
+    "populationYearlyChange": "-2.47"
+  },
+  {
+    "countryName": "Qatar",
+    "population": 2881053,
+    "populationYearlyChange": "1.73"
+  },
+  {
+    "countryName": "Réunion",
+    "population": 895312,
+    "populationYearlyChange": "0.72"
+  },
+  {
+    "countryName": "Romania",
+    "population": 19237691,
+    "populationYearlyChange": "-0.66"
+  },
+  {
+    "countryName": "Russia",
+    "population": 145934462,
+    "populationYearlyChange": "0.04"
+  },
+  {
+    "countryName": "Rwanda",
+    "population": 12952218,
+    "populationYearlyChange": "2.58"
+  },
+  {
+    "countryName": "Saint Barthelemy",
+    "population": 9877,
+    "populationYearlyChange": "0.30"
+  },
+  {
+    "countryName": "Saint Helena",
+    "population": 6077,
+    "populationYearlyChange": "0.30"
+  },
+  {
+    "countryName": "Saint Kitts & Nevis",
+    "population": 53199,
+    "populationYearlyChange": "0.71"
+  },
+  {
+    "countryName": "Saint Lucia",
+    "population": 183627,
+    "populationYearlyChange": "0.46"
+  },
+  {
+    "countryName": "Saint Martin",
+    "population": 38666,
+    "populationYearlyChange": "1.75"
+  },
+  {
+    "countryName": "Saint Pierre & Miquelon",
+    "population": 5794,
+    "populationYearlyChange": "-0.48"
+  },
+  {
+    "countryName": "Samoa",
+    "population": 198414,
+    "populationYearlyChange": "0.67"
+  },
+  {
+    "countryName": "San Marino",
+    "population": 33931,
+    "populationYearlyChange": "0.21"
+  },
+  {
+    "countryName": "Sao Tome & Principe",
+    "population": 219159,
+    "populationYearlyChange": "1.91"
+  },
+  {
+    "countryName": "Saudi Arabia",
+    "population": 34813871,
+    "populationYearlyChange": "1.59"
+  },
+  {
+    "countryName": "Senegal",
+    "population": 16743927,
+    "populationYearlyChange": "2.75"
+  },
+  {
+    "countryName": "Republic of Serbia",
+    "population": 8737371,
+    "populationYearlyChange": "-0.40"
+  },
+  {
+    "countryName": "Seychelles",
+    "population": 98347,
+    "populationYearlyChange": "0.62"
+  },
+  {
+    "countryName": "Sierra Leone",
+    "population": 7976983,
+    "populationYearlyChange": "2.10"
+  },
+  {
+    "countryName": "Singapore",
+    "population": 5850342,
+    "populationYearlyChange": "0.79"
+  },
+  {
+    "countryName": "Sint Maarten",
+    "population": 42876,
+    "populationYearlyChange": "1.15"
+  },
+  {
+    "countryName": "Slovakia",
+    "population": 5459642,
+    "populationYearlyChange": "0.05"
+  },
+  {
+    "countryName": "Slovenia",
+    "population": 2078938,
+    "populationYearlyChange": "0.01"
+  },
+  {
+    "countryName": "Solomon Islands",
+    "population": 686884,
+    "populationYearlyChange": "2.55"
+  },
+  {
+    "countryName": "Somalia",
+    "population": 15893222,
+    "populationYearlyChange": "2.92"
+  },
+  {
+    "countryName": "South Africa",
+    "population": 59308690,
+    "populationYearlyChange": "1.28"
+  },
+  {
+    "countryName": "South Korea",
+    "population": 51269185,
+    "populationYearlyChange": "0.09"
+  },
+  {
+    "countryName": "South Sudan",
+    "population": 11193725,
+    "populationYearlyChange": "1.19"
+  },
+  {
+    "countryName": "Spain",
+    "population": 46754778,
+    "populationYearlyChange": "0.04"
+  },
+  {
+    "countryName": "Sri Lanka",
+    "population": 21413249,
+    "populationYearlyChange": "0.42"
+  },
+  {
+    "countryName": "St. Vincent & Grenadines",
+    "population": 110940,
+    "populationYearlyChange": "0.32"
+  },
+  {
+    "countryName": "State of Palestine",
+    "population": 5101414,
+    "populationYearlyChange": "2.41"
+  },
+  {
+    "countryName": "Sudan",
+    "population": 43849260,
+    "populationYearlyChange": "2.42"
+  },
+  {
+    "countryName": "Suriname",
+    "population": 586632,
+    "populationYearlyChange": "0.90"
+  },
+  {
+    "countryName": "Sweden",
+    "population": 10099265,
+    "populationYearlyChange": "0.63"
+  },
+  {
+    "countryName": "Switzerland",
+    "population": 8654622,
+    "populationYearlyChange": "0.74"
+  },
+  {
+    "countryName": "Syria",
+    "population": 17500658,
+    "populationYearlyChange": "2.52"
+  },
+  {
+    "countryName": "Taiwan",
+    "population": 23816775,
+    "populationYearlyChange": "0.18"
+  },
+  {
+    "countryName": "Tajikistan",
+    "population": 9537645,
+    "populationYearlyChange": "2.32"
+  },
+  {
+    "countryName": "United Republic of Tanzania",
+    "population": 59734218,
+    "populationYearlyChange": "2.98"
+  },
+  {
+    "countryName": "Thailand",
+    "population": 69799978,
+    "populationYearlyChange": "0.25"
+  },
+  {
+    "countryName": "Timor-Leste",
+    "population": 1318445,
+    "populationYearlyChange": "1.96"
+  },
+  {
+    "countryName": "Togo",
+    "population": 8278724,
+    "populationYearlyChange": "2.43"
+  },
+  {
+    "countryName": "Tokelau",
+    "population": 1357,
+    "populationYearlyChange": "1.27"
+  },
+  {
+    "countryName": "Tonga",
+    "population": 105695,
+    "populationYearlyChange": "1.15"
+  },
+  {
+    "countryName": "Trinidad and Tobago",
+    "population": 1399488,
+    "populationYearlyChange": "0.32"
+  },
+  {
+    "countryName": "Tunisia",
+    "population": 11818619,
+    "populationYearlyChange": "1.06"
+  },
+  {
+    "countryName": "Turkey",
+    "population": 84339067,
+    "populationYearlyChange": "1.09"
+  },
+  {
+    "countryName": "Turkmenistan",
+    "population": 6031200,
+    "populationYearlyChange": "1.50"
+  },
+  {
+    "countryName": "Turks and Caicos",
+    "population": 38717,
+    "populationYearlyChange": "1.38"
+  },
+  {
+    "countryName": "Tuvalu",
+    "population": 11792,
+    "populationYearlyChange": "1.25"
+  },
+  {
+    "countryName": "U.S. Virgin Islands",
+    "population": 104425,
+    "populationYearlyChange": "-0.15"
+  },
+  {
+    "countryName": "Uganda",
+    "population": 45741007,
+    "populationYearlyChange": "3.32"
+  },
+  {
+    "countryName": "Ukraine",
+    "population": 43733762,
+    "populationYearlyChange": "-0.59"
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "population": 9890402,
+    "populationYearlyChange": "1.23"
+  },
+  {
+    "countryName": "United Kingdom",
+    "population": 67886011,
+    "populationYearlyChange": "0.53"
+  },
+  {
+    "countryName": "United States of America",
+    "population": 331002651,
+    "populationYearlyChange": "0.59"
+  },
+  {
+    "countryName": "Uruguay",
+    "population": 3473730,
+    "populationYearlyChange": "0.35"
+  },
+  {
+    "countryName": "Uzbekistan",
+    "population": 33469203,
+    "populationYearlyChange": "1.48"
+  },
+  {
+    "countryName": "Vanuatu",
+    "population": 307145,
+    "populationYearlyChange": "2.42"
+  },
+  {
+    "countryName": "Venezuela",
+    "population": 28435940,
+    "populationYearlyChange": "-0.28"
+  },
+  {
+    "countryName": "Vietnam",
+    "population": 97338579,
+    "populationYearlyChange": "0.91"
+  },
+  {
+    "countryName": "Wallis & Futuna",
+    "population": 11239,
+    "populationYearlyChange": "-1.69"
+  },
+  {
+    "countryName": "Western Sahara",
+    "population": 597339,
+    "populationYearlyChange": "2.55"
+  },
+  {
+    "countryName": "Yemen",
+    "population": 29825964,
+    "populationYearlyChange": "2.28"
+  },
+  {
+    "countryName": "Zambia",
+    "population": 18383955,
+    "populationYearlyChange": "2.93"
+  },
+  {
+    "countryName": "Zimbabwe",
+    "population": 14862924,
+    "populationYearlyChange": "1.48"
+  }
+]
