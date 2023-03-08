@@ -43071,7 +43071,7 @@
    "TempChange": "0.85"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
@@ -43080,7 +43080,7 @@
    "TempChange": "1.425"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
@@ -43089,7 +43089,7 @@
    "TempChange": "1.795"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
@@ -43098,7 +43098,7 @@
    "TempChange": "1.539"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
@@ -43107,7 +43107,7 @@
    "TempChange": "-0.268"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
@@ -43116,7 +43116,7 @@
    "TempChange": "0.918"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
@@ -43125,7 +43125,7 @@
    "TempChange": "1.01"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
@@ -43134,7 +43134,7 @@
    "TempChange": "0.26"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
@@ -43143,7 +43143,7 @@
    "TempChange": "2.365"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
@@ -43152,7 +43152,7 @@
    "TempChange": "1.608"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
@@ -43161,7 +43161,7 @@
    "TempChange": "1.594"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
@@ -43170,7 +43170,7 @@
    "TempChange": "1.635"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
@@ -43179,7 +43179,7 @@
    "TempChange": "0.564"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
@@ -43188,7 +43188,7 @@
    "TempChange": "1.938"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
@@ -43197,7 +43197,7 @@
    "TempChange": "1.501"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
@@ -43206,7 +43206,7 @@
    "TempChange": "1.691"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
@@ -43215,7 +43215,7 @@
    "TempChange": "2.047"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
@@ -43224,7 +43224,7 @@
    "TempChange": "2.09"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
@@ -43233,7 +43233,7 @@
    "TempChange": "1.401"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
@@ -43242,7 +43242,7 @@
    "TempChange": "2.222"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
@@ -43251,7 +43251,7 @@
    "TempChange": "2.355"
  },
  {
-   "Area": "United Republ,
+   "Area": "United Republic",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
@@ -43260,7 +43260,8 @@
    "TempChange": "3.014"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "kilotonnes",
    "Emission": 5670000,
@@ -43268,7 +43269,8 @@
    "TempChange": "0.72"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "kilotonnes",
    "Emission": 5570000,
@@ -43276,7 +43278,8 @@
    "TempChange": "0.592"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "kilotonnes",
    "Emission": 5620000,
@@ -43284,7 +43287,8 @@
    "TempChange": "1.137"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "kilotonnes",
    "Emission": 5650000,
@@ -43292,7 +43296,8 @@
    "TempChange": "1.046"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "kilotonnes",
    "Emission": 5730000,
@@ -43300,7 +43305,8 @@
    "TempChange": "1.011"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "kilotonnes",
    "Emission": 5760000,
@@ -43308,7 +43314,8 @@
    "TempChange": "0.679"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "kilotonnes",
    "Emission": 5670000,
@@ -43316,7 +43323,8 @@
    "TempChange": "1.211"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "kilotonnes",
    "Emission": 5760000,
@@ -43324,7 +43332,8 @@
    "TempChange": "0.757"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "kilotonnes",
    "Emission": 5590000,
@@ -43332,7 +43341,8 @@
    "TempChange": "0.717"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "kilotonnes",
    "Emission": 5250000,
@@ -43340,7 +43350,8 @@
    "TempChange": "0.862"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "kilotonnes",
    "Emission": 5380000,
@@ -43348,7 +43359,8 @@
    "TempChange": "1.456"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "kilotonnes",
    "Emission": 5250000,
@@ -43356,7 +43368,8 @@
    "TempChange": "1.133"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "kilotonnes",
    "Emission": 5060000,
@@ -43364,7 +43377,8 @@
    "TempChange": "1.095"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "kilotonnes",
    "Emission": 5150000,
@@ -43372,7 +43386,8 @@
    "TempChange": "0.756"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "kilotonnes",
    "Emission": 5210000,
@@ -43380,7 +43395,8 @@
    "TempChange": "0.935"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "kilotonnes",
    "Emission": 5120000,
@@ -43388,7 +43404,8 @@
    "TempChange": "1.561"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "kilotonnes",
    "Emission": 4980000,
@@ -43396,7 +43413,8 @@
    "TempChange": "1.08"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "kilotonnes",
    "Emission": 4940000,
@@ -43404,7 +43422,8 @@
    "TempChange": "1.666"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "kilotonnes",
    "Emission": 5100000,
@@ -43412,7 +43431,8 @@
    "TempChange": "1.53"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "kilotonnes",
    "Emission": 4960000,
@@ -43420,7 +43440,8 @@
    "TempChange": "1.247"
  },
  {
-   "Area": "United States  "Element": "Emissions (CO2)",
+   "Area": "United States of America",
+   "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "kilotonnes",
    "Emission": 4390000,
@@ -43428,7 +43449,7 @@
    "TempChange": "1.282"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2000,
    "EmissionUnit": "",
@@ -43437,7 +43458,7 @@
    "TempChange": "0.713"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2001,
    "EmissionUnit": "",
@@ -43446,7 +43467,7 @@
    "TempChange": "0.622"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2002,
    "EmissionUnit": "",
@@ -43455,7 +43476,7 @@
    "TempChange": "1.002"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2003,
    "EmissionUnit": "",
@@ -43464,7 +43485,7 @@
    "TempChange": "1.185"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2004,
    "EmissionUnit": "",
@@ -43473,7 +43494,7 @@
    "TempChange": "1.026"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2005,
    "EmissionUnit": "",
@@ -43482,7 +43503,7 @@
    "TempChange": "1.11"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2006,
    "EmissionUnit": "",
@@ -43491,7 +43512,7 @@
    "TempChange": "1.243"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2007,
    "EmissionUnit": "",
@@ -43500,7 +43521,7 @@
    "TempChange": "1.327"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2008,
    "EmissionUnit": "",
@@ -43509,7 +43530,7 @@
    "TempChange": "0.835"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2009,
    "EmissionUnit": "",
@@ -43518,7 +43539,7 @@
    "TempChange": "0.947"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2010,
    "EmissionUnit": "",
@@ -43527,7 +43548,7 @@
    "TempChange": "-0.054"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2011,
    "EmissionUnit": "",
@@ -43536,7 +43557,7 @@
    "TempChange": "0.847"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2012,
    "EmissionUnit": "",
@@ -43545,7 +43566,7 @@
    "TempChange": "0.574"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2013,
    "EmissionUnit": "",
@@ -43554,7 +43575,7 @@
    "TempChange": "0.373"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2014,
    "EmissionUnit": "",
@@ -43563,7 +43584,7 @@
    "TempChange": "1.739"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2015,
    "EmissionUnit": "",
@@ -43572,7 +43593,7 @@
    "TempChange": "0.629"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2016,
    "EmissionUnit": "",
@@ -43581,7 +43602,7 @@
    "TempChange": "1.175"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2017,
    "EmissionUnit": "",
@@ -43590,7 +43611,7 @@
    "TempChange": "1.437"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2018,
    "EmissionUnit": "",
@@ -43599,7 +43620,7 @@
    "TempChange": "1.012"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2019,
    "EmissionUnit": "",
@@ -43608,7 +43629,7 @@
    "TempChange": "1.247"
  },
  {
-   "Area": "United States",
+   "Area": "United States of America",
    "Element": "Emissions (CO2)",
    "Year": 2020,
    "EmissionUnit": "",

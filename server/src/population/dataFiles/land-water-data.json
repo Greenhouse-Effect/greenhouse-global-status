@@ -1,1177 +1,1177 @@
 [
- {
-   "Country": "China",
-   "Land": 9388211,
-   "Water": 1165
- },
- {
-   "Country": "India",
-   "Land": 2973190,
-   "Water": 1689
- },
- {
-   "Country": "United States",
-   "Land": 9147420,
-   "Water": 3794
- },
- {
-   "Country": "Indonesia",
-   "Land": 1811570,
-   "Water": 2332
- },
- {
-   "Country": "Pakistan",
-   "Land": 770880,
-   "Water": 2929
- },
- {
-   "Country": "Brazil",
-   "Land": 8358140,
-   "Water": 844
- },
- {
-   "Country": "Nigeria",
-   "Land": 910770,
-   "Water": 216
- },
- {
-   "Country": "Bangladesh",
-   "Land": 130170,
-   "Water": 681
- },
- {
-   "Country": "Russia",
-   "Land": 16376870,
-   "Water": 1311
- },
- {
-   "Country": "Mexico",
-   "Land": 1943950,
-   "Water": 1923
- },
- {
-   "Country": "Japan",
-   "Land": 364555,
-   "Water": 1736
- },
- {
-   "Country": "Ethiopia",
-   "Land": 1000000,
-   "Water": 279
- },
- {
-   "Country": "Philippines",
-   "Land": 298170,
-   "Water": 2250
- },
- {
-   "Country": "Egypt",
-   "Land": 995450,
-   "Water": 2202
- },
- {
-   "Country": "Vietnam",
-   "Land": 310070,
-   "Water": 2681
- },
- {
-   "Country": "Democratic Republic of the Congo",
-   "Land": 2267050,
-   "Water": 34
- },
- {
-   "Country": "Turkey",
-   "Land": 769630,
-   "Water": 2023
- },
- {
-   "Country": "Iran",
-   "Land": 1628550,
-   "Water": 3707
- },
- {
-   "Country": "Germany",
-   "Land": 348560,
-   "Water": 855
- },
- {
-   "Country": "Thailand",
-   "Land": 510890,
-   "Water": 2372
- },
- {
-   "Country": "United Kingdom",
-   "Land": 241930,
-   "Water": 348
- },
- {
-   "Country": "France",
-   "Land": 547557,
-   "Water": 1244
- },
- {
-   "Country": "Italy",
-   "Land": 294140,
-   "Water": 1546
- },
- {
-   "Country": "United Republic of Tanzania",
-   "Land": 885800,
-   "Water": 402
- },
- {
-   "Country": "South Africa",
-   "Land": 1213090,
-   "Water": 791
- },
- {
-   "Country": "Myanmar",
-   "Land": 653290,
-   "Water": 1949
- },
- {
-   "Country": "Kenya",
-   "Land": 569140,
-   "Water": 225
- },
- {
-   "Country": "South Korea",
-   "Land": 97230,
-   "Water": 1643
- },
- {
-   "Country": "Colombia",
-   "Land": 1109500,
-   "Water": 729
- },
- {
-   "Country": "Spain",
-   "Land": 498800,
-   "Water": 1924
- },
- {
-   "Country": "Uganda",
-   "Land": 199810,
-   "Water": 57
- },
- {
-   "Country": "Argentina",
-   "Land": 2736690,
-   "Water": 2505
- },
- {
-   "Country": "Algeria",
-   "Land": 2381740,
-   "Water": 674
- },
- {
-   "Country": "Sudan",
-   "Land": 1765048,
-   "Water": 2087
- },
- {
-   "Country": "Ukraine",
-   "Land": 579320,
-   "Water": 604
- },
- {
-   "Country": "Iraq",
-   "Land": 434320,
-   "Water": 2885
- },
- {
-   "Country": "Afghanistan",
-   "Land": 652860,
-   "Water": 2674
- },
- {
-   "Country": "Poland",
-   "Land": 306230,
-   "Water": 763
- },
- {
-   "Country": "Canada",
-   "Land": 9093510,
-   "Water": 2717
- },
- {
-   "Country": "Morocco",
-   "Land": 446300,
-   "Water": 883
- },
- {
-   "Country": "Saudi Arabia",
-   "Land": 2149690,
-   "Water": 1933
- },
- {
-   "Country": "Uzbekistan",
-   "Land": 425400,
-   "Water": 4754
- },
- {
-   "Country": "Peru",
-   "Land": 1280000,
-   "Water": 1310
- },
- {
-   "Country": "Angola",
-   "Land": 1246700,
-   "Water": 100
- },
- {
-   "Country": "Malaysia",
-   "Land": 328550,
-   "Water": 1194
- },
- {
-   "Country": "Mozambique",
-   "Land": 786380,
-   "Water": 149
- },
- {
-   "Country": "Ghana",
-   "Land": 227540,
-   "Water": 140
- },
- {
-   "Country": "Yemen",
-   "Land": 527970,
-   "Water": 486
- },
- {
-   "Country": "Nepal",
-   "Land": 143350,
-   "Water": 998
- },
- {
-   "Country": "Venezuela",
-   "Land": 882050,
-   "Water": 2275
- },
- {
-   "Country": "Madagascar",
-   "Land": 581795,
-   "Water": 1968
- },
- {
-   "Country": "Cameroon",
-   "Land": 472710,
-   "Water": 171
- },
- {
-   "Country": "Ivory Coast",
-   "Land": 318000,
-   "Water": 141
- },
- {
-   "Country": "North Korea",
-   "Land": 120410,
-   "Water": 992
- },
- {
-   "Country": "Australia",
-   "Land": 7682300,
-   "Water": 1821
- },
- {
-   "Country": "Niger",
-   "Land": 1266700,
-   "Water": 230
- },
- {
-   "Country": "Taiwan",
-   "Land": 35410,
-   "Water": null
- },
- {
-   "Country": "Sri Lanka",
-   "Land": 62710,
-   "Water": 1815
- },
- {
-   "Country": "Burkina Faso",
-   "Land": 273600,
-   "Water": 167
- },
- {
-   "Country": "Mali",
-   "Land": 1220190,
-   "Water": 1076
- },
- {
-   "Country": "Romania",
-   "Land": 230170,
-   "Water": 882
- },
- {
-   "Country": "Malawi",
-   "Land": 94280,
-   "Water": 294
- },
- {
-   "Country": "Chile",
-   "Land": 743532,
-   "Water": 5935
- },
- {
-   "Country": "Kazakhstan",
-   "Land": 2699700,
-   "Water": 3499
- },
- {
-   "Country": "Zambia",
-   "Land": 743390,
-   "Water": 393
- },
- {
-   "Country": "Guatemala",
-   "Land": 107160,
-   "Water": 680
- },
- {
-   "Country": "Ecuador",
-   "Land": 248360,
-   "Water": 1965
- },
- {
-   "Country": "Syria",
-   "Land": 183630,
-   "Water": 2501
- },
- {
-   "Country": "Netherlands",
-   "Land": 33720,
-   "Water": 1447
- },
- {
-   "Country": "Senegal",
-   "Land": 192530,
-   "Water": 592
- },
- {
-   "Country": "Cambodia",
-   "Land": 176520,
-   "Water": 444
- },
- {
-   "Country": "Chad",
-   "Land": 1259200,
-   "Water": 239
- },
- {
-   "Country": "Somalia",
-   "Land": 627340,
-   "Water": 921
- },
- {
-   "Country": "Zimbabwe",
-   "Land": 386850,
-   "Water": 798
- },
- {
-   "Country": "Guinea",
-   "Land": 245720,
-   "Water": 180
- },
- {
-   "Country": "Rwanda",
-   "Land": 24670,
-   "Water": 52
- },
- {
-   "Country": "Benin",
-   "Land": 112760,
-   "Water": 50
- },
- {
-   "Country": "Burundi",
-   "Land": 25680,
-   "Water": 124
- },
- {
-   "Country": "Tunisia",
-   "Land": 155360,
-   "Water": 1168
- },
- {
-   "Country": "Bolivia",
-   "Land": 1083300,
-   "Water": 579
- },
- {
-   "Country": "Belgium",
-   "Land": 30280,
-   "Water": 1515
- },
- {
-   "Country": "Haiti",
-   "Land": 27560,
-   "Water": 405
- },
- {
-   "Country": "Cuba",
-   "Land": 106440,
-   "Water": 1690
- },
- {
-   "Country": "South Sudan",
-   "Land": 610952,
-   "Water": 183
- },
- {
-   "Country": "Dominican Republic",
-   "Land": 48320,
-   "Water": 2022
- },
- {
-   "Country": "Czech Republic",
-   "Land": 77240,
-   "Water": 422
- },
- {
-   "Country": "Greece",
-   "Land": 128900,
-   "Water": 2373
- },
- {
-   "Country": "Jordan",
-   "Land": 88780,
-   "Water": 299
- },
- {
-   "Country": "Portugal",
-   "Land": 91590,
-   "Water": 2371
- },
- {
-   "Country": "Azerbaijan",
-   "Land": 82658,
-   "Water": 3556
- },
- {
-   "Country": "Sweden",
-   "Land": 410340,
-   "Water": 785
- },
- {
-   "Country": "Honduras",
-   "Land": 111890,
-   "Water": 620
- },
- {
-   "Country": "United Arab Emirates",
-   "Land": 83600,
-   "Water": 2387
- },
- {
-   "Country": "Hungary",
-   "Land": 90530,
-   "Water": 1403
- },
- {
-   "Country": "Tajikistan",
-   "Land": 139960,
-   "Water": 4547
- },
- {
-   "Country": "Belarus",
-   "Land": 202910,
-   "Water": 421
- },
- {
-   "Country": "Austria",
-   "Land": 82409,
-   "Water": 1138
- },
- {
-   "Country": "Papua New Guinea",
-   "Land": 452860,
-   "Water": 165
- },
- {
-   "Country": "Republic of Serbia",
-   "Land": 87460,
-   "Water": 1457
- },
- {
-   "Country": "Israel",
-   "Land": 21640,
-   "Water": 837
- },
- {
-   "Country": "Switzerland",
-   "Land": 39516,
-   "Water": 686
- },
- {
-   "Country": "Togo",
-   "Land": 54390,
-   "Water": 89
- },
- {
-   "Country": "Sierra Leone",
-   "Land": 72180,
-   "Water": 103
- },
- {
-   "Country": "Hong Kong",
-   "Land": 1050,
-   "Water": null
- },
- {
-   "Country": "Laos",
-   "Land": 230800,
-   "Water": 1664
- },
- {
-   "Country": "Paraguay",
-   "Land": 397300,
-   "Water": 1030
- },
- {
-   "Country": "Bulgaria",
-   "Land": 108560,
-   "Water": 2142
- },
- {
-   "Country": "Libya",
-   "Land": 1759540,
-   "Water": 2541
- },
- {
-   "Country": "Lebanon",
-   "Land": 10230,
-   "Water": 772
- },
- {
-   "Country": "Nicaragua",
-   "Land": 120340,
-   "Water": 717
- },
- {
-   "Country": "Kyrgyzstan",
-   "Land": 191800,
-   "Water": 4281
- },
- {
-   "Country": "El Salvador",
-   "Land": 20720,
-   "Water": 959
- },
- {
-   "Country": "Turkmenistan",
-   "Land": 469930,
-   "Water": 16281
- },
- {
-   "Country": "Singapore",
-   "Land": 700,
-   "Water": null
- },
- {
-   "Country": "Denmark",
-   "Land": 42430,
-   "Water": 318
- },
- {
-   "Country": "Finland",
-   "Land": 303890,
-   "Water": 3407
- },
- {
-   "Country": "Republic of the Congo",
-   "Land": 341500,
-   "Water": 38
- },
- {
-   "Country": "Slovakia",
-   "Land": 48088,
-   "Water": 269
- },
- {
-   "Country": "Norway",
-   "Land": 365268,
-   "Water": 1757
- },
- {
-   "Country": "Oman",
-   "Land": 309500,
-   "Water": 1517
- },
- {
-   "Country": "State of Palestine",
-   "Land": 6020,
-   "Water": 215
- },
- {
-   "Country": "Costa Rica",
-   "Land": 51060,
-   "Water": 1805
- },
- {
-   "Country": "Liberia",
-   "Land": 96320,
-   "Water": 126
- },
- {
-   "Country": "Ireland",
-   "Land": 68890,
-   "Water": 461
- },
- {
-   "Country": "Central African Republic",
-   "Land": 622980,
-   "Water": 49
- },
- {
-   "Country": "New Zealand",
-   "Land": 263310,
-   "Water": 3261
- },
- {
-   "Country": "Mauritania",
-   "Land": 1030700,
-   "Water": 1223
- },
- {
-   "Country": "Panama",
-   "Land": 74340,
-   "Water": 822
- },
- {
-   "Country": "Kuwait",
-   "Land": 17820,
-   "Water": 1171
- },
- {
-   "Country": "Croatia",
-   "Land": 55960,
-   "Water": 406
- },
- {
-   "Country": "Moldova",
-   "Land": 32850,
-   "Water": 706
- },
- {
-   "Country": "Georgia",
-   "Land": 69490,
-   "Water": 1206
- },
- {
-   "Country": "Eritrea",
-   "Land": 101000,
-   "Water": 586
- },
- {
-   "Country": "Uruguay",
-   "Land": 175020,
-   "Water": 3021
- },
- {
-   "Country": "Bosnia and Herzegovina",
-   "Land": 51000,
-   "Water": 254
- },
- {
-   "Country": "Mongolia",
-   "Land": 1553560,
-   "Water": 414
- },
- {
-   "Country": "Armenia",
-   "Land": 28470,
-   "Water": 2649
- },
- {
-   "Country": "Jamaica",
-   "Land": 10830,
-   "Water": 1276
- },
- {
-   "Country": "Qatar",
-   "Land": 11610,
-   "Water": 1406
- },
- {
-   "Country": "Albania",
-   "Land": 27400,
-   "Water": 1173
- },
- {
-   "Country": "Puerto Rico",
-   "Land": 8870,
-   "Water": 3178
- },
- {
-   "Country": "Lithuania",
-   "Land": 62674,
-   "Water": 2665
- },
- {
-   "Country": "Namibia",
-   "Land": 823290,
-   "Water": 426
- },
- {
-   "Country": "Gambia",
-   "Land": 10120,
-   "Water": 188
- },
- {
-   "Country": "Botswana",
-   "Land": 566730,
-   "Water": 255
- },
- {
-   "Country": "Gabon",
-   "Land": 257670,
-   "Water": 274
- },
- {
-   "Country": "Lesotho",
-   "Land": 30360,
-   "Water": 59
- },
- {
-   "Country": "Macedonia",
-   "Land": 25220,
-   "Water": 731
- },
- {
-   "Country": "Slovenia",
-   "Land": 20140,
-   "Water": 1172
- },
- {
-   "Country": "Guinea Bissau",
-   "Land": 28120,
-   "Water": 399
- },
- {
-   "Country": "Latvia",
-   "Land": 62200,
-   "Water": 311
- },
- {
-   "Country": "Bahrain",
-   "Land": 760,
-   "Water": 835
- },
- {
-   "Country": "Equatorial Guinea",
-   "Land": 28050,
-   "Water": 79
- },
- {
-   "Country": "Trinidad and Tobago",
-   "Land": 5130,
-   "Water": 786
- },
- {
-   "Country": "Estonia",
-   "Land": 42390,
-   "Water": 3580
- },
- {
-   "Country": "Timor-Leste",
-   "Land": 14870,
-   "Water": 3304
- },
- {
-   "Country": "Mauritius",
-   "Land": 2030,
-   "Water": 1643
- },
- {
-   "Country": "Cyprus",
-   "Land": 9240,
-   "Water": 742
- },
- {
-   "Country": "Eswatini",
-   "Land": 17200,
-   "Water": 2839
- },
- {
-   "Country": "Djibouti",
-   "Land": 23180,
-   "Water": 73
- },
- {
-   "Country": "Fiji",
-   "Land": 18270,
-   "Water": 283
- },
- {
-   "Country": "Réunion",
-   "Land": 2500,
-   "Water": null
- },
- {
-   "Country": "Comoros",
-   "Land": 1861,
-   "Water": 52
- },
- {
-   "Country": "Guyana",
-   "Land": 196850,
-   "Water": 5283
- },
- {
-   "Country": "Bhutan",
-   "Land": 38117,
-   "Water": 1379
- },
- {
-   "Country": "Solomon Islands",
-   "Land": 27990,
-   "Water": null
- },
- {
-   "Country": "Macao",
-   "Land": 30,
-   "Water": null
- },
- {
-   "Country": "Montenegro",
-   "Land": 13450,
-   "Water": 706
- },
- {
-   "Country": "Luxembourg",
-   "Land": 2590,
-   "Water": 208
- },
- {
-   "Country": "Western Sahara",
-   "Land": 266000,
-   "Water": null
- },
- {
-   "Country": "Suriname",
-   "Land": 156000,
-   "Water": 3339
- },
- {
-   "Country": "Cabo Verde",
-   "Land": 4030,
-   "Water": 138
- },
- {
-   "Country": "Micronesia",
-   "Land": 700,
-   "Water": null
- },
- {
-   "Country": "Maldives",
-   "Land": 300,
-   "Water": 47
- },
- {
-   "Country": "Malta",
-   "Land": 320,
-   "Water": 395
- },
- {
-   "Country": "Brunei",
-   "Land": 5270,
-   "Water": null
- },
- {
-   "Country": "Guadeloupe",
-   "Land": 1690,
-   "Water": null
- },
- {
-   "Country": "Belize",
-   "Land": 22810,
-   "Water": 1119
- },
- {
-   "Country": "Bahamas",
-   "Land": 10010,
-   "Water": null
- },
- {
-   "Country": "Martinique",
-   "Land": 1060,
-   "Water": null
- },
- {
-   "Country": "Iceland",
-   "Land": 100250,
-   "Water": 2309
- },
- {
-   "Country": "Vanuatu",
-   "Land": 12190,
-   "Water": null
- },
- {
-   "Country": "French Guiana",
-   "Land": 82200,
-   "Water": null
- },
- {
-   "Country": "Barbados",
-   "Land": 430,
-   "Water": 803
- },
- {
-   "Country": "New Caledonia",
-   "Land": 18280,
-   "Water": null
- },
- {
-   "Country": "French Polynesia",
-   "Land": 3660,
-   "Water": null
- },
- {
-   "Country": "Mayotte",
-   "Land": 375,
-   "Water": null
- },
- {
-   "Country": "Sao Tome & Principe",
-   "Land": 960,
-   "Water": 551
- },
- {
-   "Country": "Samoa",
-   "Land": 2830,
-   "Water": null
- },
- {
-   "Country": "Saint Lucia",
-   "Land": 610,
-   "Water": 701
- },
- {
-   "Country": "Channel Islands",
-   "Land": 190,
-   "Water": null
- },
- {
-   "Country": "Guam",
-   "Land": 540,
-   "Water": null
- },
- {
-   "Country": "Curaçao",
-   "Land": 444,
-   "Water": null
- },
- {
-   "Country": "Kiribati",
-   "Land": 810,
-   "Water": null
- },
- {
-   "Country": "Grenada",
-   "Land": 340,
-   "Water": 355
- },
- {
-   "Country": "St. Vincent & Grenadines",
-   "Land": 390,
-   "Water": 214
- },
- {
-   "Country": "Aruba",
-   "Land": 180,
-   "Water": null
- },
- {
-   "Country": "Tonga",
-   "Land": 720,
-   "Water": null
- },
- {
-   "Country": "U.S. Virgin Islands",
-   "Land": 350,
-   "Water": null
- },
- {
-   "Country": "Seychelles",
-   "Land": 460,
-   "Water": 423
- },
- {
-   "Country": "Antigua and Barbuda",
-   "Land": 440,
-   "Water": 348
- },
- {
-   "Country": "Isle of Man",
-   "Land": 570,
-   "Water": null
- },
- {
-   "Country": "Andorra",
-   "Land": 470,
-   "Water": null
- },
- {
-   "Country": "Dominica",
-   "Land": 750,
-   "Water": 773
- },
- {
-   "Country": "Cayman Islands",
-   "Land": 240,
-   "Water": null
- },
- {
-   "Country": "Bermuda",
-   "Land": 50,
-   "Water": null
- },
- {
-   "Country": "Marshall Islands",
-   "Land": 180,
-   "Water": null
- },
- {
-   "Country": "Northern Mariana Islands",
-   "Land": 460,
-   "Water": null
- },
- {
-   "Country": "Greenland",
-   "Land": 410450,
-   "Water": null
- },
- {
-   "Country": "American Samoa",
-   "Land": 200,
-   "Water": null
- },
- {
-   "Country": "Saint Kitts & Nevis",
-   "Land": 260,
-   "Water": 857
- },
- {
-   "Country": "Faeroe Islands",
-   "Land": 1396,
-   "Water": null
- },
- {
-   "Country": "Sint Maarten",
-   "Land": 34,
-   "Water": null
- },
- {
-   "Country": "Monaco",
-   "Land": 1,
-   "Water": 389
- },
- {
-   "Country": "Turks and Caicos",
-   "Land": 950,
-   "Water": null
- },
- {
-   "Country": "Saint Martin",
-   "Land": 53,
-   "Water": null
- },
- {
-   "Country": "Liechtenstein",
-   "Land": 160,
-   "Water": null
- },
- {
-   "Country": "San Marino",
-   "Land": 60,
-   "Water": null
- },
- {
-   "Country": "Gibraltar",
-   "Land": 10,
-   "Water": null
- },
- {
-   "Country": "British Virgin Islands",
-   "Land": 150,
-   "Water": null
- },
- {
-   "Country": "Caribbean Netherlands",
-   "Land": 328,
-   "Water": null
- },
- {
-   "Country": "Palau",
-   "Land": 460,
-   "Water": null
- },
- {
-   "Country": "Cook Islands",
-   "Land": 240,
-   "Water": null
- },
- {
-   "Country": "Anguilla",
-   "Land": 90,
-   "Water": null
- },
- {
-   "Country": "Tuvalu",
-   "Land": 30,
-   "Water": null
- },
- {
-   "Country": "Wallis & Futuna",
-   "Land": 140,
-   "Water": null
- },
- {
-   "Country": "Nauru",
-   "Land": 20,
-   "Water": null
- },
- {
-   "Country": "Saint Barthelemy",
-   "Land": 21,
-   "Water": null
- },
- {
-   "Country": "Saint Helena",
-   "Land": 390,
-   "Water": null
- },
- {
-   "Country": "Saint Pierre & Miquelon",
-   "Land": 230,
-   "Water": null
- },
- {
-   "Country": "Montserrat",
-   "Land": 100,
-   "Water": null
- },
- {
-   "Country": "Falkland Islands",
-   "Land": 12170,
-   "Water": null
- },
- {
-   "Country": "Niue",
-   "Land": 260,
-   "Water": null
- },
- {
-   "Country": "Tokelau",
-   "Land": 10,
-   "Water": null
- },
- {
-   "Country": "Holy See",
-   "Land": 0,
-   "Water": null
- }
+  {
+    "Country": "China",
+    "Land": 9388211,
+    "Water": 1165
+  },
+  {
+    "Country": "India",
+    "Land": 2973190,
+    "Water": 1689
+  },
+  {
+    "Country": "United States of America",
+    "Land": 9147420,
+    "Water": 3794
+  },
+  {
+    "Country": "Indonesia",
+    "Land": 1811570,
+    "Water": 2332
+  },
+  {
+    "Country": "Pakistan",
+    "Land": 770880,
+    "Water": 2929
+  },
+  {
+    "Country": "Brazil",
+    "Land": 8358140,
+    "Water": 844
+  },
+  {
+    "Country": "Nigeria",
+    "Land": 910770,
+    "Water": 216
+  },
+  {
+    "Country": "Bangladesh",
+    "Land": 130170,
+    "Water": 681
+  },
+  {
+    "Country": "Russia",
+    "Land": 16376870,
+    "Water": 1311
+  },
+  {
+    "Country": "Mexico",
+    "Land": 1943950,
+    "Water": 1923
+  },
+  {
+    "Country": "Japan",
+    "Land": 364555,
+    "Water": 1736
+  },
+  {
+    "Country": "Ethiopia",
+    "Land": 1000000,
+    "Water": 279
+  },
+  {
+    "Country": "Philippines",
+    "Land": 298170,
+    "Water": 2250
+  },
+  {
+    "Country": "Egypt",
+    "Land": 995450,
+    "Water": 2202
+  },
+  {
+    "Country": "Vietnam",
+    "Land": 310070,
+    "Water": 2681
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "Land": 2267050,
+    "Water": 34
+  },
+  {
+    "Country": "Turkey",
+    "Land": 769630,
+    "Water": 2023
+  },
+  {
+    "Country": "Iran",
+    "Land": 1628550,
+    "Water": 3707
+  },
+  {
+    "Country": "Germany",
+    "Land": 348560,
+    "Water": 855
+  },
+  {
+    "Country": "Thailand",
+    "Land": 510890,
+    "Water": 2372
+  },
+  {
+    "Country": "United Kingdom",
+    "Land": 241930,
+    "Water": 348
+  },
+  {
+    "Country": "France",
+    "Land": 547557,
+    "Water": 1244
+  },
+  {
+    "Country": "Italy",
+    "Land": 294140,
+    "Water": 1546
+  },
+  {
+    "Country": "United Republic of Tanzania",
+    "Land": 885800,
+    "Water": 402
+  },
+  {
+    "Country": "South Africa",
+    "Land": 1213090,
+    "Water": 791
+  },
+  {
+    "Country": "Myanmar",
+    "Land": 653290,
+    "Water": 1949
+  },
+  {
+    "Country": "Kenya",
+    "Land": 569140,
+    "Water": 225
+  },
+  {
+    "Country": "South Korea",
+    "Land": 97230,
+    "Water": 1643
+  },
+  {
+    "Country": "Colombia",
+    "Land": 1109500,
+    "Water": 729
+  },
+  {
+    "Country": "Spain",
+    "Land": 498800,
+    "Water": 1924
+  },
+  {
+    "Country": "Uganda",
+    "Land": 199810,
+    "Water": 57
+  },
+  {
+    "Country": "Argentina",
+    "Land": 2736690,
+    "Water": 2505
+  },
+  {
+    "Country": "Algeria",
+    "Land": 2381740,
+    "Water": 674
+  },
+  {
+    "Country": "Sudan",
+    "Land": 1765048,
+    "Water": 2087
+  },
+  {
+    "Country": "Ukraine",
+    "Land": 579320,
+    "Water": 604
+  },
+  {
+    "Country": "Iraq",
+    "Land": 434320,
+    "Water": 2885
+  },
+  {
+    "Country": "Afghanistan",
+    "Land": 652860,
+    "Water": 2674
+  },
+  {
+    "Country": "Poland",
+    "Land": 306230,
+    "Water": 763
+  },
+  {
+    "Country": "Canada",
+    "Land": 9093510,
+    "Water": 2717
+  },
+  {
+    "Country": "Morocco",
+    "Land": 446300,
+    "Water": 883
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Land": 2149690,
+    "Water": 1933
+  },
+  {
+    "Country": "Uzbekistan",
+    "Land": 425400,
+    "Water": 4754
+  },
+  {
+    "Country": "Peru",
+    "Land": 1280000,
+    "Water": 1310
+  },
+  {
+    "Country": "Angola",
+    "Land": 1246700,
+    "Water": 100
+  },
+  {
+    "Country": "Malaysia",
+    "Land": 328550,
+    "Water": 1194
+  },
+  {
+    "Country": "Mozambique",
+    "Land": 786380,
+    "Water": 149
+  },
+  {
+    "Country": "Ghana",
+    "Land": 227540,
+    "Water": 140
+  },
+  {
+    "Country": "Yemen",
+    "Land": 527970,
+    "Water": 486
+  },
+  {
+    "Country": "Nepal",
+    "Land": 143350,
+    "Water": 998
+  },
+  {
+    "Country": "Venezuela",
+    "Land": 882050,
+    "Water": 2275
+  },
+  {
+    "Country": "Madagascar",
+    "Land": 581795,
+    "Water": 1968
+  },
+  {
+    "Country": "Cameroon",
+    "Land": 472710,
+    "Water": 171
+  },
+  {
+    "Country": "Ivory Coast",
+    "Land": 318000,
+    "Water": 141
+  },
+  {
+    "Country": "North Korea",
+    "Land": 120410,
+    "Water": 992
+  },
+  {
+    "Country": "Australia",
+    "Land": 7682300,
+    "Water": 1821
+  },
+  {
+    "Country": "Niger",
+    "Land": 1266700,
+    "Water": 230
+  },
+  {
+    "Country": "Taiwan",
+    "Land": 35410,
+    "Water": null
+  },
+  {
+    "Country": "Sri Lanka",
+    "Land": 62710,
+    "Water": 1815
+  },
+  {
+    "Country": "Burkina Faso",
+    "Land": 273600,
+    "Water": 167
+  },
+  {
+    "Country": "Mali",
+    "Land": 1220190,
+    "Water": 1076
+  },
+  {
+    "Country": "Romania",
+    "Land": 230170,
+    "Water": 882
+  },
+  {
+    "Country": "Malawi",
+    "Land": 94280,
+    "Water": 294
+  },
+  {
+    "Country": "Chile",
+    "Land": 743532,
+    "Water": 5935
+  },
+  {
+    "Country": "Kazakhstan",
+    "Land": 2699700,
+    "Water": 3499
+  },
+  {
+    "Country": "Zambia",
+    "Land": 743390,
+    "Water": 393
+  },
+  {
+    "Country": "Guatemala",
+    "Land": 107160,
+    "Water": 680
+  },
+  {
+    "Country": "Ecuador",
+    "Land": 248360,
+    "Water": 1965
+  },
+  {
+    "Country": "Syria",
+    "Land": 183630,
+    "Water": 2501
+  },
+  {
+    "Country": "Netherlands",
+    "Land": 33720,
+    "Water": 1447
+  },
+  {
+    "Country": "Senegal",
+    "Land": 192530,
+    "Water": 592
+  },
+  {
+    "Country": "Cambodia",
+    "Land": 176520,
+    "Water": 444
+  },
+  {
+    "Country": "Chad",
+    "Land": 1259200,
+    "Water": 239
+  },
+  {
+    "Country": "Somalia",
+    "Land": 627340,
+    "Water": 921
+  },
+  {
+    "Country": "Zimbabwe",
+    "Land": 386850,
+    "Water": 798
+  },
+  {
+    "Country": "Guinea",
+    "Land": 245720,
+    "Water": 180
+  },
+  {
+    "Country": "Rwanda",
+    "Land": 24670,
+    "Water": 52
+  },
+  {
+    "Country": "Benin",
+    "Land": 112760,
+    "Water": 50
+  },
+  {
+    "Country": "Burundi",
+    "Land": 25680,
+    "Water": 124
+  },
+  {
+    "Country": "Tunisia",
+    "Land": 155360,
+    "Water": 1168
+  },
+  {
+    "Country": "Bolivia",
+    "Land": 1083300,
+    "Water": 579
+  },
+  {
+    "Country": "Belgium",
+    "Land": 30280,
+    "Water": 1515
+  },
+  {
+    "Country": "Haiti",
+    "Land": 27560,
+    "Water": 405
+  },
+  {
+    "Country": "Cuba",
+    "Land": 106440,
+    "Water": 1690
+  },
+  {
+    "Country": "South Sudan",
+    "Land": 610952,
+    "Water": 183
+  },
+  {
+    "Country": "Dominican Republic",
+    "Land": 48320,
+    "Water": 2022
+  },
+  {
+    "Country": "Czech Republic",
+    "Land": 77240,
+    "Water": 422
+  },
+  {
+    "Country": "Greece",
+    "Land": 128900,
+    "Water": 2373
+  },
+  {
+    "Country": "Jordan",
+    "Land": 88780,
+    "Water": 299
+  },
+  {
+    "Country": "Portugal",
+    "Land": 91590,
+    "Water": 2371
+  },
+  {
+    "Country": "Azerbaijan",
+    "Land": 82658,
+    "Water": 3556
+  },
+  {
+    "Country": "Sweden",
+    "Land": 410340,
+    "Water": 785
+  },
+  {
+    "Country": "Honduras",
+    "Land": 111890,
+    "Water": 620
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Land": 83600,
+    "Water": 2387
+  },
+  {
+    "Country": "Hungary",
+    "Land": 90530,
+    "Water": 1403
+  },
+  {
+    "Country": "Tajikistan",
+    "Land": 139960,
+    "Water": 4547
+  },
+  {
+    "Country": "Belarus",
+    "Land": 202910,
+    "Water": 421
+  },
+  {
+    "Country": "Austria",
+    "Land": 82409,
+    "Water": 1138
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Land": 452860,
+    "Water": 165
+  },
+  {
+    "Country": "Republic of Serbia",
+    "Land": 87460,
+    "Water": 1457
+  },
+  {
+    "Country": "Israel",
+    "Land": 21640,
+    "Water": 837
+  },
+  {
+    "Country": "Switzerland",
+    "Land": 39516,
+    "Water": 686
+  },
+  {
+    "Country": "Togo",
+    "Land": 54390,
+    "Water": 89
+  },
+  {
+    "Country": "Sierra Leone",
+    "Land": 72180,
+    "Water": 103
+  },
+  {
+    "Country": "Hong Kong",
+    "Land": 1050,
+    "Water": null
+  },
+  {
+    "Country": "Laos",
+    "Land": 230800,
+    "Water": 1664
+  },
+  {
+    "Country": "Paraguay",
+    "Land": 397300,
+    "Water": 1030
+  },
+  {
+    "Country": "Bulgaria",
+    "Land": 108560,
+    "Water": 2142
+  },
+  {
+    "Country": "Libya",
+    "Land": 1759540,
+    "Water": 2541
+  },
+  {
+    "Country": "Lebanon",
+    "Land": 10230,
+    "Water": 772
+  },
+  {
+    "Country": "Nicaragua",
+    "Land": 120340,
+    "Water": 717
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Land": 191800,
+    "Water": 4281
+  },
+  {
+    "Country": "El Salvador",
+    "Land": 20720,
+    "Water": 959
+  },
+  {
+    "Country": "Turkmenistan",
+    "Land": 469930,
+    "Water": 16281
+  },
+  {
+    "Country": "Singapore",
+    "Land": 700,
+    "Water": null
+  },
+  {
+    "Country": "Denmark",
+    "Land": 42430,
+    "Water": 318
+  },
+  {
+    "Country": "Finland",
+    "Land": 303890,
+    "Water": 3407
+  },
+  {
+    "Country": "Republic of the Congo",
+    "Land": 341500,
+    "Water": 38
+  },
+  {
+    "Country": "Slovakia",
+    "Land": 48088,
+    "Water": 269
+  },
+  {
+    "Country": "Norway",
+    "Land": 365268,
+    "Water": 1757
+  },
+  {
+    "Country": "Oman",
+    "Land": 309500,
+    "Water": 1517
+  },
+  {
+    "Country": "State of Palestine",
+    "Land": 6020,
+    "Water": 215
+  },
+  {
+    "Country": "Costa Rica",
+    "Land": 51060,
+    "Water": 1805
+  },
+  {
+    "Country": "Liberia",
+    "Land": 96320,
+    "Water": 126
+  },
+  {
+    "Country": "Ireland",
+    "Land": 68890,
+    "Water": 461
+  },
+  {
+    "Country": "Central African Republic",
+    "Land": 622980,
+    "Water": 49
+  },
+  {
+    "Country": "New Zealand",
+    "Land": 263310,
+    "Water": 3261
+  },
+  {
+    "Country": "Mauritania",
+    "Land": 1030700,
+    "Water": 1223
+  },
+  {
+    "Country": "Panama",
+    "Land": 74340,
+    "Water": 822
+  },
+  {
+    "Country": "Kuwait",
+    "Land": 17820,
+    "Water": 1171
+  },
+  {
+    "Country": "Croatia",
+    "Land": 55960,
+    "Water": 406
+  },
+  {
+    "Country": "Moldova",
+    "Land": 32850,
+    "Water": 706
+  },
+  {
+    "Country": "Georgia",
+    "Land": 69490,
+    "Water": 1206
+  },
+  {
+    "Country": "Eritrea",
+    "Land": 101000,
+    "Water": 586
+  },
+  {
+    "Country": "Uruguay",
+    "Land": 175020,
+    "Water": 3021
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Land": 51000,
+    "Water": 254
+  },
+  {
+    "Country": "Mongolia",
+    "Land": 1553560,
+    "Water": 414
+  },
+  {
+    "Country": "Armenia",
+    "Land": 28470,
+    "Water": 2649
+  },
+  {
+    "Country": "Jamaica",
+    "Land": 10830,
+    "Water": 1276
+  },
+  {
+    "Country": "Qatar",
+    "Land": 11610,
+    "Water": 1406
+  },
+  {
+    "Country": "Albania",
+    "Land": 27400,
+    "Water": 1173
+  },
+  {
+    "Country": "Puerto Rico",
+    "Land": 8870,
+    "Water": 3178
+  },
+  {
+    "Country": "Lithuania",
+    "Land": 62674,
+    "Water": 2665
+  },
+  {
+    "Country": "Namibia",
+    "Land": 823290,
+    "Water": 426
+  },
+  {
+    "Country": "Gambia",
+    "Land": 10120,
+    "Water": 188
+  },
+  {
+    "Country": "Botswana",
+    "Land": 566730,
+    "Water": 255
+  },
+  {
+    "Country": "Gabon",
+    "Land": 257670,
+    "Water": 274
+  },
+  {
+    "Country": "Lesotho",
+    "Land": 30360,
+    "Water": 59
+  },
+  {
+    "Country": "Macedonia",
+    "Land": 25220,
+    "Water": 731
+  },
+  {
+    "Country": "Slovenia",
+    "Land": 20140,
+    "Water": 1172
+  },
+  {
+    "Country": "Guinea Bissau",
+    "Land": 28120,
+    "Water": 399
+  },
+  {
+    "Country": "Latvia",
+    "Land": 62200,
+    "Water": 311
+  },
+  {
+    "Country": "Bahrain",
+    "Land": 760,
+    "Water": 835
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Land": 28050,
+    "Water": 79
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Land": 5130,
+    "Water": 786
+  },
+  {
+    "Country": "Estonia",
+    "Land": 42390,
+    "Water": 3580
+  },
+  {
+    "Country": "Timor-Leste",
+    "Land": 14870,
+    "Water": 3304
+  },
+  {
+    "Country": "Mauritius",
+    "Land": 2030,
+    "Water": 1643
+  },
+  {
+    "Country": "Cyprus",
+    "Land": 9240,
+    "Water": 742
+  },
+  {
+    "Country": "Eswatini",
+    "Land": 17200,
+    "Water": 2839
+  },
+  {
+    "Country": "Djibouti",
+    "Land": 23180,
+    "Water": 73
+  },
+  {
+    "Country": "Fiji",
+    "Land": 18270,
+    "Water": 283
+  },
+  {
+    "Country": "Réunion",
+    "Land": 2500,
+    "Water": null
+  },
+  {
+    "Country": "Comoros",
+    "Land": 1861,
+    "Water": 52
+  },
+  {
+    "Country": "Guyana",
+    "Land": 196850,
+    "Water": 5283
+  },
+  {
+    "Country": "Bhutan",
+    "Land": 38117,
+    "Water": 1379
+  },
+  {
+    "Country": "Solomon Islands",
+    "Land": 27990,
+    "Water": null
+  },
+  {
+    "Country": "Macao",
+    "Land": 30,
+    "Water": null
+  },
+  {
+    "Country": "Montenegro",
+    "Land": 13450,
+    "Water": 706
+  },
+  {
+    "Country": "Luxembourg",
+    "Land": 2590,
+    "Water": 208
+  },
+  {
+    "Country": "Western Sahara",
+    "Land": 266000,
+    "Water": null
+  },
+  {
+    "Country": "Suriname",
+    "Land": 156000,
+    "Water": 3339
+  },
+  {
+    "Country": "Cabo Verde",
+    "Land": 4030,
+    "Water": 138
+  },
+  {
+    "Country": "Micronesia",
+    "Land": 700,
+    "Water": null
+  },
+  {
+    "Country": "Maldives",
+    "Land": 300,
+    "Water": 47
+  },
+  {
+    "Country": "Malta",
+    "Land": 320,
+    "Water": 395
+  },
+  {
+    "Country": "Brunei",
+    "Land": 5270,
+    "Water": null
+  },
+  {
+    "Country": "Guadeloupe",
+    "Land": 1690,
+    "Water": null
+  },
+  {
+    "Country": "Belize",
+    "Land": 22810,
+    "Water": 1119
+  },
+  {
+    "Country": "Bahamas",
+    "Land": 10010,
+    "Water": null
+  },
+  {
+    "Country": "Martinique",
+    "Land": 1060,
+    "Water": null
+  },
+  {
+    "Country": "Iceland",
+    "Land": 100250,
+    "Water": 2309
+  },
+  {
+    "Country": "Vanuatu",
+    "Land": 12190,
+    "Water": null
+  },
+  {
+    "Country": "French Guiana",
+    "Land": 82200,
+    "Water": null
+  },
+  {
+    "Country": "Barbados",
+    "Land": 430,
+    "Water": 803
+  },
+  {
+    "Country": "New Caledonia",
+    "Land": 18280,
+    "Water": null
+  },
+  {
+    "Country": "French Polynesia",
+    "Land": 3660,
+    "Water": null
+  },
+  {
+    "Country": "Mayotte",
+    "Land": 375,
+    "Water": null
+  },
+  {
+    "Country": "Sao Tome & Principe",
+    "Land": 960,
+    "Water": 551
+  },
+  {
+    "Country": "Samoa",
+    "Land": 2830,
+    "Water": null
+  },
+  {
+    "Country": "Saint Lucia",
+    "Land": 610,
+    "Water": 701
+  },
+  {
+    "Country": "Channel Islands",
+    "Land": 190,
+    "Water": null
+  },
+  {
+    "Country": "Guam",
+    "Land": 540,
+    "Water": null
+  },
+  {
+    "Country": "Curaçao",
+    "Land": 444,
+    "Water": null
+  },
+  {
+    "Country": "Kiribati",
+    "Land": 810,
+    "Water": null
+  },
+  {
+    "Country": "Grenada",
+    "Land": 340,
+    "Water": 355
+  },
+  {
+    "Country": "St. Vincent & Grenadines",
+    "Land": 390,
+    "Water": 214
+  },
+  {
+    "Country": "Aruba",
+    "Land": 180,
+    "Water": null
+  },
+  {
+    "Country": "Tonga",
+    "Land": 720,
+    "Water": null
+  },
+  {
+    "Country": "U.S. Virgin Islands",
+    "Land": 350,
+    "Water": null
+  },
+  {
+    "Country": "Seychelles",
+    "Land": 460,
+    "Water": 423
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Land": 440,
+    "Water": 348
+  },
+  {
+    "Country": "Isle of Man",
+    "Land": 570,
+    "Water": null
+  },
+  {
+    "Country": "Andorra",
+    "Land": 470,
+    "Water": null
+  },
+  {
+    "Country": "Dominica",
+    "Land": 750,
+    "Water": 773
+  },
+  {
+    "Country": "Cayman Islands",
+    "Land": 240,
+    "Water": null
+  },
+  {
+    "Country": "Bermuda",
+    "Land": 50,
+    "Water": null
+  },
+  {
+    "Country": "Marshall Islands",
+    "Land": 180,
+    "Water": null
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "Land": 460,
+    "Water": null
+  },
+  {
+    "Country": "Greenland",
+    "Land": 410450,
+    "Water": null
+  },
+  {
+    "Country": "American Samoa",
+    "Land": 200,
+    "Water": null
+  },
+  {
+    "Country": "Saint Kitts & Nevis",
+    "Land": 260,
+    "Water": 857
+  },
+  {
+    "Country": "Faeroe Islands",
+    "Land": 1396,
+    "Water": null
+  },
+  {
+    "Country": "Sint Maarten",
+    "Land": 34,
+    "Water": null
+  },
+  {
+    "Country": "Monaco",
+    "Land": 1,
+    "Water": 389
+  },
+  {
+    "Country": "Turks and Caicos",
+    "Land": 950,
+    "Water": null
+  },
+  {
+    "Country": "Saint Martin",
+    "Land": 53,
+    "Water": null
+  },
+  {
+    "Country": "Liechtenstein",
+    "Land": 160,
+    "Water": null
+  },
+  {
+    "Country": "San Marino",
+    "Land": 60,
+    "Water": null
+  },
+  {
+    "Country": "Gibraltar",
+    "Land": 10,
+    "Water": null
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Land": 150,
+    "Water": null
+  },
+  {
+    "Country": "Caribbean Netherlands",
+    "Land": 328,
+    "Water": null
+  },
+  {
+    "Country": "Palau",
+    "Land": 460,
+    "Water": null
+  },
+  {
+    "Country": "Cook Islands",
+    "Land": 240,
+    "Water": null
+  },
+  {
+    "Country": "Anguilla",
+    "Land": 90,
+    "Water": null
+  },
+  {
+    "Country": "Tuvalu",
+    "Land": 30,
+    "Water": null
+  },
+  {
+    "Country": "Wallis & Futuna",
+    "Land": 140,
+    "Water": null
+  },
+  {
+    "Country": "Nauru",
+    "Land": 20,
+    "Water": null
+  },
+  {
+    "Country": "Saint Barthelemy",
+    "Land": 21,
+    "Water": null
+  },
+  {
+    "Country": "Saint Helena",
+    "Land": 390,
+    "Water": null
+  },
+  {
+    "Country": "Saint Pierre & Miquelon",
+    "Land": 230,
+    "Water": null
+  },
+  {
+    "Country": "Montserrat",
+    "Land": 100,
+    "Water": null
+  },
+  {
+    "Country": "Falkland Islands",
+    "Land": 12170,
+    "Water": null
+  },
+  {
+    "Country": "Niue",
+    "Land": 260,
+    "Water": null
+  },
+  {
+    "Country": "Tokelau",
+    "Land": 10,
+    "Water": null
+  },
+  {
+    "Country": "Holy See",
+    "Land": 0,
+    "Water": null
+  }
 ]
