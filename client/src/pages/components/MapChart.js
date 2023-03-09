@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { scaleQuantile } from "d3-scale";
+import { populationScale, queryByPopulation, populationChangeScale, queryByPopulationChange, populationTooltipInfo } from './populationMap';
+import { tempChangeScale, emissionsTempTooltipInfo } from './emissions-temp-heatmap';
 import {
   ComposableMap,
   Geographies,
@@ -11,46 +12,33 @@ import {
 const geoUrl = 'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json';
 
 const projConfig = {
-  rotate: [-10, 0, 0],                                                                  // standard rotation, without -10 Russia is split and wraps around to the left
-  scale: 100                                                                            // 147 is about full screen size
+  rotate: [-10, 0, 0],             // standard rotation, without -10 Russia is split and wraps around to the left
+  scale: 100                       // 147 is about full screen size
 };
 
 const mapStyle = {
+  // need outline: "none" for all 3, otherwise we get a weird box around countries
   default: {
-    //fill: "#D6D6DA",                                                                  //comment out default fill so that geographies can be different colors
+    // default fill overrides geography fill, will not allow different colors
     outline: "none"
   },
   hover: {
     fill: "#F53",
     outline: "none"
   },
-  pressed: {                                                                            // always leave pressed in even if we make it the same as hover, otherwise it creates weird box around countries when pressed by default
+  pressed: {
     fill: "#E42",
     outline: "none"
   }
 };
 
-const MapChart = ({ setToolTipContent }) => {
+const MapChart = ({ setToolTipContent, queryState, queryData }) => {
   const axios = require('axios');
+  var colorScale = populationScale(queryData);
 
-  const [tempData, setData] = useState([]);
-
-  useEffect(() => {
-    const getCountries = async () => {
-      const { data } = await axios.get("http://35.92.119.149:8080/COUNTRY");
-      setData(data);
-    }
-
-    getCountries().catch(console.error);
-  }, []);
-
-  const colorScale = scaleQuantile()
-  .domain([0, 2000000000])
-  .range(["#ffedea", "#ff5233"]);
-
-  const onMouseEnter = (geo, current = { value: 'NA' }) => {
+  const onMouseEnter = (geo, current) => {
     return () => {
-      setToolTipContent(`${geo.properties.name}` + `\n` + `Population: ${current.population}`);
+      setToolTipContent(`${geo.properties.name}` + `\n` + queryState.tooltipInfo(current));
     };
   };
 
@@ -66,7 +54,7 @@ const MapChart = ({ setToolTipContent }) => {
             <Geographies geography={geoUrl} data-tooltip-id='my-tooltip'>
               {({ geographies }) =>
                 geographies.map((geo) => {
-                  const current = tempData.find(s => s.countryName == geo.properties.name);
+                  const current = queryData.find(s => s.countryName == geo.properties.name);
                   return (
                     <Geography 
                       key={geo.rsmKey} 
@@ -76,7 +64,7 @@ const MapChart = ({ setToolTipContent }) => {
                       style={mapStyle}
                       stroke={"#FFFFFF"}                                                  // border color
                       strokeWidth={0.15}                                                  // border width (leave very low)
-                      fill={current ? colorScale(current.population) : "yellow"}                                // if current is not null go with first value, purple placeholder
+                      fill={(current) ? queryState.colorScale(queryState.queryBy(current)) : "#D4D4D4"}            // if current is not null go with first value, purple placeholder
                     />
                   );
                 })
