@@ -1,16 +1,18 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Tooltip as ReactToolTip } from 'react-tooltip';
-import 'react-tooltip/dist/react-tooltip.css'
+import 'react-tooltip/dist/react-tooltip.css';
 
 import MapChart from './components/MapChart.js';
 
 export default function Home() {
-  const [content, setContent] = useState("");
+  const [content, setContent] = useState('');
   return (
     <div>
-      <MapChart setToolTipContent={setContent}/>
-      <ReactToolTip id='my-tooltip' float={true} >{content}</ReactToolTip>
+      <MapChart setToolTipContent={setContent} />
+      <ReactToolTip id="my-tooltip" float={true}>
+        {content}
+      </ReactToolTip>
     </div>
   );
 }
