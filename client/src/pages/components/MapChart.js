@@ -1,7 +1,14 @@
 import React from 'react';
-import { ComposableMap, Geographies, Geography, Sphere, Graticule } from 'react-simple-maps';
+import {
+  ComposableMap,
+  Geographies,
+  Geography,
+  Sphere,
+  Graticule
+} from 'react-simple-maps';
 
-const geoUrl = 'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json';
+const geoUrl =
+  'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json';
 
 const projConfig = {
   rotate: [-10, 0, 0], // standard rotation, without -10 Russia is split and wraps around to the left
@@ -38,8 +45,10 @@ const MapChart = ({ setToolTipContent }) => {
   return (
     <div>
       <ComposableMap projectionConfig={projConfig}>
-        <Sphere stroke="#E4E5E6" strokeWidth={0.5} /> {/* only sets oval outline around map, does not change shape */}
-        <Graticule stroke="#E4E5E6" strokeWidth={0.5} /> {/* latitude and longitude lines */}
+        {/* only sets oval outline around map, does not change shape */}
+        <Sphere stroke="#E4E5E6" strokeWidth={0.5} />{' '}
+        {/* latitude and longitude lines */}
+        <Graticule stroke="#E4E5E6" strokeWidth={0.5} />{' '}
         <Geographies geography={geoUrl} data-tooltip-id="my-tooltip">
           {({ geographies }) =>
             geographies.map((geo) => (
