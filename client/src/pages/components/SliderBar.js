@@ -3,8 +3,8 @@ import React, { useState } from 'react';
 import Slider from '@mui/material/Slider';
 
 const SliderBar = ({ min, max, value, setValue }) => {
-  const handleChange = () => {
-    setValue(value);
+  const handleChange = (event, newValue) => {
+    setValue(newValue);
   };
 
   return (
