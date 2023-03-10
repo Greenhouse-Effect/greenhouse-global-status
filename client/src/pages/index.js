@@ -6,6 +6,12 @@ import 'react-tooltip/dist/react-tooltip.css';
 
 import MapChart from './components/MapChart.js';
 import QueryInput from './components/QueryInput/index.js';
+import {
+  handleAxios,
+  translateEntityToApi,
+  translateAttributeToApi,
+  translateOperatorToApi
+} from './utils/index.js';
 
 export default function Home() {
   const [content, setContent] = useState('');
@@ -16,20 +22,26 @@ export default function Home() {
   const [operatorInput, setOperatorInput] = useState('');
   const [countryName, setCountryName] = useState('');
   const [year, setYear] = useState('');
+  const [sliderInput, setSliderInput] = useState();
 
-  const [axiosData, setAxiosData] = useState([]);
+  const [axiosData, setAxiosData] = useState();
 
-  const handleAxios = async () => {
-    switch (queryTypeInput) {
-      case 'Select One': {
-        if (entityInput === 'Country') {
-          const { data } = await axios.get(
-            `http://35.92.119.149:8080/country/name/${countryName}`
-          );
-          setAxiosData(data);
-        }
-      }
-    }
+  const handleSubmit = async () => {
+    const translatedEntity = translateEntityToApi(entityInput);
+    const translatedYear = Number(year);
+    const translatedAttribute = translateAttributeToApi(attributeInput);
+    const translatedOperator = translateOperatorToApi(operatorInput);
+    const data = await handleAxios(
+      translatedEntity,
+      queryTypeInput,
+      countryName,
+      translatedYear,
+      translatedAttribute,
+      translatedOperator,
+      sliderInput
+    );
+    console.log(data);
+    setAxiosData(data);
   };
 
   return (
@@ -47,11 +59,13 @@ export default function Home() {
         setCountryName={setCountryName}
         year={year}
         setYear={setYear}
+        sliderInput={sliderInput}
+        setSliderInput={setSliderInput}
       />
-      <Button variant="outlined" onClick={handleAxios}>
+      <Button variant="outlined" onClick={handleSubmit}>
         Submit Query
       </Button>
-      <MapChart setToolTipContent={setContent} />
+      <MapChart setToolTipContent={setContent} axiosData={axiosData} />
       <ReactToolTip id="my-tooltip" float={true}>
         {content}
       </ReactToolTip>
