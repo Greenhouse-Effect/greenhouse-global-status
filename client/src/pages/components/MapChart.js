@@ -1,11 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {
-  populationScale,
-  queryByPopulation,
-  populationChangeScale,
-  queryByPopulationChange,
-  populationTooltipInfo
-} from './populationMap';
+
 import {
   ComposableMap,
   Geographies,

@@ -1,4 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import {
+  populationScale,
+  queryByPopulation,
+  populationChangeScale,
+  queryByPopulationChange,
+  populationTooltipInfo
+} from './components/populationMap';
 import axios from 'axios';
 import { Tooltip as ReactToolTip } from 'react-tooltip';
 import Button from '@mui/material/Button';
