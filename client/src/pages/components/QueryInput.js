@@ -1,8 +1,7 @@
 import React from 'react';
 
-import InputBox from '../InputBox';
-import { countries } from '@/labels/countrylist';
-import SliderBar from '../SliderBar';
+import InputBox from './InputBox';
+import SliderBar from './SliderBar';
 import {
   getEntityAttributes,
   getYears,
@@ -10,8 +9,10 @@ import {
   operatorTypes,
   queryTypes,
   getSliderInfo
-} from './helperFunctions.js';
+} from '../utils/queryInputUtil.js';
+import { countries } from '@/labels/countrylist';
 
+// conditionally render input boxes based on the type of query a user wants to see data for
 const QueryBoxes = ({
   entityInput,
   setEntityInput,
