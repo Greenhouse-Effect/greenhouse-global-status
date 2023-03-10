@@ -1,7 +1,7 @@
 export const getEntityAttributes = (entity) => {
   switch (entity) {
     case 'Country': {
-      return [{ label: 'Population' }, { label: 'Population Change' }];
+      return [{ label: 'Population' }, { label: 'Population Yearly Change' }];
     }
     case 'Atmopsheric Data': {
       return [{ label: 'CO2 Emissions' }, { label: 'Temperature Change' }];
@@ -51,7 +51,7 @@ export const getSliderInfo = (attribute) => {
         max: 1439323776
       };
     }
-    case 'Population Change': {
+    case 'Population Yearly Change': {
       return {
         min: -2.47,
         max: 3.84
