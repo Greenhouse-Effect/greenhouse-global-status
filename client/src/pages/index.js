@@ -1,37 +1,41 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import axios from 'axios';
 import { Tooltip as ReactToolTip } from 'react-tooltip';
 import Button from '@mui/material/Button';
 import 'react-tooltip/dist/react-tooltip.css';
 
 import MapChart from './components/MapChart.js';
-import QueryInput from './components/QueryInput/index.js';
+import QueryInput from './components/QueryInput.js';
 import {
   handleAxios,
   translateEntityToApi,
   translateAttributeToApi,
   translateOperatorToApi
-} from './utils/index.js';
+} from './utils/apiUtil.js';
 
 export default function Home() {
-  const [content, setContent] = useState('');
-
+  // query input states
   const [entityInput, setEntityInput] = useState('');
   const [queryTypeInput, setQueryTypeInput] = useState('');
   const [attributeInput, setAttributeInput] = useState('');
   const [operatorInput, setOperatorInput] = useState('');
   const [countryName, setCountryName] = useState('');
-  const [year, setYear] = useState('');
-  const [sliderInput, setSliderInput] = useState();
+  const [year, setYear] = useState(''); // setting state to type string because of input labels
+  const [sliderInput, setSliderInput] = useState(0);
 
+  // api data state
   const [axiosData, setAxiosData] = useState();
 
+  // map tooltip state
+  const [content, setContent] = useState('');
+
+  // takes values from input boxes and hits api accordingly
   const handleSubmit = async () => {
     const translatedEntity = translateEntityToApi(entityInput);
     const translatedYear = Number(year);
     const translatedAttribute = translateAttributeToApi(attributeInput);
     const translatedOperator = translateOperatorToApi(operatorInput);
-    const data = await handleAxios(
+    const url = await handleAxios(
       translatedEntity,
       queryTypeInput,
       countryName,
@@ -40,7 +44,7 @@ export default function Home() {
       translatedOperator,
       sliderInput
     );
-    console.log(data);
+    const { data } = await axios.get(url);
     setAxiosData(data);
   };
 
@@ -72,23 +76,3 @@ export default function Home() {
     </div>
   );
 }
-
-/*
-export default function Home() {
-  const [mockData, setMockData] = useState([]);
-
-  useEffect(() => {
-
-    const getCountries = async () => {
-      const { data } = await axios.get("http://localhost:3002/country");
-      setMockData(data);
-    }
-
-    getCountries().catch(console.error);
-  }, []);
-
-    return (
-      <div className="text-3x1 text-blue-600">hello world!</div>
-    );=
-}
-*/
