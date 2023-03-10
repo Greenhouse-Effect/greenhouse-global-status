@@ -2,11 +2,9 @@ import React, { useState } from 'react';
 
 import Slider from '@mui/material/Slider';
 
-const SliderBar = ({ min, max }) => {
-  const [value, setValue] = useState(max / 2);
-
-  const handleChange = (event, newValue) => {
-    setValue(newValue);
+const SliderBar = ({ min, max, value, setValue }) => {
+  const handleChange = () => {
+    setValue(value);
   };
 
   return (
@@ -17,6 +15,9 @@ const SliderBar = ({ min, max }) => {
         valueLabelDisplay="auto"
         min={min}
         max={max}
+        value={value}
+        onChange={handleChange}
+        track={false}
       />
     </>
   );
