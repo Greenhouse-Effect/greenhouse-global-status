@@ -1,5 +1,3 @@
-import axios from 'axios';
-
 export const translateEntityToApi = (entity) => {
   switch (entity) {
     case 'Country': {
