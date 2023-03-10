@@ -24,7 +24,9 @@ const QueryBoxes = ({
   countryName,
   setCountryName,
   year,
-  setYear
+  setYear,
+  sliderInput,
+  setSliderInput
 }) => {
   return (
     <div className="flex flex-row m-2">
@@ -84,6 +86,8 @@ const QueryBoxes = ({
             <SliderBar
               min={getSliderInfo(attributeInput).min}
               max={getSliderInfo(attributeInput).max}
+              value={sliderInput}
+              setValue={setSliderInput}
             />
           )}
         </>
