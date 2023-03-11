@@ -91,6 +91,7 @@ export const translateAttributeToApi = (attribute) => {
     }
   }
 };
+
 export const translateOperatorToApi = (operator) => {
   switch (operator) {
     case 'Greater than': {
