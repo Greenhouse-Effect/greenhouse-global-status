@@ -7,23 +7,17 @@ import {
   getYears,
   entities,
   operatorTypes,
-  queryTypes,
   getSliderInfo
 } from '../utils/queryInputUtil.js';
-import { countries } from '@/labels/countrylist';
 
 // conditionally render input boxes based on the type of query a user wants to see data for
 const QueryBoxes = ({
   entityInput,
   setEntityInput,
-  queryTypeInput,
-  setQueryTypeInput,
   attributeInput,
   setAttributeInput,
   operatorInput,
   setOperatorInput,
-  countryName,
-  setCountryName,
   year,
   setYear,
   sliderInput,
@@ -37,31 +31,7 @@ const QueryBoxes = ({
         value={entityInput}
         setValue={setEntityInput}
       />
-      <InputBox
-        title={'Query Type'}
-        data={queryTypes}
-        value={queryTypeInput}
-        setValue={setQueryTypeInput}
-      />
-      {queryTypeInput === 'Select One' && entityInput && (
-        <>
-          <InputBox
-            title={'Country Name'}
-            data={countries}
-            value={countryName}
-            setValue={setCountryName}
-          />
-          {entityInput != 'Country' && (
-            <InputBox
-              title={'Year'}
-              data={getYears(entityInput)}
-              value={year}
-              setValue={setYear}
-            />
-          )}
-        </>
-      )}
-      {queryTypeInput === 'Compare' && entityInput && (
+      {entityInput && (
         <>
           <InputBox
             title={'Attribute'}
