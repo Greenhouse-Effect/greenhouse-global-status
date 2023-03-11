@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 
 import InputBox from './InputBox';
 import SliderBar from './SliderBar';
@@ -24,46 +24,53 @@ const QueryBoxes = ({
   setSliderInput
 }) => {
   return (
-    <div className="flex flex-row m-2">
-      <InputBox
-        title={'Entity'}
-        data={entities}
-        value={entityInput}
-        setValue={setEntityInput}
-      />
-      {entityInput && (
-        <>
+    <>
+      <div className="flex flex-col mt-10  items-center">
+        <div className="flex flex-row">
           <InputBox
-            title={'Attribute'}
-            data={getEntityAttributes(entityInput)}
-            value={attributeInput}
-            setValue={setAttributeInput}
+            title={'Entity'}
+            data={entities}
+            value={entityInput}
+            setValue={setEntityInput}
           />
-          {entityInput != 'Country' && (
-            <InputBox
-              title={'Year'}
-              data={getYears(entityInput)}
-              value={year}
-              setValue={setYear}
-            />
+          {entityInput && (
+            <>
+              <InputBox
+                title={'Attribute'}
+                data={getEntityAttributes(entityInput)}
+                value={attributeInput}
+                setValue={setAttributeInput}
+              />
+              {entityInput != 'Country' && (
+                <InputBox
+                  title={'Year'}
+                  data={getYears(entityInput)}
+                  value={year}
+                  setValue={setYear}
+                />
+              )}
+              <InputBox
+                title={'Operator'}
+                data={operatorTypes}
+                value={operatorInput}
+                setValue={setOperatorInput}
+              />
+            </>
           )}
-          <InputBox
-            title={'Operator'}
-            data={operatorTypes}
-            value={operatorInput}
-            setValue={setOperatorInput}
+        </div>
+        <div
+          style={{ visibility: attributeInput ? 'visible' : 'hidden' }}
+          className="flex flex-row w-[50%]"
+        >
+          <SliderBar
+            min={attributeInput ? getSliderInfo(attributeInput).min : 0}
+            max={attributeInput ? getSliderInfo(attributeInput).max : 1}
+            value={sliderInput}
+            setValue={setSliderInput}
           />
-          {attributeInput && (
-            <SliderBar
-              min={getSliderInfo(attributeInput).min}
-              max={getSliderInfo(attributeInput).max}
-              value={sliderInput}
-              setValue={setSliderInput}
-            />
-          )}
-        </>
-      )}
-    </div>
+        </div>
+      </div>
+    </>
   );
 };
 

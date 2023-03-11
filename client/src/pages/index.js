@@ -45,7 +45,10 @@ export default function Home() {
   };
 
   return (
-    <div>
+    <div className="flex flex-col items-center">
+      <h1 className="text-green-500 text-4xl mt-5 tracking-wider font-semibold">
+        Greenhouse Global Status
+      </h1>
       <QueryInput
         entityInput={entityInput}
         setEntityInput={setEntityInput}
