@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true
+  reactStrictMode: true,
+  env: {
+    APP_IP: process.env.APP_IP,
+    APP_PORT: process.env.APP_PORT
+  }
 };
 
 module.exports = nextConfig;
