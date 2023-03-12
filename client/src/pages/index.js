@@ -41,7 +41,7 @@ export default function Home() {
       sliderInput
     );
     const { data } = await axios.get(url).catch((err) => {
-      alert(err);
+      alert('Invalid query, please ensure all query parameters are valid');
     });
     setAxiosData(data);
   };
