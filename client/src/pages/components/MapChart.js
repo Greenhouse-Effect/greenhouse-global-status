@@ -8,8 +8,8 @@ import {
   Sphere,
   Graticule
 } from 'react-simple-maps';
-import { getSliderInfo } from '../utils/queryInputUtil.js';
-import { attributeQuery, tooltipInfo } from '../utils/mapUtil.js';
+import { getSliderInfo } from '../../utils/queryInputUtil.js';
+import { attributeQuery, tooltipInfo } from '../../utils/mapUtil.js';
 
 const geoUrl =
   'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json';

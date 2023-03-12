@@ -11,7 +11,7 @@ import {
   translateEntityToApi,
   translateAttributeToApi,
   translateOperatorToApi
-} from './utils/apiUtil.js';
+} from '../utils/apiUtil.js';
 
 export default function Home() {
   // query input states

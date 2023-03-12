@@ -8,7 +8,7 @@ import {
   entities,
   operatorTypes,
   getSliderInfo
-} from '../utils/queryInputUtil.js';
+} from '../../utils/queryInputUtil.js';
 
 // conditionally render input boxes based on the type of query a user wants to see data for
 const QueryBoxes = ({
