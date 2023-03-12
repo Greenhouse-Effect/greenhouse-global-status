@@ -40,7 +40,9 @@ export default function Home() {
       translatedOperator,
       sliderInput
     );
-    const { data } = await axios.get(url);
+    const { data } = await axios.get(url).catch((err) => {
+      alert(err);
+    });
     setAxiosData(data);
   };
 
