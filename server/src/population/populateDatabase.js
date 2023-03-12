@@ -2,6 +2,8 @@ import axios from 'axios';
 import path from 'path';
 import fs from 'fs';
 import { fileURLToPath } from 'url';
+import dotenv from 'dotenv';
+dotenv.config();
 
 const filename = fileURLToPath(import.meta.url);
 const dirName = path.dirname(filename);
@@ -16,7 +18,7 @@ export const populateCountryData = async () => {
     promises.push(
       await axios
         .post(
-          'http://35.92.119.149:8080/country',
+          `http://${process.env.APP_IP}:${process.env.APP_PORT}/country`,
           {
             name: row.countryName,
             population: row.population,
@@ -49,7 +51,7 @@ export const populateAtmosphericData = async () => {
     promises.push(
       await axios
         .post(
-          `http://35.92.119.149:8080/atmosphericData/${row.Area}/${row.Year}`,
+          `http://${process.env.APP_IP}:${process.env.APP_PORT}/atmosphericData/${row.Area}/${row.Year}`,
           {
             emissions: row.Emission,
             tempChange: row.TempChange,
@@ -81,7 +83,7 @@ export const populateLandData = async () => {
     promises.push(
       await axios
         .post(
-          `http://35.92.119.149:8080/landData/${row.Country}/2021`,
+          `http://${process.env.APP_IP}:${process.env.APP_PORT}/landData/${row.Country}/2021`,
           {
             landArea: row.Land,
             waterWithdrawal: row.Water,
@@ -111,7 +113,7 @@ export const populateSocietalData = async () => {
     promises.push(
       await axios
         .post(
-          `http://35.92.119.149:8080/societalData/${row.Country}/2021`,
+          `http://${process.env.APP_IP}:${process.env.APP_PORT}/societalData/${row.Country}/2021`,
           {
             hdi: row.HDI,
             gni: row.GNI,
@@ -145,7 +147,7 @@ export const populateEnergyData = async () => {
     promises.push(
       await axios
         .post(
-          `http://35.92.119.149:8080/energyData/${row.Area}/${row.Year}`,
+          `http://${process.env.APP_IP}:${process.env.APP_PORT}/energyData/${row.Area}/${row.Year}`,
           {
             naturalGas: row.NaturalGas,
             fuelOil: row.FuelOil,
@@ -178,7 +180,7 @@ export const populateDisasterData = async () => {
     promises.push(
       await axios
         .post(
-          `http://35.92.119.149:8080/disasterData/${row.Country}/${row.Year}`,
+          `http://${process.env.APP_IP}:${process.env.APP_PORT}/disasterData/${row.Country}/${row.Year}`,
           {
             deaths: row.Deaths,
             homelessness: row.Homelessness,
@@ -211,7 +213,7 @@ export const populateDiseaseData = async () => {
     promises.push(
       await axios
         .post(
-          `http://35.92.119.149:8080/diseaseData/${row.Country}/${row.Year}`,
+          `http://${process.env.APP_IP}:${process.env.APP_PORT}/diseaseData/${row.Country}/${row.Year}`,
           {
             rabies: row.Rabies,
             malaria: row.Malaria,
@@ -244,7 +246,7 @@ export const populateFoodData = async () => {
     promises.push(
       await axios
         .post(
-          `http://35.92.119.149:8080/foodData/${row.Area}/${row.Year}`,
+          `http://${process.env.APP_IP}:${process.env.APP_PORT}/foodData/${row.Area}/${row.Year}`,
           {
             rice: row.Rice,
             corn: row.Corn,
