@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: true,
   env: {
-    SERVER: process.env.SERVER
+    NEXT_PUBLIC_SERVER: process.env.NEXT_PUBLIC_SERVER
   }
 };
