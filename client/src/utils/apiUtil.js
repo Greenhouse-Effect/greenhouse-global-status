@@ -111,8 +111,8 @@ export const handleAxios = async (
   slider
 ) => {
   if (entity === 'country') {
-    return `http://${process.env.APP_IP}:${process.env.APP_PORT}/${entity}/${attribute}/${operator}/${slider}`;
+    return `${process.env.SERVER}/${entity}/${attribute}/${operator}/${slider}`;
   } else {
-    return `http://${process.env.APP_IP}:${process.env.APP_PORT}/${entity}/year/${year}/${attribute}/${operator}/${slider}`;
+    return `${process.env.SERVER}/${entity}/year/${year}/${attribute}/${operator}/${slider}`;
   }
 };
