@@ -43,12 +43,12 @@ export const attributeQuery = (current, attribute) => {
       return current.economicDamages;
     }
     case 'Rabies Incidence': {
-      return current.rabies;
+      return current.rabiesIncidence;
     }
     case 'Malaria Incidence': {
-      return current.malaria;
+      return current.malariaIncidence;
     }
-    case 'General Country Infection (any)': {
+    case 'Country Infection Percentage (any disease)': {
       return current.countryInfection;
     }
     case 'Rice Production': {

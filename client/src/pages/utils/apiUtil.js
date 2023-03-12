@@ -77,7 +77,7 @@ export const translateAttributeToApi = (attribute) => {
     case 'Malaria Incidence': {
       return 'malaria';
     }
-    case 'General Country Infection (any)': {
+    case 'Country Infection Percentage (any disease)': {
       return 'infection';
     }
     case 'Rice Production': {

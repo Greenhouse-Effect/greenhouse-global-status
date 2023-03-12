@@ -30,7 +30,7 @@ export const getEntityAttributes = (entity) => {
       return [
         { label: 'Rabies Incidence' },
         { label: 'Malaria Incidence' },
-        { label: 'General Country Infection (any)' }
+        { label: 'Country Infection Percentage (any disease)' }
       ];
     }
     case 'Food Data': {
@@ -141,7 +141,7 @@ export const getSliderInfo = (attribute) => {
         max: 744.16
       };
     }
-    case 'General Country Infection (any)': {
+    case 'Country Infection Percentage (any disease)': {
       return {
         min: 2.25,
         max: 83.29
