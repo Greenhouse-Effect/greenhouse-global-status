@@ -1,4 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { scaleLinear } from 'd3-scale';
+
 import {
   ComposableMap,
   Geographies,
@@ -6,6 +8,8 @@ import {
   Sphere,
   Graticule
 } from 'react-simple-maps';
+import { getSliderInfo } from '../utils/queryInputUtil.js';
+import { attributeQuery, tooltipInfo } from '../utils/mapUtil.js';
 
 const geoUrl =
   'https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json';
@@ -16,25 +20,29 @@ const projConfig = {
 };
 
 const mapStyle = {
+  // need outline: "none" for all 3, otherwise we get a weird box around countries
   default: {
-    fill: '#D6D6DA',
+    // default fill overrides geography fill, will not allow different colors
     outline: 'none'
   },
   hover: {
     fill: '#F53',
-    outline: 'none'
+    outline: '#fff'
   },
   pressed: {
-    // always leave pressed in even if we make it the same as hover, otherwise it creates weird box around countries when pressed by default
-    fill: '#E42',
+    fill: '#F53',
     outline: 'none'
   }
 };
 
-const MapChart = ({ setToolTipContent }) => {
-  const onMouseEnter = (geo) => {
+let colorScale = scaleLinear().domain([0, 1]).range(['#B1D2B5', '#426A5A']);
+
+const MapChart = ({ setToolTipContent, axiosData, attribute }) => {
+  const onMouseEnter = (geo, current) => {
     return () => {
-      setToolTipContent(`${geo.properties.name}`);
+      setToolTipContent(
+        `${geo.properties.name}` + `${tooltipInfo(current, attribute)}`
+      );
     };
   };
 
@@ -42,26 +50,46 @@ const MapChart = ({ setToolTipContent }) => {
     setToolTipContent('');
   };
 
+  useEffect(() => {
+    if (attribute) {
+      colorScale = scaleLinear()
+        .domain([getSliderInfo(attribute).min, getSliderInfo(attribute).max])
+        .range(['#B1D2B5', '#426A5A']);
+    }
+  }, [attribute]);
+
+  // sphere: only sets oval outline around map, does not change shape
+  // graticule: latitude and longitude lines
   return (
-    <div>
-      <ComposableMap projectionConfig={projConfig}>
-        {/* only sets oval outline around map, does not change shape */}
-        <Sphere stroke="#E4E5E6" strokeWidth={0.5} />{' '}
-        {/* latitude and longitude lines */}
-        <Graticule stroke="#E4E5E6" strokeWidth={0.5} />{' '}
+    <div className="flex w-[75%]">
+      <ComposableMap projectionConfig={projConfig} width={600} height={300}>
+        <Sphere stroke="#E4E5E6" strokeWidth={0.5} fill={'#809BCE'} />
+        <Graticule stroke="#E4E5E6" strokeWidth={0.5} />
         <Geographies geography={geoUrl} data-tooltip-id="my-tooltip">
           {({ geographies }) =>
-            geographies.map((geo) => (
-              <Geography
-                key={geo.rsmKey}
-                geography={geo}
-                onMouseEnter={onMouseEnter(geo)}
-                onMouseLeave={onMouseLeave}
-                style={mapStyle}
-                stroke={'#FFFFFF'} // border color
-                strokeWidth={0.15} // border width (leave very low)
-              />
-            ))
+            geographies.map((geo) => {
+              const current = axiosData.find(
+                (s) => s.countryName == geo.properties.name
+              );
+              return (
+                <Geography
+                  key={geo.rsmKey}
+                  geography={geo}
+                  onMouseEnter={onMouseEnter(geo, current)}
+                  onMouseLeave={onMouseLeave}
+                  style={mapStyle}
+                  stroke={'#FFFFFF'} // border color
+                  strokeWidth={0.15} // border width (leave very low)
+                  fill={
+                    geo.properties.name === 'Antarctica'
+                      ? '#FFFFFF'
+                      : current
+                      ? colorScale(attributeQuery(current, attribute))
+                      : '#D4D4D4'
+                  } // if current (data for country) is not null, find color on scale, otherwise default gray
+                />
+              );
+            })
           }
         </Geographies>
       </ComposableMap>

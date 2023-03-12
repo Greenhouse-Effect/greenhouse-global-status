@@ -179,8 +179,6 @@ export const entities = [
   { label: 'Food Data' }
 ];
 
-export const queryTypes = [{ label: 'Select One' }, { label: 'Compare' }];
-
 export const operatorTypes = [
   { label: 'Greater than' },
   { label: 'Less than' }

@@ -7,93 +7,70 @@ import {
   getYears,
   entities,
   operatorTypes,
-  queryTypes,
   getSliderInfo
 } from '../utils/queryInputUtil.js';
-import { countries } from '@/labels/countrylist';
 
 // conditionally render input boxes based on the type of query a user wants to see data for
 const QueryBoxes = ({
   entityInput,
   setEntityInput,
-  queryTypeInput,
-  setQueryTypeInput,
   attributeInput,
   setAttributeInput,
   operatorInput,
   setOperatorInput,
-  countryName,
-  setCountryName,
   year,
   setYear,
   sliderInput,
   setSliderInput
 }) => {
   return (
-    <div className="flex flex-row m-2">
-      <InputBox
-        title={'Entity'}
-        data={entities}
-        value={entityInput}
-        setValue={setEntityInput}
-      />
-      <InputBox
-        title={'Query Type'}
-        data={queryTypes}
-        value={queryTypeInput}
-        setValue={setQueryTypeInput}
-      />
-      {queryTypeInput === 'Select One' && entityInput && (
-        <>
+    <>
+      <div className="flex flex-col mt-10  items-center">
+        <div className="flex flex-row">
           <InputBox
-            title={'Country Name'}
-            data={countries}
-            value={countryName}
-            setValue={setCountryName}
+            title={'Entity'}
+            data={entities}
+            value={entityInput}
+            setValue={setEntityInput}
           />
-          {entityInput != 'Country' && (
-            <InputBox
-              title={'Year'}
-              data={getYears(entityInput)}
-              value={year}
-              setValue={setYear}
-            />
+          {entityInput && (
+            <>
+              <InputBox
+                title={'Attribute'}
+                data={getEntityAttributes(entityInput)}
+                value={attributeInput}
+                setValue={setAttributeInput}
+              />
+              {entityInput != 'Country' && (
+                <InputBox
+                  title={'Year'}
+                  data={getYears(entityInput)}
+                  value={year}
+                  setValue={setYear}
+                />
+              )}
+              <InputBox
+                title={'Operator'}
+                data={operatorTypes}
+                value={operatorInput}
+                setValue={setOperatorInput}
+              />
+            </>
           )}
-        </>
-      )}
-      {queryTypeInput === 'Compare' && entityInput && (
-        <>
-          <InputBox
-            title={'Attribute'}
-            data={getEntityAttributes(entityInput)}
-            value={attributeInput}
-            setValue={setAttributeInput}
+        </div>
+        <div
+          style={{ visibility: attributeInput ? 'visible' : 'hidden' }}
+          className="flex flex-row w-[50%]"
+        >
+          <SliderBar
+            min={attributeInput ? getSliderInfo(attributeInput).min : 0}
+            max={attributeInput ? getSliderInfo(attributeInput).max : 1}
+            value={sliderInput}
+            setValue={setSliderInput}
           />
-          {entityInput != 'Country' && (
-            <InputBox
-              title={'Year'}
-              data={getYears(entityInput)}
-              value={year}
-              setValue={setYear}
-            />
-          )}
-          <InputBox
-            title={'Operator'}
-            data={operatorTypes}
-            value={operatorInput}
-            setValue={setOperatorInput}
-          />
-          {attributeInput && (
-            <SliderBar
-              min={getSliderInfo(attributeInput).min}
-              max={getSliderInfo(attributeInput).max}
-              value={sliderInput}
-              setValue={setSliderInput}
-            />
-          )}
-        </>
-      )}
-    </div>
+        </div>
+      </div>
+    </>
   );
 };
 

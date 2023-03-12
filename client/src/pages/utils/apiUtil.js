@@ -91,6 +91,7 @@ export const translateAttributeToApi = (attribute) => {
     }
   }
 };
+
 export const translateOperatorToApi = (operator) => {
   switch (operator) {
     case 'Greater than': {
@@ -104,27 +105,14 @@ export const translateOperatorToApi = (operator) => {
 
 export const handleAxios = async (
   entity,
-  queryType,
-  countryName,
   year,
   attribute,
   operator,
   slider
 ) => {
-  switch (queryType) {
-    case 'Select One': {
-      if (entity === 'country') {
-        return `http://35.92.119.149:8080/${entity}/name/${countryName}`;
-      } else {
-        return `http://35.92.119.149:8080/${entity}/name/${countryName}/year/${year}`;
-      }
-    }
-    case 'Compare': {
-      if (entity === 'country') {
-        return `http://35.92.119.149:8080/${entity}/${attribute}/${operator}/${slider}`;
-      } else {
-        return `http://35.92.119.149:8080/${entity}/year/${year}/${attribute}/${operator}/${slider}`;
-      }
-    }
+  if (entity === 'country') {
+    return `http://35.92.119.149:8080/${entity}/${attribute}/${operator}/${slider}`;
+  } else {
+    return `http://35.92.119.149:8080/${entity}/year/${year}/${attribute}/${operator}/${slider}`;
   }
 };
