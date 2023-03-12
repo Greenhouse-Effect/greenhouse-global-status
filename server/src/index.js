@@ -2,13 +2,6 @@ import dotenv from 'dotenv';
 dotenv.config();
 import cors from 'cors';
 import express from 'express';
-import https from 'https';
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-const filename = fileURLToPath(import.meta.url);
-const dirName = path.dirname(filename);
 
 import countryRoute from './routes/countryRoute.js';
 import atmosphericData from './routes/atmosphericDataRoute.js';
@@ -49,16 +42,8 @@ app.use((err, req, res, next) => {
   res.status(500).send('Something broke in the Server!');
 });
 
-const sslServer = https.createServer(
-  {
-    key: fs.readFileSync(path.resolve(dirName, '../cert/key.pem')),
-    cert: fs.readFileSync(path.resolve(dirName, '../cert/cert.pem')),
-  },
-  app
-);
-
-sslServer.listen(process.env.APP_PORT, () => {
-  console.log(`running on port ${process.env.APP_PORT}`);
+app.listen(8080, () => {
+  console.log(`running on port 8080`);
 });
 
 await populateCountryData();
