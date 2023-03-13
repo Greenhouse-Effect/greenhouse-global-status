@@ -21,7 +21,13 @@ const QueryBoxes = ({
   year,
   setYear,
   sliderInput,
-  setSliderInput
+  setSliderInput,
+  entityInputComp,
+  setEntityInputComp,
+  attributeInputComp,
+  setAttributeInputComp,
+  yearComp,
+  setYearComp
 }) => {
   return (
     <>
@@ -50,7 +56,7 @@ const QueryBoxes = ({
                 />
               )}
               <InputBox
-                title={'Operator'}
+                title={'Operator (optional)'}
                 data={operatorTypes}
                 value={operatorInput}
                 setValue={setOperatorInput}
@@ -59,15 +65,47 @@ const QueryBoxes = ({
           )}
         </div>
         <div
-          style={{ visibility: attributeInput ? 'visible' : 'hidden' }}
-          className="flex flex-row w-[50%]"
+          style={{ visibility: entityInput && attributeInput && operatorInput && operatorInput != 'None' ? 'visible' : 'hidden' }}
+          className={ operatorInput != 'Compare With' ? "flex flex-row w-[50%]" : "flex flex-row items-center" }
         >
-          <SliderBar
-            min={attributeInput ? getSliderInfo(attributeInput).min : 0}
-            max={attributeInput ? getSliderInfo(attributeInput).max : 1}
-            value={sliderInput}
-            setValue={setSliderInput}
-          />
+          {
+            operatorInput == 'Compare With'
+            ?
+            <div className="flex flex-row">
+              <InputBox
+                title={'Entity'}
+                data={entities}
+                value={entityInputComp}
+                setValue={setEntityInputComp}
+              />
+              {entityInputComp && (
+                <>
+                  <InputBox
+                    title={'Attribute'}
+                    data={getEntityAttributes(entityInputComp)}
+                    value={attributeInputComp}
+                    setValue={setAttributeInputComp}
+                  />
+                  {entityInputComp != 'Country' && (
+                    <InputBox
+                      title={'Year'}
+                      data={getYears(entityInputComp)}
+                      value={yearComp}
+                      setValue={setYearComp}
+                    />
+                  )}
+                </>
+              )}
+            </div>
+            :
+            <SliderBar
+              min={attributeInput ? getSliderInfo(attributeInput).min : 0}
+              max={attributeInput ? getSliderInfo(attributeInput).max : 1}
+              value={sliderInput}
+              setValue={setSliderInput}
+            />
+          }
+          
         </div>
       </div>
     </>

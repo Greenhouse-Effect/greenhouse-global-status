@@ -4,9 +4,10 @@ import Autocomplete from '@mui/material/Autocomplete';
 
 const InputBox = ({ title, data, value, setValue }) => {
   return (
-    <Autocomplete
+      <Autocomplete
       className="p-2"
       inputValue={value}
+      defaultValue={title == 'Operator (optional)' ? 'None' : ''} // default operator to None, leave others blank as values carry over when entity is cleared
       onInputChange={(event, newInputValue) => {
         setValue(newInputValue);
       }}

@@ -20,7 +20,10 @@ export default function Home() {
   const [operatorInput, setOperatorInput] = useState('');
   const [year, setYear] = useState(''); // setting state to type string because of input labels
   const [sliderInput, setSliderInput] = useState(0);
-
+  // create comparison query input states
+  const [entityInputComp, setEntityInputComp] = useState('');
+  const [attributeInputComp, setAttributeInputComp] = useState('');
+  const [yearComp, setYearComp] = useState('');
   // api data state
   const [axiosData, setAxiosData] = useState([]);
 
@@ -62,6 +65,12 @@ export default function Home() {
         setYear={setYear}
         sliderInput={sliderInput}
         setSliderInput={setSliderInput}
+        entityInputComp={entityInputComp}
+        setEntityInputComp={setEntityInputComp}
+        attributeInputComp={attributeInputComp}
+        setAttributeInputComp={setAttributeInputComp}
+        yearComp={yearComp}
+        setYearComp={setYearComp}
       />
       <Button variant="outlined" onClick={handleSubmit}>
         Submit Query
