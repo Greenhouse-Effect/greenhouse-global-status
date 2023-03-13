@@ -94,11 +94,11 @@ export const translateAttributeToApi = (attribute) => {
 
 export const translateOperatorToApi = (operator) => {
   switch (operator) {
-    case 'Greater than': {
-      return 'g';
-    }
     case 'Less than': {
       return 'l';
+    }
+    default : { // use default so that Greater than, None, and Compare With all use g (autocomplete prevents random values not in dataset)
+      return 'g';
     }
   }
 };

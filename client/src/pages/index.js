@@ -12,6 +12,7 @@ import {
   translateAttributeToApi,
   translateOperatorToApi
 } from '../utils/apiUtil.js';
+import { getSliderInfo } from '../utils/queryInputUtil.js';
 
 export default function Home() {
   // query input states
@@ -41,7 +42,7 @@ export default function Home() {
       translatedYear,
       translatedAttribute,
       translatedOperator,
-      sliderInput
+      operatorInput == 'Compare With' || operatorInput == 'None' ? getSliderInfo(attributeInput).min : sliderInput
     );
     const { data } = await axios.get(url).catch((err) => {
       alert('Invalid query, please ensure all query parameters are valid');
