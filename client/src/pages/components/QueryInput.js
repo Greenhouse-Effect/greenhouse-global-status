@@ -63,6 +63,13 @@ const QueryBoxes = ({
               />
             </>
           )}
+          {!entityInput && (
+            <>
+              {setAttributeInput('')}
+              {setYear('')}
+              {console.log('hello')}
+            </>
+          )}
         </div>
         <div
           style={{ visibility: entityInput && attributeInput && operatorInput && operatorInput != 'None' ? 'visible' : 'hidden' }}
@@ -73,7 +80,7 @@ const QueryBoxes = ({
             ?
             <div className="flex flex-row">
               <InputBox
-                title={'Entity'}
+                title={'Comparing Entity'}
                 data={entities}
                 value={entityInputComp}
                 setValue={setEntityInputComp}
@@ -81,14 +88,14 @@ const QueryBoxes = ({
               {entityInputComp && (
                 <>
                   <InputBox
-                    title={'Attribute'}
+                    title={'Comparing Attribute'}
                     data={getEntityAttributes(entityInputComp)}
                     value={attributeInputComp}
                     setValue={setAttributeInputComp}
                   />
                   {entityInputComp != 'Country' && (
                     <InputBox
-                      title={'Year'}
+                      title={'Comparing Year'}
                       data={getYears(entityInputComp)}
                       value={yearComp}
                       setValue={setYearComp}
