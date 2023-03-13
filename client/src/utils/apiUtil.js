@@ -111,8 +111,8 @@ export const handleAxios = async (
   slider
 ) => {
   if (entity === 'country') {
-    return `http://35.92.119.149:8080/${entity}/${attribute}/${operator}/${slider}`;
+    return `http://35.92.51.76:8080/${entity}/${attribute}/${operator}/${slider}`;
   } else {
-    return `http://35.92.119.149:8080/${entity}/year/${year}/${attribute}/${operator}/${slider}`;
+    return `http://35.92.51.76:8080/${entity}/year/${year}/${attribute}/${operator}/${slider}`;
   }
 };
