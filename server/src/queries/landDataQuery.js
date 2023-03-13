@@ -1,6 +1,6 @@
 import { db } from '../database.js';
 
-// gets the entire table
+// posts data into db
 export const insertLandData = async (name, year, landArea, waterWithdrawal) => {
   await db.query(
     `
