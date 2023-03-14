@@ -77,7 +77,7 @@ const MapChart = ({ setToolTipContent, axiosData, attribute, axiosDataComp, attr
     // check if there is one query or two
     // from validTables: current exists, and unless there is no comp query: currentComp exists and compAttributeQuery != 0
     if ( current && currentComp )
-      value = Number(attributeQuery( current, attribute ) / attributeQuery( currentComp, attributeComp ));
+      value = Number(attributeQuery( current, attribute )) / Number(attributeQuery( currentComp, attributeComp ));
     else
       value = Number(attributeQuery( current, attribute ));
     // check if value exceeds min or max

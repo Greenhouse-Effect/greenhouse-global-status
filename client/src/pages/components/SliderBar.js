@@ -1,6 +1,8 @@
 import React from 'react';
 import Slider from '@mui/material/Slider';
 
+import { numberWithCommas } from './../../utils/mapUtil.js';
+
 const SliderBar = ({ min, max, value, setValue }) => {
   return (
     <Slider
@@ -14,6 +16,7 @@ const SliderBar = ({ min, max, value, setValue }) => {
         setValue(newSliderValue);
       }}
       track={false}
+      valueLabelFormat={numberWithCommas(value)}
     />
   );
 };

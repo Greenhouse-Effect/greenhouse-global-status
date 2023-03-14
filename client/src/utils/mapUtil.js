@@ -63,7 +63,7 @@ export const attributeQuery = (current, attribute) => {
   }
 };
 
-const numberWithCommas = (num) => {
+export const numberWithCommas = (num) => {
   if (num === undefined) return;
   return typeof num === 'string'
     ? num.replace(/\B(?=(\d{3})+(?!\d))/g, ',')
