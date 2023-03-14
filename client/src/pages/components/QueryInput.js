@@ -66,8 +66,7 @@ const QueryBoxes = ({
           {!entityInput && (
             <>
               {setAttributeInput('')}
-              {setYear('')}
-              {console.log('hello')}
+              {setAttributeInputComp('')}
             </>
           )}
         </div>

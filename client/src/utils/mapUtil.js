@@ -71,7 +71,7 @@ export const numberWithCommas = (num) => {
 };
 
 export const tooltipInfo = (current, attribute) => {
-  return current
+  return current && attribute
     ? ` | ${attribute}: ${numberWithCommas(attributeQuery(current, attribute))}`
     : ``;
 };
