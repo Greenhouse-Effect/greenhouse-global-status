@@ -1890,7 +1890,7 @@
     "Wheat": 288847
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -1899,7 +1899,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -1908,7 +1908,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -1917,7 +1917,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -1926,7 +1926,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -1935,7 +1935,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -1944,7 +1944,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -1953,7 +1953,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -1962,7 +1962,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -1971,7 +1971,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -1980,7 +1980,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -1989,7 +1989,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -1998,7 +1998,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -2007,7 +2007,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -2016,7 +2016,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -2025,7 +2025,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -2034,7 +2034,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -2043,7 +2043,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -2052,7 +2052,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -2061,7 +2061,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -2070,7 +2070,7 @@
     "Wheat": null
   },
   {
-    "Area": "Bahamas",
+    "Area": "The Bahamas",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -3780,7 +3780,7 @@
     "Wheat": 2351
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -3789,7 +3789,7 @@
     "Wheat": 19322
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -3798,7 +3798,7 @@
     "Wheat": 20274
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -3807,7 +3807,7 @@
     "Wheat": 21246
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -3816,7 +3816,7 @@
     "Wheat": 19215
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -3825,7 +3825,7 @@
     "Wheat": 19407
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -3834,7 +3834,7 @@
     "Wheat": 22017
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -3843,7 +3843,7 @@
     "Wheat": 24017
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -3852,7 +3852,7 @@
     "Wheat": 29008
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -3861,7 +3861,7 @@
     "Wheat": 50844
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -3870,7 +3870,7 @@
     "Wheat": 46459
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -3879,7 +3879,7 @@
     "Wheat": 72011
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -3888,7 +3888,7 @@
     "Wheat": 55391
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -3897,7 +3897,7 @@
     "Wheat": 44287
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -3906,7 +3906,7 @@
     "Wheat": 64548
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -3915,7 +3915,7 @@
     "Wheat": 69383
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -3924,7 +3924,7 @@
     "Wheat": 104781
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -3933,7 +3933,7 @@
     "Wheat": 93427
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -3942,7 +3942,7 @@
     "Wheat": 62426
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -3951,7 +3951,7 @@
     "Wheat": 105159
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -3960,7 +3960,7 @@
     "Wheat": 88643
   },
   {
-    "Area": "Bolivia (Plurinational State of)",
+    "Area": "Bolivia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -4536,7 +4536,7 @@
     "Wheat": 1314656
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -4545,7 +4545,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -4554,7 +4554,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -4563,7 +4563,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -4572,7 +4572,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -4581,7 +4581,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -4590,7 +4590,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -4599,7 +4599,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -4608,7 +4608,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -4617,7 +4617,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -4626,7 +4626,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -4635,7 +4635,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -4644,7 +4644,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -4653,7 +4653,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -4662,7 +4662,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -4671,7 +4671,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -4680,7 +4680,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -4689,7 +4689,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -4698,7 +4698,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -4707,7 +4707,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -4716,7 +4716,7 @@
     "Wheat": null
   },
   {
-    "Area": "Brunei Darussalam",
+    "Area": "Brunei",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -7371,7 +7371,7 @@
     "Wheat": 49073619
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -7380,7 +7380,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -7389,7 +7389,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -7398,7 +7398,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -7407,7 +7407,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -7416,7 +7416,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -7425,7 +7425,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -7434,7 +7434,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -7443,7 +7443,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -7452,7 +7452,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -7461,7 +7461,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -7470,7 +7470,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -7479,7 +7479,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -7488,7 +7488,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -7497,7 +7497,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -7506,7 +7506,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -7515,7 +7515,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -7524,7 +7524,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -7533,7 +7533,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -7542,7 +7542,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -7551,7 +7551,7 @@
     "Wheat": null
   },
   {
-    "Area": "China, Taiwan Province of",
+    "Area": "Taiwan",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -9072,7 +9072,7 @@
     "Wheat": null
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -9081,7 +9081,7 @@
     "Wheat": 2347
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -9090,7 +9090,7 @@
     "Wheat": 2369
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -9099,7 +9099,7 @@
     "Wheat": 3234
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -9108,7 +9108,7 @@
     "Wheat": 4031
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -9117,7 +9117,7 @@
     "Wheat": 2162
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -9126,7 +9126,7 @@
     "Wheat": 1934
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -9135,7 +9135,7 @@
     "Wheat": 1655
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -9144,7 +9144,7 @@
     "Wheat": 2766
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -9153,7 +9153,7 @@
     "Wheat": 1629
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -9162,7 +9162,7 @@
     "Wheat": 7592
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -9171,7 +9171,7 @@
     "Wheat": 4328
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -9180,7 +9180,7 @@
     "Wheat": 8778
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -9189,7 +9189,7 @@
     "Wheat": 7481
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -9198,7 +9198,7 @@
     "Wheat": 4918
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -9207,7 +9207,7 @@
     "Wheat": 1522
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -9216,7 +9216,7 @@
     "Wheat": 9724
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -9225,7 +9225,7 @@
     "Wheat": 2382
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -9234,7 +9234,7 @@
     "Wheat": 4086
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -9243,7 +9243,7 @@
     "Wheat": 4712
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -9252,7 +9252,7 @@
     "Wheat": 7568
   },
   {
-    "Area": "Cyprus",
+    "Area": "Northern Cyprus",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -9639,7 +9639,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -9648,7 +9648,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -9657,7 +9657,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -9666,7 +9666,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -9675,7 +9675,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -9684,7 +9684,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -9693,7 +9693,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -9702,7 +9702,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -9711,7 +9711,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -9720,7 +9720,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -9729,7 +9729,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -9738,7 +9738,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -9747,7 +9747,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -9756,7 +9756,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -9765,7 +9765,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -9774,7 +9774,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -9783,7 +9783,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -9792,7 +9792,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -9801,7 +9801,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -9810,7 +9810,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -9819,7 +9819,7 @@
     "Wheat": null
   },
   {
-    "Area": "Democratic People's Republic of Korea",
+    "Area": "North Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -13230,7 +13230,7 @@
     "Wheat": 6042206
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -13239,7 +13239,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -13248,7 +13248,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -13257,7 +13257,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -13266,7 +13266,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -13275,7 +13275,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -13284,7 +13284,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -13293,7 +13293,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -13302,7 +13302,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -13311,7 +13311,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -13320,7 +13320,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -13329,7 +13329,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -13338,7 +13338,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -13347,7 +13347,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -13356,7 +13356,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -13365,7 +13365,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -13374,7 +13374,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -13383,7 +13383,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -13392,7 +13392,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -13401,7 +13401,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -13410,7 +13410,7 @@
     "Wheat": null
   },
   {
-    "Area": "French Guyana",
+    "Area": "French Guiana",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -17010,7 +17010,7 @@
     "Wheat": null
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -17019,7 +17019,7 @@
     "Wheat": 1235390
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -17028,7 +17028,7 @@
     "Wheat": 1609227
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -17037,7 +17037,7 @@
     "Wheat": 2319871
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -17046,7 +17046,7 @@
     "Wheat": 2458815
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -17055,7 +17055,7 @@
     "Wheat": 2865837
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -17064,7 +17064,7 @@
     "Wheat": 2979436
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -17073,7 +17073,7 @@
     "Wheat": 3306199
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -17082,7 +17082,7 @@
     "Wheat": 3490666
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -17091,7 +17091,7 @@
     "Wheat": 2172262
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -17100,7 +17100,7 @@
     "Wheat": 3743563
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -17109,7 +17109,7 @@
     "Wheat": 3776684
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -17118,7 +17118,7 @@
     "Wheat": 2789245
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -17127,7 +17127,7 @@
     "Wheat": 3158347
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -17136,7 +17136,7 @@
     "Wheat": 3844742
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -17145,7 +17145,7 @@
     "Wheat": 4271865
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -17154,7 +17154,7 @@
     "Wheat": 4581087
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -17163,7 +17163,7 @@
     "Wheat": 5863639
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -17172,7 +17172,7 @@
     "Wheat": 4931428
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -17181,7 +17181,7 @@
     "Wheat": 4155623
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -17190,7 +17190,7 @@
     "Wheat": 6376981
   },
   {
-    "Area": "Iran (Islamic Republic of)",
+    "Area": "Iran",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -19467,7 +19467,7 @@
     "Wheat": 106908
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -19476,7 +19476,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -19485,7 +19485,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -19494,7 +19494,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -19503,7 +19503,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -19512,7 +19512,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -19521,7 +19521,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -19530,7 +19530,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -19539,7 +19539,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -19548,7 +19548,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -19557,7 +19557,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -19566,7 +19566,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -19575,7 +19575,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -19584,7 +19584,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -19593,7 +19593,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -19602,7 +19602,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -19611,7 +19611,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -19620,7 +19620,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -19629,7 +19629,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -19638,7 +19638,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -19647,7 +19647,7 @@
     "Wheat": null
   },
   {
-    "Area": "Lao People's Democratic Republic",
+    "Area": "Laos",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -28728,7 +28728,7 @@
     "Wheat": 1
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -28737,7 +28737,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -28746,7 +28746,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -28755,7 +28755,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -28764,7 +28764,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -28773,7 +28773,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -28782,7 +28782,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -28791,7 +28791,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -28800,7 +28800,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -28809,7 +28809,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -28818,7 +28818,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -28827,7 +28827,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -28836,7 +28836,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -28845,7 +28845,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -28854,7 +28854,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -28863,7 +28863,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -28872,7 +28872,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -28881,7 +28881,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -28890,7 +28890,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -28899,7 +28899,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -28908,7 +28908,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Korea",
+    "Area": "South Korea",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -28917,7 +28917,7 @@
     "Wheat": null
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -28926,7 +28926,7 @@
     "Wheat": 60808
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -28935,7 +28935,7 @@
     "Wheat": 80794
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -28944,7 +28944,7 @@
     "Wheat": 54943
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -28953,7 +28953,7 @@
     "Wheat": 46099
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -28962,7 +28962,7 @@
     "Wheat": 79750
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -28971,7 +28971,7 @@
     "Wheat": 80596
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -28980,7 +28980,7 @@
     "Wheat": 56709
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -28989,7 +28989,7 @@
     "Wheat": 72157
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -28998,7 +28998,7 @@
     "Wheat": 181215
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -29007,7 +29007,7 @@
     "Wheat": 63722
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -29016,7 +29016,7 @@
     "Wheat": 96259
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -29025,7 +29025,7 @@
     "Wheat": 134533
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -29034,7 +29034,7 @@
     "Wheat": 100711
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -29043,7 +29043,7 @@
     "Wheat": 147850
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -29052,7 +29052,7 @@
     "Wheat": 155885
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -29061,7 +29061,7 @@
     "Wheat": 119093
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -29070,7 +29070,7 @@
     "Wheat": 141078
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -29079,7 +29079,7 @@
     "Wheat": 153743
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -29088,7 +29088,7 @@
     "Wheat": 173496
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -29097,7 +29097,7 @@
     "Wheat": 163828
   },
   {
-    "Area": "Republic of Moldova",
+    "Area": "Moldova",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -29484,7 +29484,7 @@
     "Wheat": 1257325
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -29493,7 +29493,7 @@
     "Wheat": 2669413
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -29502,7 +29502,7 @@
     "Wheat": 3612311
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -29511,7 +29511,7 @@
     "Wheat": 2827545
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -29520,7 +29520,7 @@
     "Wheat": 2689662
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -29529,7 +29529,7 @@
     "Wheat": 5112010
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -29538,7 +29538,7 @@
     "Wheat": 4222031
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -29547,7 +29547,7 @@
     "Wheat": 5055947
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -29556,7 +29556,7 @@
     "Wheat": 8979750
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -29565,7 +29565,7 @@
     "Wheat": 13092778
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -29574,7 +29574,7 @@
     "Wheat": 8285997
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -29583,7 +29583,7 @@
     "Wheat": 5285509
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -29592,7 +29592,7 @@
     "Wheat": 9777107
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -29601,7 +29601,7 @@
     "Wheat": 7838740
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -29610,7 +29610,7 @@
     "Wheat": 10986858
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -29619,7 +29619,7 @@
     "Wheat": 10655730
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -29628,7 +29628,7 @@
     "Wheat": 8890028
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -29637,7 +29637,7 @@
     "Wheat": 9665902
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -29646,7 +29646,7 @@
     "Wheat": 10766754
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -29655,7 +29655,7 @@
     "Wheat": 9826786
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -29664,7 +29664,7 @@
     "Wheat": 11821546
   },
   {
-    "Area": "Russian Federation",
+    "Area": "Russia",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -34587,7 +34587,7 @@
     "Wheat": 256207
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -34596,7 +34596,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -34605,7 +34605,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -34614,7 +34614,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -34623,7 +34623,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -34632,7 +34632,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -34641,7 +34641,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -34650,7 +34650,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -34659,7 +34659,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -34668,7 +34668,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -34677,7 +34677,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -34686,7 +34686,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -34695,7 +34695,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -34704,7 +34704,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -34713,7 +34713,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -34722,7 +34722,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -34731,7 +34731,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -34740,7 +34740,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -34749,7 +34749,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -34758,7 +34758,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -34767,7 +34767,7 @@
     "Wheat": null
   },
   {
-    "Area": "Syrian Arab Republic",
+    "Area": "Syria",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -35154,7 +35154,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -35163,7 +35163,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -35172,7 +35172,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -35181,7 +35181,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -35190,7 +35190,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -35199,7 +35199,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -35208,7 +35208,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -35217,7 +35217,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -35226,7 +35226,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -35235,7 +35235,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -35244,7 +35244,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -35253,7 +35253,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -35262,7 +35262,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -35271,7 +35271,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -35280,7 +35280,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -35289,7 +35289,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -35298,7 +35298,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -35307,7 +35307,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -35316,7 +35316,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -35325,7 +35325,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -35334,7 +35334,7 @@
     "Wheat": null
   },
   {
-    "Area": "Timor-Leste",
+    "Area": "East Timor",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -36288,7 +36288,7 @@
     "Wheat": 265283
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -36297,7 +36297,7 @@
     "Wheat": 3350528
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -36306,7 +36306,7 @@
     "Wheat": 2410749
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -36315,7 +36315,7 @@
     "Wheat": 3204679
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -36324,7 +36324,7 @@
     "Wheat": 4225826
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -36333,7 +36333,7 @@
     "Wheat": 5334928
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -36342,7 +36342,7 @@
     "Wheat": 5760643
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -36351,7 +36351,7 @@
     "Wheat": 4972734
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -36360,7 +36360,7 @@
     "Wheat": 5555515
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -36369,7 +36369,7 @@
     "Wheat": 7801400
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -36378,7 +36378,7 @@
     "Wheat": 6764774
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -36387,7 +36387,7 @@
     "Wheat": 6913654
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -36396,7 +36396,7 @@
     "Wheat": 7653297
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -36405,7 +36405,7 @@
     "Wheat": 6753197
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -36414,7 +36414,7 @@
     "Wheat": 7677658
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -36423,7 +36423,7 @@
     "Wheat": 6416504
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -36432,7 +36432,7 @@
     "Wheat": 6447865
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -36441,7 +36441,7 @@
     "Wheat": 5474644
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -36450,7 +36450,7 @@
     "Wheat": 5206299
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -36459,7 +36459,7 @@
     "Wheat": 3992527
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -36468,7 +36468,7 @@
     "Wheat": 4068387
   },
   {
-    "Area": "Türkiye",
+    "Area": "Turkey",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -37422,7 +37422,7 @@
     "Wheat": null
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -37431,7 +37431,7 @@
     "Wheat": 1895543
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -37440,7 +37440,7 @@
     "Wheat": 1350207
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -37449,7 +37449,7 @@
     "Wheat": 1675778
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -37458,7 +37458,7 @@
     "Wheat": 1958654
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -37467,7 +37467,7 @@
     "Wheat": 2436247
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -37476,7 +37476,7 @@
     "Wheat": 1972725
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -37485,7 +37485,7 @@
     "Wheat": 2199030
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -37494,7 +37494,7 @@
     "Wheat": 3412285
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -37503,7 +37503,7 @@
     "Wheat": 4813441
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -37512,7 +37512,7 @@
     "Wheat": 2543650
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -37521,7 +37521,7 @@
     "Wheat": 3034416
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -37530,7 +37530,7 @@
     "Wheat": 4473716
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -37539,7 +37539,7 @@
     "Wheat": 4043243
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -37548,7 +37548,7 @@
     "Wheat": 3466254
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -37557,7 +37557,7 @@
     "Wheat": 4262856
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -37566,7 +37566,7 @@
     "Wheat": 3115441
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -37575,7 +37575,7 @@
     "Wheat": 2330489
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -37584,7 +37584,7 @@
     "Wheat": 2742672
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -37593,7 +37593,7 @@
     "Wheat": 2941967
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -37602,7 +37602,7 @@
     "Wheat": 3230136
   },
   {
-    "Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Area": "United Kingdom",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -38745,7 +38745,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -38754,7 +38754,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -38763,7 +38763,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -38772,7 +38772,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -38781,7 +38781,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -38790,7 +38790,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -38799,7 +38799,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -38808,7 +38808,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -38817,7 +38817,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -38826,7 +38826,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -38835,7 +38835,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -38844,7 +38844,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -38853,7 +38853,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -38862,7 +38862,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -38871,7 +38871,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -38880,7 +38880,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -38889,7 +38889,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -38898,7 +38898,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -38907,7 +38907,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -38916,7 +38916,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -38925,7 +38925,7 @@
     "Wheat": null
   },
   {
-    "Area": "Venezuela (Bolivarian Republic of)",
+    "Area": "Venezuela",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
@@ -38934,7 +38934,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2000,
@@ -38943,7 +38943,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2001,
@@ -38952,7 +38952,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2002,
@@ -38961,7 +38961,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2003,
@@ -38970,7 +38970,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2004,
@@ -38979,7 +38979,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2005,
@@ -38988,7 +38988,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2006,
@@ -38997,7 +38997,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2007,
@@ -39006,7 +39006,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2008,
@@ -39015,7 +39015,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2009,
@@ -39024,7 +39024,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2010,
@@ -39033,7 +39033,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2011,
@@ -39042,7 +39042,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2012,
@@ -39051,7 +39051,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2013,
@@ -39060,7 +39060,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2014,
@@ -39069,7 +39069,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2015,
@@ -39078,7 +39078,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2016,
@@ -39087,7 +39087,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2017,
@@ -39096,7 +39096,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2018,
@@ -39105,7 +39105,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2019,
@@ -39114,7 +39114,7 @@
     "Wheat": null
   },
   {
-    "Area": "Viet Nam",
+    "Area": "Vietnam",
     "Element": "Gross Production Value (current thousand US$)",
     "Item": "Rice",
     "Year": 2020,
