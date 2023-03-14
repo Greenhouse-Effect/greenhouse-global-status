@@ -27,27 +27,51 @@ export default function Home() {
   const [yearComp, setYearComp] = useState('');
   // api data state
   const [axiosData, setAxiosData] = useState([]);
+  const [axiosDataComp, setAxiosDataComp] = useState([]);
 
   // map tooltip state
   const [content, setContent] = useState('');
 
   // takes values from input boxes and hits api accordingly
   const handleSubmit = async () => {
-    const translatedEntity = translateEntityToApi(entityInput);
-    const translatedYear = Number(year);
-    const translatedAttribute = translateAttributeToApi(attributeInput);
-    const translatedOperator = translateOperatorToApi(operatorInput);
-    const url = await handleAxios(
-      translatedEntity,
-      translatedYear,
-      translatedAttribute,
-      translatedOperator,
-      operatorInput == 'Compare With' || operatorInput == 'None' ? getSliderInfo(attributeInput).min : sliderInput
-    );
-    const { data } = await axios.get(url).catch((err) => {
-      alert('Invalid query, please ensure all query parameters are valid');
-    });
-    setAxiosData(data);
+    // for some reason return value of await axios.get must be named data or it will not work, if statement is workaround to limit scope so that both axios calls can be set to const { data }
+    if (entityInput)
+    {
+      const translatedEntity = translateEntityToApi(entityInput);
+      const translatedYear = Number(year);
+      const translatedAttribute = translateAttributeToApi(attributeInput);
+      const translatedOperator = translateOperatorToApi(operatorInput);
+      console.log(translatedAttribute + " " + translatedYear + " " + translatedAttribute);
+      const url = await handleAxios(
+        translatedEntity,
+        translatedYear,
+        translatedAttribute,
+        translatedOperator,
+        operatorInput == 'Compare With' || operatorInput == 'None' ? getSliderInfo(attributeInput).min : sliderInput
+      );
+      const { data } = await axios.get(url).catch((err) => {
+        alert('Invalid query, please ensure all query parameters are valid');
+      });
+      setAxiosData(data);
+    }
+    if (operatorInput == 'Compare With') // only if user is comparing, otherwise use default empty array from useState([]) when created
+    {
+      const translatedEntityComp = translateEntityToApi(entityInputComp);
+      const translatedYearComp = Number(yearComp);
+      const translatedAttributeComp = translateAttributeToApi(attributeInputComp);
+      console.log(translatedEntityComp + " " + translatedYearComp + " " + translatedAttributeComp);
+      const urlComp = await handleAxios(
+        translatedEntityComp,
+        translatedYearComp,
+        translatedAttributeComp,
+        'g', // use default g
+        getSliderInfo(attributeInputComp).min
+      );
+      const { data } = await axios.get(urlComp).catch((err) => {
+        alert('Invalid query, please ensure all query parameters are valid');
+      });
+    setAxiosDataComp(data);
+    }
   };
 
   return (
@@ -80,6 +104,8 @@ export default function Home() {
         setToolTipContent={setContent}
         axiosData={axiosData}
         attribute={attributeInput}
+        axiosDataComp={axiosDataComp}
+        attributeComp={attributeInputComp}
       />
       <ReactToolTip id="my-tooltip" float={true}>
         {content}

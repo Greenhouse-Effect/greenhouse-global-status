@@ -37,11 +37,11 @@ const mapStyle = {
 
 let colorScale = scaleLinear().domain([0, 1]).range(['#B1D2B5', '#426A5A']);
 
-const MapChart = ({ setToolTipContent, axiosData, attribute }) => {
-  const onMouseEnter = (geo, current) => {
+const MapChart = ({ setToolTipContent, axiosData, attribute, axiosDataComp, attributeComp }) => {
+  const onMouseEnter = (geo, current, currentComp) => {
     return () => {
       setToolTipContent(
-        `${geo.properties.name}` + `${tooltipInfo(current, attribute)}`
+        `${geo.properties.name}` + `${tooltipInfo(current, attribute)}` + `${tooltipInfo(currentComp, attributeComp)}`
       );
     };
   };
@@ -71,11 +71,14 @@ const MapChart = ({ setToolTipContent, axiosData, attribute }) => {
               const current = axiosData.find(
                 (s) => s.countryName == geo.properties.name
               );
+              const currentComp = axiosDataComp.find(
+                (s) => s.countryName == geo.properties.name
+              );
               return (
                 <Geography
                   key={geo.rsmKey}
                   geography={geo}
-                  onMouseEnter={onMouseEnter(geo, current)}
+                  onMouseEnter={onMouseEnter(geo, current, currentComp)}
                   onMouseLeave={onMouseLeave}
                   style={mapStyle}
                   stroke={'#FFFFFF'} // border color
