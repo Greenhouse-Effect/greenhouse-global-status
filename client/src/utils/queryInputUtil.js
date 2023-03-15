@@ -1,43 +1,49 @@
 export const getEntityAttributes = (entity) => {
   switch (entity) {
     case 'Country': {
-      return [{ label: 'Population' }, { label: 'Population Yearly Change' }];
+      return [
+        { label: 'Population' },
+        { label: 'Population Yearly Change (%)' }
+      ];
     }
     case 'Atmopsheric Data': {
-      return [{ label: 'CO2 Emissions' }, { label: 'Temperature Change' }];
+      return [
+        { label: 'CO2 Emissions (t)' },
+        { label: 'Temperature Change (%)' }
+      ];
     }
     case 'Land Data': {
-      return [{ label: 'Land Area' }, { label: 'Water Withdrawal' }];
+      return [{ label: 'Land Area (Km^2)' }, { label: 'Water Withdrawal (L)' }];
     }
     case 'Societal Data': {
       return [{ label: 'GNI' }, { label: 'HDI' }];
     }
     case 'Energy Data': {
       return [
-        { label: 'CO2 Emissions from Natural Gas' },
-        { label: 'CO2 Emissions from Fuel Oil' },
-        { label: 'CO2 Emissions from Coal' }
+        { label: 'CO2 Emissions from Natural Gas (kT)' },
+        { label: 'CO2 Emissions from Fuel Oil (kT)' },
+        { label: 'CO2 Emissions from Coal (kT)' }
       ];
     }
     case 'Disaster Data': {
       return [
         { label: 'Deaths' },
         { label: 'Homelessness' },
-        { label: 'Economic Damages' }
+        { label: 'Economic Damages (million $USD)' }
       ];
     }
     case 'Disease Data': {
       return [
         { label: 'Rabies Incidence' },
-        { label: 'Malaria Incidence' },
-        { label: 'Country Infection Percentage (any disease)' }
+        { label: 'Malaria Incidence (Per 1,000 Population)' },
+        { label: 'Country Infection Percentage (%)' }
       ];
     }
     case 'Food Data': {
       return [
-        { label: 'Rice Production' },
-        { label: 'Corn Production' },
-        { label: 'Wheat Production' }
+        { label: 'Rice (Gross Production Value 1,000 USD)' },
+        { label: 'Corn Production (Gross Production Value 1,000 USD)' },
+        { label: 'Wheat Production (Gross Production Value 1,000 USD)' }
       ];
     }
   }
@@ -51,31 +57,31 @@ export const getSliderInfo = (attribute) => {
         max: 1439323776
       };
     }
-    case 'Population Yearly Change': {
+    case 'Population Yearly Change (%)': {
       return {
         min: -2.47,
         max: 3.84
       };
     }
-    case 'CO2 Emissions': {
+    case 'CO2 Emissions (t)': {
       return {
         min: 3.55,
         max: 10064000
       };
     }
-    case 'Temperature Change': {
+    case 'Temperature Change (%)': {
       return {
         min: -0.78,
         max: 5.327
       };
     }
-    case 'Land Area': {
+    case 'Land Area (Km^2)': {
       return {
         min: 0,
         max: 16376870
       };
     }
-    case 'Water Withdrawal': {
+    case 'Water Withdrawal (L)': {
       return {
         min: 34,
         max: 16281
@@ -93,19 +99,19 @@ export const getSliderInfo = (attribute) => {
         max: 0.962
       };
     }
-    case 'CO2 Emissions from Natural Gas': {
+    case 'CO2 Emissions from Natural Gas (kT)': {
       return {
         min: 0.0003,
         max: 8205.6909
       };
     }
-    case 'CO2 Emissions from Fuel Oil': {
+    case 'CO2 Emissions from Fuel Oil (kT)': {
       return {
         min: 0.0053,
         max: 8511.5851
       };
     }
-    case 'CO2 Emissions from Coal': {
+    case 'CO2 Emissions from Coal (kT)': {
       return {
         min: 0,
         max: 69167.0407
@@ -123,7 +129,7 @@ export const getSliderInfo = (attribute) => {
         max: 2452754
       };
     }
-    case 'Economic Damages': {
+    case 'Economic Damages (million $USD)': {
       return {
         min: 0,
         max: 364095168000
@@ -135,31 +141,31 @@ export const getSliderInfo = (attribute) => {
         max: 23015
       };
     }
-    case 'Malaria Incidence': {
+    case 'Malaria Incidence (Per 1,000 Population)': {
       return {
         min: 0,
         max: 744.16
       };
     }
-    case 'Country Infection Percentage (any disease)': {
+    case 'Country Infection Percentage (%)': {
       return {
         min: 2.25,
         max: 83.29
       };
     }
-    case 'Rice Production': {
+    case 'Rice (Gross Production Value 1,000 USD)': {
       return {
         min: 1,
         max: 118183806
       };
     }
-    case 'Corn Production': {
+    case 'Corn (Gross Production Value 1,000 USD)': {
       return {
         min: 3,
         max: 114592494
       };
     }
-    case 'Wheat Production': {
+    case 'Wheat (Gross Production Value 1,000 USD)': {
       return {
         min: 0,
         max: 53422005

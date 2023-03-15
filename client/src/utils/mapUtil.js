@@ -3,19 +3,19 @@ export const attributeQuery = (current, attribute) => {
     case 'Population': {
       return current.population;
     }
-    case 'Population Yearly Change': {
+    case 'Population Yearly Change (%)': {
       return current.populationYearlyChange;
     }
-    case 'CO2 Emissions': {
+    case 'CO2 Emissions (t)': {
       return current.emissions;
     }
-    case 'Temperature Change': {
+    case 'Temperature Change (%)': {
       return current.tempChange;
     }
-    case 'Land Area': {
+    case 'Land Area (Km^2)': {
       return current.landArea;
     }
-    case 'Water Withdrawal': {
+    case 'Water Withdrawal (L)': {
       return current.waterWithdrawal;
     }
     case 'GNI': {
@@ -24,13 +24,13 @@ export const attributeQuery = (current, attribute) => {
     case 'HDI': {
       return current.hdi;
     }
-    case 'CO2 Emissions from Natural Gas': {
+    case 'CO2 Emissions from Natural Gas (kT)': {
       return current.naturalGasEmissions;
     }
-    case 'CO2 Emissions from Fuel Oil': {
+    case 'CO2 Emissions from Fuel Oil (kT)': {
       return current.fuelOilEmissions;
     }
-    case 'CO2 Emissions from Coal': {
+    case 'CO2 Emissions from Coal (kT)': {
       return current.coalEmissions;
     }
     case 'Deaths': {
@@ -39,25 +39,25 @@ export const attributeQuery = (current, attribute) => {
     case 'Homelessness': {
       return current.homelessness;
     }
-    case 'Economic Damages': {
+    case 'Economic Damages (million $USD)': {
       return current.economicDamages;
     }
     case 'Rabies Incidence': {
       return current.rabiesIncidence;
     }
-    case 'Malaria Incidence': {
+    case 'Malaria Incidence (Per 1,000 Population)': {
       return current.malariaIncidence;
     }
-    case 'Country Infection Percentage (any disease)': {
+    case 'Country Infection Percentage (%)': {
       return current.countryInfection;
     }
-    case 'Rice Production': {
+    case 'Rice (Gross Production Value 1,000 USD)': {
       return current.riceProduction;
     }
-    case 'Corn Production': {
+    case 'Corn (Gross Production Value 1,000 USD)': {
       return current.cornProduction;
     }
-    case 'Wheat Production': {
+    case 'Wheat (Gross Production Value 1,000 USD)': {
       return current.wheatProduction;
     }
   }

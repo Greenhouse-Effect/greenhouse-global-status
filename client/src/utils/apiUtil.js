@@ -32,19 +32,19 @@ export const translateAttributeToApi = (attribute) => {
     case 'Population': {
       return 'population';
     }
-    case 'Population Yearly Change': {
+    case 'Population Yearly Change (%)': {
       return 'populationYearlyChange';
     }
-    case 'CO2 Emissions': {
+    case 'CO2 Emissions (t)': {
       return 'emissions';
     }
-    case 'Temperature Change': {
+    case 'Temperature Change (%)': {
       return 'tempChange';
     }
-    case 'Land Area': {
+    case 'Land Area (Km^2)': {
       return 'landArea';
     }
-    case 'Water Withdrawal': {
+    case 'Water Withdrawal (L)': {
       return 'waterWithdrawal';
     }
     case 'GNI': {
@@ -53,13 +53,13 @@ export const translateAttributeToApi = (attribute) => {
     case 'HDI': {
       return 'hdi';
     }
-    case 'CO2 Emissions from Natural Gas': {
+    case 'CO2 Emissions from Natural Gas (kT)': {
       return 'naturalGas';
     }
-    case 'CO2 Emissions from Fuel Oil': {
+    case 'CO2 Emissions from Fuel Oil (kT)': {
       return 'fuelOil';
     }
-    case 'CO2 Emissions from Coal': {
+    case 'CO2 Emissions from Coal (kT)': {
       return 'coal';
     }
     case 'Deaths': {
@@ -68,25 +68,25 @@ export const translateAttributeToApi = (attribute) => {
     case 'Homelessness': {
       return 'homelessness';
     }
-    case 'Economic Damages': {
+    case 'Economic Damages (million $USD)': {
       return 'economicDamages';
     }
     case 'Rabies Incidence': {
       return 'rabies';
     }
-    case 'Malaria Incidence': {
+    case 'Malaria Incidence (Per 1,000 Population)': {
       return 'malaria';
     }
-    case 'Country Infection Percentage (any disease)': {
+    case 'Country Infection Percentage (%)': {
       return 'infection';
     }
-    case 'Rice Production': {
+    case 'Rice (Gross Production Value 1,000 USD)': {
       return 'rice';
     }
-    case 'Corn Production': {
+    case 'Corn (Gross Production Value 1,000 USD)': {
       return 'corn';
     }
-    case 'Wheat Production': {
+    case 'Wheat (Gross Production Value 1,000 USD)': {
       return 'wheat';
     }
   }
