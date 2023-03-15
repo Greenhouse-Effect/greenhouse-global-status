@@ -95,7 +95,7 @@
     "GNI": 42274
   },
   {
-    "Country": "Korea",
+    "Country": "South Korea",
     "HDI": 0.925,
     "GNI": 44501
   },
@@ -140,7 +140,7 @@
     "GNI": 45937
   },
   {
-    "Country": "Cyprus",
+    "Country": "Northern Cyprus",
     "HDI": 0.896,
     "GNI": 38188
   },
@@ -235,7 +235,7 @@
     "GNI": 20925
   },
   {
-    "Country": "Türkiye",
+    "Country": "Turkey",
     "HDI": 0.838,
     "GNI": 31033
   },
@@ -250,12 +250,12 @@
     "GNI": 52920
   },
   {
-    "Country": "Brunei Darussalam",
+    "Country": "Brunei",
     "HDI": 0.829,
     "GNI": 64490
   },
   {
-    "Country": "Russian Federation",
+    "Country": "Russia",
     "HDI": 0.822,
     "GNI": 27166
   },
@@ -270,7 +270,7 @@
     "GNI": 27054
   },
   {
-    "Country": "Bahamas",
+    "Country": "The Bahamas",
     "HDI": 0.812,
     "GNI": 30486
   },
@@ -570,7 +570,7 @@
     "GNI": 11466
   },
   {
-    "Country": "Viet Nam",
+    "Country": "Vietnam",
     "HDI": 0.703,
     "GNI": 7867
   },
@@ -695,12 +695,12 @@
     "GNI": 8634
   },
   {
-    "Country": "Lao People's Democratic Republic",
+    "Country": "Laos",
     "HDI": 0.607,
     "GNI": 7700
   },
   {
-    "Country": "Timor-Leste",
+    "Country": "East Timor",
     "HDI": 0.607,
     "GNI": 4461
   },
@@ -745,7 +745,7 @@
     "GNI": 3851
   },
   {
-    "Country": "Syrian Arab Republic",
+    "Country": "Syria",
     "HDI": 0.577,
     "GNI": 4192
   },
