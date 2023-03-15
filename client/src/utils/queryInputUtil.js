@@ -186,8 +186,10 @@ export const entities = [
 ];
 
 export const operatorTypes = [
+  { label: 'None' },
   { label: 'Greater than' },
-  { label: 'Less than' }
+  { label: 'Less than' },
+  { label: 'Compare With' }
 ];
 
 export const getYears = (entity) => {
