@@ -63,7 +63,7 @@ export const attributeQuery = (current, attribute) => {
   }
 };
 
-const numberWithCommas = (num) => {
+export const numberWithCommas = (num) => {
   if (num === undefined) return;
   return typeof num === 'string'
     ? num.replace(/\B(?=(\d{3})+(?!\d))/g, ',')
@@ -71,7 +71,6 @@ const numberWithCommas = (num) => {
 };
 
 export const tooltipInfo = (current, attribute) => {
-  return current
-    ? ` | ${attribute}: ${numberWithCommas(attributeQuery(current, attribute))}`
-    : ``;
+  return !(current && attribute) ?
+    `` : ` | ${attribute}: ${numberWithCommas(attribute == 'Economic Damages' ? attributeQuery(current, attribute) / 1000 : attributeQuery(current, attribute))}`;
 };
