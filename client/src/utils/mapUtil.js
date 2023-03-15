@@ -51,13 +51,13 @@ export const attributeQuery = (current, attribute) => {
     case 'Country Infection Percentage (%)': {
       return current.countryInfection;
     }
-    case 'Rice (Gross Production Value 1,000 USD)': {
+    case 'Rice Production (Gross Production Value 1,000 USD)': {
       return current.riceProduction;
     }
-    case 'Corn (Gross Production Value 1,000 USD)': {
+    case 'Corn Production (Gross Production Value 1,000 USD)': {
       return current.cornProduction;
     }
-    case 'Wheat (Gross Production Value 1,000 USD)': {
+    case 'Wheat Production (Gross Production Value 1,000 USD)': {
       return current.wheatProduction;
     }
   }
@@ -71,6 +71,11 @@ export const numberWithCommas = (num) => {
 };
 
 export const tooltipInfo = (current, attribute) => {
-  return !(current && attribute) ?
-    `` : ` | ${attribute}: ${numberWithCommas(attribute == 'Economic Damages' ? attributeQuery(current, attribute) / 1000 : attributeQuery(current, attribute))}`;
+  return !(current && attribute)
+    ? ``
+    : ` | ${attribute}: ${numberWithCommas(
+        attribute == 'Economic Damages'
+          ? attributeQuery(current, attribute) / 1000
+          : attributeQuery(current, attribute)
+      )}`;
 };

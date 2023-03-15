@@ -80,13 +80,13 @@ export const translateAttributeToApi = (attribute) => {
     case 'Country Infection Percentage (%)': {
       return 'infection';
     }
-    case 'Rice (Gross Production Value 1,000 USD)': {
+    case 'Rice Production (Gross Production Value 1,000 USD)': {
       return 'rice';
     }
-    case 'Corn (Gross Production Value 1,000 USD)': {
+    case 'Corn Production (Gross Production Value 1,000 USD)': {
       return 'corn';
     }
-    case 'Wheat (Gross Production Value 1,000 USD)': {
+    case 'Wheat Production (Gross Production Value 1,000 USD)': {
       return 'wheat';
     }
   }
@@ -97,7 +97,8 @@ export const translateOperatorToApi = (operator) => {
     case 'Less than': {
       return 'l';
     }
-    default : { // use default so that Greater than, None, and Compare With all use g (autocomplete prevents random values not in dataset)
+    default: {
+      // use default so that Greater than, None, and Compare With all use g (autocomplete prevents random values not in dataset)
       return 'g';
     }
   }

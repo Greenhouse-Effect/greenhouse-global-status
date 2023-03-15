@@ -41,7 +41,7 @@ export const getEntityAttributes = (entity) => {
     }
     case 'Food Data': {
       return [
-        { label: 'Rice (Gross Production Value 1,000 USD)' },
+        { label: 'Rice Production (Gross Production Value 1,000 USD)' },
         { label: 'Corn Production (Gross Production Value 1,000 USD)' },
         { label: 'Wheat Production (Gross Production Value 1,000 USD)' }
       ];
@@ -153,19 +153,19 @@ export const getSliderInfo = (attribute) => {
         max: 83.29
       };
     }
-    case 'Rice (Gross Production Value 1,000 USD)': {
+    case 'Rice Production (Gross Production Value 1,000 USD)': {
       return {
         min: 1,
         max: 118183806
       };
     }
-    case 'Corn (Gross Production Value 1,000 USD)': {
+    case 'Corn Production (Gross Production Value 1,000 USD)': {
       return {
         min: 3,
         max: 114592494
       };
     }
-    case 'Wheat (Gross Production Value 1,000 USD)': {
+    case 'Wheat Production (Gross Production Value 1,000 USD)': {
       return {
         min: 0,
         max: 53422005
