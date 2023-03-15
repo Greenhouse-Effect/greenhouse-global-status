@@ -29,10 +29,8 @@ CREATE TABLE ATMOSPHERICDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   emissions INT, 
-  emissionsUnit VARCHAR(255),
   tempChange DECIMAL(4, 3), 
-  tempUnit VARCHAR(1), 
-  CONSTRAINT AD_Key PRIMARY KEY(countryName, year, emissions, tempChange),
+  CONSTRAINT AD_Key PRIMARY KEY(countryName, year),
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
@@ -43,7 +41,7 @@ CREATE TABLE LANDDATA
   year INT NOT NULL, 
   landArea INT, 
   waterWithdrawal INT, 
-  CONSTRAINT LD_Key PRIMARY KEY(countryName, year, landArea, waterWithdrawal),
+  CONSTRAINT LD_Key PRIMARY KEY(countryName, year),
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
@@ -54,7 +52,7 @@ CREATE TABLE SOCIETALDATA
   year INT NOT NULL, 
   hdi DECIMAL(4,3), 
   gni INT, 
-  CONSTRAINT SD_Key PRIMARY KEY(countryName, year, hdi, gni),
+  CONSTRAINT SD_Key PRIMARY KEY(countryName, year),
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
@@ -66,7 +64,7 @@ CREATE TABLE ENERGYDATA
   naturalGasEmissions DECIMAL(8,3), 
   fuelOilEmissions DECIMAL(8,3), 
   coalEmissions DECIMAL(8,3), 
-  CONSTRAINT SD_Key PRIMARY KEY(countryName, year, naturalGasEmissions, fuelOilEmissions, coalEmissions),
+  CONSTRAINT SD_Key PRIMARY KEY(countryName, year),
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
@@ -78,7 +76,7 @@ CREATE TABLE FOODDATA
   riceProduction INT, 
   cornProduction INT, 
   wheatProduction INT, 
-  CONSTRAINT FD_Key PRIMARY KEY(countryName, year, riceProduction, cornProduction, wheatProduction),
+  CONSTRAINT FD_Key PRIMARY KEY(countryName, year),
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
@@ -90,7 +88,7 @@ CREATE TABLE DISEASEDATA
   rabiesIncidence INT, 
   malariaIncidence INT, 
   countryInfection DECIMAL(4,2), 
-  CONSTRAINT DISEASE_Key PRIMARY KEY(countryName, year, rabiesIncidence, malariaIncidence, countryInfection),
+  CONSTRAINT DISEASE_Key PRIMARY KEY(countryName, year),
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
 
@@ -102,6 +100,6 @@ CREATE TABLE DISASTERDATA
   deaths INT, 
   homelessness INT, 
   economicDamages INT, 
-  CONSTRAINT DISASTER_Key PRIMARY KEY(countryName, year, deaths, homelessness, economicDamages),
+  CONSTRAINT DISASTER_Key PRIMARY KEY(countryName, year),
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
