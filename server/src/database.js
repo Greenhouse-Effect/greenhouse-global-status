@@ -29,7 +29,7 @@ CREATE TABLE ATMOSPHERICDATA
   (countryName VARCHAR(255) NOT NULL, 
   year INT NOT NULL, 
   emissions INT, 
-  tempChange DECIMAL(4, 3), 
+  tempChange DECIMAL(4,3), 
   CONSTRAINT AD_Key PRIMARY KEY(countryName, year),
   FOREIGN KEY (countryName) REFERENCES COUNTRY(countryName))
 `);
