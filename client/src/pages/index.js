@@ -36,7 +36,7 @@ export default function Home() {
   const handleSubmit = async () => {
     // for some reason return value of await axios.get must be named data or it will not work (naming it dataComp crashed the page)
     // if statement is workaround (should always be true) to limit scope so that both axios calls can be set to const { data }
-    if (entityInput)
+    if (entityInput && attributeInput && (year || entityInput == 'Country'))
     {
       const translatedEntity = translateEntityToApi(entityInput);
       const translatedYear = Number(year);
@@ -54,7 +54,7 @@ export default function Home() {
       });
       setAxiosData(data);
     }
-    if (operatorInput == 'Compare With') // only if user is comparing
+    if (entityInputComp && attributeInputComp && (yearComp || entityInputComp == 'Country') && operatorInput == 'Compare With') // only if user is comparing
     {
       const translatedEntityComp = translateEntityToApi(entityInputComp);
       const translatedYearComp = Number(yearComp);

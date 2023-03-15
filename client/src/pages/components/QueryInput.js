@@ -63,12 +63,6 @@ const QueryBoxes = ({
               />
             </>
           )}
-          {!entityInput && (
-            <>
-              {setAttributeInput('')}
-              {setAttributeInputComp('')}
-            </>
-          )}
         </div>
         <div
           style={{ visibility: entityInput && attributeInput && operatorInput && operatorInput != 'None' ? 'visible' : 'hidden' }}
