@@ -13,6 +13,7 @@ import {
   translateOperatorToApi
 } from '../utils/apiUtil.js';
 import { getSliderInfo } from '../utils/queryInputUtil.js';
+import References from './components/References.js';
 
 export default function Home() {
   // query input states
@@ -36,8 +37,7 @@ export default function Home() {
   const handleSubmit = async () => {
     // for some reason return value of await axios.get must be named data or it will not work (naming it dataComp crashed the page)
     // if statement is workaround (should always be true) to limit scope so that both axios calls can be set to const { data }
-    if (entityInput && attributeInput && (year || entityInput == 'Country'))
-    {
+    if (entityInput && attributeInput && (year || entityInput == 'Country')) {
       const translatedEntity = translateEntityToApi(entityInput);
       const translatedYear = Number(year);
       const translatedAttribute = translateAttributeToApi(attributeInput);
@@ -47,18 +47,26 @@ export default function Home() {
         translatedYear,
         translatedAttribute,
         translatedOperator,
-        (operatorInput == 'Compare With' || operatorInput == 'None') ? getSliderInfo(attributeInput).min : sliderInput // slider value may be set and then derendered, so always use min value unless using slider with comparison
+        operatorInput == 'Compare With' || operatorInput == 'None'
+          ? getSliderInfo(attributeInput).min
+          : sliderInput // slider value may be set and then derendered, so always use min value unless using slider with comparison
       );
       const { data } = await axios.get(url).catch((err) => {
         alert('Invalid query, please ensure all query parameters are valid');
       });
       setAxiosData(data);
     }
-    if (entityInputComp && attributeInputComp && (yearComp || entityInputComp == 'Country') && operatorInput == 'Compare With') // only if user is comparing
-    {
+    if (
+      entityInputComp &&
+      attributeInputComp &&
+      (yearComp || entityInputComp == 'Country') &&
+      operatorInput == 'Compare With'
+    ) {
+      // only if user is comparing
       const translatedEntityComp = translateEntityToApi(entityInputComp);
       const translatedYearComp = Number(yearComp);
-      const translatedAttributeComp = translateAttributeToApi(attributeInputComp);
+      const translatedAttributeComp =
+        translateAttributeToApi(attributeInputComp);
       const urlComp = await handleAxios(
         translatedEntityComp,
         translatedYearComp,
@@ -70,14 +78,13 @@ export default function Home() {
         alert('Invalid query, please ensure all query parameters are valid');
       });
       setAxiosDataComp(data);
-    }
-    else // user is not comparing, clear comp data in case they swapped from compare to another operator (axiosDataComp would otherwise be untouched and mapchart would assume compare)
-      setAxiosDataComp([]);
+    } // user is not comparing, clear comp data in case they swapped from compare to another operator (axiosDataComp would otherwise be untouched and mapchart would assume compare)
+    else setAxiosDataComp([]);
   };
 
   return (
     <div className="flex flex-col items-center">
-      <h1 className="text-green-500 text-4xl mt-5 tracking-wider font-semibold">
+      <h1 className="text-[#63bf6e] text-4xl mt-5 tracking-wider font-semibold">
         Greenhouse Global Status
       </h1>
       <QueryInput
@@ -111,6 +118,7 @@ export default function Home() {
       <ReactToolTip id="my-tooltip" float={true}>
         {content}
       </ReactToolTip>
+      <References />
     </div>
   );
 }
