@@ -4,16 +4,14 @@ export const insertAtmosphericData = async (
   name,
   year,
   emissions,
-  emissionsUnit,
-  tempChange,
-  tempUnit
+  tempChange
 ) => {
   await db.query(
     `
-  INSERT INTO ATMOSPHERICDATA (countryName, year, emissions, emissionsUnit, tempChange, tempUnit) 
-  VALUES (?, ?, ?, ?, ?, ?)
+  INSERT INTO ATMOSPHERICDATA (countryName, year, emissions, tempChange) 
+  VALUES (?, ?, ?, ?)
   `,
-    [name, year, emissions, emissionsUnit, tempChange, tempUnit]
+    [name, year, emissions, tempChange]
   );
   return getAtmosphericData(name, year);
 };
@@ -33,7 +31,7 @@ export const getAtmosphericData = async (name, year) => {
 export const getAtmosphericEmissionsG = async (year, emissions) => {
   const [rows] = await db.query(
     `
-    SELECT countryName, emissions, emissionsUnit, year
+    SELECT countryName, emissions, year
     FROM ATMOSPHERICDATA
     WHERE year = ? AND emissions >= ?
     `,
@@ -45,7 +43,7 @@ export const getAtmosphericEmissionsG = async (year, emissions) => {
 export const getAtmosphericEmissionsL = async (year, emissions) => {
   const [rows] = await db.query(
     `
-    SELECT countryName, emissions, emissionsUnit, year
+    SELECT countryName, emissions, year
     FROM ATMOSPHERICDATA
     WHERE year = ? AND emissions <= ?
     `,
@@ -57,7 +55,7 @@ export const getAtmosphericEmissionsL = async (year, emissions) => {
 export const getAtmosphericTempChangeG = async (year, tempChange) => {
   const [rows] = await db.query(
     `
-    SELECT countryName, tempChange, tempUnit, year
+    SELECT countryName, tempChange, year
     FROM ATMOSPHERICDATA
     WHERE year = ? AND tempChange >= ?
     `,
@@ -69,7 +67,7 @@ export const getAtmosphericTempChangeG = async (year, tempChange) => {
 export const getAtmosphericTempChangeL = async (year, tempChange) => {
   const [rows] = await db.query(
     `
-  SELECT countryName, tempChange, tempUnit, year
+  SELECT countryName, tempChange, year
   FROM ATMOSPHERICDATA
   WHERE year = ? AND tempChange <= ?
   `,
